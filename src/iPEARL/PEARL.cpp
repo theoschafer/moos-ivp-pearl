@@ -690,9 +690,8 @@ bool PEARL::HandlePLMOT(string toParse)
 bool PEARL::StaleShoreCheck(string node_msg)
 {
   if (node_msg.length() > 0) {
-    vector<string> parts = parseString(node_msg, ',');
-    string id_msg = parts[7];
-    new_node_ack = stoi(id_msg.erase(0,3));
+    string id_msg = tokStringParse(node_msg, "id", ',', '=');
+    new_node_ack = stoi(id_msg);
     
     //handle startup case
     if (last_node_ack == 0) {
