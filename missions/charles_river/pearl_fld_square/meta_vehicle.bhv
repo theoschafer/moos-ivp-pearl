@@ -25,6 +25,39 @@ Behavior = BHV_StationKeep
 	visual_hints       = vertex_size=0, edge_color=blue
 }
 //-----------------------------------------
+//Behavior = BHV_Waypoint //original square for PID
+{
+  name      = waypt_square
+  pwt       = 100
+  condition = DEPLOY=true
+  condition = RETURN=false
+  condition = STATION_KEEP=false
+  condition = MOOS_MANUAL_OVERRIDE=false
+  endflag   = RETURN=true
+  UPDATES   = WPT_UPDATE
+  
+	lead           = 8
+	lead_damper    = 1
+	speed          = $(SPEED)   //meters per second
+	capture_line   = true
+	capture_radius = 5
+	slip_radius    = 10
+
+	points      = -26,-24 // 0,-40 : 0,-70 : -30,-70 : -30,-40
+	
+
+	repeat         = 1
+	order          = $(ORDER)
+
+	visual_hints = nextpt_color=yellow
+	visual_hints = nextpt_vertex_size=8
+	visual_hints = nextpt_lcolor=gray70
+	visual_hints = vertex_color=dodger_blue, edge_color=white
+	visual_hints = vertex_size=5, edge_size=1
+}
+
+
+//-----------------------------------------
 Behavior = BHV_Waypoint
 {
   name      = waypt_square
@@ -55,6 +88,7 @@ Behavior = BHV_Waypoint
 	visual_hints = vertex_color=dodger_blue, edge_color=white
 	visual_hints = vertex_size=5, edge_size=1
 }
+
 //-----------------------------------------
 Behavior = BHV_Waypoint
 {
