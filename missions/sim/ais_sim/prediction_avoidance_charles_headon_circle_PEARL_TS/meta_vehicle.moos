@@ -8,6 +8,13 @@ Community  = $(VNAME)
 
 #include plug_origin_warp.moos
 
+#ifdef VNAME pearl
+#include plug_pPearlPID.moos
+//#include plug_iDualGPS.moos
+#include plug_iGPS.moos
+#include plug_iPEARL.moos
+#endif
+
 //------------------------------------------------------------
 Processconfig = ANTLER
 {
@@ -21,10 +28,10 @@ Processconfig = ANTLER
   Run = pShare         @ NewConsole = false
   Run = pOdometry	@ NewConsole = false
   Run = pTargetCPA         @ NewConsole = false
-  Run = uSimMarineV22  @ NewConsole = false
+  Run = uSimMarineV22  @ NewConsole = false  //to be kept only for gilda, and only for simulating. If not there, pearl doesn't show up and prediction doesnt work either
   Run = pLogger        @ NewConsole = false
   Run = pNodeReporter  @ NewConsole = false
-  Run = pMarinePID     @ NewConsole = false
+  //Run = pMarinePID     @ NewConsole = false
   Run = pHelmIvP       @ NewConsole = false
   Run = pHostInfo      @ NewConsole = false
   Run = uFldNodeBroker @ NewConsole = false
@@ -33,6 +40,12 @@ Processconfig = ANTLER
   Run = iSay           @ NewConsole = false
   #ifdef VNAME pearl
   Run = IMM_filterpy_Bu_imm.py @ NewConsole = false
+  Run = iGPS         @ NewConsole = false
+  Run = iPEARL      @ NewConsole = false
+  Run = pPearlPID   @ NewConsole = false
+  #else 
+  Run = pMarinePID     @ NewConsole = false
+  
   #endif
   #ifdef VNAME pearl || VNAME brian 
   Run = pContactMgrV20 @ NewConsole = false
