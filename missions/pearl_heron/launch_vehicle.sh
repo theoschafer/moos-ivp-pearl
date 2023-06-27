@@ -23,25 +23,23 @@ VERBOSE="no"
 AUTO_LAUNCHED="no"
 CMD_ARGS=""
 
-IP_ADDR="localhost"
-MOOS_PORT="9001"
-PSHARE_PORT="9201"
-
 SHORE_IP="localhost"
 SHORE_PSHARE="9200"
-VNAME="abe"
-INDEX="1"
-XMODE="SIM"
-
 REGION="pavlab"
+
+IP_ADDR0="localhost"
+MOOS_PORT0="9001"
+PSHARE_PORT0="9201"
+VNAME0="abe"
+INDEX0="1"
+XMODE0="SIM"
 COLOR="coral"
 MEDIATED="yes"
-
-START_POS="0,-10,180"
-SPEED="1.0"
-RETURN_POS="5,0"
-MAXSPD="2"
-VLANE=arlo
+START_POS0="0,-10,180"
+SPEED0="1.0"
+RETURN_POS0="5,0"
+MAXSPD0="2"
+VLANE0=arlo
 
 #--------------------------------------------------------------
 #  Part 3: Check for and handle command-line arguments
@@ -111,35 +109,35 @@ for ARGI; do
 	MEDIATED="no"
 
     elif [ "${ARGI:0:5}" = "--ip=" ]; then
-        IP_ADDR="${ARGI#--ip=*}"
+        IP_ADDR0="${ARGI#--ip=*}"
     elif [ "${ARGI:0:7}" = "--mport" ]; then
-	MOOS_PORT="${ARGI#--mport=*}"
+	MOOS_PORT0="${ARGI#--mport=*}"
     elif [ "${ARGI:0:9}" = "--pshare=" ]; then
-        PSHARE_PORT="${ARGI#--pshare=*}"
+        PSHARE_PORT0="${ARGI#--pshare=*}"
 
     elif [ "${ARGI:0:8}" = "--shore=" ]; then
         SHORE_IP="${ARGI#--shore=*}"
     elif [ "${ARGI:0:15}" = "--shore_pshare=" ]; then
         SHORE_PSHARE="${ARGI#--shore_pshare=*}"
     elif [ "${ARGI:0:8}" = "--vname=" ]; then
-        VNAME="${ARGI#--vname=*}"
+        VNAME0="${ARGI#--vname=*}"
     elif [ "${ARGI:0:8}" = "--color=" ]; then
         COLOR="${ARGI#--color=*}"
     elif [ "${ARGI:0:8}" = "--index=" ]; then
-        INDEX="${ARGI#--index=*}"
+        INDEX0="${ARGI#--index=*}"
 
     elif [ "${ARGI:0:8}" = "--start=" ]; then
-        START_POS="${ARGI#--start=*}"
+        START_POS0="${ARGI#--start=*}"
     elif [ "${ARGI:0:8}" = "--speed=" ]; then
-        SPEED="${ARGI#--speed=*}"
+        SPEED0="${ARGI#--speed=*}"
     elif [ "${ARGI:0:9}" = "--maxspd=" ]; then
-        MAXSPD="${ARGI#--maxspd=*}"
+        MAXSPD0="${ARGI#--maxspd=*}"
 
     elif [ "${ARGI:0:8}" = "--vlane=" ]; then
-        VLANE="${ARGI#--vlane=*}"
+        VLANE0="${ARGI#--vlane=*}"
 
     elif [ "${ARGI}" = "--sim" -o "${ARGI}" = "-s" ]; then
-        XMODE="SIM"
+        XMODE0="SIM"
         echo "Simulation mode ON."
     else
 	echo "$ME: Bad Arg:[$ARGI]. Exit Code 1."
@@ -150,11 +148,11 @@ done
 #--------------------------------------------------------------
 #  Part 3: If Heron hardware, set key info based on IP address
 #--------------------------------------------------------------
-if [ "${XMODE}" = "M300" ]; then
+if [ "${XMODE0}" = "M300" ]; then
     COLOR=`get_heron_info.sh --color --hint=$COLOR`
-    IP_ADDR=`get_heron_info.sh --ip`
+    IP_ADDR0=`get_heron_info.sh --ip`
     FSEAT_IP=`get_heron_info.sh --fseat`
-    VNAME=`get_heron_info.sh --name`
+    VNAME0=`get_heron_info.sh --name`
     if [ $? != 0 ]; then
 	echo "$ME: Problem getting Heron Info. Exit Code 2"
 	exit 2
@@ -174,26 +172,26 @@ if [ "${VERBOSE}" = "yes" ]; then
     echo "AUTO_LAUNCHED = [${AUTO_LAUNCHED}]"
     echo "JUST_MAKE =     [${JUST_MAKE}]    "
     echo "----------------------------------"
-    echo "IP_ADDR =       [${IP_ADDR}]      "
-    echo "MOOS_PORT =     [${MOOS_PORT}]    "
-    echo "PSHARE_PORT =   [${PSHARE_PORT}]  "
+    echo "IP_ADDR =       [${IP_ADDR0}]      "
+    echo "MOOS_PORT =     [${MOOS_PORT0}]    "
+    echo "PSHARE_PORT =   [${PSHARE_PORT0}]  "
     echo "----------------------------------"
     echo "SHORE_IP =      [${SHORE_IP}]     "
     echo "SHORE_PSHARE =  [${SHORE_PSHARE}] "
-    echo "VNAME =         [${VNAME}]        "
+    echo "VNAME =         [${VNAME0}]        "
     echo "COLOR =         [${COLOR}]        "
     echo "----------------------------------"
-    echo "XMODE =         [${XMODE}]        "
+    echo "XMODE =         [${XMODE0}]        "
     echo "FSEAT_IP =      [${FSEAT_IP}]     "
     echo "----------------------------------"
-    echo "START_POS =     [${START_POS}]    "
-    echo "SPEED =         [${SPEED}]        "
-    echo "MAXSPD =        [${MAXSPD}]       "
+    echo "START_POS =     [${START_POS0}]    "
+    echo "SPEED =         [${SPEED0}]        "
+    echo "MAXSPD =        [${MAXSPD0}]       "
     echo "----------------------------------"
     echo "REGION =        [${REGION}]       "
-    echo "VLANE =         [${VLANE}]         "
+    echo "VLANE =         [${VLANE0}]         "
     echo "MEDIATED =      [${MEDIATED}]     "
-    echo -n "Hit any key to continue with launching ${VNAME}"
+    echo -n "Hit any key to continue with launching ${VNAME0}"
     read ANSWER
 fi
 
@@ -216,17 +214,17 @@ if [ "${AUTO}" = "" ]; then
     NSFLAGS="-i -f"
 fi
 
-nsplug meta_vehicle.moos targ_$VNAME.moos $NSFLAGS WARP=$TIME_WARP \
-       PSHARE_PORT=$PSHARE_PORT     VNAME=$VNAME               \
-       IP_ADDR=$IP_ADDR             SHORE_IP=$SHORE_IP         \
-       SHORE_PSHARE=$SHORE_PSHARE   MOOS_PORT=$MOOS_PORT       \
-       FSEAT_IP=$FSEAT_IP           XMODE=$XMODE               \
-       MAXSPD=$MAXSPD               START_POS=$START_POS       \
+nsplug meta_vehicle.moos targ_$VNAME0.moos $NSFLAGS WARP=$TIME_WARP \
+       PSHARE_PORT=$PSHARE_PORT0     VNAME=$VNAME0               \
+       IP_ADDR=$IP_ADDR0            SHORE_IP=$SHORE_IP         \
+       SHORE_PSHARE=$SHORE_PSHARE   MOOS_PORT=$MOOS_PORT0       \
+       FSEAT_IP=$FSEAT_IP           XMODE=$XMODE0               \
+       MAXSPD=$MAXSPD0               START_POS=$START_POS0       \
        COLOR=$COLOR                 REGION=$REGION
 
-nsplug meta_vehicle.bhv targ_$VNAME.bhv $NSFLAGS VNAME=$VNAME  \
-       START_POS=$START_POS         SPEED=$SPEED               \
-       VLANE=$VLANE                 COLOR=$COLOR
+nsplug meta_vehicle.bhv targ_$VNAME0.bhv $NSFLAGS VNAME=$VNAME0  \
+       START_POS=$START_POS0         SPEED=$SPEED0               \
+       VLANE=$VLANE0                 COLOR=$COLOR
 
 if [ ${JUST_MAKE} = "yes" ] ; then
     echo "Files assembled; nothing launched; exiting per request."
@@ -238,9 +236,9 @@ fi
 #  Part 6: Launch the processes
 #--------------------------------------------------------------
 
-echo "$GRN Launching $VNAME MOOS Community. WARP=$TIME_WARP $NC"
-pAntler targ_${VNAME}.moos >& /dev/null &
-echo "$GRN Done Launching $VNAME MOOS Community $NC"
+echo "$GRN Launching $VNAME0 MOOS Community. WARP=$TIME_WARP $NC"
+pAntler targ_${VNAME0}.moos >& /dev/null &
+echo "$GRN Done Launching $VNAME0 MOOS Community $NC"
 
 #---------------------------------------------------------------
 #  Part 7: If launched from script, we're done, exit now
@@ -252,5 +250,5 @@ fi
 #---------------------------------------------------------------
 # Part 8: Launch uMAC until the mission is quit
 #---------------------------------------------------------------
-uMAC targ_$VNAME.moos
+uMAC targ_$VNAME0.moos
 kill -- -$$
