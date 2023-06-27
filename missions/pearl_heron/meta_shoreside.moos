@@ -23,37 +23,12 @@ Processconfig = ANTLER
 
   Run = uProcessWatch   @ NewConsole = false
   Run = uFldNodeComms   @ NewConsole = false
-  //Run = uFldLegRunMgr   @ NewConsole = false
+  
 }
 
 #include plug_pShare.moos
 #include plug_pHostInfo.moos
 #include plug_uProcessWatch.moos
-
-//--------------------------------------------------
-// uFldLegRunMgr Config Block
-
-ProcessConfig = uFldLegRunMgr
-{
-  AppTick   = 2
-  CommsTick = 2
-
-	core_pt = x=10, y=-15
-	
-	leg = id=01, lane=1
-	leg = id=01, full_leg=10:-40:64.64:80
-	leg = id=01, turn1_bias=-100, turn2_bias=100, turn_rad=8
-
-	leg = id=02, lane=2
-	leg = id=02, full_leg=10:-50:64.64:120
-	leg = id=02, turn1_bias=-100, turn2_bias=100, turn_rad=8
-
-	//leg = id=01, p1=10:-40, p2=80:-40, turn_rad=10
-	//leg = id=01, turn1_bias=-100, turn2_bias=100
-
-	//leg = id=02, p1=0:-50,  p2=90:-50, turn_rad=10
-	//leg = id=02, turn1_bias=-100, turn2_bias=100
-	}
 
 //--------------------------------------------------
 // uFldNodeComms Config Block
@@ -129,10 +104,9 @@ ProcessConfig = pMarineViewer
   set_pan_y  = -290
   zoom       = 1.5
 
-  //tiff_file            = forrest19.tif
+  
   tiff_file            = MIT_SP.tif
-  //tiff_file            = mit_sp_osm18.tif
-  //tiff_file            = mit_sp_goo18.tif
+  
   vehicles_shape_scale = 1.5
   vehicles_name_mode   = names
 
