@@ -1,0 +1,25 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./LOG_GILDA_27_6_2023_____16_42_44/LOG_GILDA_27_6_2023_____16_42_44.ylog
+%% FILE OPENED ON  Wed Dec 31 19:00:00 1969
+%% LOGSTART           1687898563.439375
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1.302947   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+1.655187   MOOS_DEBUG           pMarinePID           ** NEW CONTROLLER GAINS ARE ** 
+1.6552     MOOS_DEBUG           pMarinePID           YAW_PID_KP             = 1.200 
+1.655205   MOOS_DEBUG           pMarinePID           YAW_PID_KD             = 0.100 
+1.655209   MOOS_DEBUG           pMarinePID           YAW_PID_KI             = 0.300 
+1.655215   MOOS_DEBUG           pMarinePID           YAW_PID_INTEGRAL_LIMIT = 0.070 
+1.655232   MOOS_DEBUG           pMarinePID           MAXRUDDER              = 100.000 
+1.656646   MOOS_DEBUG           pMarinePID           SPEED_PID_KP           = 1.000 
+1.656656   MOOS_DEBUG           pMarinePID           SPEED_PID_KD           = 0.000 
+1.65666    MOOS_DEBUG           pMarinePID           SPEED_PID_KI           = 0.000 
+1.656666   MOOS_DEBUG           pMarinePID           SPEED_PID_INTEGRAL_LIMIT = 0.070 
+1.656671   MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+1.656671   MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+1.656671   MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+3.761201   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+3.761201   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+3.761201   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+8.16871    MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+8.310822   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
+8.310822   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
