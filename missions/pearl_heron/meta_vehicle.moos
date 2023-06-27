@@ -23,7 +23,7 @@ ProcessConfig = ANTLER
   Run = pNodeReporter      @ NewConsole = false
   Run = pMarinePID         @ NewConsole = false
   Run = pHelmIvP           @ NewConsole = false
-	Run = pContactMgrV20     @ NewConsole = false
+	
   Run = pHostInfo          @ NewConsole = false
   Run = uFldNodeBroker     @ NewConsole = false
   Run = pRealm             @ NewConsole = false
@@ -38,6 +38,7 @@ ProcessConfig = ANTLER
   Run = iGPS         @ NewConsole = false
   Run = iPEARL      @ NewConsole = false
   Run = pPearlPID   @ NewConsole = false
+  Run = pContactMgrV20     @ NewConsole = false
 
 
 #elseifdef XMODE SIM
