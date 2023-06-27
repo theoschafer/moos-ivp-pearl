@@ -1,0 +1,15 @@
+92.75811        IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_2,var=CONTACT_INFO,time=91.65,result=duplicate,val=name=predictiongilda_2 # contact=predictiongilda_2 
+124.07265       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_0,var=CONTACT_INFO,time=122.97,result=name_mismatch,val=name=predictiongilda_3 # contact=predictiongilda_3 
+124.07265       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_1,var=CONTACT_INFO,time=122.97,result=name_mismatch,val=name=predictiongilda_3 # contact=predictiongilda_3 
+124.07265       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_2,var=CONTACT_INFO,time=122.97,result=name_mismatch,val=name=predictiongilda_3 # contact=predictiongilda_3 
+124.07266       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_3,var=CONTACT_INFO,time=122.97,result=success,val=name=predictiongilda_3 # contact=predictiongilda_3 
+124.07266       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_3,var=CONTACT_INFO,time=122.97,result=success,val=name=predictiongilda_3 # contact=predictiongilda_3 
+124.07266       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_3,var=CONTACT_INFO,time=122.97,result=success,val=name=predictiongilda_3 # contact=predictiongilda_3 
+124.07266       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_3,var=CONTACT_INFO,time=122.97,result=success,val=name=predictiongilda_3 # contact=predictiongilda_3 
+198.51125       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_0,var=CONTACT_INFO,time=197.41,result=name_mismatch,val=name=predictiongilda_2 # contact=predictiongilda_2 
+198.51126       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_1,var=CONTACT_INFO,time=197.41,result=name_mismatch,val=name=predictiongilda_2 # contact=predictiongilda_2 
+198.51127       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_2,var=CONTACT_INFO,time=197.41,result=duplicate,val=name=predictiongilda_2 # contact=predictiongilda_2 
+213.54600       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_0,var=CONTACT_INFO,time=212.44,result=name_mismatch,val=name=predictiongilda_3 # contact=predictiongilda_3 
+213.54601       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_1,var=CONTACT_INFO,time=212.44,result=name_mismatch,val=name=predictiongilda_3 # contact=predictiongilda_3 
+213.54601       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_2,var=CONTACT_INFO,time=212.44,result=name_mismatch,val=name=predictiongilda_3 # contact=predictiongilda_3 
+213.54601       IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_3,var=CONTACT_INFO,time=212.44,result=success,val=name=predictiongilda_3 # contact=predictiongilda_3 

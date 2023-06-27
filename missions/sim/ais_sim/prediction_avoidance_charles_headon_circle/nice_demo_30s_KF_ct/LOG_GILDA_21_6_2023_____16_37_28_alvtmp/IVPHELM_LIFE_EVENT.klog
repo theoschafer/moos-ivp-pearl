@@ -1,0 +1,6 @@
+8.60912         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.51, iter=1, bname=loiter, btype=BHV_Loiter, event=spawn, seed=helm_startup, posting_index=0 
+8.60912         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.51, iter=1, bname=waypt_return, btype=BHV_Waypoint, event=spawn, seed=helm_startup, posting_index=1 
+8.60913         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.51, iter=1, bname=travel, btype=BHV_Waypoint, event=spawn, seed=helm_startup, posting_index=2 
+8.60914         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.51, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+8.60914         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.51, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+8.60914         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.51, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
