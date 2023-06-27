@@ -24,7 +24,7 @@ Processconfig = ANTLER
   Run = iGPS	        @ NewConsole = false
   Run = iPEARL            @ NewConsole = false
   Run = uSunTracking      @ NewConsole = false
-  Run = iRPISerial	      @ NewConsole = false
+  //Run = iRPISerial	      @ NewConsole = false
   
   Run = pShare            @ NewConsole = false
   Run = pHostInfo         @ NewConsole = false

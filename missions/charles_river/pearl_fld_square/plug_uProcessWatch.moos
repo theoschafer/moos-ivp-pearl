@@ -14,10 +14,10 @@ ProcessConfig = uProcessWatch
   watch  = pNodeReporter
   watch  = pPearlPID
   watch  = pHelmIvP
-  watch  = iDualGPS
+  watch  = iGPS
   watch  = iPEARL
   watch  = uSunTracking
-  watch  = iRPISerial
+ // watch  = iRPISerial
 }
 
 

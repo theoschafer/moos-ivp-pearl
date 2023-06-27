@@ -81,7 +81,7 @@ PEARL::PEARL()
   m_des_count_thrust      = 0;
   m_des_count_rudder      = 0;
   m_ivpALLSTOP            = true;
-  m_autonomous_control    = false;
+  m_autonomous_control    = true;
   m_manual_control_flag   = false;
   
   m_direct_thrust_mode    = 0;
