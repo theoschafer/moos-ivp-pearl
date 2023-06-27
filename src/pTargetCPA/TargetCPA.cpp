@@ -18,14 +18,14 @@ using namespace std;
 
 TargetCPA::TargetCPA()
 {
- double m_current_x =0;
- double m_current_y =0;
- double m_target_temp_x = 0;
- double m_target_temp_y = 0;
- double m_target_x =0;
- double m_target_y =0;
- double m_cpa = 0; 
- string m_TS_name ;
+  m_current_x =0;
+  m_current_y =0;
+  m_target_temp_x = 0;
+  m_target_temp_y = 0;
+  m_target_x =0;
+  m_target_y =0;
+  m_cpa = 0; 
+  m_TS_name ;
 }
 
 //---------------------------------------------------------
