@@ -27,19 +27,34 @@ SHORE_IP="localhost"
 SHORE_PSHARE="9200"
 REGION="pavlab"
 
+COLOR="coral"
+MEDIATED="yes"
+
 IP_ADDR0="localhost"
 MOOS_PORT0="9001"
 PSHARE_PORT0="9201"
 VNAME0="abe"
 INDEX0="1"
 XMODE0="SIM"
-COLOR="coral"
-MEDIATED="yes"
 START_POS0="0,-10,180"
 SPEED0="1.0"
 RETURN_POS0="5,0"
 MAXSPD0="2"
 VLANE0=arlo
+
+IP_ADDR1="localhost"
+MOOS_PORT1="9002"
+PSHARE_PORT1="9202"
+VNAME1="pearl"
+INDEX1="2"
+XMODE1="SIM"
+START_POS1="-140,-60,90"
+SPEED1="1.0"
+RETURN_POS1="5,0"
+MAXSPD1="2"
+VLANE1=arlo
+
+
 
 #--------------------------------------------------------------
 #  Part 3: Check for and handle command-line arguments
@@ -226,6 +241,18 @@ nsplug meta_vehicle.bhv targ_$VNAME0.bhv $NSFLAGS VNAME=$VNAME0  \
        START_POS=$START_POS0         SPEED=$SPEED0               \
        VLANE=$VLANE0                 COLOR=$COLOR
 
+nsplug meta_vehicle.moos targ_$VNAME1.moos $NSFLAGS WARP=$TIME_WARP \
+       PSHARE_PORT=$PSHARE_PORT1     VNAME=$VNAME1               \
+       IP_ADDR=$IP_ADDR1            SHORE_IP=$SHORE_IP         \
+       SHORE_PSHARE=$SHORE_PSHARE   MOOS_PORT=$MOOS_PORT1       \
+       FSEAT_IP=$FSEAT_IP           XMODE=$XMODE1               \
+       MAXSPD=$MAXSPD1               START_POS=$START_POS1       \
+       COLOR=$COLOR                 REGION=$REGION
+
+nsplug meta_vehicle.bhv targ_$VNAME1.bhv $NSFLAGS VNAME=$VNAME1  \
+       START_POS=$START_POS1         SPEED=$SPEED1               \
+       VLANE=$VLANE1                 COLOR=$COLOR
+
 if [ ${JUST_MAKE} = "yes" ] ; then
     echo "Files assembled; nothing launched; exiting per request."
     exit 0
@@ -240,6 +267,10 @@ echo "$GRN Launching $VNAME0 MOOS Community. WARP=$TIME_WARP $NC"
 pAntler targ_${VNAME0}.moos >& /dev/null &
 echo "$GRN Done Launching $VNAME0 MOOS Community $NC"
 
+echo "$GRN Launching $VNAME1 MOOS Community. WARP=$TIME_WARP $NC"
+pAntler targ_${VNAME1}.moos >& /dev/null &
+echo "$GRN Done Launching $VNAME1 MOOS Community $NC"
+
 #---------------------------------------------------------------
 #  Part 7: If launched from script, we're done, exit now
 #---------------------------------------------------------------
@@ -251,4 +282,5 @@ fi
 # Part 8: Launch uMAC until the mission is quit
 #---------------------------------------------------------------
 uMAC targ_$VNAME0.moos
+uMAC targ_$VNAME1.moos
 kill -- -$$
