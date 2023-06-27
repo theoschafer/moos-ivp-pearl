@@ -1,0 +1,616 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./XLOG_SHORESIDE_27_6_2023_____12_46_40/XLOG_SHORESIDE_27_6_2023_____12_46_40.alog
+%% FILE OPENED ON  Wed Dec 31 19:00:00 1969
+%% LOGSTART           1687884399.644546
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+0.60734         PMARINEVIEWER_PID    pMarineViewer   16235.00000  
+0.65632         REALMCAST_CHANNELS   pRealm          node=shoreside#channels=MOOSDB_shoreside, 
+0.65837         DB_EVENT             MOOSDB_shoreside connected=uFldNodeComms 
+0.70163         LOGGER_DIRECTORY     pLogger         ./XLOG_SHORESIDE_27_6_2023_____12_46_40 
+0.75028         APPCAST_REQ_SHORESIDE uMAC_4192       node=shoreside,app=all,duration=0.1,key=uMAC_4192startup,thresh=any 
+0.85651         PREALM_ITER_LEN      pRealm          0.00005      
+0.85784         APPCAST              pMarineViewer   proc=pMarineViewer!@#iter=1!@#node=shoreside!@#iter=1!@#messages=Tiff File: MIT_SP.tif!@Tiff File (Current): MIT_SP.tif!@------------------ !@Total GeoShapes:   0!@Clear GeoShapes:   0!@NodeReports Recd:  0!@Node Rpt Rate(R):  0!@Node Rpt Rate(W):  0!@Node Report Vars:  NODE_REPORT_LOCAL,NODE_REPORT!@Mission Hash:      mhash=230627-1246L-PURE-KARL,utc=1687884400.28!@Mission Hash Var:  MISSION_HASH!@Block Heartbeat:   false!@------------------ !@AC Iterations:     1!@PMV Iterations:    0!@------------------ !@RC Count:          0!@WC Count:          0!@Draw Count:       1!@Draw Count Rate:  4.02878!@Curr Time:        0.00!@Time Warp:        1.000!@Stale report thresh: 60!@Stale remove thresh: 180!@Elapsed:          0.00000!@CmdFolio size:    9!@!@Visual Settings: !@  window pan_x:  30.00!@  window pan_y:  -290.00!@  window  zoom:  1.50!@  vehicle zoom:  1.5!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+0.86143         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+0.86144         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+0.86145         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+1.05668         PREALM_ITER_LEN      pRealm          0.00005      
+1.10813         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=1.1,key=pMarineViewernewproc,thresh=any 
+1.10814         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=1.1,key=pMarineViewernewproc,thresh=any 
+1.10814         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+1.10830         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+1.10831         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+1.10831         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+1.15070         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+1.15071         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+1.25682         PREALM_ITER_LEN      pRealm          0.00007      
+1.25691         APPCAST              pRealm          proc=pRealm!@#iter=4!@#node=shoreside!@#iter=4!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 1!@   Known Apps: MOOSDB_shoreside!@  Total SVars: 0!@  Total PVars: 0!@  Unique Vars: 0!@  UTC Time:    1687884400.90!@  Local Time:  0.80!@  Summaries:   1!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+1.35830         APPCAST              pMarineViewer   proc=pMarineViewer!@#iter=3!@#node=shoreside!@#iter=3!@#messages=Tiff File: MIT_SP.tif!@Tiff File (Current): MIT_SP.tif!@------------------ !@Total GeoShapes:   0!@Clear GeoShapes:   0!@NodeReports Recd:  0!@Node Rpt Rate(R):  0!@Node Rpt Rate(W):  0!@Node Report Vars:  NODE_REPORT_LOCAL,NODE_REPORT!@Mission Hash:      mhash=230627-1246L-PURE-KARL,utc=1687884400.28!@Mission Hash Var:  MISSION_HASH!@Block Heartbeat:   false!@------------------ !@AC Iterations:     3!@PMV Iterations:    2!@------------------ !@RC Count:          0!@WC Count:          0!@Draw Count:       5!@Draw Count Rate:  6.6791!@Curr Time:        1687884401.00!@Time Warp:        1.000!@Stale report thresh: 60!@Stale remove thresh: 180!@Elapsed:          0.00001!@CmdFolio size:    9!@!@Visual Settings: !@  window pan_x:  30.00!@  window pan_y:  -290.00!@  window  zoom:  1.50!@  vehicle zoom:  1.5!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+1.36069         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+1.36071         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+1.36071         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+1.45705         PREALM_ITER_LEN      pRealm          0.00008      
+1.60427         APPCAST              uProcessWatch   proc=uProcessWatch!@#iter=1!@#node=shoreside!@#iter=1!@#messages=Summary: !@!@Antler List: pHostInfo,pLogger,pMarineViewer,pRealm,pShare!@             uFldNodeComms,uFldShoreBroker!@!@                                          Current    Max!@ProcName          Watch Reason   Status   CPU Load   CPU Load!@---------------   ------------   ------   --------   --------!@pHostInfo         ANT            [7;32mOK[0m       0.00       0.00!@pLogger           ANT            [7;32mOK[0m       0.84       0.84!@pMarineViewer     ANT            [7;32mOK[0m       2.31       2.31!@pRealm            ANT            [7;32mOK[0m       1.79       1.79!@pShare            ANT            [7;32mOK[0m       0.55       0.55!@uFldNodeComms     ANT            [7;32mOK[0m       0.00       0.00!@uFldShoreBroker   ANT            [7;32mOK[0m       0.00       0.00!@!@#!@#events_total=7!@#events=Noted to be present: [uFldNodeComms]!@Noted to be present: [uFldShoreBroker]!@Noted to be present: [pHostInfo]!@Noted to be present: [pShare]!@Noted to be present: [pLogger]!@Noted to be present: [pMarineViewer]!@Noted to be present: [pRealm]!@#run_warning_total=0!@# 
+1.60864         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=1.1,key=pMarineViewernewproc,thresh=any 
+1.60865         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=1.1,key=pMarineViewernewproc,thresh=any 
+1.60865         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+1.60905         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+1.60907         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+1.60907         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+1.65714         PREALM_ITER_LEN      pRealm          0.00003      
+1.70577         APPCAST              uFldNodeComms   proc=uFldNodeComms!@#iter=1!@#node=shoreside!@#iter=1!@#messages=Configuration:  !@       Comms Range: 5000!@    Critical Range: 25!@        Stale Drop: 5!@       Stale Foget: 100!@   Max Message Len: 10000!@   Min Message Int: 0!@   Min Report  Int: -1!@          Drop Pct: 0!@       Apply Group: false!@     Share Reports: false!@      Ignore Group: !@!@Node Report Summary!@======================================!@     Total Received: 0         Elapsed      Rate!@     --------------- !@         Total Sent: 0!@     --------------- !@     Stale Vehicles: 0!@!@Node Message Summary!@======================================!@    Total Msgs Received: 0!@     ------------------ !@            Total Sent: 0!@     ------------------ !@    Total Blocked Msgs: 0!@               Invalid: 0!@          Missing Info: 0!@        Stale Receiver: 0!@            Too Recent: 0!@          Msg Too Long: 0!@         Range Too Far: 0!@!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+1.70591         DB_TIME              MOOSDB_shoreside 1687884401.35045 
+1.70591         DB_UPTIME            MOOSDB_shoreside 2.00993      
+1.70592         DB_CLIENTS           MOOSDB_shoreside uFldNodeComms,uProcessWatch,uFldShoreBroker,pHostInfo,pShare,pLogger,pMarineViewer,pRealm,uMAC_4192, 
+1.70610         DB_QOS               MOOSDB_shoreside pHostInfo=0:0.365973:0.211954:0,pLogger=0:0.126123:0.0870228:0,pMarineViewer=0:0.152826:0.0851154:0,pRealm=0:0.279903:0.185013:0,pShare=0:0.327826:0.327826:0,uFldNodeComms=0:0.159025:0.084877:0,uFldShoreBroker=0:0.174046:0.043869:0,uMAC_4192=0:0.211954:0.1719:0,uProcessWatch=0:0.236034:0.189781:0, 
+1.75155         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+1.75156         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+1.82926         PSHARE_INPUT_SUMMARY pShare          localhost:9200 
+1.85778         REALMCAST_CHANNELS   pRealm          node=shoreside#channels=MOOSDB_shoreside,pHostInfo,pLogger,pMarineViewer,pRealm,pShare,uFldNodeComms,uFldShoreBroker,uProcessWatch, 
+1.85778         PREALM_ITER_LEN      pRealm          0.00009      
+1.85790         APPCAST              pRealm          proc=pRealm!@#iter=7!@#node=shoreside!@#iter=7!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 72!@  Total PVars: 29!@  Unique Vars: 87!@  UTC Time:    1687884401.50!@  Local Time:  1.40!@  Summaries:   2!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+1.85877         APPCAST              pMarineViewer   proc=pMarineViewer!@#iter=5!@#node=shoreside!@#iter=5!@#messages=Tiff File: MIT_SP.tif!@Tiff File (Current): MIT_SP.tif!@------------------ !@Total GeoShapes:   0!@Clear GeoShapes:   0!@NodeReports Recd:  0!@Node Rpt Rate(R):  0!@Node Rpt Rate(W):  0!@Node Report Vars:  NODE_REPORT_LOCAL,NODE_REPORT!@Mission Hash:      mhash=230627-1246L-PURE-KARL,utc=1687884400.28!@Mission Hash Var:  MISSION_HASH!@Block Heartbeat:   false!@------------------ !@AC Iterations:     5!@PMV Iterations:    4!@------------------ !@RC Count:          0!@WC Count:          0!@Draw Count:       9!@Draw Count Rate:  7.20496!@Curr Time:        1687884401.25!@Time Warp:        1.000!@Stale report thresh: 60!@Stale remove thresh: 180!@Elapsed:          0.00004!@CmdFolio size:    9!@!@Visual Settings: !@  window pan_x:  30.00!@  window pan_y:  -290.00!@  window  zoom:  1.50!@  vehicle zoom:  1.5!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+1.85906         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=1.1,key=pMarineViewernewproc,thresh=any 
+1.85907         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=1.1,key=pMarineViewernewproc,thresh=any 
+1.85907         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+1.85944         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+1.85945         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+1.85946         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+1.90270         PHI_HOST_IP          pHostInfo       localhost 
+1.90272         PHI_HOST_INFO        pHostInfo       community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,hostip_alts=,timewarp=1 
+1.90279         APPCAST              pHostInfo       proc=pHostInfo!@#iter=1!@#node=shoreside!@#iter=1!@#messages=!@  PHI_HOST_IP:          [7;31mDEFAULT HOSTIP FORCED[0m!@  PHI_HOST_IP_ALL:      localhost!@!@  PHI_HOST_IP_VERBOSE:  USER_HARD_CONFIGURED=localhost!@!@  PHI_HOST_PORT:        9000!@  PHI_PSHARES_IROUTES:  localhost:9200!@  HOSTNAME util(Linux): !@  PHI_HOST_INFO:        community=shoreside,hostip=localhost,!@                        port_db=9000,port_udp=9200,!@                        pshare_iroutes=localhost:9200,hostip_alts=,!@                        timewarp=1!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+2.00438         APPCAST              uFldShoreBroker proc=uFldShoreBroker!@#iter=1!@#node=shoreside!@#iter=1!@#messages=!@ Total PHI_HOST_INFO    received: 1!@ Total NODE_BROKER_PING received: 0!@ Total NODE_BROKER_ACK    posted: 1!@ Total PSHARE_CMD         posted: 0!@!@===========================================================!@            Shoreside Node(s) Information:!@===========================================================!@!@     Community: shoreside!@        HostIP: localhost!@   Port MOOSDB: 9000!@     Time Warp: 1!@       IRoutes: localhost:9200!@!@===========================================================!@             Vehicle Node Information:!@===========================================================!@!@Node  IP               Elap  pShare!@Name  Address  Status  Time  Input Route(s)  Skew!@----  -------  ------  ----  --------------  ----!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+0.60734         PMARINEVIEWER_PID    pMarineViewer   16235.00000  
+0.65837         DB_EVENT             MOOSDB_shoreside connected=uFldNodeComms 
+0.70163         LOGGER_DIRECTORY     pLogger         ./XLOG_SHORESIDE_27_6_2023_____12_46_40 
+0.75028         APPCAST_REQ_SHORESIDE uMAC_4192       node=shoreside,app=all,duration=0.1,key=uMAC_4192startup,thresh=any 
+0.85777         HELM_MAP_CLEAR       pMarineViewer   0.00000      
+0.85777         PMV_CONNECT          pMarineViewer   0.00000      
+0.86143         MISSION_HASH         pMarineViewer   mhash=230627-1246L-PURE-KARL,utc=1687884400.28 
+1.00403         UFSB_QBRIDGE_VARS    uFldShoreBroker APPCAST_REQ,ATURN,ATURN_ENGAGE,AVOID,DEPLOY,FSTOP_UPDATE,LEG_RUNNING,LEG_UPDATE,MOOS_MANUAL_OVERRIDE,NODE_MESSAGE,NODE_REPORT,OPREGION_RESET,REALMCAST_REQ,RETURN,SAY_MOOS,STATION_KEEP,ZIGGING 
+1.10351         PROC_WATCH_TIME_WARP uProcessWatch   1.00000      
+1.10380         PROC_WATCH_EVENT     uProcessWatch   Noted to be present: [pRealm] 
+1.60412         PROC_WATCH_SUMMARY   uProcessWatch    
+1.60412         PROC_WATCH_ALL_OK    uProcessWatch   false 
+1.60412         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00001      
+1.70574         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00001      
+1.70591         DB_TIME              MOOSDB_shoreside 1687884401.35045 
+1.70591         DB_UPTIME            MOOSDB_shoreside 2.00993      
+1.70592         DB_CLIENTS           MOOSDB_shoreside uFldNodeComms,uProcessWatch,uFldShoreBroker,pHostInfo,pShare,pLogger,pMarineViewer,pRealm,uMAC_4192, 
+1.70610         DB_QOS               MOOSDB_shoreside pHostInfo=0:0.365973:0.211954:0,pLogger=0:0.126123:0.0870228:0,pMarineViewer=0:0.152826:0.0851154:0,pRealm=0:0.279903:0.185013:0,pShare=0:0.327826:0.327826:0,uFldNodeComms=0:0.159025:0.084877:0,uFldShoreBroker=0:0.174046:0.043869:0,uMAC_4192=0:0.211954:0.1719:0,uProcessWatch=0:0.236034:0.189781:0, 
+1.82925         PSHARE_OUTPUT_SUMMARY pShare           
+1.82926         PSHARE_INPUT_SUMMARY pShare          localhost:9200 
+1.85776         PREALM_ITER_GAP      pRealm          1.00316      
+1.85778         REALMCAST_CHANNELS   pRealm          node=shoreside#channels=MOOSDB_shoreside,pHostInfo,pLogger,pMarineViewer,pRealm,pShare,uFldNodeComms,uFldShoreBroker,uProcessWatch, 
+1.85778         PREALM_ITER_LEN      pRealm          0.00009      
+1.85870         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00098      
+1.85871         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00004      
+1.85944         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+1.85945         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+1.85946         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+1.90270         PHI_HOST_IP          pHostInfo       localhost 
+1.90271         PHI_HOST_IP_ALL      pHostInfo       localhost 
+1.90271         PHI_HOST_IP_VERBOSE  pHostInfo       USER_HARD_CONFIGURED=localhost 
+1.90271         PHI_HOST_PORT_DB     pHostInfo       9000 
+1.90272         PHI_HOST_INFO        pHostInfo       community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,hostip_alts=,timewarp=1 
+1.90273         PHOSTINFO_ITER_LEN   pHostInfo       0.00003      
+2.00438         APPCAST              uFldShoreBroker proc=uFldShoreBroker!@#iter=1!@#node=shoreside!@#iter=1!@#messages=!@ Total PHI_HOST_INFO    received: 1!@ Total NODE_BROKER_PING received: 0!@ Total NODE_BROKER_ACK    posted: 1!@ Total PSHARE_CMD         posted: 0!@!@===========================================================!@            Shoreside Node(s) Information:!@===========================================================!@!@     Community: shoreside!@        HostIP: localhost!@   Port MOOSDB: 9000!@     Time Warp: 1!@       IRoutes: localhost:9200!@!@===========================================================!@             Vehicle Node Information:!@===========================================================!@!@Node  IP               Elap  pShare!@Name  Address  Status  Time  Input Route(s)  Skew!@----  -------  ------  ----  --------------  ----!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+2.05835         PREALM_ITER_GAP      pRealm          1.00291      
+2.05836         PREALM_ITER_LEN      pRealm          0.00004      
+2.10457         PROC_WATCH_SUMMARY   uProcessWatch   All Present 
+2.10458         PROC_WATCH_ALL_OK    uProcessWatch   true 
+2.10461         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00009      
+2.10481         APPCAST              uProcessWatch   proc=uProcessWatch!@#iter=2!@#node=shoreside!@#iter=2!@#messages=Summary: All Present!@!@Antler List: pHostInfo,pLogger,pMarineViewer,pRealm,pShare!@             uFldNodeComms,uFldShoreBroker!@!@                                          Current    Max!@ProcName          Watch Reason   Status   CPU Load   CPU Load!@---------------   ------------   ------   --------   --------!@pHostInfo         ANT       DB   [7;32mOK[0m       0.11       0.11!@pLogger           ANT       DB   [7;32mOK[0m       0.84       0.84!@pMarineViewer     ANT       DB   [7;32mOK[0m       2.31       2.31!@pRealm            ANT       DB   [7;32mOK[0m       1.79       1.79!@pShare            ANT       DB   [7;32mOK[0m       0.55       0.55!@uFldNodeComms     ANT       DB   [7;32mOK[0m       0.27       0.27!@uFldShoreBroker   ANT       DB   [7;32mOK[0m       0.13       0.13!@!@#!@#events_total=7!@#events=Noted to be present: [uFldNodeComms]!@Noted to be present: [uFldShoreBroker]!@Noted to be present: [pHostInfo]!@Noted to be present: [pShare]!@Noted to be present: [pLogger]!@Noted to be present: [pMarineViewer]!@Noted to be present: [pRealm]!@#run_warning_total=0!@# 
+2.10891         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00086      
+2.10892         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00004      
+2.10917         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=1.1,key=pMarineViewernewproc,thresh=any 
+2.10918         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=1.1,key=pMarineViewernewproc,thresh=any 
+2.10918         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+2.10982         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+2.10984         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+2.10984         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+2.20594         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00006      
+2.20603         APPCAST              uFldNodeComms   proc=uFldNodeComms!@#iter=2!@#node=shoreside!@#iter=2!@#messages=Configuration:  !@       Comms Range: 5000!@    Critical Range: 25!@        Stale Drop: 5!@       Stale Foget: 100!@   Max Message Len: 10000!@   Min Message Int: 0!@   Min Report  Int: -1!@          Drop Pct: 0!@       Apply Group: false!@     Share Reports: false!@      Ignore Group: !@!@Node Report Summary!@======================================!@     Total Received: 0         Elapsed      Rate!@     --------------- !@         Total Sent: 0!@     --------------- !@     Stale Vehicles: 0!@!@Node Message Summary!@======================================!@    Total Msgs Received: 0!@     ------------------ !@            Total Sent: 0!@     ------------------ !@    Total Blocked Msgs: 0!@               Invalid: 0!@          Missing Info: 0!@        Stale Receiver: 0!@            Too Recent: 0!@          Msg Too Long: 0!@         Range Too Far: 0!@!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+2.25850         PREALM_ITER_GAP      pRealm          1.00078      
+2.25851         PREALM_ITER_LEN      pRealm          0.00005      
+2.35274         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+2.35275         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+2.35918         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00108      
+2.35920         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00006      
+2.35927         APPCAST              pMarineViewer   proc=pMarineViewer!@#iter=7!@#node=shoreside!@#iter=7!@#messages=Tiff File: MIT_SP.tif!@Tiff File (Current): MIT_SP.tif!@------------------ !@Total GeoShapes:   0!@Clear GeoShapes:   0!@NodeReports Recd:  0!@Node Rpt Rate(R):  0!@Node Rpt Rate(W):  0!@Node Report Vars:  NODE_REPORT_LOCAL,NODE_REPORT!@Mission Hash:      mhash=230627-1246L-PURE-KARL,utc=1687884400.28!@Mission Hash Var:  MISSION_HASH!@Block Heartbeat:   false!@------------------ !@AC Iterations:     7!@PMV Iterations:    6!@------------------ !@RC Count:          0!@WC Count:          0!@Draw Count:       13!@Draw Count Rate:  7.43016!@Curr Time:        1687884401.75!@Time Warp:        1.000!@Stale report thresh: 60!@Stale remove thresh: 180!@Elapsed:          0.00004!@CmdFolio size:    9!@!@Visual Settings: !@  window pan_x:  30.00!@  window pan_y:  -290.00!@  window  zoom:  1.50!@  vehicle zoom:  1.5!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+2.35980         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+2.35981         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+2.35982         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+2.45873         PREALM_ITER_GAP      pRealm          1.00114      
+2.45876         PREALM_ITER_LEN      pRealm          0.00014      
+2.45892         APPCAST              pRealm          proc=pRealm!@#iter=10!@#node=shoreside!@#iter=10!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 72!@  Total PVars: 29!@  Unique Vars: 87!@  UTC Time:    1687884402.10!@  Local Time:  2.00!@  Summaries:   2!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+2.60494         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+2.60516         APPCAST              uProcessWatch   proc=uProcessWatch!@#iter=3!@#node=shoreside!@#iter=3!@#messages=Summary: All Present!@!@Antler List: pHostInfo,pLogger,pMarineViewer,pRealm,pShare!@             uFldNodeComms,uFldShoreBroker!@!@                                          Current    Max!@ProcName          Watch Reason   Status   CPU Load   CPU Load!@---------------   ------------   ------   --------   --------!@pHostInfo         ANT       DB   [7;32mOK[0m       0.11       0.11!@pLogger           ANT       DB   [7;32mOK[0m       0.84       0.84!@pMarineViewer     ANT       DB   [7;32mOK[0m       2.31       2.31!@pRealm            ANT       DB   [7;32mOK[0m       1.79       1.79!@pShare            ANT       DB   [7;32mOK[0m       0.55       0.55!@uFldNodeComms     ANT       DB   [7;32mOK[0m       0.27       0.27!@uFldShoreBroker   ANT       DB   [7;32mOK[0m       0.13       0.13!@!@#!@#events_total=7!@#events=Noted to be present: [uFldNodeComms]!@Noted to be present: [uFldShoreBroker]!@Noted to be present: [pHostInfo]!@Noted to be present: [pShare]!@Noted to be present: [pLogger]!@Noted to be present: [pMarineViewer]!@Noted to be present: [pRealm]!@#run_warning_total=0!@# 
+2.60943         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00100      
+2.60944         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00004      
+2.61012         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+2.61014         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+2.61014         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoreside,thresh=any 
+2.65914         PREALM_ITER_GAP      pRealm          1.00206      
+2.65916         PREALM_ITER_LEN      pRealm          0.00010      
+2.70631         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00005      
+2.70637         APPCAST              uFldNodeComms   proc=uFldNodeComms!@#iter=3!@#node=shoreside!@#iter=3!@#messages=Configuration:  !@       Comms Range: 5000!@    Critical Range: 25!@        Stale Drop: 5!@       Stale Foget: 100!@   Max Message Len: 10000!@   Min Message Int: 0!@   Min Report  Int: -1!@          Drop Pct: 0!@       Apply Group: false!@     Share Reports: false!@      Ignore Group: !@!@Node Report Summary!@======================================!@     Total Received: 0         Elapsed      Rate!@     --------------- !@         Total Sent: 0!@     --------------- !@     Stale Vehicles: 0!@!@Node Message Summary!@======================================!@    Total Msgs Received: 0!@     ------------------ !@            Total Sent: 0!@     ------------------ !@    Total Blocked Msgs: 0!@               Invalid: 0!@          Missing Info: 0!@        Stale Receiver: 0!@            Too Recent: 0!@          Msg Too Long: 0!@         Range Too Far: 0!@!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+2.83495         PSHARE_OUTPUT_SUMMARY pShare           
+2.83495         PSHARE_INPUT_SUMMARY pShare          localhost:9200 
+2.85940         PREALM_ITER_GAP      pRealm          1.00126      
+2.85943         PREALM_ITER_LEN      pRealm          0.00015      
+2.85964         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00082      
+2.85964         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00002      
+2.85970         APPCAST              pMarineViewer   proc=pMarineViewer!@#iter=9!@#node=shoreside!@#iter=9!@#messages=Tiff File: MIT_SP.tif!@Tiff File (Current): MIT_SP.tif!@------------------ !@Total GeoShapes:   0!@Clear GeoShapes:   0!@NodeReports Recd:  0!@Node Rpt Rate(R):  0!@Node Rpt Rate(W):  0!@Node Report Vars:  NODE_REPORT_LOCAL,NODE_REPORT!@Mission Hash:      mhash=230627-1246L-PURE-KARL,utc=1687884400.28!@Mission Hash Var:  MISSION_HASH!@Block Heartbeat:   false!@------------------ !@AC Iterations:     9!@PMV Iterations:    8!@------------------ !@RC Count:          0!@WC Count:          0!@Draw Count:       17!@Draw Count Rate:  7.55528!@Curr Time:        1687884402.25!@Time Warp:        1.000!@Stale report thresh: 60!@Stale remove thresh: 180!@Elapsed:          0.00004!@CmdFolio size:    9!@!@Visual Settings: !@  window pan_x:  30.00!@  window pan_y:  -290.00!@  window  zoom:  1.50!@  vehicle zoom:  1.5!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+2.86018         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+2.86020         APPCAST_REQ          pMarineViewer   node=shoreside,app=pRealm,duration=3.0,key=pMarineViewer:shoresideapp,thresh=any 
+2.86021         APPCAST_REQ_SHORESIDE pMarineViewer   node=shoreside,app=pRealm,duration=3.0,key=pMarineViewer:shoresideapp,thresh=any 
+2.86022         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+2.86022         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+2.90304         PHOSTINFO_ITER_LEN   pHostInfo       0.00001      
+2.90311         APPCAST              pHostInfo       proc=pHostInfo!@#iter=2!@#node=shoreside!@#iter=2!@#messages=!@  PHI_HOST_IP:          [7;31mDEFAULT HOSTIP FORCED[0m!@  PHI_HOST_IP_ALL:      localhost!@!@  PHI_HOST_IP_VERBOSE:  USER_HARD_CONFIGURED=localhost!@!@  PHI_HOST_PORT:        9000!@  PHI_PSHARES_IROUTES:  localhost:9200!@  HOSTNAME util(Linux): !@  PHI_HOST_INFO:        community=shoreside,hostip=localhost,!@                        port_db=9000,port_udp=9200,!@                        pshare_iroutes=localhost:9200,hostip_alts=,!@                        timewarp=1!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+2.95385         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+2.95386         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+3.00476         APPCAST              uFldShoreBroker proc=uFldShoreBroker!@#iter=2!@#node=shoreside!@#iter=2!@#messages=!@ Total PHI_HOST_INFO    received: 1!@ Total NODE_BROKER_PING received: 0!@ Total NODE_BROKER_ACK    posted: 2!@ Total PSHARE_CMD         posted: 0!@!@===========================================================!@            Shoreside Node(s) Information:!@===========================================================!@!@     Community: shoreside!@        HostIP: localhost!@   Port MOOSDB: 9000!@     Time Warp: 1!@       IRoutes: localhost:9200!@!@===========================================================!@             Vehicle Node Information:!@===========================================================!@!@Node  IP               Elap  pShare!@Name  Address  Status  Time  Input Route(s)  Skew!@----  -------  ------  ----  --------------  ----!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+3.05959         PREALM_ITER_GAP      pRealm          1.00099      
+3.05962         PREALM_ITER_LEN      pRealm          0.00013      
+3.05974         APPCAST              pRealm          proc=pRealm!@#iter=13!@#node=shoreside!@#iter=13!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 72!@  Total PVars: 29!@  Unique Vars: 87!@  UTC Time:    1687884402.70!@  Local Time:  2.60!@  Summaries:   2!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+3.10543         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+3.10565         APPCAST              uProcessWatch   proc=uProcessWatch!@#iter=4!@#node=shoreside!@#iter=4!@#messages=Summary: All Present!@!@Antler List: pHostInfo,pLogger,pMarineViewer,pRealm,pShare!@             uFldNodeComms,uFldShoreBroker!@!@                                          Current    Max!@ProcName          Watch Reason   Status   CPU Load   CPU Load!@---------------   ------------   ------   --------   --------!@pHostInfo         ANT       DB   [7;32mOK[0m       0.11       0.11!@pLogger           ANT       DB   [7;32mOK[0m       0.56       0.84!@pMarineViewer     ANT       DB   [7;32mOK[0m       0.76       2.31!@pRealm            ANT       DB   [7;32mOK[0m       0.58       1.79!@pShare            ANT       DB   [7;32mOK[0m       0.22       0.55!@uFldNodeComms     ANT       DB   [7;32mOK[0m       0.27       0.27!@uFldShoreBroker   ANT       DB   [7;32mOK[0m       0.13       0.13!@!@#!@#events_total=7!@#events=Noted to be present: [uFldNodeComms]!@Noted to be present: [uFldShoreBroker]!@Noted to be present: [pHostInfo]!@Noted to be present: [pShare]!@Noted to be present: [pLogger]!@Noted to be present: [pMarineViewer]!@Noted to be present: [pRealm]!@#run_warning_total=0!@# 
+0.60734         PMARINEVIEWER_PID    pMarineViewer   16235.00000  
+0.65837         DB_EVENT             MOOSDB_shoreside connected=uFldNodeComms 
+0.70163         LOGGER_DIRECTORY     pLogger         ./XLOG_SHORESIDE_27_6_2023_____12_46_40 
+0.85777         HELM_MAP_CLEAR       pMarineViewer   0.00000      
+0.85777         PMV_CONNECT          pMarineViewer   0.00000      
+0.86143         MISSION_HASH         pMarineViewer   mhash=230627-1246L-PURE-KARL,utc=1687884400.28 
+1.00403         UFSB_QBRIDGE_VARS    uFldShoreBroker APPCAST_REQ,ATURN,ATURN_ENGAGE,AVOID,DEPLOY,FSTOP_UPDATE,LEG_RUNNING,LEG_UPDATE,MOOS_MANUAL_OVERRIDE,NODE_MESSAGE,NODE_REPORT,OPREGION_RESET,REALMCAST_REQ,RETURN,SAY_MOOS,STATION_KEEP,ZIGGING 
+1.10351         PROC_WATCH_TIME_WARP uProcessWatch   1.00000      
+1.10380         PROC_WATCH_EVENT     uProcessWatch   Noted to be present: [pRealm] 
+1.70591         DB_TIME              MOOSDB_shoreside 1687884401.35045 
+1.70591         DB_UPTIME            MOOSDB_shoreside 2.00993      
+1.70592         DB_CLIENTS           MOOSDB_shoreside uFldNodeComms,uProcessWatch,uFldShoreBroker,pHostInfo,pShare,pLogger,pMarineViewer,pRealm,uMAC_4192, 
+1.70610         DB_QOS               MOOSDB_shoreside pHostInfo=0:0.365973:0.211954:0,pLogger=0:0.126123:0.0870228:0,pMarineViewer=0:0.152826:0.0851154:0,pRealm=0:0.279903:0.185013:0,pShare=0:0.327826:0.327826:0,uFldNodeComms=0:0.159025:0.084877:0,uFldShoreBroker=0:0.174046:0.043869:0,uMAC_4192=0:0.211954:0.1719:0,uProcessWatch=0:0.236034:0.189781:0, 
+1.85778         REALMCAST_CHANNELS   pRealm          node=shoreside#channels=MOOSDB_shoreside,pHostInfo,pLogger,pMarineViewer,pRealm,pShare,uFldNodeComms,uFldShoreBroker,uProcessWatch, 
+1.90270         PHI_HOST_IP          pHostInfo       localhost 
+1.90271         PHI_HOST_IP_ALL      pHostInfo       localhost 
+1.90271         PHI_HOST_IP_VERBOSE  pHostInfo       USER_HARD_CONFIGURED=localhost 
+1.90271         PHI_HOST_PORT_DB     pHostInfo       9000 
+1.90272         PHI_HOST_INFO        pHostInfo       community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,hostip_alts=,timewarp=1 
+2.00428         UFSB_NODE_COUNT      uFldShoreBroker 0.00000      
+2.10457         PROC_WATCH_SUMMARY   uProcessWatch   All Present 
+2.10458         PROC_WATCH_ALL_OK    uProcessWatch   true 
+2.10460         PROC_WATCH_FULL_SUMMARY uProcessWatch   uFldNodeComms(1/0),uFldShoreBroker(1/0),pHostInfo(1/0),pShare(1/0),pLogger(1/0),pMarineViewer(1/0),pRealm(1/0) 
+2.70628         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00074      
+2.70631         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00005      
+2.83495         PSHARE_OUTPUT_SUMMARY pShare           
+2.83495         PSHARE_INPUT_SUMMARY pShare          localhost:9200 
+2.85964         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00082      
+2.85964         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00002      
+2.86018         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+2.86021         APPCAST_REQ_SHORESIDE pMarineViewer   node=shoreside,app=pRealm,duration=3.0,key=pMarineViewer:shoresideapp,thresh=any 
+2.90303         PHOSTINFO_ITER_GAP   pHostInfo       1.00033      
+2.90304         PHOSTINFO_ITER_LEN   pHostInfo       0.00001      
+2.95385         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+2.95386         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+3.00461         UFLDSHOREBROKER_ITER_GAP uFldShoreBroker 1.00032      
+3.00465         UFLDSHOREBROKER_ITER_LEN uFldShoreBroker 0.00005      
+3.05959         PREALM_ITER_GAP      pRealm          1.00099      
+3.05962         PREALM_ITER_LEN      pRealm          0.00013      
+3.10542         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00098      
+3.10543         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+3.10565         APPCAST              uProcessWatch   proc=uProcessWatch!@#iter=4!@#node=shoreside!@#iter=4!@#messages=Summary: All Present!@!@Antler List: pHostInfo,pLogger,pMarineViewer,pRealm,pShare!@             uFldNodeComms,uFldShoreBroker!@!@                                          Current    Max!@ProcName          Watch Reason   Status   CPU Load   CPU Load!@---------------   ------------   ------   --------   --------!@pHostInfo         ANT       DB   [7;32mOK[0m       0.11       0.11!@pLogger           ANT       DB   [7;32mOK[0m       0.56       0.84!@pMarineViewer     ANT       DB   [7;32mOK[0m       0.76       2.31!@pRealm            ANT       DB   [7;32mOK[0m       0.58       1.79!@pShare            ANT       DB   [7;32mOK[0m       0.22       0.55!@uFldNodeComms     ANT       DB   [7;32mOK[0m       0.27       0.27!@uFldShoreBroker   ANT       DB   [7;32mOK[0m       0.13       0.13!@!@#!@#events_total=7!@#events=Noted to be present: [uFldNodeComms]!@Noted to be present: [uFldShoreBroker]!@Noted to be present: [pHostInfo]!@Noted to be present: [pShare]!@Noted to be present: [pLogger]!@Noted to be present: [pMarineViewer]!@Noted to be present: [pRealm]!@#run_warning_total=0!@# 
+3.10988         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00097      
+3.10989         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00004      
+3.11064         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+3.20656         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00057      
+3.20658         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00004      
+3.20665         APPCAST              uFldNodeComms   proc=uFldNodeComms!@#iter=4!@#node=shoreside!@#iter=4!@#messages=Configuration:  !@       Comms Range: 5000!@    Critical Range: 25!@        Stale Drop: 5!@       Stale Foget: 100!@   Max Message Len: 10000!@   Min Message Int: 0!@   Min Report  Int: -1!@          Drop Pct: 0!@       Apply Group: false!@     Share Reports: false!@      Ignore Group: !@!@Node Report Summary!@======================================!@     Total Received: 0         Elapsed      Rate!@     --------------- !@         Total Sent: 0!@     --------------- !@     Stale Vehicles: 0!@!@Node Message Summary!@======================================!@    Total Msgs Received: 0!@     ------------------ !@            Total Sent: 0!@     ------------------ !@    Total Blocked Msgs: 0!@               Invalid: 0!@          Missing Info: 0!@        Stale Receiver: 0!@            Too Recent: 0!@          Msg Too Long: 0!@         Range Too Far: 0!@!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+3.25986         PREALM_ITER_GAP      pRealm          1.00133      
+3.25988         PREALM_ITER_LEN      pRealm          0.00009      
+3.36016         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00111      
+3.36017         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00007      
+3.36026         APPCAST              pMarineViewer   proc=pMarineViewer!@#iter=11!@#node=shoreside!@#iter=11!@#messages=Tiff File: MIT_SP.tif!@Tiff File (Current): MIT_SP.tif!@------------------ !@Total GeoShapes:   0!@Clear GeoShapes:   0!@NodeReports Recd:  0!@Node Rpt Rate(R):  0!@Node Rpt Rate(W):  0!@Node Report Vars:  NODE_REPORT_LOCAL,NODE_REPORT!@Mission Hash:      mhash=230627-1246L-PURE-KARL,utc=1687884400.28!@Mission Hash Var:  MISSION_HASH!@Block Heartbeat:   false!@------------------ !@AC Iterations:     11!@PMV Iterations:    10!@------------------ !@RC Count:          0!@WC Count:          0!@Draw Count:       21!@Draw Count Rate:  7.63469!@Curr Time:        1687884402.75!@Time Warp:        1.000!@Stale report thresh: 60!@Stale remove thresh: 180!@Elapsed:          0.00004!@CmdFolio size:    9!@!@Visual Settings: !@  window pan_x:  30.00!@  window pan_y:  -290.00!@  window  zoom:  1.50!@  vehicle zoom:  1.5!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+3.36077         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+3.46002         PREALM_ITER_GAP      pRealm          1.00077      
+3.46004         PREALM_ITER_LEN      pRealm          0.00013      
+3.55479         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+3.55479         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+3.60584         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00084      
+3.60585         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00001      
+3.60600         APPCAST              uProcessWatch   proc=uProcessWatch!@#iter=5!@#node=shoreside!@#iter=5!@#messages=Summary: All Present!@!@Antler List: pHostInfo,pLogger,pMarineViewer,pRealm,pShare!@             uFldNodeComms,uFldShoreBroker!@!@                                          Current    Max!@ProcName          Watch Reason   Status   CPU Load   CPU Load!@---------------   ------------   ------   --------   --------!@pHostInfo         ANT       DB   [7;32mOK[0m       0.11       0.11!@pLogger           ANT       DB   [7;32mOK[0m       0.56       0.84!@pMarineViewer     ANT       DB   [7;32mOK[0m       0.76       2.31!@pRealm            ANT       DB   [7;32mOK[0m       0.58       1.79!@pShare            ANT       DB   [7;32mOK[0m       0.22       0.55!@uFldNodeComms     ANT       DB   [7;32mOK[0m       0.27       0.27!@uFldShoreBroker   ANT       DB   [7;32mOK[0m       0.13       0.13!@!@#!@#events_total=7!@#events=Noted to be present: [uFldNodeComms]!@Noted to be present: [uFldShoreBroker]!@Noted to be present: [pHostInfo]!@Noted to be present: [pShare]!@Noted to be present: [pLogger]!@Noted to be present: [pMarineViewer]!@Noted to be present: [pRealm]!@#run_warning_total=0!@# 
+3.61037         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00084      
+3.61037         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00002      
+3.61063         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+3.66015         PREALM_ITER_GAP      pRealm          1.00067      
+3.66017         PREALM_ITER_LEN      pRealm          0.00010      
+3.66026         APPCAST              pRealm          proc=pRealm!@#iter=16!@#node=shoreside!@#iter=16!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 72!@  Total PVars: 29!@  Unique Vars: 87!@  UTC Time:    1687884403.30!@  Local Time:  3.20!@  Summaries:   2!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+3.70679         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00045      
+3.70680         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00002      
+3.70683         APPCAST              uFldNodeComms   proc=uFldNodeComms!@#iter=5!@#node=shoreside!@#iter=5!@#messages=Configuration:  !@       Comms Range: 5000!@    Critical Range: 25!@        Stale Drop: 5!@       Stale Foget: 100!@   Max Message Len: 10000!@   Min Message Int: 0!@   Min Report  Int: -1!@          Drop Pct: 0!@       Apply Group: false!@     Share Reports: false!@      Ignore Group: !@!@Node Report Summary!@======================================!@     Total Received: 0         Elapsed      Rate!@     --------------- !@         Total Sent: 0!@     --------------- !@     Stale Vehicles: 0!@!@Node Message Summary!@======================================!@    Total Msgs Received: 0!@     ------------------ !@            Total Sent: 0!@     ------------------ !@    Total Blocked Msgs: 0!@               Invalid: 0!@          Missing Info: 0!@        Stale Receiver: 0!@            Too Recent: 0!@          Msg Too Long: 0!@         Range Too Far: 0!@!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+3.70700         DB_TIME              MOOSDB_shoreside 1687884403.35155 
+3.70701         DB_UPTIME            MOOSDB_shoreside 4.01103      
+3.70702         DB_CLIENTS           MOOSDB_shoreside uFldNodeComms,uProcessWatch,uFldShoreBroker,pHostInfo,pShare,pLogger,pMarineViewer,pRealm,uMAC_4192, 
+3.70741         DB_QOS               MOOSDB_shoreside pHostInfo=0:0.365973:0.159979:0,pLogger=0:0.241995:0.0870228:0,pMarineViewer=0:0.167847:0.0851154:0,pRealm=0:0.279903:0.185013:0,pShare=0:0.327826:0.164032:0,uFldNodeComms=0:0.236034:0.084877:0,uFldShoreBroker=0:0.236988:0.043869:0,uMAC_4192=0:0.239134:0.1719:0,uProcessWatch=0:0.264883:0.189781:0, 
+3.84064         PSHARE_OUTPUT_SUMMARY pShare           
+3.84065         PSHARE_INPUT_SUMMARY pShare          localhost:9200 
+3.86047         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00038      
+3.86047         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00004      
+3.86053         APPCAST              pMarineViewer   proc=pMarineViewer!@#iter=13!@#node=shoreside!@#iter=13!@#messages=Tiff File: MIT_SP.tif!@Tiff File (Current): MIT_SP.tif!@------------------ !@Total GeoShapes:   0!@Clear GeoShapes:   0!@NodeReports Recd:  0!@Node Rpt Rate(R):  0!@Node Rpt Rate(W):  0!@Node Report Vars:  NODE_REPORT_LOCAL,NODE_REPORT!@Mission Hash:      mhash=230627-1246L-PURE-KARL,utc=1687884400.28!@Mission Hash Var:  MISSION_HASH!@Block Heartbeat:   false!@------------------ !@AC Iterations:     13!@PMV Iterations:    12!@------------------ !@RC Count:          0!@WC Count:          0!@Draw Count:       25!@Draw Count Rate:  7.69017!@Curr Time:        1687884403.25!@Time Warp:        1.000!@Stale report thresh: 60!@Stale remove thresh: 180!@Elapsed:          0.00001!@CmdFolio size:    9!@!@Visual Settings: !@  window pan_x:  30.00!@  window pan_y:  -290.00!@  window  zoom:  1.50!@  vehicle zoom:  1.5!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+3.86062         PREALM_ITER_GAP      pRealm          1.00235      
+3.86063         PREALM_ITER_LEN      pRealm          0.00007      
+3.86080         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+3.90328         PHOSTINFO_ITER_GAP   pHostInfo       1.00024      
+3.90328         PHOSTINFO_ITER_LEN   pHostInfo       0.00000      
+3.90329         APPCAST              pHostInfo       proc=pHostInfo!@#iter=3!@#node=shoreside!@#iter=3!@#messages=!@  PHI_HOST_IP:          [7;31mDEFAULT HOSTIP FORCED[0m!@  PHI_HOST_IP_ALL:      localhost!@!@  PHI_HOST_IP_VERBOSE:  USER_HARD_CONFIGURED=localhost!@!@  PHI_HOST_PORT:        9000!@  PHI_PSHARES_IROUTES:  localhost:9200!@  HOSTNAME util(Linux): !@  PHI_HOST_INFO:        community=shoreside,hostip=localhost,!@                        port_db=9000,port_udp=9200,!@                        pshare_iroutes=localhost:9200,hostip_alts=,!@                        timewarp=1!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+4.00498         UFLDSHOREBROKER_ITER_GAP uFldShoreBroker 1.00038      
+4.00499         UFLDSHOREBROKER_ITER_LEN uFldShoreBroker 0.00001      
+4.00508         APPCAST              uFldShoreBroker proc=uFldShoreBroker!@#iter=3!@#node=shoreside!@#iter=3!@#messages=!@ Total PHI_HOST_INFO    received: 1!@ Total NODE_BROKER_PING received: 0!@ Total NODE_BROKER_ACK    posted: 3!@ Total PSHARE_CMD         posted: 0!@!@===========================================================!@            Shoreside Node(s) Information:!@===========================================================!@!@     Community: shoreside!@        HostIP: localhost!@   Port MOOSDB: 9000!@     Time Warp: 1!@       IRoutes: localhost:9200!@!@===========================================================!@             Vehicle Node Information:!@===========================================================!@!@Node  IP               Elap  pShare!@Name  Address  Status  Time  Input Route(s)  Skew!@----  -------  ------  ----  --------------  ----!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+4.06083         PREALM_ITER_GAP      pRealm          1.00108      
+4.06085         PREALM_ITER_LEN      pRealm          0.00010      
+4.10618         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00068      
+4.10619         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+4.10632         APPCAST              uProcessWatch   proc=uProcessWatch!@#iter=6!@#node=shoreside!@#iter=6!@#messages=Summary: All Present!@!@Antler List: pHostInfo,pLogger,pMarineViewer,pRealm,pShare!@             uFldNodeComms,uFldShoreBroker!@!@                                          Current    Max!@ProcName          Watch Reason   Status   CPU Load   CPU Load!@---------------   ------------   ------   --------   --------!@pHostInfo         ANT       DB   [7;32mOK[0m       0.09       0.11!@pLogger           ANT       DB   [7;32mOK[0m       0.56       0.84!@pMarineViewer     ANT       DB   [7;32mOK[0m       0.76       2.31!@pRealm            ANT       DB   [7;32mOK[0m       0.58       1.79!@pShare            ANT       DB   [7;32mOK[0m       0.22       0.55!@uFldNodeComms     ANT       DB   [7;32mOK[0m       0.11       0.27!@uFldShoreBroker   ANT       DB   [7;32mOK[0m       0.08       0.13!@!@#!@#events_total=7!@#events=Noted to be present: [uFldNodeComms]!@Noted to be present: [uFldShoreBroker]!@Noted to be present: [pHostInfo]!@Noted to be present: [pShare]!@Noted to be present: [pLogger]!@Noted to be present: [pMarineViewer]!@Noted to be present: [pRealm]!@#run_warning_total=0!@# 
+4.11064         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00068      
+4.11064         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00005      
+4.11110         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+4.15549         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+4.15550         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+4.20705         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00053      
+4.20708         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00005      
+4.20715         APPCAST              uFldNodeComms   proc=uFldNodeComms!@#iter=6!@#node=shoreside!@#iter=6!@#messages=Configuration:  !@       Comms Range: 5000!@    Critical Range: 25!@        Stale Drop: 5!@       Stale Foget: 100!@   Max Message Len: 10000!@   Min Message Int: 0!@   Min Report  Int: -1!@          Drop Pct: 0!@       Apply Group: false!@     Share Reports: false!@      Ignore Group: !@!@Node Report Summary!@======================================!@     Total Received: 0         Elapsed      Rate!@     --------------- !@         Total Sent: 0!@     --------------- !@     Stale Vehicles: 0!@!@Node Message Summary!@======================================!@    Total Msgs Received: 0!@     ------------------ !@            Total Sent: 0!@     ------------------ !@    Total Blocked Msgs: 0!@               Invalid: 0!@          Missing Info: 0!@        Stale Receiver: 0!@            Too Recent: 0!@          Msg Too Long: 0!@         Range Too Far: 0!@!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+4.26112         PREALM_ITER_GAP      pRealm          1.00143      
+4.26115         PREALM_ITER_LEN      pRealm          0.00015      
+4.26127         APPCAST              pRealm          proc=pRealm!@#iter=19!@#node=shoreside!@#iter=19!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 97!@  Total PVars: 46!@  Unique Vars: 99!@  UTC Time:    1687884403.91!@  Local Time:  3.81!@  Summaries:   2!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+4.36081         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00072      
+4.36083         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00006      
+4.36091         APPCAST              pMarineViewer   proc=pMarineViewer!@#iter=15!@#node=shoreside!@#iter=15!@#messages=Tiff File: MIT_SP.tif!@Tiff File (Current): MIT_SP.tif!@------------------ !@Total GeoShapes:   0!@Clear GeoShapes:   0!@NodeReports Recd:  0!@Node Rpt Rate(R):  0!@Node Rpt Rate(W):  0!@Node Report Vars:  NODE_REPORT_LOCAL,NODE_REPORT!@Mission Hash:      mhash=230627-1246L-PURE-KARL,utc=1687884400.28!@Mission Hash Var:  MISSION_HASH!@Block Heartbeat:   false!@------------------ !@AC Iterations:     15!@PMV Iterations:    14!@------------------ !@RC Count:          0!@WC Count:          0!@Draw Count:       29!@Draw Count Rate:  7.73075!@Curr Time:        1687884403.76!@Time Warp:        1.000!@Stale report thresh: 60!@Stale remove thresh: 180!@Elapsed:          0.00003!@CmdFolio size:    9!@!@Visual Settings: !@  window pan_x:  30.00!@  window pan_y:  -290.00!@  window  zoom:  1.50!@  vehicle zoom:  1.5!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+4.36146         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+4.46150         PREALM_ITER_GAP      pRealm          1.00188      
+4.46156         PREALM_ITER_LEN      pRealm          0.00032      
+4.60644         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00051      
+4.60645         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+4.60666         APPCAST              uProcessWatch   proc=uProcessWatch!@#iter=7!@#node=shoreside!@#iter=7!@#messages=Summary: All Present!@!@Antler List: pHostInfo,pLogger,pMarineViewer,pRealm,pShare!@             uFldNodeComms,uFldShoreBroker!@!@                                          Current    Max!@ProcName          Watch Reason   Status   CPU Load   CPU Load!@---------------   ------------   ------   --------   --------!@pHostInfo         ANT       DB   [7;32mOK[0m       0.09       0.11!@pLogger           ANT       DB   [7;32mOK[0m       0.56       0.84!@pMarineViewer     ANT       DB   [7;32mOK[0m       0.76       2.31!@pRealm            ANT       DB   [7;32mOK[0m       0.58       1.79!@pShare            ANT       DB   [7;32mOK[0m       0.22       0.55!@uFldNodeComms     ANT       DB   [7;32mOK[0m       0.11       0.27!@uFldShoreBroker   ANT       DB   [7;32mOK[0m       0.08       0.13!@!@#!@#events_total=7!@#events=Noted to be present: [uFldNodeComms]!@Noted to be present: [uFldShoreBroker]!@Noted to be present: [pHostInfo]!@Noted to be present: [pShare]!@Noted to be present: [pLogger]!@Noted to be present: [pMarineViewer]!@Noted to be present: [pRealm]!@#run_warning_total=0!@# 
+4.61118         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00145      
+4.61119         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00008      
+4.61193         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+4.66184         PREALM_ITER_GAP      pRealm          1.00170      
+4.66186         PREALM_ITER_LEN      pRealm          0.00011      
+4.70738         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00063      
+4.70740         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00007      
+4.70748         APPCAST              uFldNodeComms   proc=uFldNodeComms!@#iter=7!@#node=shoreside!@#iter=7!@#messages=Configuration:  !@       Comms Range: 5000!@    Critical Range: 25!@        Stale Drop: 5!@       Stale Foget: 100!@   Max Message Len: 10000!@   Min Message Int: 0!@   Min Report  Int: -1!@          Drop Pct: 0!@       Apply Group: false!@     Share Reports: false!@      Ignore Group: !@!@Node Report Summary!@======================================!@     Total Received: 0         Elapsed      Rate!@     --------------- !@         Total Sent: 0!@     --------------- !@     Stale Vehicles: 0!@!@Node Message Summary!@======================================!@    Total Msgs Received: 0!@     ------------------ !@            Total Sent: 0!@     ------------------ !@    Total Blocked Msgs: 0!@               Invalid: 0!@          Missing Info: 0!@        Stale Receiver: 0!@            Too Recent: 0!@          Msg Too Long: 0!@         Range Too Far: 0!@!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+4.75657         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+4.75658         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+4.84640         PSHARE_OUTPUT_SUMMARY pShare           
+4.84640         PSHARE_INPUT_SUMMARY pShare          localhost:9200 
+4.86142         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00098      
+4.86142         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00002      
+4.86148         APPCAST              pMarineViewer   proc=pMarineViewer!@#iter=17!@#node=shoreside!@#iter=17!@#messages=Tiff File: MIT_SP.tif!@Tiff File (Current): MIT_SP.tif!@------------------ !@Total GeoShapes:   0!@Clear GeoShapes:   0!@NodeReports Recd:  0!@Node Rpt Rate(R):  0!@Node Rpt Rate(W):  0!@Node Report Vars:  NODE_REPORT_LOCAL,NODE_REPORT!@Mission Hash:      mhash=230627-1246L-PURE-KARL,utc=1687884400.28!@Mission Hash Var:  MISSION_HASH!@Block Heartbeat:   false!@------------------ !@AC Iterations:     17!@PMV Iterations:    16!@------------------ !@RC Count:          0!@WC Count:          0!@Draw Count:       33!@Draw Count Rate:  7.76131!@Curr Time:        1687884404.26!@Time Warp:        1.000!@Stale report thresh: 60!@Stale remove thresh: 180!@Elapsed:          0.00005!@CmdFolio size:    9!@!@Visual Settings: !@  window pan_x:  30.00!@  window pan_y:  -290.00!@  window  zoom:  1.50!@  vehicle zoom:  1.5!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+4.86198         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+4.86200         APPCAST_REQ          pMarineViewer   node=shoreside,app=pRealm,duration=3.0,key=pMarineViewer:shoresideapp,thresh=any 
+4.86201         APPCAST_REQ_SHORESIDE pMarineViewer   node=shoreside,app=pRealm,duration=3.0,key=pMarineViewer:shoresideapp,thresh=any 
+4.86202         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+4.86202         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+4.86205         PREALM_ITER_GAP      pRealm          1.00107      
+4.86209         PREALM_ITER_LEN      pRealm          0.00019      
+4.86229         APPCAST              pRealm          proc=pRealm!@#iter=22!@#node=shoreside!@#iter=22!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 97!@  Total PVars: 46!@  Unique Vars: 99!@  UTC Time:    1687884404.51!@  Local Time:  4.41!@  Summaries:   2!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+4.90352         PHOSTINFO_ITER_GAP   pHostInfo       1.00024      
+4.90353         PHOSTINFO_ITER_LEN   pHostInfo       0.00001      
+4.90361         APPCAST              pHostInfo       proc=pHostInfo!@#iter=4!@#node=shoreside!@#iter=4!@#messages=!@  PHI_HOST_IP:          [7;31mDEFAULT HOSTIP FORCED[0m!@  PHI_HOST_IP_ALL:      localhost!@!@  PHI_HOST_IP_VERBOSE:  USER_HARD_CONFIGURED=localhost!@!@  PHI_HOST_PORT:        9000!@  PHI_PSHARES_IROUTES:  localhost:9200!@  HOSTNAME util(Linux): !@  PHI_HOST_INFO:        community=shoreside,hostip=localhost,!@                        port_db=9000,port_udp=9200,!@                        pshare_iroutes=localhost:9200,hostip_alts=,!@                        timewarp=1!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+5.00522         UFLDSHOREBROKER_ITER_GAP uFldShoreBroker 1.00024      
+5.00523         UFLDSHOREBROKER_ITER_LEN uFldShoreBroker 0.00002      
+5.00533         APPCAST              uFldShoreBroker proc=uFldShoreBroker!@#iter=4!@#node=shoreside!@#iter=4!@#messages=!@ Total PHI_HOST_INFO    received: 1!@ Total NODE_BROKER_PING received: 0!@ Total NODE_BROKER_ACK    posted: 4!@ Total PSHARE_CMD         posted: 0!@!@===========================================================!@            Shoreside Node(s) Information:!@===========================================================!@!@     Community: shoreside!@        HostIP: localhost!@   Port MOOSDB: 9000!@     Time Warp: 1!@       IRoutes: localhost:9200!@!@===========================================================!@             Vehicle Node Information:!@===========================================================!@!@Node  IP               Elap  pShare!@Name  Address  Status  Time  Input Route(s)  Skew!@----  -------  ------  ----  --------------  ----!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+5.06260         PREALM_ITER_GAP      pRealm          1.00277      
+5.06263         PREALM_ITER_LEN      pRealm          0.00015      
+5.10694         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00102      
+5.10695         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+5.10716         APPCAST              uProcessWatch   proc=uProcessWatch!@#iter=8!@#node=shoreside!@#iter=8!@#messages=Summary: All Present!@!@Antler List: pHostInfo,pLogger,pMarineViewer,pRealm,pShare!@             uFldNodeComms,uFldShoreBroker!@!@                                          Current    Max!@ProcName          Watch Reason   Status   CPU Load   CPU Load!@---------------   ------------   ------   --------   --------!@pHostInfo         ANT       DB   [7;32mOK[0m       0.09       0.11!@pLogger           ANT       DB   [7;32mOK[0m       0.46       0.84!@pMarineViewer     ANT       DB   [7;32mOK[0m       0.63       2.31!@pRealm            ANT       DB   [7;32mOK[0m       0.36       1.79!@pShare            ANT       DB   [7;32mOK[0m       0.24       0.55!@uFldNodeComms     ANT       DB   [7;32mOK[0m       0.11       0.27!@uFldShoreBroker   ANT       DB   [7;32mOK[0m       0.08       0.13!@!@#!@#events_total=7!@#events=Noted to be present: [uFldNodeComms]!@Noted to be present: [uFldShoreBroker]!@Noted to be present: [pHostInfo]!@Noted to be present: [pShare]!@Noted to be present: [pLogger]!@Noted to be present: [pMarineViewer]!@Noted to be present: [pRealm]!@#run_warning_total=0!@# 
+5.11165         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00094      
+5.11167         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00006      
+5.11249         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+5.20761         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00049      
+5.20764         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00005      
+5.20771         APPCAST              uFldNodeComms   proc=uFldNodeComms!@#iter=8!@#node=shoreside!@#iter=8!@#messages=Configuration:  !@       Comms Range: 5000!@    Critical Range: 25!@        Stale Drop: 5!@       Stale Foget: 100!@   Max Message Len: 10000!@   Min Message Int: 0!@   Min Report  Int: -1!@          Drop Pct: 0!@       Apply Group: false!@     Share Reports: false!@      Ignore Group: !@!@Node Report Summary!@======================================!@     Total Received: 0         Elapsed      Rate!@     --------------- !@         Total Sent: 0!@     --------------- !@     Stale Vehicles: 0!@!@Node Message Summary!@======================================!@    Total Msgs Received: 0!@     ------------------ !@            Total Sent: 0!@     ------------------ !@    Total Blocked Msgs: 0!@               Invalid: 0!@          Missing Info: 0!@        Stale Receiver: 0!@            Too Recent: 0!@          Msg Too Long: 0!@         Range Too Far: 0!@!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+5.26278         PREALM_ITER_GAP      pRealm          1.00086      
+5.26281         PREALM_ITER_LEN      pRealm          0.00017      
+0.60734         PMARINEVIEWER_PID    pMarineViewer   16235.00000  
+0.65837         DB_EVENT             MOOSDB_shoreside connected=uFldNodeComms 
+0.70163         LOGGER_DIRECTORY     pLogger         ./XLOG_SHORESIDE_27_6_2023_____12_46_40 
+0.85777         HELM_MAP_CLEAR       pMarineViewer   0.00000      
+0.85777         PMV_CONNECT          pMarineViewer   0.00000      
+0.86143         MISSION_HASH         pMarineViewer   mhash=230627-1246L-PURE-KARL,utc=1687884400.28 
+1.00403         UFSB_QBRIDGE_VARS    uFldShoreBroker APPCAST_REQ,ATURN,ATURN_ENGAGE,AVOID,DEPLOY,FSTOP_UPDATE,LEG_RUNNING,LEG_UPDATE,MOOS_MANUAL_OVERRIDE,NODE_MESSAGE,NODE_REPORT,OPREGION_RESET,REALMCAST_REQ,RETURN,SAY_MOOS,STATION_KEEP,ZIGGING 
+1.10351         PROC_WATCH_TIME_WARP uProcessWatch   1.00000      
+1.10380         PROC_WATCH_EVENT     uProcessWatch   Noted to be present: [pRealm] 
+1.85778         REALMCAST_CHANNELS   pRealm          node=shoreside#channels=MOOSDB_shoreside,pHostInfo,pLogger,pMarineViewer,pRealm,pShare,uFldNodeComms,uFldShoreBroker,uProcessWatch, 
+1.90270         PHI_HOST_IP          pHostInfo       localhost 
+1.90271         PHI_HOST_IP_ALL      pHostInfo       localhost 
+1.90271         PHI_HOST_IP_VERBOSE  pHostInfo       USER_HARD_CONFIGURED=localhost 
+1.90271         PHI_HOST_PORT_DB     pHostInfo       9000 
+1.90272         PHI_HOST_INFO        pHostInfo       community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,hostip_alts=,timewarp=1 
+2.00428         UFSB_NODE_COUNT      uFldShoreBroker 0.00000      
+2.10457         PROC_WATCH_SUMMARY   uProcessWatch   All Present 
+2.10458         PROC_WATCH_ALL_OK    uProcessWatch   true 
+2.10460         PROC_WATCH_FULL_SUMMARY uProcessWatch   uFldNodeComms(1/0),uFldShoreBroker(1/0),pHostInfo(1/0),pShare(1/0),pLogger(1/0),pMarineViewer(1/0),pRealm(1/0) 
+3.70700         DB_TIME              MOOSDB_shoreside 1687884403.35155 
+3.70701         DB_UPTIME            MOOSDB_shoreside 4.01103      
+3.70702         DB_CLIENTS           MOOSDB_shoreside uFldNodeComms,uProcessWatch,uFldShoreBroker,pHostInfo,pShare,pLogger,pMarineViewer,pRealm,uMAC_4192, 
+3.70741         DB_QOS               MOOSDB_shoreside pHostInfo=0:0.365973:0.159979:0,pLogger=0:0.241995:0.0870228:0,pMarineViewer=0:0.167847:0.0851154:0,pRealm=0:0.279903:0.185013:0,pShare=0:0.327826:0.164032:0,uFldNodeComms=0:0.236034:0.084877:0,uFldShoreBroker=0:0.236988:0.043869:0,uMAC_4192=0:0.239134:0.1719:0,uProcessWatch=0:0.264883:0.189781:0, 
+4.84640         PSHARE_OUTPUT_SUMMARY pShare           
+4.84640         PSHARE_INPUT_SUMMARY pShare          localhost:9200 
+4.86201         APPCAST_REQ_SHORESIDE pMarineViewer   node=shoreside,app=pRealm,duration=3.0,key=pMarineViewer:shoresideapp,thresh=any 
+4.86202         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+4.86202         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+4.90352         PHOSTINFO_ITER_GAP   pHostInfo       1.00024      
+4.90353         PHOSTINFO_ITER_LEN   pHostInfo       0.00001      
+5.00522         UFLDSHOREBROKER_ITER_GAP uFldShoreBroker 1.00024      
+5.00523         UFLDSHOREBROKER_ITER_LEN uFldShoreBroker 0.00002      
+5.10694         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00102      
+5.10695         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+5.11165         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00094      
+5.11167         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00006      
+5.11248         HEARTBEAT            pMarineViewer   true 
+5.11249         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+5.20761         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00049      
+5.20764         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00005      
+5.20771         APPCAST              uFldNodeComms   proc=uFldNodeComms!@#iter=8!@#node=shoreside!@#iter=8!@#messages=Configuration:  !@       Comms Range: 5000!@    Critical Range: 25!@        Stale Drop: 5!@       Stale Foget: 100!@   Max Message Len: 10000!@   Min Message Int: 0!@   Min Report  Int: -1!@          Drop Pct: 0!@       Apply Group: false!@     Share Reports: false!@      Ignore Group: !@!@Node Report Summary!@======================================!@     Total Received: 0         Elapsed      Rate!@     --------------- !@         Total Sent: 0!@     --------------- !@     Stale Vehicles: 0!@!@Node Message Summary!@======================================!@    Total Msgs Received: 0!@     ------------------ !@            Total Sent: 0!@     ------------------ !@    Total Blocked Msgs: 0!@               Invalid: 0!@          Missing Info: 0!@        Stale Receiver: 0!@            Too Recent: 0!@          Msg Too Long: 0!@         Range Too Far: 0!@!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+5.26278         PREALM_ITER_GAP      pRealm          1.00086      
+5.26281         PREALM_ITER_LEN      pRealm          0.00017      
+5.35743         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+5.35744         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+5.36182         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00066      
+5.36184         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00008      
+5.36196         APPCAST              pMarineViewer   proc=pMarineViewer!@#iter=19!@#node=shoreside!@#iter=19!@#messages=Tiff File: MIT_SP.tif!@Tiff File (Current): MIT_SP.tif!@------------------ !@Total GeoShapes:   0!@Clear GeoShapes:   0!@NodeReports Recd:  0!@Node Rpt Rate(R):  0!@Node Rpt Rate(W):  0!@Node Report Vars:  NODE_REPORT_LOCAL,NODE_REPORT!@Mission Hash:      mhash=230627-1246L-PURE-KARL,utc=1687884400.28!@Mission Hash Var:  MISSION_HASH!@Block Heartbeat:   false!@------------------ !@AC Iterations:     19!@PMV Iterations:    18!@------------------ !@RC Count:          0!@WC Count:          0!@Draw Count:       37!@Draw Count Rate:  7.78576!@Curr Time:        1687884404.76!@Time Warp:        1.000!@Stale report thresh: 60!@Stale remove thresh: 180!@Elapsed:          0.00006!@CmdFolio size:    9!@!@Visual Settings: !@  window pan_x:  30.00!@  window pan_y:  -290.00!@  window  zoom:  1.50!@  vehicle zoom:  1.5!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+5.36255         HEARTBEAT            pMarineViewer   true 
+5.36256         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+5.46304         PREALM_ITER_GAP      pRealm          1.00133      
+5.46308         PREALM_ITER_LEN      pRealm          0.00019      
+5.46326         APPCAST              pRealm          proc=pRealm!@#iter=25!@#node=shoreside!@#iter=25!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 97!@  Total PVars: 46!@  Unique Vars: 99!@  UTC Time:    1687884405.11!@  Local Time:  5.01!@  Summaries:   2!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+5.60733         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00077      
+5.60733         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00001      
+5.60755         APPCAST              uProcessWatch   proc=uProcessWatch!@#iter=9!@#node=shoreside!@#iter=9!@#messages=Summary: All Present!@!@Antler List: pHostInfo,pLogger,pMarineViewer,pRealm,pShare!@             uFldNodeComms,uFldShoreBroker!@!@                                          Current    Max!@ProcName          Watch Reason   Status   CPU Load   CPU Load!@---------------   ------------   ------   --------   --------!@pHostInfo         ANT       DB   [7;32mOK[0m       0.09       0.11!@pLogger           ANT       DB   [7;32mOK[0m       0.46       0.84!@pMarineViewer     ANT       DB   [7;32mOK[0m       0.63       2.31!@pRealm            ANT       DB   [7;32mOK[0m       0.36       1.79!@pShare            ANT       DB   [7;32mOK[0m       0.24       0.55!@uFldNodeComms     ANT       DB   [7;32mOK[0m       0.11       0.27!@uFldShoreBroker   ANT       DB   [7;32mOK[0m       0.08       0.13!@!@#!@#events_total=7!@#events=Noted to be present: [uFldNodeComms]!@Noted to be present: [uFldShoreBroker]!@Noted to be present: [pHostInfo]!@Noted to be present: [pShare]!@Noted to be present: [pLogger]!@Noted to be present: [pMarineViewer]!@Noted to be present: [pRealm]!@#run_warning_total=0!@# 
+5.61219         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00148      
+5.61221         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00007      
+5.61299         HEARTBEAT            pMarineViewer   true 
+5.61300         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+5.66341         PREALM_ITER_GAP      pRealm          1.00182      
+5.66344         PREALM_ITER_LEN      pRealm          0.00018      
+5.70789         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00054      
+5.70790         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00003      
+5.70813         DB_TIME              MOOSDB_shoreside 1687884405.35268 
+5.70814         DB_UPTIME            MOOSDB_shoreside 6.01216      
+5.70815         DB_CLIENTS           MOOSDB_shoreside uFldNodeComms,uProcessWatch,uFldShoreBroker,pHostInfo,pShare,pLogger,pMarineViewer,pRealm,uMAC_4192, 
+5.70880         DB_QOS               MOOSDB_shoreside pHostInfo=0.286102:0.365973:0.159979:0.254011,pLogger=0.322104:0.322104:0.0870228:0.193644,pMarineViewer=0.291109:0.291109:0.0851154:0.169182,pRealm=0.22912:0.279903:0.172853:0.220203,pShare=0.298023:0.327826:0.114918:0.22316,uFldNodeComms=0.144005:0.236034:0.084877:0.156403,uFldShoreBroker=0.174999:0.285864:0.043869:0.171757,uMAC_4192=0.137806:0.239134:0.137806:0.196552,uProcessWatch=0.270844:0.313044:0.189781:0.245285, 
+5.85410         PSHARE_OUTPUT_SUMMARY pShare           
+5.85411         PSHARE_INPUT_SUMMARY pShare          localhost:9200 
+5.86230         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00042      
+5.86233         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00014      
+5.86271         HEARTBEAT            pMarineViewer   true 
+5.86272         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+5.86401         PREALM_ITER_GAP      pRealm          1.00299      
+5.86403         PREALM_ITER_LEN      pRealm          0.00011      
+5.90377         PHOSTINFO_ITER_GAP   pHostInfo       1.00025      
+5.90377         PHOSTINFO_ITER_LEN   pHostInfo       0.00000      
+5.95846         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+5.95846         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+6.00548         UFLDSHOREBROKER_ITER_GAP uFldShoreBroker 1.00026      
+6.00549         UFLDSHOREBROKER_ITER_LEN uFldShoreBroker 0.00001      
+6.06418         PREALM_ITER_GAP      pRealm          1.00086      
+6.06421         PREALM_ITER_LEN      pRealm          0.00014      
+6.06434         APPCAST              pRealm          proc=pRealm!@#iter=28!@#node=shoreside!@#iter=28!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 98!@  Total PVars: 47!@  Unique Vars: 100!@  UTC Time:    1687884405.71!@  Local Time:  5.61!@  Summaries:   2!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+6.10786         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00105      
+6.10786         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+6.11260         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00120      
+6.11261         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00006      
+6.11332         HEARTBEAT            pMarineViewer   true 
+6.11333         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+6.20812         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00047      
+6.20815         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00005      
+6.26455         PREALM_ITER_GAP      pRealm          1.00184      
+6.26458         PREALM_ITER_LEN      pRealm          0.00015      
+6.36272         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00047      
+6.36275         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00013      
+6.36315         HEARTBEAT            pMarineViewer   true 
+6.36316         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+6.46478         PREALM_ITER_GAP      pRealm          1.00115      
+6.46479         PREALM_ITER_LEN      pRealm          0.00006      
+6.55918         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+6.55919         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+6.60797         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00023      
+6.60798         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+6.61286         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00059      
+6.61287         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00004      
+6.61325         HEARTBEAT            pMarineViewer   true 
+6.61325         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+6.66509         PREALM_ITER_GAP      pRealm          1.00154      
+6.66511         PREALM_ITER_LEN      pRealm          0.00013      
+6.66524         APPCAST              pRealm          proc=pRealm!@#iter=31!@#node=shoreside!@#iter=31!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 98!@  Total PVars: 47!@  Unique Vars: 100!@  UTC Time:    1687884406.31!@  Local Time:  6.21!@  Summaries:   2!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+6.70834         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00044      
+6.70837         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00005      
+6.85929         PSHARE_OUTPUT_SUMMARY pShare           
+6.85929         PSHARE_INPUT_SUMMARY pShare          localhost:9200 
+6.86306         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00081      
+6.86307         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00002      
+6.86370         HEARTBEAT            pMarineViewer   true 
+6.86370         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+6.86372         APPCAST_REQ          pMarineViewer   node=shoreside,app=pRealm,duration=3.0,key=pMarineViewer:shoresideapp,thresh=any 
+6.86372         APPCAST_REQ_SHORESIDE pMarineViewer   node=shoreside,app=pRealm,duration=3.0,key=pMarineViewer:shoresideapp,thresh=any 
+6.86372         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+6.86372         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+6.86546         PREALM_ITER_GAP      pRealm          1.00188      
+6.86548         REALMCAST_CHANNELS   pRealm          node=shoreside#channels=MOOSDB_shoreside,pHostInfo,pLogger,pMarineViewer,pRealm,pShare,uFldNodeComms,uFldShoreBroker,uProcessWatch, 
+6.86549         PREALM_ITER_LEN      pRealm          0.00014      
+6.90388         PHOSTINFO_ITER_GAP   pHostInfo       1.00012      
+6.90389         PHOSTINFO_ITER_LEN   pHostInfo       0.00000      
+7.00563         UFLDSHOREBROKER_ITER_GAP uFldShoreBroker 1.00015      
+7.00565         UFLDSHOREBROKER_ITER_LEN uFldShoreBroker 0.00002      
+7.06563         PREALM_ITER_GAP      pRealm          1.00084      
+7.06564         PREALM_ITER_LEN      pRealm          0.00005      
+7.10822         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00049      
+7.10823         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+7.11320         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00054      
+7.11320         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00003      
+7.11353         HEARTBEAT            pMarineViewer   true 
+7.11353         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+7.15980         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+7.15981         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+7.20849         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00030      
+7.20851         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00004      
+7.26577         PREALM_ITER_GAP      pRealm          1.00073      
+7.26578         PREALM_ITER_LEN      pRealm          0.00005      
+7.26590         APPCAST              pRealm          proc=pRealm!@#iter=34!@#node=shoreside!@#iter=34!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 98!@  Total PVars: 47!@  Unique Vars: 100!@  UTC Time:    1687884406.91!@  Local Time:  6.81!@  Summaries:   3!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+7.36332         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00049      
+7.36333         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00004      
+7.36391         HEARTBEAT            pMarineViewer   true 
+7.36392         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+7.46600         PREALM_ITER_GAP      pRealm          1.00111      
+7.46601         PREALM_ITER_LEN      pRealm          0.00009      
+7.60841         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00038      
+7.60841         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00001      
+7.61342         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00036      
+7.61344         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00011      
+7.61385         HEARTBEAT            pMarineViewer   true 
+7.61386         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+7.66614         PREALM_ITER_GAP      pRealm          1.00067      
+7.66621         PREALM_ITER_LEN      pRealm          0.00041      
+7.70867         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00037      
+7.70869         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00003      
+7.70890         DB_TIME              MOOSDB_shoreside 1687884407.35344 
+7.70890         DB_UPTIME            MOOSDB_shoreside 8.01292      
+7.70891         DB_CLIENTS           MOOSDB_shoreside uFldNodeComms,uProcessWatch,uFldShoreBroker,pHostInfo,pShare,pLogger,pMarineViewer,pRealm,uMAC_4192, 
+7.70944         DB_QOS               MOOSDB_shoreside pHostInfo=0.135183:0.365973:0.135183:0.223827,pLogger=0.180006:0.322104:0.0870228:0.165224,pMarineViewer=0.130892:0.291109:0.0851154:0.137138,pRealm=0.226974:0.279903:0.12517:0.219774,pShare=0.190973:0.327826:0.114918:0.20175,uFldNodeComms=0.145912:0.236034:0.084877:0.156784,uFldShoreBroker=0.161886:0.285864:0.043869:0.169134,uMAC_4192=0.174999:0.239134:0.137806:0.203991,uProcessWatch=0.128984:0.313044:0.128984:0.216913, 
+7.76054         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+7.76055         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+7.86357         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00065      
+7.86358         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00004      
+7.86393         HEARTBEAT            pMarineViewer   true 
+7.86395         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+7.86407         PSHARE_OUTPUT_SUMMARY pShare           
+7.86408         PSHARE_INPUT_SUMMARY pShare          localhost:9200 
+7.86671         PREALM_ITER_GAP      pRealm          1.00291      
+7.86673         PREALM_ITER_LEN      pRealm          0.00010      
+7.86684         APPCAST              pRealm          proc=pRealm!@#iter=37!@#node=shoreside!@#iter=37!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 98!@  Total PVars: 47!@  Unique Vars: 100!@  UTC Time:    1687884407.51!@  Local Time:  7.41!@  Summaries:   3!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+7.90403         PHOSTINFO_ITER_GAP   pHostInfo       1.00014      
+7.90403         PHOSTINFO_ITER_LEN   pHostInfo       0.00000      
+8.00588         UFLDSHOREBROKER_ITER_GAP uFldShoreBroker 1.00025      
+8.00589         UFLDSHOREBROKER_ITER_LEN uFldShoreBroker 0.00001      
+8.06698         PREALM_ITER_GAP      pRealm          1.00133      
+8.06701         PREALM_ITER_LEN      pRealm          0.00017      
+8.10863         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00046      
+8.10864         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+8.11371         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00055      
+8.11372         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00003      
+8.11411         HEARTBEAT            pMarineViewer   true 
+8.11411         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+8.20877         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00019      
+8.20878         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00002      
+8.26714         PREALM_ITER_GAP      pRealm          1.00084      
+8.26716         PREALM_ITER_LEN      pRealm          0.00006      
+8.36104         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+8.36105         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+8.36384         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00052      
+8.36385         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00005      
+8.36421         HEARTBEAT            pMarineViewer   true 
+8.36422         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+8.46739         PREALM_ITER_GAP      pRealm          1.00123      
+8.46743         PREALM_ITER_LEN      pRealm          0.00020      
+8.46760         APPCAST              pRealm          proc=pRealm!@#iter=40!@#node=shoreside!@#iter=40!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 98!@  Total PVars: 47!@  Unique Vars: 100!@  UTC Time:    1687884408.11!@  Local Time:  8.01!@  Summaries:   3!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+8.60875         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00023      
+8.60876         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+8.61399         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00059      
+8.61400         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00006      
+8.61462         HEARTBEAT            pMarineViewer   true 
+8.61463         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+8.66787         PREALM_ITER_GAP      pRealm          1.00239      
+8.66790         PREALM_ITER_LEN      pRealm          0.00014      
+8.70888         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00023      
+8.70891         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00005      
+8.86419         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00080      
+8.86421         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00008      
+8.86465         HEARTBEAT            pMarineViewer   true 
+8.86466         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+8.86468         APPCAST_REQ          pMarineViewer   node=shoreside,app=pRealm,duration=3.0,key=pMarineViewer:shoresideapp,thresh=any 
+8.86469         APPCAST_REQ_SHORESIDE pMarineViewer   node=shoreside,app=pRealm,duration=3.0,key=pMarineViewer:shoresideapp,thresh=any 
+8.86469         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+8.86469         APPCAST_REQ_ALL      pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+8.86807         PREALM_ITER_GAP      pRealm          1.00103      
+8.86810         PREALM_ITER_LEN      pRealm          0.00015      
+8.86937         PSHARE_OUTPUT_SUMMARY pShare           
+8.86937         PSHARE_INPUT_SUMMARY pShare          localhost:9200 
+8.90415         PHOSTINFO_ITER_GAP   pHostInfo       1.00012      
+8.90415         PHOSTINFO_ITER_LEN   pHostInfo       0.00001      
+8.96163         APPCAST_REQ          uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+8.96164         APPCAST_REQ_ALL      uMAC_4192       node=all,app=all,duration=3.0,key=uMAC_4192:app,thresh=run_warning 
+9.00613         UFLDSHOREBROKER_ITER_GAP uFldShoreBroker 1.00025      
+9.00615         UFLDSHOREBROKER_ITER_LEN uFldShoreBroker 0.00002      
+9.06837         PREALM_ITER_GAP      pRealm          1.00148      
+9.06840         PREALM_ITER_LEN      pRealm          0.00015      
+9.06853         APPCAST              pRealm          proc=pRealm!@#iter=43!@#node=shoreside!@#iter=43!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 98!@  Total PVars: 47!@  Unique Vars: 100!@  UTC Time:    1687884408.71!@  Local Time:  8.61!@  Summaries:   3!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+9.06967         DB_EVENT             MOOSDB_shoreside disconnected=uMAC_4192 
+9.10900         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00050      
+9.10901         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+9.11448         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00118      
+9.11450         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00006      
+9.11516         HEARTBEAT            pMarineViewer   true 
+9.11517         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+9.20903         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00029      
+9.20905         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00006      
+9.26876         PREALM_ITER_GAP      pRealm          1.00196      
+9.26879         PREALM_ITER_LEN      pRealm          0.00015      
+9.36463         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00052      
+9.36466         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00018      
+9.36502         HEARTBEAT            pMarineViewer   true 
+9.36502         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+9.46891         PREALM_ITER_GAP      pRealm          1.00075      
+9.46894         PREALM_ITER_LEN      pRealm          0.00015      
+9.60915         UPROCESSWATCH_ITER_GAP uProcessWatch   1.00030      
+9.60915         UPROCESSWATCH_ITER_LEN uProcessWatch   0.00001      
+9.61476         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00054      
+9.61479         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00016      
+9.61515         HEARTBEAT            pMarineViewer   true 
+9.61516         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+9.66909         PREALM_ITER_GAP      pRealm          1.00081      
+9.66913         PREALM_ITER_LEN      pRealm          0.00026      
+9.66931         APPCAST              pRealm          proc=pRealm!@#iter=46!@#node=shoreside!@#iter=46!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 98!@  Total PVars: 47!@  Unique Vars: 100!@  UTC Time:    1687884409.31!@  Local Time:  9.21!@  Summaries:   3!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+9.70921         UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00036      
+9.70922         UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00002      
+9.70934         DB_TIME              MOOSDB_shoreside 1687884409.35389 
+9.70934         DB_UPTIME            MOOSDB_shoreside 10.01336     
+9.70936         DB_CLIENTS           MOOSDB_shoreside uFldNodeComms,uProcessWatch,uFldShoreBroker,pHostInfo,pShare,pLogger,pMarineViewer,pRealm, 
+9.70986         DB_QOS               MOOSDB_shoreside pHostInfo=0.159025:0.365973:0.135183:0.228596,pLogger=0.262976:0.322104:0.0870228:0.181818,pMarineViewer=0.194073:0.291109:0.0851154:0.149775,pRealm=0.279903:0.279903:0.12517:0.23036,pShare=0.272989:0.327826:0.114918:0.218153,uFldNodeComms=0.0898838:0.253916:0.084877:0.145578,uFldShoreBroker=0.174046:0.285864:0.043869:0.171566,uProcessWatch=0.0808239:0.313044:0.0808239:0.207281, 
+9.86490         PMARINEVIEWER_ITER_GAP pMarineViewer   1.00059      
+9.86491         PMARINEVIEWER_ITER_LEN pMarineViewer   0.00005      
+9.86549         HEARTBEAT            pMarineViewer   true 
+9.86550         REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+9.86978         PREALM_ITER_GAP      pRealm          1.00352      
+9.86980         PREALM_ITER_LEN      pRealm          0.00010      
+9.87461         PSHARE_OUTPUT_SUMMARY pShare           
+9.87461         PSHARE_INPUT_SUMMARY pShare          localhost:9200 
+9.90435         PHOSTINFO_ITER_GAP   pHostInfo       1.00020      
+9.90435         PHOSTINFO_ITER_LEN   pHostInfo       0.00000      
+10.00641        UFLDSHOREBROKER_ITER_GAP uFldShoreBroker 1.00028      
+10.00642        UFLDSHOREBROKER_ITER_LEN uFldShoreBroker 0.00001      
+10.02559        LOGGER_DIRECTORY     pLogger         ./XLOG_SHORESIDE_27_6_2023_____12_46_40 
+10.06995        PREALM_ITER_GAP      pRealm          1.00085      
+10.06998        PREALM_ITER_LEN      pRealm          0.00015      
+10.10935        UPROCESSWATCH_ITER_GAP uProcessWatch   1.00040      
+10.10936        UPROCESSWATCH_ITER_LEN uProcessWatch   0.00002      
+10.11502        PMARINEVIEWER_ITER_GAP pMarineViewer   1.00046      
+10.11504        PMARINEVIEWER_ITER_LEN pMarineViewer   0.00011      
+10.11539        HEARTBEAT            pMarineViewer   true 
+10.11540        REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+10.20931        UFLDNODECOMMS_ITER_GAP uFldNodeComms   1.00018      
+10.20933        UFLDNODECOMMS_ITER_LEN uFldNodeComms   0.00006      
+10.27013        PREALM_ITER_GAP      pRealm          1.00088      
+10.27015        PREALM_ITER_LEN      pRealm          0.00014      
+10.27027        APPCAST              pRealm          proc=pRealm!@#iter=49!@#node=shoreside!@#iter=49!@#messages=Configuration: !@--------------------------------------------!@  RelCast Interval: 0.80!@  Summary Interval: 5.00!@  Hist Variables:   !@  Wrap Length:  90!@  Trunc Length: 270!@  Max Msg Hist: 10!@!@MOOS Community State: !@--------------------------------------------!@  MOOSDB Name: MOOSDB_shoreside!@   Known Apps: 10!@   Known Apps: MOOSDB_shoreside,pHostInfo,pLogger,!@               pMarineViewer,pRealm,pShare,uFldNodeComms,!@               uFldShoreBroker,uMAC_4192,uProcessWatch!@  Total SVars: 98!@  Total PVars: 47!@  Unique Vars: 100!@  UTC Time:    1687884409.91!@  Local Time:  9.81!@  Summaries:   3!@!@Recent RealmCasts or WatchCasts:!@--------------------------------------------!@  Total RealmCasts: 0!@  Total WatchCasts: 0!@--------------------------------------------!@Count  Time  Client  Content!@-----  ----  ------  -------!@Currently Active Clients:!@--------------------------------------------!@Client  Active  Content!@------  ------  -------!@!@#!@#events_total=0!@#!@#run_warning_total=0!@# 
+10.36518        PMARINEVIEWER_ITER_GAP pMarineViewer   1.00066      
+10.36518        PMARINEVIEWER_ITER_LEN pMarineViewer   0.00004      
+10.36582        HEARTBEAT            pMarineViewer   true 
+10.36583        REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 
+10.47042        PREALM_ITER_GAP      pRealm          1.00149      
+10.47045        PREALM_ITER_LEN      pRealm          0.00013      
+10.60950        UPROCESSWATCH_ITER_GAP uProcessWatch   1.00028      
+10.60951        UPROCESSWATCH_ITER_LEN uProcessWatch   0.00003      
+10.61529        PMARINEVIEWER_ITER_GAP pMarineViewer   1.00042      
+10.61531        PMARINEVIEWER_ITER_LEN pMarineViewer   0.00012      
+10.61572        HEARTBEAT            pMarineViewer   true 
+10.61573        REGION_INFO          pMarineViewer   lat_datum=42.358436, lon_datum=-71.087448, img_file=MIT_SP.tif, zoom=1.5, pan_x=30, pan_y=-290 

@@ -1,0 +1,1531 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./LOG_ABE_27_6_2023_____12_33_45/LOG_ABE_27_6_2023_____12_33_45.alog
+%% FILE OPENED ON  Wed Dec 31 19:00:00 1969
+%% LOGSTART           1687883624.996159
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+0.40736         IVPHELM_REGISTER     pHelmIvP        NODE_REPORT_LOCAL 
+0.45185         PROC_WATCH_TIME_WARP uProcessWatch   1.00000      
+0.45224         PROC_WATCH_EVENT     uProcessWatch   Noted to be present: [pShare] 
+0.65182         LOGGER_DIRECTORY     pLogger         ./LOG_ABE_27_6_2023_____12_33_45 
+0.74972         PNODEREPORTER_PID    pNodeReporter   15846.00000  
+0.80886         DB_EVENT             MOOSDB_abe      connected=pRealm 
+0.85910         MOOS_DEBUG           pMarinePID      ** NEW CONTROLLER GAINS ARE ** 
+0.85911         MOOS_DEBUG           pMarinePID      YAW_PID_KP             = 1.200 
+0.85911         MOOS_DEBUG           pMarinePID      YAW_PID_KD             = 0.000 
+0.85912         MOOS_DEBUG           pMarinePID      YAW_PID_KI             = 0.300 
+0.85913         MOOS_DEBUG           pMarinePID      YAW_PID_INTEGRAL_LIMIT = 0.070 
+0.85913         MOOS_DEBUG           pMarinePID      MAXRUDDER              = 100.000 
+0.86052         MOOS_DEBUG           pMarinePID      SPEED_PID_KP           = 1.000 
+0.86052         MOOS_DEBUG           pMarinePID      SPEED_PID_KD           = 0.000 
+0.86052         MOOS_DEBUG           pMarinePID      SPEED_PID_KI           = 0.000 
+0.86053         MOOS_DEBUG           pMarinePID      SPEED_PID_INTEGRAL_LIMIT = 0.070 
+0.86053         MOOS_DEBUG           pMarinePID      MAXTHRUST              = 100.000 
+0.90933         DB_EVENT             MOOSDB_abe      connected=uFldMessageHandler 
+0.95675         IVPHELM_REGISTER     pHelmIvP        IVPHELM_STATE 
+0.95676         IVPHELM_REGISTER     pHelmIvP        DB_CLIENTS 
+0.95676         IVPHELM_REGISTER     pHelmIvP        MOOS_MANUAL_OVERIDE 
+0.95677         IVPHELM_REGISTER     pHelmIvP        MOOS_MANUAL_OVERRIDE 
+0.95677         IVPHELM_REGISTER     pHelmIvP        RESTART_HELM 
+0.95677         IVPHELM_REGISTER     pHelmIvP        IVPHELM_REJOURNAL 
+0.95678         IVPHELM_REGISTER     pHelmIvP        NAV_SPEED 
+0.95678         IVPHELM_REGISTER     pHelmIvP        NAV_HEADING 
+0.95678         IVPHELM_REGISTER     pHelmIvP        NAV_DEPTH 
+0.95679         IVPHELM_REGISTER     pHelmIvP        HELM_MAP_CLEAR 
+0.95679         IVPHELM_REGISTER     pHelmIvP        AIS_REPORT 
+0.95679         IVPHELM_REGISTER     pHelmIvP        NODE_REPORT 
+0.95679         IVPHELM_REGISTER     pHelmIvP        AIS_REPORT_LOCAL 
+0.95679         IVPHELM_REGISTER     pHelmIvP        NODE_REPORT_LOCAL 
+0.95684         IVPHELM_REGISTER     pHelmIvP        MODE 
+0.95684         IVPHELM_REGISTER     pHelmIvP        NAV_X 
+0.95685         IVPHELM_REGISTER     pHelmIvP        NAV_Y 
+0.95685         IVPHELM_REGISTER     pHelmIvP        NAV_SPEED 
+0.95685         IVPHELM_REGISTER     pHelmIvP        RETURN_UPDATE 
+0.95686         IVPHELM_REGISTER     pHelmIvP        DEPLOY 
+0.95686         IVPHELM_REGISTER     pHelmIvP        STATION_KEEP 
+0.95686         IVPHELM_REGISTER     pHelmIvP        RETURN 
+0.95686         IVPHELM_REGISTER     pHelmIvP        LEG_RUNNING 
+0.95687         PLOGGER_CMD          pHelmIvP        COPY_FILE_REQUEST = targ_abe.bhv 
+0.96122         MOOS_DEBUG           pMarinePID      Paused Due To Tardy HELM Input: THRUST=0 
+1.00980         DB_EVENT             MOOSDB_abe      connected=uSimMarineV22 
+1.20727         IVPHELM_STATE        pHelmIvP        PARK 
+1.20728         MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: ManualOverride 
+1.20728         IVPHELM_ALLSTOP      pHelmIvP        ManualOverride 
+1.20729         DESIRED_SPEED        pHelmIvP        0.00000      
+1.20729         DESIRED_HEADING      pHelmIvP        0.00000      
+1.25888         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=NODE_BROKER_PING_0,dest_name=NODE_BROKER_PING,route=localhost:9200 
+1.45752         IVPHELM_STATE        pHelmIvP        PARK 
+1.58657         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+1.70772         IVPHELM_STATE        pHelmIvP        PARK 
+1.70786         DB_TIME              MOOSDB_abe      1687883626.70402 
+1.70786         DB_UPTIME            MOOSDB_abe      2.00944      
+1.70787         DB_CLIENTS           MOOSDB_abe      uSimMarineV22,uFldMessageHandler,pRealm,uFldNodeBroker,pHostInfo,pContactMgrV20,pHelmIvP,pMarinePID,pNodeReporter,pLogger,pShare,uProcessWatch, 
+1.75696         NAV_X                uSimMarineV22   -17.00000    
+1.75696         NAV_Y                uSimMarineV22   -18.00000    
+1.75696         NAV_LAT              uSimMarineV22   42.35827     
+1.75696         NAV_LONG             uSimMarineV22   -71.08765    
+1.75696         NAV_HEADING          uSimMarineV22   140.00000    
+1.75696         NAV_SPEED            uSimMarineV22   0.00000      
+1.75696         NAV_DEPTH            uSimMarineV22   0.00000      
+1.75696         NAV_YAW              uSimMarineV22   -2.44346     
+0.45185         PROC_WATCH_TIME_WARP uProcessWatch   1.00000      
+0.45224         PROC_WATCH_EVENT     uProcessWatch   Noted to be present: [pShare] 
+0.65182         LOGGER_DIRECTORY     pLogger         ./LOG_ABE_27_6_2023_____12_33_45 
+0.74972         PNODEREPORTER_PID    pNodeReporter   15846.00000  
+0.95436         PHELMIVP_PID         pHelmIvP        15886.00000  
+0.95670         DEPLOY               pHelmIvP:HELM_VAR_INIT false 
+0.95671         RETURN               pHelmIvP:HELM_VAR_INIT false 
+0.95672         STATION_KEEP         pHelmIvP:HELM_VAR_INIT false 
+0.95673         LEG_RUNNING          pHelmIvP:HELM_VAR_INIT false 
+0.95673         ATURNING             pHelmIvP:HELM_VAR_INIT false 
+0.95673         ZIGGING              pHelmIvP:HELM_VAR_INIT false 
+0.95673         FULL_STOPPING        pHelmIvP:HELM_VAR_INIT false 
+0.95674         FIX_TURNING          pHelmIvP:HELM_VAR_INIT false 
+0.95674         AVOID                pHelmIvP:HELM_VAR_INIT true 
+0.95686         IVPHELM_REGISTER     pHelmIvP        LEG_RUNNING 
+0.95687         PLOGGER_CMD          pHelmIvP        COPY_FILE_REQUEST = targ_abe.bhv 
+0.95688         IVPHELM_DOMAIN       pHelmIvP        speed,0,2,21:course,0,359,360 
+0.95688         IVPHELM_MODESET      pHelmIvP        MODE#---,ACTIVE#---,INACTIVE#ACTIVE,STATION-KEEPING#ACTIVE,RETURNING#ACTIVE,LEGRUN 
+1.00980         DB_EVENT             MOOSDB_abe      connected=uSimMarineV22 
+1.05554         PCONTACTMGRV20_PID   pContactMgrV20  15906.00000  
+1.20728         MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: ManualOverride 
+1.20728         IVPHELM_ALLSTOP      pHelmIvP        ManualOverride 
+1.20729         DESIRED_SPEED        pHelmIvP        0.00000      
+1.20729         DESIRED_HEADING      pHelmIvP        0.00000      
+1.25851         UFLDNODEBROKER_PID   uFldNodeBroker  15947.00000  
+1.25888         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=NODE_BROKER_PING_0,dest_name=NODE_BROKER_PING,route=localhost:9200 
+1.55604         CONTACTS_RECAP       pContactMgrV20   
+1.55604         CONTACT_RANGES       pContactMgrV20   
+1.58656         PSHARE_OUTPUT_SUMMARY pShare          NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200 
+1.58657         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+1.65658         USM_DRIFT_SUMMARY    uSimMarineV22   ang=0, mag=0, xmag=0, ymag=0 
+1.70772         IVPHELM_CPU          pHelmIvP        0.85164      
+1.70772         IVPHELM_STATE        pHelmIvP        PARK 
+1.70786         DB_TIME              MOOSDB_abe      1687883626.70402 
+1.70786         DB_UPTIME            MOOSDB_abe      2.00944      
+1.70787         DB_CLIENTS           MOOSDB_abe      uSimMarineV22,uFldMessageHandler,pRealm,uFldNodeBroker,pHostInfo,pContactMgrV20,pHelmIvP,pMarinePID,pNodeReporter,pLogger,pShare,uProcessWatch, 
+1.75472         REALMCAST_CHANNELS   pRealm          node=abe#channels=MOOSDB_abe,pContactMgrV20,pHelmIvP,pHostInfo,pLogger,pMarinePID,pNodeReporter,pRealm,pShare,uFldMessageHandler,uFldNodeBroker,uProcessWatch,uSimMarineV22, 
+1.75696         NAV_DEPTH            uSimMarineV22   0.00000      
+1.75696         NAV_HEADING          uSimMarineV22   140.00000    
+1.75696         NAV_LAT              uSimMarineV22   42.35827     
+1.75696         NAV_LONG             uSimMarineV22   -71.08765    
+1.75696         NAV_SPEED            uSimMarineV22   0.00000      
+1.75696         NAV_X                uSimMarineV22   -17.00000    
+1.75696         NAV_Y                uSimMarineV22   -18.00000    
+1.75696         NAV_YAW              uSimMarineV22   -2.44346     
+1.75696         SIMULATION_MODE      uSimMarineV22   TRUE 
+1.75696         TRUE_X               uSimMarineV22   -17.00000    
+1.75696         TRUE_Y               uSimMarineV22   -18.00000    
+1.79160         UMH_SUMMARY_MSGS     uFldMessageHandler total=0,valid=0,rejected=0 
+1.86300         APP_LOG              pMarinePID      iter=10,log=!@#!@#!@#PID REPORT: (9)(9.94008/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+1.86309         PID_REPORT           pMarinePID      10:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+1.86309         DESIRED_RUDDER       pMarinePID      0.00000      
+1.86309         DESIRED_THRUST       pMarinePID      0.00000      
+1.95347         PROC_WATCH_SUMMARY   uProcessWatch   All Present 
+1.95347         PROC_WATCH_ALL_OK    uProcessWatch   true 
+1.95722         NAV_X                uSimMarineV22   -17.00000    
+1.95722         NAV_Y                uSimMarineV22   -18.00000    
+1.95722         NAV_LAT              uSimMarineV22   42.35827     
+1.95722         NAV_LONG             uSimMarineV22   -71.08765    
+1.95722         NAV_HEADING          uSimMarineV22   140.00000    
+1.95722         NAV_SPEED            uSimMarineV22   0.00000      
+1.95722         NAV_DEPTH            uSimMarineV22   0.00000      
+1.95722         SIMULATION_MODE      uSimMarineV22   TRUE 
+1.95722         NAV_YAW              uSimMarineV22   -2.44346     
+1.95722         TRUE_X               uSimMarineV22   -17.00000    
+1.95722         TRUE_Y               uSimMarineV22   -18.00000    
+1.95785         APP_LOG              pHelmIvP        iter=4,log=* 
+1.95787         IVPHELM_CPU          pHelmIvP        0.13157      
+1.95787         IVPHELM_STATE        pHelmIvP        PARK 
+1.96333         APP_LOG              pMarinePID      iter=11,log=!@#!@#!@#PID REPORT: (10)(9.94311/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+1.96340         PID_REPORT           pMarinePID      11:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+1.96340         PID_REPORT           pMarinePID      11:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+1.96340         DESIRED_RUDDER       pMarinePID      0.00000      
+1.96340         DESIRED_THRUST       pMarinePID      0.00000      
+2.05654         CONTACT_RANGES       pContactMgrV20   
+2.06351         APP_LOG              pMarinePID      iter=12,log=!@#!@#!@#PID REPORT: (11)(9.94533/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+2.06357         PID_REPORT           pMarinePID      12:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+2.06357         PID_REPORT           pMarinePID      12:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+2.06357         DESIRED_RUDDER       pMarinePID      0.00000      
+2.06358         DESIRED_THRUST       pMarinePID      0.00000      
+2.15462         PHI_HOST_INFO        pHostInfo       community=abe,hostip=localhost,port_db=9001,port_udp=9201,pshare_iroutes=localhost:9201,hostip_alts=,timewarp=1 
+2.15769         NAV_X                uSimMarineV22   -17.00000    
+2.15769         NAV_Y                uSimMarineV22   -18.00000    
+2.15769         NAV_LAT              uSimMarineV22   42.35827     
+2.15769         NAV_LONG             uSimMarineV22   -71.08765    
+2.15769         NAV_HEADING          uSimMarineV22   140.00000    
+2.15769         NAV_SPEED            uSimMarineV22   0.00000      
+2.15769         NAV_DEPTH            uSimMarineV22   0.00000      
+2.15769         SIMULATION_MODE      uSimMarineV22   TRUE 
+2.15769         NAV_YAW              uSimMarineV22   -2.44346     
+2.15769         TRUE_X               uSimMarineV22   -17.00000    
+2.15769         TRUE_Y               uSimMarineV22   -18.00000    
+2.16368         APP_LOG              pMarinePID      iter=13,log=!@#!@#!@#PID REPORT: (12)(9.94841/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+2.16375         PID_REPORT           pMarinePID      13:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+2.16376         PID_REPORT           pMarinePID      13:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+2.16376         DESIRED_RUDDER       pMarinePID      0.00000      
+2.16376         DESIRED_THRUST       pMarinePID      0.00000      
+2.20810         APP_LOG              pHelmIvP        iter=5,log=* 
+2.20812         IVPHELM_CPU          pHelmIvP        0.13157      
+2.20813         IVPHELM_STATE        pHelmIvP        PARK 
+2.25074         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,YAW=-0.8726646,TIME=1687883627.25,LENGTH=4 
+2.25916         APP_LOG              uFldNodeBroker  iter=1,log=***************************************************!@#*  uFldNodeBroker starting ...!@#***************************************************!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  BRIDGE!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  BRIDGE!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  BRIDGE!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  BRIDGE!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  BRIDGE!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  BRIDGE!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  BRIDGE!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  BRIDGE!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  BRIDGE!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  TRY_SHORE_HOST!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  APP_LOGGING!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  COMMSTICK!@#+++++++++++++++++++++++++++++++++++++++++++++++++!@#param =  APPTICK!@#uFldNodeBroker is Running:!@# |-Baseline AppTick   @ 1.0 Hz!@# |--Comms is Full Duplex and Asynchronous!@# -Iterate Mode 0 :!@#   |-Regular iterate and message delivery at 1 Hz!@#!@#!@# 
+2.25917         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=NODE_BROKER_PING_0,dest_name=NODE_BROKER_PING,route=localhost:9200 
+2.25919         NODE_BROKER_PING_0   uFldNodeBroker  community=abe,hostip=localhost,port_db=9001,port_udp=9201,pshare_iroutes=localhost:9201,timewarp=1,time=1687883627.26,key=0 
+2.26395         APP_LOG              pMarinePID      iter=14,log=!@#!@#!@#PID REPORT: (13)(9.95108/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+2.26404         PID_REPORT           pMarinePID      14:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+2.26405         PID_REPORT           pMarinePID      14:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+2.26405         DESIRED_RUDDER       pMarinePID      0.00000      
+2.26406         DESIRED_THRUST       pMarinePID      0.00000      
+2.35811         NAV_X                uSimMarineV22   -17.00000    
+2.35811         NAV_Y                uSimMarineV22   -18.00000    
+2.35811         NAV_LAT              uSimMarineV22   42.35827     
+2.35811         NAV_LONG             uSimMarineV22   -71.08765    
+2.35811         NAV_HEADING          uSimMarineV22   140.00000    
+2.35811         NAV_SPEED            uSimMarineV22   0.00000      
+2.35811         NAV_DEPTH            uSimMarineV22   0.00000      
+2.35811         SIMULATION_MODE      uSimMarineV22   TRUE 
+2.35811         NAV_YAW              uSimMarineV22   -2.44346     
+2.35811         TRUE_X               uSimMarineV22   -17.00000    
+2.35811         TRUE_Y               uSimMarineV22   -18.00000    
+2.36424         APP_LOG              pMarinePID      iter=15,log=!@#!@#!@#PID REPORT: (14)(9.95256/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+2.36432         PID_REPORT           pMarinePID      15:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+2.36433         PID_REPORT           pMarinePID      15:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+2.36433         DESIRED_RUDDER       pMarinePID      0.00000      
+2.36434         DESIRED_THRUST       pMarinePID      0.00000      
+2.45833         APP_LOG              pHelmIvP        iter=6,log=* 
+2.45835         IVPHELM_CPU          pHelmIvP        0.17297      
+2.45835         IVPHELM_STATE        pHelmIvP        PARK 
+2.46444         APP_LOG              pMarinePID      iter=16,log=!@#!@#!@#PID REPORT: (15)(9.95381/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+2.46451         PID_REPORT           pMarinePID      16:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+2.46451         PID_REPORT           pMarinePID      16:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+2.46452         DESIRED_RUDDER       pMarinePID      0.00000      
+2.46452         DESIRED_THRUST       pMarinePID      0.00000      
+2.55678         CONTACTS_RECAP       pContactMgrV20   
+2.55678         CONTACT_RANGES       pContactMgrV20   
+2.55857         NAV_X                uSimMarineV22   -17.00000    
+2.55857         NAV_Y                uSimMarineV22   -18.00000    
+2.55857         NAV_LAT              uSimMarineV22   42.35827     
+2.55857         NAV_LONG             uSimMarineV22   -71.08765    
+2.55857         NAV_HEADING          uSimMarineV22   140.00000    
+2.55857         NAV_SPEED            uSimMarineV22   0.00000      
+2.55857         NAV_DEPTH            uSimMarineV22   0.00000      
+2.55857         SIMULATION_MODE      uSimMarineV22   TRUE 
+2.55857         NAV_YAW              uSimMarineV22   -2.44346     
+2.55857         TRUE_X               uSimMarineV22   -17.00000    
+2.55857         TRUE_Y               uSimMarineV22   -18.00000    
+2.56464         APP_LOG              pMarinePID      iter=17,log=!@#!@#!@#PID REPORT: (16)(9.95548/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+2.56471         PID_REPORT           pMarinePID      17:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+2.56471         PID_REPORT           pMarinePID      17:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+2.56471         DESIRED_RUDDER       pMarinePID      0.00000      
+2.56471         DESIRED_THRUST       pMarinePID      0.00000      
+2.58712         PSHARE_OUTPUT_SUMMARY pShare          NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200 
+2.58713         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+2.66493         APP_LOG              pMarinePID      iter=18,log=!@#!@#!@#PID REPORT: (17)(9.9569/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+2.66504         PID_REPORT           pMarinePID      18:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+2.66505         PID_REPORT           pMarinePID      18:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+2.66505         DESIRED_RUDDER       pMarinePID      0.00000      
+2.66505         DESIRED_THRUST       pMarinePID      0.00000      
+2.70857         APP_LOG              pHelmIvP        iter=7,log=* 
+2.70859         IVPHELM_CPU          pHelmIvP        0.17297      
+2.70859         IVPHELM_STATE        pHelmIvP        PARK 
+2.75113         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=1,YAW=-0.8726646,TIME=1687883627.75,LENGTH=4 
+2.75910         NAV_X                uSimMarineV22   -17.00000    
+2.75910         NAV_Y                uSimMarineV22   -18.00000    
+2.75910         NAV_LAT              uSimMarineV22   42.35827     
+2.75910         NAV_LONG             uSimMarineV22   -71.08765    
+2.75910         NAV_HEADING          uSimMarineV22   140.00000    
+2.75910         NAV_SPEED            uSimMarineV22   0.00000      
+2.75910         NAV_DEPTH            uSimMarineV22   0.00000      
+2.75910         SIMULATION_MODE      uSimMarineV22   TRUE 
+2.75910         NAV_YAW              uSimMarineV22   -2.44346     
+2.75910         TRUE_X               uSimMarineV22   -17.00000    
+2.75910         TRUE_Y               uSimMarineV22   -18.00000    
+2.76517         APP_LOG              pMarinePID      iter=19,log=!@#!@#!@#PID REPORT: (18)(9.95767/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+2.76522         PID_REPORT           pMarinePID      19:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+2.76523         PID_REPORT           pMarinePID      19:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+2.76523         DESIRED_RUDDER       pMarinePID      0.00000      
+2.76523         DESIRED_THRUST       pMarinePID      0.00000      
+2.86531         APP_LOG              pMarinePID      iter=20,log=!@#!@#!@#PID REPORT: (19)(9.95871/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+2.86536         PID_REPORT           pMarinePID      20:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+2.86537         PID_REPORT           pMarinePID      20:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+2.86537         DESIRED_RUDDER       pMarinePID      0.00000      
+2.86537         DESIRED_THRUST       pMarinePID      0.00000      
+2.95879         APP_LOG              pHelmIvP        iter=8,log=* 
+2.95881         IVPHELM_CPU          pHelmIvP        0.22136      
+2.95881         IVPHELM_STATE        pHelmIvP        PARK 
+2.95959         NAV_X                uSimMarineV22   -17.00000    
+2.95959         NAV_Y                uSimMarineV22   -18.00000    
+2.95959         NAV_LAT              uSimMarineV22   42.35827     
+2.95959         NAV_LONG             uSimMarineV22   -71.08765    
+2.95959         NAV_HEADING          uSimMarineV22   140.00000    
+2.95959         NAV_SPEED            uSimMarineV22   0.00000      
+2.95959         NAV_DEPTH            uSimMarineV22   0.00000      
+2.95959         SIMULATION_MODE      uSimMarineV22   TRUE 
+2.95959         NAV_YAW              uSimMarineV22   -2.44346     
+2.95959         TRUE_X               uSimMarineV22   -17.00000    
+2.95959         TRUE_Y               uSimMarineV22   -18.00000    
+0.86179         HELM_MAP_CLEAR       pMarineViewer   0.00000      
+0.86573         MISSION_HASH         pMarineViewer   mhash=230627-1233L-PURE-KARL,utc=1687883625.63 
+2.96515         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+2.96556         APP_LOG              pMarinePID      iter=21,log=!@#!@#!@#PID REPORT: (20)(9.96007/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+2.96560         PID_REPORT           pMarinePID      21:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+2.96560         PID_REPORT           pMarinePID      21:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+2.96562         DESIRED_RUDDER       pMarinePID      0.00000      
+2.96562         DESIRED_THRUST       pMarinePID      0.00000      
+2.96748         NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=1 
+3.05694         CONTACT_RANGES       pContactMgrV20   
+0.45185         PROC_WATCH_TIME_WARP uProcessWatch   1.00000      
+0.45224         PROC_WATCH_EVENT     uProcessWatch   Noted to be present: [pShare] 
+0.65182         LOGGER_DIRECTORY     pLogger         ./LOG_ABE_27_6_2023_____12_33_45 
+0.74972         PNODEREPORTER_PID    pNodeReporter   15846.00000  
+0.86179         HELM_MAP_CLEAR       pMarineViewer   0.00000      
+0.86573         MISSION_HASH         pMarineViewer   mhash=230627-1233L-PURE-KARL,utc=1687883625.63 
+0.95436         PHELMIVP_PID         pHelmIvP        15886.00000  
+0.95670         DEPLOY               pHelmIvP:HELM_VAR_INIT false 
+0.95671         RETURN               pHelmIvP:HELM_VAR_INIT false 
+0.95672         STATION_KEEP         pHelmIvP:HELM_VAR_INIT false 
+0.95673         LEG_RUNNING          pHelmIvP:HELM_VAR_INIT false 
+0.95673         ATURNING             pHelmIvP:HELM_VAR_INIT false 
+0.95673         ZIGGING              pHelmIvP:HELM_VAR_INIT false 
+0.95673         FULL_STOPPING        pHelmIvP:HELM_VAR_INIT false 
+0.95674         FIX_TURNING          pHelmIvP:HELM_VAR_INIT false 
+0.95674         AVOID                pHelmIvP:HELM_VAR_INIT true 
+0.95686         IVPHELM_REGISTER     pHelmIvP        LEG_RUNNING 
+0.95687         PLOGGER_CMD          pHelmIvP        COPY_FILE_REQUEST = targ_abe.bhv 
+0.95688         IVPHELM_DOMAIN       pHelmIvP        speed,0,2,21:course,0,359,360 
+0.95688         IVPHELM_MODESET      pHelmIvP        MODE#---,ACTIVE#---,INACTIVE#ACTIVE,STATION-KEEPING#ACTIVE,RETURNING#ACTIVE,LEGRUN 
+1.00980         DB_EVENT             MOOSDB_abe      connected=uSimMarineV22 
+1.05554         PCONTACTMGRV20_PID   pContactMgrV20  15906.00000  
+1.20728         MOOS_DEBUG           pHelmIvP        pHelmIvP AllStop: ManualOverride 
+1.20728         IVPHELM_ALLSTOP      pHelmIvP        ManualOverride 
+1.20729         DESIRED_SPEED        pHelmIvP        0.00000      
+1.20729         DESIRED_HEADING      pHelmIvP        0.00000      
+1.25851         UFLDNODEBROKER_PID   uFldNodeBroker  15947.00000  
+1.65658         USM_DRIFT_SUMMARY    uSimMarineV22   ang=0, mag=0, xmag=0, ymag=0 
+1.70786         DB_TIME              MOOSDB_abe      1687883626.70402 
+1.70786         DB_UPTIME            MOOSDB_abe      2.00944      
+1.70787         DB_CLIENTS           MOOSDB_abe      uSimMarineV22,uFldMessageHandler,pRealm,uFldNodeBroker,pHostInfo,pContactMgrV20,pHelmIvP,pMarinePID,pNodeReporter,pLogger,pShare,uProcessWatch, 
+1.75472         REALMCAST_CHANNELS   pRealm          node=abe#channels=MOOSDB_abe,pContactMgrV20,pHelmIvP,pHostInfo,pLogger,pMarinePID,pNodeReporter,pRealm,pShare,uFldMessageHandler,uFldNodeBroker,uProcessWatch,uSimMarineV22, 
+1.79160         UMH_SUMMARY_MSGS     uFldMessageHandler total=0,valid=0,rejected=0 
+1.95347         PROC_WATCH_SUMMARY   uProcessWatch   All Present 
+1.95347         PROC_WATCH_ALL_OK    uProcessWatch   true 
+1.95350         PROC_WATCH_FULL_SUMMARY uProcessWatch   uSimMarineV22(1/0),uFldMessageHandler(1/0),pRealm(1/0),uFldNodeBroker(1/0),pHostInfo(1/0),pContactMgrV20(1/0),pHelmIvP(1/0),pMarinePID(1/0),pNodeReporter(1/0),pLogger(1/0),pShare(1/0) 
+2.15460         PHI_HOST_IP          pHostInfo       localhost 
+2.15460         PHI_HOST_IP_ALL      pHostInfo       localhost 
+2.15460         PHI_HOST_IP_VERBOSE  pHostInfo       USER_HARD_CONFIGURED=localhost 
+2.15461         PHI_HOST_PORT_DB     pHostInfo       9001 
+2.15462         PHI_HOST_INFO        pHostInfo       community=abe,hostip=localhost,port_db=9001,port_udp=9201,pshare_iroutes=localhost:9201,hostip_alts=,timewarp=1 
+2.25074         NODE_REPORT_LOCAL_FIRST pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,YAW=-0.8726646,TIME=1687883627.25,LENGTH=4 
+2.25917         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=NODE_BROKER_PING_0,dest_name=NODE_BROKER_PING,route=localhost:9200 
+2.25919         NODE_BROKER_PING_0   uFldNodeBroker  community=abe,hostip=localhost,port_db=9001,port_udp=9201,pshare_iroutes=localhost:9201,timewarp=1,time=1687883627.26,key=0 
+2.55678         CONTACTS_RECAP       pContactMgrV20   
+2.58712         PSHARE_OUTPUT_SUMMARY pShare          NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200 
+2.58713         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+2.75113         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=1,YAW=-0.8726646,TIME=1687883627.75,LENGTH=4 
+2.75113         PNR_POST_GAP         pNodeReporter   0.50039      
+2.95881         IVPHELM_CPU          pHelmIvP        0.22136      
+2.95881         IVPHELM_STATE        pHelmIvP        PARK 
+2.95959         NAV_DEPTH            uSimMarineV22   0.00000      
+2.95959         NAV_HEADING          uSimMarineV22   140.00000    
+2.95959         NAV_LAT              uSimMarineV22   42.35827     
+2.95959         NAV_LONG             uSimMarineV22   -71.08765    
+2.95959         NAV_SPEED            uSimMarineV22   0.00000      
+2.95959         NAV_X                uSimMarineV22   -17.00000    
+2.95959         NAV_Y                uSimMarineV22   -18.00000    
+2.95959         NAV_YAW              uSimMarineV22   -2.44346     
+2.95959         SIMULATION_MODE      uSimMarineV22   TRUE 
+2.95959         TRUE_X               uSimMarineV22   -17.00000    
+2.95959         TRUE_Y               uSimMarineV22   -18.00000    
+2.96515         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+2.96556         APP_LOG              pMarinePID      iter=21,log=!@#!@#!@#PID REPORT: (20)(9.96007/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+2.96560         PID_REPORT           pMarinePID      21:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+2.96562         DESIRED_RUDDER       pMarinePID      0.00000      
+2.96562         DESIRED_THRUST       pMarinePID      0.00000      
+2.96748         NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=1 
+3.05694         CONTACT_RANGES       pContactMgrV20   
+3.06575         APP_LOG              pMarinePID      iter=22,log=!@#!@#!@#PID REPORT: (21)(9.96081/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+3.06580         PID_REPORT           pMarinePID      22:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+3.06581         PID_REPORT           pMarinePID      22:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+3.06581         DESIRED_RUDDER       pMarinePID      0.00000      
+3.06581         DESIRED_THRUST       pMarinePID      0.00000      
+3.16019         NAV_X                uSimMarineV22   -17.00000    
+3.16019         NAV_Y                uSimMarineV22   -18.00000    
+3.16019         NAV_LAT              uSimMarineV22   42.35827     
+3.16019         NAV_LONG             uSimMarineV22   -71.08765    
+3.16019         NAV_HEADING          uSimMarineV22   140.00000    
+3.16019         NAV_SPEED            uSimMarineV22   0.00000      
+3.16019         NAV_DEPTH            uSimMarineV22   0.00000      
+3.16019         SIMULATION_MODE      uSimMarineV22   TRUE 
+3.16019         NAV_YAW              uSimMarineV22   -2.44346     
+3.16019         TRUE_X               uSimMarineV22   -17.00000    
+3.16019         TRUE_Y               uSimMarineV22   -18.00000    
+3.16593         APP_LOG              pMarinePID      iter=23,log=!@#!@#!@#PID REPORT: (22)(9.96171/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+3.16598         PID_REPORT           pMarinePID      23:PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000 
+3.16598         PID_REPORT           pMarinePID      23:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+3.16598         DESIRED_RUDDER       pMarinePID      0.00000      
+3.16599         DESIRED_THRUST       pMarinePID      0.00000      
+3.20917         APP_LOG              pHelmIvP        iter=9,log=* 
+3.20917         IVPHELM_CPU          pHelmIvP        0.22136      
+3.20918         IVPHELM_STATE        pHelmIvP        PARK 
+3.25167         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=2,YAW=-0.8726646,TIME=1687883628.25,LENGTH=4 
+3.25167         PNR_POST_GAP         pNodeReporter   0.50054      
+3.25959         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=FT_REPORT,dest_name=FT_REPORT,route=localhost:9200 
+3.25960         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=LEG_SPDS_REP,dest_name=LEG_SPDS_REP,route=localhost:9200 
+3.25960         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=NODE_MESSAGE_LOCAL,dest_name=NODE_MESSAGE,route=localhost:9200 
+3.25960         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=NODE_REPORT_LOCAL,dest_name=NODE_REPORT,route=localhost:9200 
+3.25960         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=APPCAST,dest_name=APPCAST,route=localhost:9200 
+3.25960         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=VIEW_CIRCLE,dest_name=VIEW_CIRCLE,route=localhost:9200 
+3.25961         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=VIEW_SEGLIST,dest_name=VIEW_SEGLIST,route=localhost:9200 
+3.25961         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=VIEW_POINT,dest_name=VIEW_POINT,route=localhost:9200 
+3.25961         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=VIEW_POLYGON,dest_name=VIEW_POLYGON,route=localhost:9200 
+3.25961         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=REALMCAST,dest_name=REALMCAST,route=localhost:9200 
+3.25961         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=WATCHCAST,dest_name=WATCHCAST,route=localhost:9200 
+3.25962         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=REALMCAST_CHANNELS,dest_name=REALMCAST_CHANNELS,route=localhost:9200 
+3.25962         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=NODE_PSHARE_VARS,dest_name=NODE_PSHARE_VARS,route=localhost:9200 
+3.25962         APP_LOG              uFldNodeBroker  iter=2,log= 
+3.26608         APP_LOG              pMarinePID      iter=24,log=!@#!@#!@#PID REPORT: (23)(9.96261/sec)!@#PID_COURSE:  (Want):0.00000 (Curr):140.00000 (Diff):140.00000 RUDDER:-100.00000!@#PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000!@# 
+3.26613         MOOS_DEBUG           pMarinePID      Paused Due To Tardy HELM Input: THRUST=0 
+3.26613         DESIRED_THRUST       pMarinePID      0.00000      
+3.36065         NAV_X                uSimMarineV22   -17.00000    
+3.36065         NAV_Y                uSimMarineV22   -18.00000    
+3.36065         NAV_LAT              uSimMarineV22   42.35827     
+3.36065         NAV_LONG             uSimMarineV22   -71.08765    
+3.36065         NAV_HEADING          uSimMarineV22   140.00000    
+3.36065         NAV_SPEED            uSimMarineV22   0.00000      
+3.36065         NAV_DEPTH            uSimMarineV22   0.00000      
+3.36065         SIMULATION_MODE      uSimMarineV22   TRUE 
+3.36065         NAV_YAW              uSimMarineV22   -2.44346     
+3.36065         TRUE_X               uSimMarineV22   -17.00000    
+3.36065         TRUE_Y               uSimMarineV22   -18.00000    
+3.36480         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=0.1,key=pMarineViewerstartup,thresh=any 
+3.36584         APPCAST_REQ          uMAC_7434       node=abe,app=all,duration=0.1,key=uMAC_7434startup,thresh=any 
+3.36622         APP_LOG              pMarinePID      iter=25,log=!@#!@#!@#PID REPORT: (24)(9.96348/sec)!@# pMarinePID says: Paused Due To Tardy HELM Input: THRUST=0!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+3.36625         DESIRED_THRUST       pMarinePID      0.00000      
+3.45960         APP_LOG              pHelmIvP        iter=10,log=* 
+3.45963         IVPHELM_CPU          pHelmIvP        0.25115      
+3.45963         IVPHELM_STATE        pHelmIvP        PARK 
+3.46647         APP_LOG              pMarinePID      iter=26,log=!@#!@#!@#PID REPORT: (25)(9.96441/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+3.46651         DESIRED_THRUST       pMarinePID      0.00000      
+3.55727         CONTACTS_RECAP       pContactMgrV20   
+3.55728         CONTACT_RANGES       pContactMgrV20   
+3.56138         NAV_X                uSimMarineV22   -17.00000    
+3.56138         NAV_Y                uSimMarineV22   -18.00000    
+3.56138         NAV_LAT              uSimMarineV22   42.35827     
+3.56138         NAV_LONG             uSimMarineV22   -71.08765    
+3.56138         NAV_HEADING          uSimMarineV22   140.00000    
+3.56138         NAV_SPEED            uSimMarineV22   0.00000      
+3.56138         NAV_DEPTH            uSimMarineV22   0.00000      
+3.56138         SIMULATION_MODE      uSimMarineV22   TRUE 
+3.56138         NAV_YAW              uSimMarineV22   -2.44346     
+3.56138         TRUE_X               uSimMarineV22   -17.00000    
+3.56138         TRUE_Y               uSimMarineV22   -18.00000    
+3.56619         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+3.56668         APP_LOG              pMarinePID      iter=27,log=!@#!@#!@#PID REPORT: (26)(9.9648/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+3.56671         DESIRED_THRUST       pMarinePID      0.00000      
+3.60826         PSHARE_OUTPUT_SUMMARY pShare          APPCAST->APPCAST:localhost:9200, FT_REPORT->FT_REPORT:localhost:9200, LEG_SPDS_REP->LEG_SPDS_REP:localhost:9200, NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200, NODE_MESSAGE_LOCAL->NODE_MESSAGE:localhost:9200, NODE_PSHARE_VARS->NODE_PSHARE_VARS:localhost:9200, NODE_REPORT_LOCAL->NODE_REPORT:localhost:9200, REALMCAST->REALMCAST:localhost:9200, REALMCAST_CHANNELS->REALMCAST_CHANNELS:localhost:9200, VIEW_CIRCLE->VIEW_CIRCLE:localhost:9200, VIEW_POINT->VIEW_POINT:localhost:9200, VIEW_POLYGON->VIEW_POLYGON:localhost:9200, VIEW_SEGLIST->VIEW_SEGLIST:localhost:9200, WATCHCAST->WATCHCAST:localhost:9200 
+3.60826         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+3.61496         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=1.1,key=pMarineViewernewproc,thresh=any 
+3.66685         APP_LOG              pMarinePID      iter=28,log=!@#!@#!@#PID REPORT: (27)(9.96536/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+3.66688         DESIRED_THRUST       pMarinePID      0.00000      
+3.70980         APP_LOG              pHelmIvP        iter=11,log=* 
+3.70981         IVPHELM_CPU          pHelmIvP        0.25115      
+3.70982         IVPHELM_STATE        pHelmIvP        PARK 
+3.71012         DB_TIME              MOOSDB_abe      1687883628.70628 
+3.71013         DB_UPTIME            MOOSDB_abe      4.01171      
+3.71014         DB_CLIENTS           MOOSDB_abe      uSimMarineV22,uFldMessageHandler,pRealm,uFldNodeBroker,pHostInfo,pContactMgrV20,pHelmIvP,pMarinePID,pNodeReporter,pLogger,pShare,uProcessWatch, 
+3.75208         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=3,YAW=-0.8726646,TIME=1687883628.75,LENGTH=4 
+3.75209         PNR_POST_GAP         pNodeReporter   0.50041      
+3.76192         NAV_X                uSimMarineV22   -17.00000    
+3.76192         NAV_Y                uSimMarineV22   -18.00000    
+3.76192         NAV_LAT              uSimMarineV22   42.35827     
+3.76192         NAV_LONG             uSimMarineV22   -71.08765    
+3.76192         NAV_HEADING          uSimMarineV22   140.00000    
+3.76192         NAV_SPEED            uSimMarineV22   0.00000      
+3.76192         NAV_DEPTH            uSimMarineV22   0.00000      
+3.76192         SIMULATION_MODE      uSimMarineV22   TRUE 
+3.76192         NAV_YAW              uSimMarineV22   -2.44346     
+3.76192         TRUE_X               uSimMarineV22   -17.00000    
+3.76192         TRUE_Y               uSimMarineV22   -18.00000    
+3.76700         APP_LOG              pMarinePID      iter=29,log=!@#!@#!@#PID REPORT: (28)(9.96597/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+3.76703         DESIRED_THRUST       pMarinePID      0.00000      
+3.86498         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=1.1,key=pMarineViewernewproc,thresh=any 
+3.86712         APP_LOG              pMarinePID      iter=30,log=!@#!@#!@#PID REPORT: (29)(9.96664/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+3.86714         DESIRED_THRUST       pMarinePID      0.00000      
+3.96017         APP_LOG              pHelmIvP        iter=12,log=* 
+3.96019         IVPHELM_CPU          pHelmIvP        0.32370      
+3.96019         IVPHELM_STATE        pHelmIvP        PARK 
+3.96242         NAV_X                uSimMarineV22   -17.00000    
+3.96242         NAV_Y                uSimMarineV22   -18.00000    
+3.96242         NAV_LAT              uSimMarineV22   42.35827     
+3.96242         NAV_LONG             uSimMarineV22   -71.08765    
+3.96242         NAV_HEADING          uSimMarineV22   140.00000    
+3.96242         NAV_SPEED            uSimMarineV22   0.00000      
+3.96242         NAV_DEPTH            uSimMarineV22   0.00000      
+3.96242         SIMULATION_MODE      uSimMarineV22   TRUE 
+3.96242         NAV_YAW              uSimMarineV22   -2.44346     
+3.96242         TRUE_X               uSimMarineV22   -17.00000    
+3.96242         TRUE_Y               uSimMarineV22   -18.00000    
+3.96727         APP_LOG              pMarinePID      iter=31,log=!@#!@#!@#PID REPORT: (30)(9.96737/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+3.96730         DESIRED_THRUST       pMarinePID      0.00000      
+3.96786         NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=2 
+4.05752         CONTACT_RANGES       pContactMgrV20   
+4.06746         APP_LOG              pMarinePID      iter=32,log=!@#!@#!@#PID REPORT: (31)(9.96793/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+4.06749         DESIRED_THRUST       pMarinePID      0.00000      
+4.16317         NAV_X                uSimMarineV22   -17.00000    
+4.16317         NAV_Y                uSimMarineV22   -18.00000    
+4.16317         NAV_LAT              uSimMarineV22   42.35827     
+4.16317         NAV_LONG             uSimMarineV22   -71.08765    
+4.16317         NAV_HEADING          uSimMarineV22   140.00000    
+4.16317         NAV_SPEED            uSimMarineV22   0.00000      
+4.16317         NAV_DEPTH            uSimMarineV22   0.00000      
+4.16317         SIMULATION_MODE      uSimMarineV22   TRUE 
+4.16317         NAV_YAW              uSimMarineV22   -2.44346     
+4.16317         TRUE_X               uSimMarineV22   -17.00000    
+4.16317         TRUE_Y               uSimMarineV22   -18.00000    
+0.45185         PROC_WATCH_TIME_WARP uProcessWatch   1.00000      
+0.45224         PROC_WATCH_EVENT     uProcessWatch   Noted to be present: [pShare] 
+0.65182         LOGGER_DIRECTORY     pLogger         ./LOG_ABE_27_6_2023_____12_33_45 
+0.74972         PNODEREPORTER_PID    pNodeReporter   15846.00000  
+0.86179         HELM_MAP_CLEAR       pMarineViewer   0.00000      
+0.86573         MISSION_HASH         pMarineViewer   mhash=230627-1233L-PURE-KARL,utc=1687883625.63 
+0.95436         PHELMIVP_PID         pHelmIvP        15886.00000  
+0.95670         DEPLOY               pHelmIvP:HELM_VAR_INIT false 
+0.95671         RETURN               pHelmIvP:HELM_VAR_INIT false 
+0.95672         STATION_KEEP         pHelmIvP:HELM_VAR_INIT false 
+0.95673         LEG_RUNNING          pHelmIvP:HELM_VAR_INIT false 
+0.95673         ATURNING             pHelmIvP:HELM_VAR_INIT false 
+0.95673         ZIGGING              pHelmIvP:HELM_VAR_INIT false 
+0.95673         FULL_STOPPING        pHelmIvP:HELM_VAR_INIT false 
+0.95674         FIX_TURNING          pHelmIvP:HELM_VAR_INIT false 
+0.95674         AVOID                pHelmIvP:HELM_VAR_INIT true 
+0.95686         IVPHELM_REGISTER     pHelmIvP        LEG_RUNNING 
+0.95687         PLOGGER_CMD          pHelmIvP        COPY_FILE_REQUEST = targ_abe.bhv 
+0.95688         IVPHELM_DOMAIN       pHelmIvP        speed,0,2,21:course,0,359,360 
+0.95688         IVPHELM_MODESET      pHelmIvP        MODE#---,ACTIVE#---,INACTIVE#ACTIVE,STATION-KEEPING#ACTIVE,RETURNING#ACTIVE,LEGRUN 
+1.00980         DB_EVENT             MOOSDB_abe      connected=uSimMarineV22 
+1.05554         PCONTACTMGRV20_PID   pContactMgrV20  15906.00000  
+1.20728         IVPHELM_ALLSTOP      pHelmIvP        ManualOverride 
+1.20729         DESIRED_SPEED        pHelmIvP        0.00000      
+1.20729         DESIRED_HEADING      pHelmIvP        0.00000      
+1.25851         UFLDNODEBROKER_PID   uFldNodeBroker  15947.00000  
+1.65658         USM_DRIFT_SUMMARY    uSimMarineV22   ang=0, mag=0, xmag=0, ymag=0 
+1.75472         REALMCAST_CHANNELS   pRealm          node=abe#channels=MOOSDB_abe,pContactMgrV20,pHelmIvP,pHostInfo,pLogger,pMarinePID,pNodeReporter,pRealm,pShare,uFldMessageHandler,uFldNodeBroker,uProcessWatch,uSimMarineV22, 
+1.79160         UMH_SUMMARY_MSGS     uFldMessageHandler total=0,valid=0,rejected=0 
+1.95347         PROC_WATCH_SUMMARY   uProcessWatch   All Present 
+1.95347         PROC_WATCH_ALL_OK    uProcessWatch   true 
+1.95350         PROC_WATCH_FULL_SUMMARY uProcessWatch   uSimMarineV22(1/0),uFldMessageHandler(1/0),pRealm(1/0),uFldNodeBroker(1/0),pHostInfo(1/0),pContactMgrV20(1/0),pHelmIvP(1/0),pMarinePID(1/0),pNodeReporter(1/0),pLogger(1/0),pShare(1/0) 
+2.15460         PHI_HOST_IP          pHostInfo       localhost 
+2.15460         PHI_HOST_IP_ALL      pHostInfo       localhost 
+2.15460         PHI_HOST_IP_VERBOSE  pHostInfo       USER_HARD_CONFIGURED=localhost 
+2.15461         PHI_HOST_PORT_DB     pHostInfo       9001 
+2.15462         PHI_HOST_INFO        pHostInfo       community=abe,hostip=localhost,port_db=9001,port_udp=9201,pshare_iroutes=localhost:9201,hostip_alts=,timewarp=1 
+2.25074         NODE_REPORT_LOCAL_FIRST pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,YAW=-0.8726646,TIME=1687883627.25,LENGTH=4 
+2.25919         NODE_BROKER_PING_0   uFldNodeBroker  community=abe,hostip=localhost,port_db=9001,port_udp=9201,pshare_iroutes=localhost:9201,timewarp=1,time=1687883627.26,key=0 
+3.16598         PID_REPORT           pMarinePID      23:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+3.16598         DESIRED_RUDDER       pMarinePID      0.00000      
+3.25958         NODE_PSHARE_VARS     uFldNodeBroker  FT_REPORT,LEG_SPDS_REP,NODE_MESSAGE,NODE_REPORT,APPCAST,VIEW_CIRCLE,VIEW_SEGLIST,VIEW_POINT,VIEW_POLYGON,REALMCAST,WATCHCAST,REALMCAST_CHANNELS,NODE_PSHARE_VARS 
+3.25962         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=NODE_PSHARE_VARS,dest_name=NODE_PSHARE_VARS,route=localhost:9200 
+3.26613         MOOS_DEBUG           pMarinePID      Paused Due To Tardy HELM Input: THRUST=0 
+3.55727         CONTACTS_RECAP       pContactMgrV20   
+3.60826         PSHARE_OUTPUT_SUMMARY pShare          APPCAST->APPCAST:localhost:9200, FT_REPORT->FT_REPORT:localhost:9200, LEG_SPDS_REP->LEG_SPDS_REP:localhost:9200, NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200, NODE_MESSAGE_LOCAL->NODE_MESSAGE:localhost:9200, NODE_PSHARE_VARS->NODE_PSHARE_VARS:localhost:9200, NODE_REPORT_LOCAL->NODE_REPORT:localhost:9200, REALMCAST->REALMCAST:localhost:9200, REALMCAST_CHANNELS->REALMCAST_CHANNELS:localhost:9200, VIEW_CIRCLE->VIEW_CIRCLE:localhost:9200, VIEW_POINT->VIEW_POINT:localhost:9200, VIEW_POLYGON->VIEW_POLYGON:localhost:9200, VIEW_SEGLIST->VIEW_SEGLIST:localhost:9200, WATCHCAST->WATCHCAST:localhost:9200 
+3.60826         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+3.71012         DB_TIME              MOOSDB_abe      1687883628.70628 
+3.71013         DB_UPTIME            MOOSDB_abe      4.01171      
+3.71014         DB_CLIENTS           MOOSDB_abe      uSimMarineV22,uFldMessageHandler,pRealm,uFldNodeBroker,pHostInfo,pContactMgrV20,pHelmIvP,pMarinePID,pNodeReporter,pLogger,pShare,uProcessWatch, 
+3.75208         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=3,YAW=-0.8726646,TIME=1687883628.75,LENGTH=4 
+3.75209         PNR_POST_GAP         pNodeReporter   0.50041      
+3.86498         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=1.1,key=pMarineViewernewproc,thresh=any 
+3.96019         IVPHELM_CPU          pHelmIvP        0.32370      
+3.96019         IVPHELM_STATE        pHelmIvP        PARK 
+3.96786         NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=2 
+4.05752         CONTACT_RANGES       pContactMgrV20   
+4.06746         APP_LOG              pMarinePID      iter=32,log=!@#!@#!@#PID REPORT: (31)(9.96793/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+4.06749         DESIRED_THRUST       pMarinePID      0.00000      
+4.16317         NAV_DEPTH            uSimMarineV22   0.00000      
+4.16317         NAV_HEADING          uSimMarineV22   140.00000    
+4.16317         NAV_LAT              uSimMarineV22   42.35827     
+4.16317         NAV_LONG             uSimMarineV22   -71.08765    
+4.16317         NAV_SPEED            uSimMarineV22   0.00000      
+4.16317         NAV_X                uSimMarineV22   -17.00000    
+4.16317         NAV_Y                uSimMarineV22   -18.00000    
+4.16317         NAV_YAW              uSimMarineV22   -2.44346     
+4.16317         SIMULATION_MODE      uSimMarineV22   TRUE 
+4.16317         TRUE_X               uSimMarineV22   -17.00000    
+4.16317         TRUE_Y               uSimMarineV22   -18.00000    
+4.16714         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+4.16763         APP_LOG              pMarinePID      iter=33,log=!@#!@#!@#PID REPORT: (32)(9.96832/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+4.16767         DESIRED_THRUST       pMarinePID      0.00000      
+4.21035         APP_LOG              pHelmIvP        iter=13,log=* 
+4.21037         IVPHELM_CPU          pHelmIvP        0.32370      
+4.21037         IVPHELM_STATE        pHelmIvP        PARK 
+4.25252         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=4,YAW=-0.8726646,TIME=1687883629.25,LENGTH=4 
+4.25252         PNR_POST_GAP         pNodeReporter   0.50045      
+4.25993         NODE_PSHARE_VARS     uFldNodeBroker  FT_REPORT,LEG_SPDS_REP,NODE_MESSAGE,NODE_REPORT,APPCAST,VIEW_CIRCLE,VIEW_SEGLIST,VIEW_POINT,VIEW_POLYGON,REALMCAST,WATCHCAST,REALMCAST_CHANNELS,NODE_PSHARE_VARS 
+4.25999         APP_LOG              uFldNodeBroker  iter=3,log= 
+4.26790         APP_LOG              pMarinePID      iter=34,log=!@#!@#!@#PID REPORT: (33)(9.96877/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+4.26794         DESIRED_THRUST       pMarinePID      0.00000      
+4.36381         NAV_X                uSimMarineV22   -17.00000    
+4.36381         NAV_Y                uSimMarineV22   -18.00000    
+4.36381         NAV_LAT              uSimMarineV22   42.35827     
+4.36381         NAV_LONG             uSimMarineV22   -71.08765    
+4.36381         NAV_HEADING          uSimMarineV22   140.00000    
+4.36381         NAV_SPEED            uSimMarineV22   0.00000      
+4.36381         NAV_DEPTH            uSimMarineV22   0.00000      
+4.36381         SIMULATION_MODE      uSimMarineV22   TRUE 
+4.36381         NAV_YAW              uSimMarineV22   -2.44346     
+4.36381         TRUE_X               uSimMarineV22   -17.00000    
+4.36381         TRUE_Y               uSimMarineV22   -18.00000    
+4.36562         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=1.1,key=pMarineViewernewproc,thresh=any 
+4.36813         APP_LOG              pMarinePID      iter=35,log=!@#!@#!@#PID REPORT: (34)(9.96889/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+4.36817         DESIRED_THRUST       pMarinePID      0.00000      
+4.46069         APP_LOG              pHelmIvP        iter=14,log=* 
+4.46070         IVPHELM_CPU          pHelmIvP        0.25131      
+4.46071         IVPHELM_STATE        pHelmIvP        PARK 
+4.46830         APP_LOG              pMarinePID      iter=36,log=!@#!@#!@#PID REPORT: (35)(9.96911/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+4.46833         DESIRED_THRUST       pMarinePID      0.00000      
+4.55775         CONTACTS_RECAP       pContactMgrV20   
+4.55776         CONTACT_RANGES       pContactMgrV20   
+4.56475         NAV_X                uSimMarineV22   -17.00000    
+4.56475         NAV_Y                uSimMarineV22   -18.00000    
+4.56475         NAV_LAT              uSimMarineV22   42.35827     
+4.56475         NAV_LONG             uSimMarineV22   -71.08765    
+4.56475         NAV_HEADING          uSimMarineV22   140.00000    
+4.56475         NAV_SPEED            uSimMarineV22   0.00000      
+4.56475         NAV_DEPTH            uSimMarineV22   0.00000      
+4.56475         SIMULATION_MODE      uSimMarineV22   TRUE 
+4.56475         NAV_YAW              uSimMarineV22   -2.44346     
+4.56475         TRUE_X               uSimMarineV22   -17.00000    
+4.56475         TRUE_Y               uSimMarineV22   -18.00000    
+4.56847         APP_LOG              pMarinePID      iter=37,log=!@#!@#!@#PID REPORT: (36)(9.96952/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+4.56849         DESIRED_THRUST       pMarinePID      0.00000      
+4.60877         PSHARE_OUTPUT_SUMMARY pShare          APPCAST->APPCAST:localhost:9200, FT_REPORT->FT_REPORT:localhost:9200, LEG_SPDS_REP->LEG_SPDS_REP:localhost:9200, NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200, NODE_MESSAGE_LOCAL->NODE_MESSAGE:localhost:9200, NODE_PSHARE_VARS->NODE_PSHARE_VARS:localhost:9200, NODE_REPORT_LOCAL->NODE_REPORT:localhost:9200, REALMCAST->REALMCAST:localhost:9200, REALMCAST_CHANNELS->REALMCAST_CHANNELS:localhost:9200, VIEW_CIRCLE->VIEW_CIRCLE:localhost:9200, VIEW_POINT->VIEW_POINT:localhost:9200, VIEW_POLYGON->VIEW_POLYGON:localhost:9200, VIEW_SEGLIST->VIEW_SEGLIST:localhost:9200, WATCHCAST->WATCHCAST:localhost:9200 
+4.60878         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+4.61668         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+4.66861         APP_LOG              pMarinePID      iter=38,log=!@#!@#!@#PID REPORT: (37)(9.96989/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+4.66864         DESIRED_THRUST       pMarinePID      0.00000      
+4.71095         APP_LOG              pHelmIvP        iter=15,log=* 
+4.71097         IVPHELM_CPU          pHelmIvP        0.25131      
+4.71097         IVPHELM_STATE        pHelmIvP        PARK 
+4.75289         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=5,YAW=-0.8726646,TIME=1687883629.75,LENGTH=4 
+4.75289         PNR_POST_GAP         pNodeReporter   0.50037      
+4.76523         NAV_X                uSimMarineV22   -17.00000    
+4.76523         NAV_Y                uSimMarineV22   -18.00000    
+4.76523         NAV_LAT              uSimMarineV22   42.35827     
+4.76523         NAV_LONG             uSimMarineV22   -71.08765    
+4.76523         NAV_HEADING          uSimMarineV22   140.00000    
+4.76523         NAV_SPEED            uSimMarineV22   0.00000      
+4.76523         NAV_DEPTH            uSimMarineV22   0.00000      
+4.76523         SIMULATION_MODE      uSimMarineV22   TRUE 
+4.76523         NAV_YAW              uSimMarineV22   -2.44346     
+4.76523         TRUE_X               uSimMarineV22   -17.00000    
+4.76523         TRUE_Y               uSimMarineV22   -18.00000    
+4.76828         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+4.76875         APP_LOG              pMarinePID      iter=39,log=!@#!@#!@#PID REPORT: (38)(9.97031/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+4.76878         DESIRED_THRUST       pMarinePID      0.00000      
+4.86895         APP_LOG              pMarinePID      iter=40,log=!@#!@#!@#PID REPORT: (39)(9.9707/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+4.86899         DESIRED_THRUST       pMarinePID      0.00000      
+4.96121         APP_LOG              pHelmIvP        iter=16,log=* 
+4.96121         IVPHELM_CPU          pHelmIvP        0.29151      
+4.96121         IVPHELM_STATE        pHelmIvP        PARK 
+4.96569         NAV_X                uSimMarineV22   -17.00000    
+4.96569         NAV_Y                uSimMarineV22   -18.00000    
+4.96569         NAV_LAT              uSimMarineV22   42.35827     
+4.96569         NAV_LONG             uSimMarineV22   -71.08765    
+4.96569         NAV_HEADING          uSimMarineV22   140.00000    
+4.96569         NAV_SPEED            uSimMarineV22   0.00000      
+4.96569         NAV_DEPTH            uSimMarineV22   0.00000      
+4.96569         SIMULATION_MODE      uSimMarineV22   TRUE 
+4.96569         NAV_YAW              uSimMarineV22   -2.44346     
+4.96569         TRUE_X               uSimMarineV22   -17.00000    
+4.96569         TRUE_Y               uSimMarineV22   -18.00000    
+4.96810         NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=3 
+4.96912         APP_LOG              pMarinePID      iter=41,log=!@#!@#!@#PID REPORT: (40)(9.97091/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+4.96912         DESIRED_THRUST       pMarinePID      0.00000      
+5.05803         CONTACT_RANGES       pContactMgrV20   
+5.06922         APP_LOG              pMarinePID      iter=42,log=!@#!@#!@#PID REPORT: (41)(9.97128/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+5.06925         DESIRED_THRUST       pMarinePID      0.00000      
+5.16616         NAV_X                uSimMarineV22   -17.00000    
+5.16616         NAV_Y                uSimMarineV22   -18.00000    
+5.16616         NAV_LAT              uSimMarineV22   42.35827     
+5.16616         NAV_LONG             uSimMarineV22   -71.08765    
+5.16616         NAV_HEADING          uSimMarineV22   140.00000    
+5.16616         NAV_SPEED            uSimMarineV22   0.00000      
+5.16616         NAV_DEPTH            uSimMarineV22   0.00000      
+5.16616         SIMULATION_MODE      uSimMarineV22   TRUE 
+5.16616         NAV_YAW              uSimMarineV22   -2.44346     
+5.16616         TRUE_X               uSimMarineV22   -17.00000    
+5.16616         TRUE_Y               uSimMarineV22   -18.00000    
+5.16935         APP_LOG              pMarinePID      iter=43,log=!@#!@#!@#PID REPORT: (42)(9.97169/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+5.16938         DESIRED_THRUST       pMarinePID      0.00000      
+5.21143         APP_LOG              pHelmIvP        iter=17,log=* 
+5.21144         IVPHELM_CPU          pHelmIvP        0.29151      
+5.21144         IVPHELM_STATE        pHelmIvP        PARK 
+5.25333         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=6,YAW=-0.8726646,TIME=1687883630.25,LENGTH=4 
+5.25333         PNR_POST_GAP         pNodeReporter   0.50046      
+5.26036         NODE_PSHARE_VARS     uFldNodeBroker  FT_REPORT,LEG_SPDS_REP,NODE_MESSAGE,NODE_REPORT,APPCAST,VIEW_CIRCLE,VIEW_SEGLIST,VIEW_POINT,VIEW_POLYGON,REALMCAST,WATCHCAST,REALMCAST_CHANNELS,NODE_PSHARE_VARS 
+5.26037         APP_LOG              uFldNodeBroker  iter=4,log= 
+5.26946         APP_LOG              pMarinePID      iter=44,log=!@#!@#!@#PID REPORT: (43)(9.97204/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+5.26948         DESIRED_THRUST       pMarinePID      0.00000      
+0.45185         PROC_WATCH_TIME_WARP uProcessWatch   1.00000      
+0.45224         PROC_WATCH_EVENT     uProcessWatch   Noted to be present: [pShare] 
+0.65182         LOGGER_DIRECTORY     pLogger         ./LOG_ABE_27_6_2023_____12_33_45 
+0.74972         PNODEREPORTER_PID    pNodeReporter   15846.00000  
+0.86179         HELM_MAP_CLEAR       pMarineViewer   0.00000      
+0.86573         MISSION_HASH         pMarineViewer   mhash=230627-1233L-PURE-KARL,utc=1687883625.63 
+0.95436         PHELMIVP_PID         pHelmIvP        15886.00000  
+0.95670         DEPLOY               pHelmIvP:HELM_VAR_INIT false 
+0.95671         RETURN               pHelmIvP:HELM_VAR_INIT false 
+0.95672         STATION_KEEP         pHelmIvP:HELM_VAR_INIT false 
+0.95673         LEG_RUNNING          pHelmIvP:HELM_VAR_INIT false 
+0.95673         ATURNING             pHelmIvP:HELM_VAR_INIT false 
+0.95673         ZIGGING              pHelmIvP:HELM_VAR_INIT false 
+0.95673         FULL_STOPPING        pHelmIvP:HELM_VAR_INIT false 
+0.95674         FIX_TURNING          pHelmIvP:HELM_VAR_INIT false 
+0.95674         AVOID                pHelmIvP:HELM_VAR_INIT true 
+0.95686         IVPHELM_REGISTER     pHelmIvP        LEG_RUNNING 
+0.95687         PLOGGER_CMD          pHelmIvP        COPY_FILE_REQUEST = targ_abe.bhv 
+0.95688         IVPHELM_DOMAIN       pHelmIvP        speed,0,2,21:course,0,359,360 
+0.95688         IVPHELM_MODESET      pHelmIvP        MODE#---,ACTIVE#---,INACTIVE#ACTIVE,STATION-KEEPING#ACTIVE,RETURNING#ACTIVE,LEGRUN 
+1.00980         DB_EVENT             MOOSDB_abe      connected=uSimMarineV22 
+1.05554         PCONTACTMGRV20_PID   pContactMgrV20  15906.00000  
+1.20728         IVPHELM_ALLSTOP      pHelmIvP        ManualOverride 
+1.20729         DESIRED_SPEED        pHelmIvP        0.00000      
+1.20729         DESIRED_HEADING      pHelmIvP        0.00000      
+1.25851         UFLDNODEBROKER_PID   uFldNodeBroker  15947.00000  
+1.65658         USM_DRIFT_SUMMARY    uSimMarineV22   ang=0, mag=0, xmag=0, ymag=0 
+1.75472         REALMCAST_CHANNELS   pRealm          node=abe#channels=MOOSDB_abe,pContactMgrV20,pHelmIvP,pHostInfo,pLogger,pMarinePID,pNodeReporter,pRealm,pShare,uFldMessageHandler,uFldNodeBroker,uProcessWatch,uSimMarineV22, 
+1.79160         UMH_SUMMARY_MSGS     uFldMessageHandler total=0,valid=0,rejected=0 
+1.95347         PROC_WATCH_SUMMARY   uProcessWatch   All Present 
+1.95347         PROC_WATCH_ALL_OK    uProcessWatch   true 
+1.95350         PROC_WATCH_FULL_SUMMARY uProcessWatch   uSimMarineV22(1/0),uFldMessageHandler(1/0),pRealm(1/0),uFldNodeBroker(1/0),pHostInfo(1/0),pContactMgrV20(1/0),pHelmIvP(1/0),pMarinePID(1/0),pNodeReporter(1/0),pLogger(1/0),pShare(1/0) 
+2.15460         PHI_HOST_IP          pHostInfo       localhost 
+2.15460         PHI_HOST_IP_ALL      pHostInfo       localhost 
+2.15460         PHI_HOST_IP_VERBOSE  pHostInfo       USER_HARD_CONFIGURED=localhost 
+2.15461         PHI_HOST_PORT_DB     pHostInfo       9001 
+2.15462         PHI_HOST_INFO        pHostInfo       community=abe,hostip=localhost,port_db=9001,port_udp=9201,pshare_iroutes=localhost:9201,hostip_alts=,timewarp=1 
+2.25074         NODE_REPORT_LOCAL_FIRST pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,YAW=-0.8726646,TIME=1687883627.25,LENGTH=4 
+2.25919         NODE_BROKER_PING_0   uFldNodeBroker  community=abe,hostip=localhost,port_db=9001,port_udp=9201,pshare_iroutes=localhost:9201,timewarp=1,time=1687883627.26,key=0 
+3.16598         PID_REPORT           pMarinePID      23:PID_SPEED:  (Want):0.00000 (Curr):0.00000 (Diff):0.00000 (Delt):0.00000 THRUST:0.00000 
+3.16598         DESIRED_RUDDER       pMarinePID      0.00000      
+3.25962         PSHARE_CMD           uFldNodeBroker  cmd=output,src_name=NODE_PSHARE_VARS,dest_name=NODE_PSHARE_VARS,route=localhost:9200 
+3.26613         MOOS_DEBUG           pMarinePID      Paused Due To Tardy HELM Input: THRUST=0 
+3.71012         DB_TIME              MOOSDB_abe      1687883628.70628 
+3.71013         DB_UPTIME            MOOSDB_abe      4.01171      
+3.71014         DB_CLIENTS           MOOSDB_abe      uSimMarineV22,uFldMessageHandler,pRealm,uFldNodeBroker,pHostInfo,pContactMgrV20,pHelmIvP,pMarinePID,pNodeReporter,pLogger,pShare,uProcessWatch, 
+4.55775         CONTACTS_RECAP       pContactMgrV20   
+4.60877         PSHARE_OUTPUT_SUMMARY pShare          APPCAST->APPCAST:localhost:9200, FT_REPORT->FT_REPORT:localhost:9200, LEG_SPDS_REP->LEG_SPDS_REP:localhost:9200, NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200, NODE_MESSAGE_LOCAL->NODE_MESSAGE:localhost:9200, NODE_PSHARE_VARS->NODE_PSHARE_VARS:localhost:9200, NODE_REPORT_LOCAL->NODE_REPORT:localhost:9200, REALMCAST->REALMCAST:localhost:9200, REALMCAST_CHANNELS->REALMCAST_CHANNELS:localhost:9200, VIEW_CIRCLE->VIEW_CIRCLE:localhost:9200, VIEW_POINT->VIEW_POINT:localhost:9200, VIEW_POLYGON->VIEW_POLYGON:localhost:9200, VIEW_SEGLIST->VIEW_SEGLIST:localhost:9200, WATCHCAST->WATCHCAST:localhost:9200 
+4.60878         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+4.76828         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+4.96810         NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=3 
+5.05803         CONTACT_RANGES       pContactMgrV20   
+5.11664         HEARTBEAT            pMarineViewer   true 
+5.16616         NAV_DEPTH            uSimMarineV22   0.00000      
+5.16616         NAV_HEADING          uSimMarineV22   140.00000    
+5.16616         NAV_LAT              uSimMarineV22   42.35827     
+5.16616         NAV_LONG             uSimMarineV22   -71.08765    
+5.16616         NAV_SPEED            uSimMarineV22   0.00000      
+5.16616         NAV_X                uSimMarineV22   -17.00000    
+5.16616         NAV_Y                uSimMarineV22   -18.00000    
+5.16616         NAV_YAW              uSimMarineV22   -2.44346     
+5.16616         SIMULATION_MODE      uSimMarineV22   TRUE 
+5.16616         TRUE_X               uSimMarineV22   -17.00000    
+5.16616         TRUE_Y               uSimMarineV22   -18.00000    
+5.21144         IVPHELM_CPU          pHelmIvP        0.29151      
+5.21144         IVPHELM_STATE        pHelmIvP        PARK 
+5.25333         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=6,YAW=-0.8726646,TIME=1687883630.25,LENGTH=4 
+5.25333         PNR_POST_GAP         pNodeReporter   0.50046      
+5.26036         NODE_PSHARE_VARS     uFldNodeBroker  FT_REPORT,LEG_SPDS_REP,NODE_MESSAGE,NODE_REPORT,APPCAST,VIEW_CIRCLE,VIEW_SEGLIST,VIEW_POINT,VIEW_POLYGON,REALMCAST,WATCHCAST,REALMCAST_CHANNELS,NODE_PSHARE_VARS 
+5.26946         APP_LOG              pMarinePID      iter=44,log=!@#!@#!@#PID REPORT: (43)(9.97204/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+5.26948         DESIRED_THRUST       pMarinePID      0.00000      
+5.36649         NAV_X                uSimMarineV22   -17.00000    
+5.36649         NAV_Y                uSimMarineV22   -18.00000    
+5.36649         NAV_LAT              uSimMarineV22   42.35827     
+5.36649         NAV_LONG             uSimMarineV22   -71.08765    
+5.36649         NAV_HEADING          uSimMarineV22   140.00000    
+5.36649         NAV_SPEED            uSimMarineV22   0.00000      
+5.36649         NAV_DEPTH            uSimMarineV22   0.00000      
+5.36649         SIMULATION_MODE      uSimMarineV22   TRUE 
+5.36649         NAV_YAW              uSimMarineV22   -2.44346     
+5.36649         TRUE_X               uSimMarineV22   -17.00000    
+5.36649         TRUE_Y               uSimMarineV22   -18.00000    
+5.36959         APP_LOG              pMarinePID      iter=45,log=!@#!@#!@#PID REPORT: (44)(9.97243/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+5.36960         DESIRED_THRUST       pMarinePID      0.00000      
+5.36728         HEARTBEAT            pMarineViewer   true 
+5.36907         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+5.46168         APP_LOG              pHelmIvP        iter=18,log=* 
+5.46168         IVPHELM_CPU          pHelmIvP        0.19674      
+5.46168         IVPHELM_STATE        pHelmIvP        PARK 
+5.46971         APP_LOG              pMarinePID      iter=46,log=!@#!@#!@#PID REPORT: (45)(9.97277/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+5.46973         DESIRED_THRUST       pMarinePID      0.00000      
+5.55834         CONTACTS_RECAP       pContactMgrV20   
+5.55834         CONTACT_RANGES       pContactMgrV20   
+5.56728         NAV_X                uSimMarineV22   -17.00000    
+5.56728         NAV_Y                uSimMarineV22   -18.00000    
+5.56728         NAV_LAT              uSimMarineV22   42.35827     
+5.56728         NAV_LONG             uSimMarineV22   -71.08765    
+5.56728         NAV_HEADING          uSimMarineV22   140.00000    
+5.56728         NAV_SPEED            uSimMarineV22   0.00000      
+5.56728         NAV_DEPTH            uSimMarineV22   0.00000      
+5.56728         SIMULATION_MODE      uSimMarineV22   TRUE 
+5.56728         NAV_YAW              uSimMarineV22   -2.44346     
+5.56728         TRUE_X               uSimMarineV22   -17.00000    
+5.56728         TRUE_Y               uSimMarineV22   -18.00000    
+5.56983         APP_LOG              pMarinePID      iter=47,log=!@#!@#!@#PID REPORT: (46)(9.97309/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+5.56985         DESIRED_THRUST       pMarinePID      0.00000      
+5.60918         PSHARE_OUTPUT_SUMMARY pShare          APPCAST->APPCAST:localhost:9200, FT_REPORT->FT_REPORT:localhost:9200, LEG_SPDS_REP->LEG_SPDS_REP:localhost:9200, NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200, NODE_MESSAGE_LOCAL->NODE_MESSAGE:localhost:9200, NODE_PSHARE_VARS->NODE_PSHARE_VARS:localhost:9200, NODE_REPORT_LOCAL->NODE_REPORT:localhost:9200, REALMCAST->REALMCAST:localhost:9200, REALMCAST_CHANNELS->REALMCAST_CHANNELS:localhost:9200, VIEW_CIRCLE->VIEW_CIRCLE:localhost:9200, VIEW_POINT->VIEW_POINT:localhost:9200, VIEW_POLYGON->VIEW_POLYGON:localhost:9200, VIEW_SEGLIST->VIEW_SEGLIST:localhost:9200, WATCHCAST->WATCHCAST:localhost:9200 
+5.60919         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+5.61690         HEARTBEAT            pMarineViewer   true 
+5.66994         APP_LOG              pMarinePID      iter=48,log=!@#!@#!@#PID REPORT: (47)(9.97341/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+5.66997         DESIRED_THRUST       pMarinePID      0.00000      
+5.71190         APP_LOG              pHelmIvP        iter=19,log=* 
+5.71193         IVPHELM_CPU          pHelmIvP        0.19674      
+5.71193         IVPHELM_STATE        pHelmIvP        PARK 
+5.71224         DB_TIME              MOOSDB_abe      1687883630.70840 
+5.71225         DB_UPTIME            MOOSDB_abe      6.01383      
+5.71227         DB_CLIENTS           MOOSDB_abe      uSimMarineV22,uFldMessageHandler,pRealm,uFldNodeBroker,pHostInfo,pContactMgrV20,pHelmIvP,pMarinePID,pNodeReporter,pLogger,pShare,uProcessWatch, 
+5.75377         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=7,YAW=-0.8726646,TIME=1687883630.75,LENGTH=4 
+5.75378         PNR_POST_GAP         pNodeReporter   0.50042      
+5.76782         NAV_X                uSimMarineV22   -17.00000    
+5.76782         NAV_Y                uSimMarineV22   -18.00000    
+5.76782         NAV_LAT              uSimMarineV22   42.35827     
+5.76782         NAV_LONG             uSimMarineV22   -71.08765    
+5.76782         NAV_HEADING          uSimMarineV22   140.00000    
+5.76782         NAV_SPEED            uSimMarineV22   0.00000      
+5.76782         NAV_DEPTH            uSimMarineV22   0.00000      
+5.76782         SIMULATION_MODE      uSimMarineV22   TRUE 
+5.76782         NAV_YAW              uSimMarineV22   -2.44346     
+5.76782         TRUE_X               uSimMarineV22   -17.00000    
+5.76782         TRUE_Y               uSimMarineV22   -18.00000    
+5.77007         APP_LOG              pMarinePID      iter=49,log=!@#!@#!@#PID REPORT: (48)(9.97372/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+5.77009         DESIRED_THRUST       pMarinePID      0.00000      
+5.87019         APP_LOG              pMarinePID      iter=50,log=!@#!@#!@#PID REPORT: (49)(9.974/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+5.87022         DESIRED_THRUST       pMarinePID      0.00000      
+5.86773         HEARTBEAT            pMarineViewer   true 
+5.96221         APP_LOG              pHelmIvP        iter=20,log=* 
+5.96223         IVPHELM_CPU          pHelmIvP        0.19595      
+5.96223         IVPHELM_STATE        pHelmIvP        PARK 
+5.96828         NAV_X                uSimMarineV22   -17.00000    
+5.96828         NAV_Y                uSimMarineV22   -18.00000    
+5.96828         NAV_LAT              uSimMarineV22   42.35827     
+5.96828         NAV_LONG             uSimMarineV22   -71.08765    
+5.96828         NAV_HEADING          uSimMarineV22   140.00000    
+5.96828         NAV_SPEED            uSimMarineV22   0.00000      
+5.96828         NAV_DEPTH            uSimMarineV22   0.00000      
+5.96828         SIMULATION_MODE      uSimMarineV22   TRUE 
+5.96828         NAV_YAW              uSimMarineV22   -2.44346     
+5.96828         TRUE_X               uSimMarineV22   -17.00000    
+5.96828         TRUE_Y               uSimMarineV22   -18.00000    
+5.97035         APP_LOG              pMarinePID      iter=51,log=!@#!@#!@#PID REPORT: (50)(9.97426/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+5.97036         DESIRED_THRUST       pMarinePID      0.00000      
+5.96843         NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=4 
+5.96970         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+6.05856         CONTACT_RANGES       pContactMgrV20   
+6.07045         APP_LOG              pMarinePID      iter=52,log=!@#!@#!@#PID REPORT: (51)(9.97448/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+6.07048         DESIRED_THRUST       pMarinePID      0.00000      
+6.11719         HEARTBEAT            pMarineViewer   true 
+6.16870         NAV_X                uSimMarineV22   -17.00000    
+6.16870         NAV_Y                uSimMarineV22   -18.00000    
+6.16870         NAV_LAT              uSimMarineV22   42.35827     
+6.16870         NAV_LONG             uSimMarineV22   -71.08765    
+6.16870         NAV_HEADING          uSimMarineV22   140.00000    
+6.16870         NAV_SPEED            uSimMarineV22   0.00000      
+6.16870         NAV_DEPTH            uSimMarineV22   0.00000      
+6.16870         SIMULATION_MODE      uSimMarineV22   TRUE 
+6.16870         NAV_YAW              uSimMarineV22   -2.44346     
+6.16870         TRUE_X               uSimMarineV22   -17.00000    
+6.16870         TRUE_Y               uSimMarineV22   -18.00000    
+6.17059         APP_LOG              pMarinePID      iter=53,log=!@#!@#!@#PID REPORT: (52)(9.97475/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+6.17060         DESIRED_THRUST       pMarinePID      0.00000      
+6.21250         APP_LOG              pHelmIvP        iter=21,log=* 
+6.21252         IVPHELM_CPU          pHelmIvP        0.19595      
+6.21252         IVPHELM_STATE        pHelmIvP        PARK 
+6.25418         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=8,YAW=-0.8726646,TIME=1687883631.25,LENGTH=4 
+6.25418         PNR_POST_GAP         pNodeReporter   0.50040      
+6.26081         NODE_PSHARE_VARS     uFldNodeBroker  FT_REPORT,LEG_SPDS_REP,NODE_MESSAGE,NODE_REPORT,APPCAST,VIEW_CIRCLE,VIEW_SEGLIST,VIEW_POINT,VIEW_POLYGON,REALMCAST,WATCHCAST,REALMCAST_CHANNELS,NODE_PSHARE_VARS 
+6.26087         APP_LOG              uFldNodeBroker  iter=5,log= 
+6.27082         APP_LOG              pMarinePID      iter=54,log=!@#!@#!@#PID REPORT: (53)(9.975/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+6.27086         DESIRED_THRUST       pMarinePID      0.00000      
+6.36909         NAV_X                uSimMarineV22   -17.00000    
+6.36909         NAV_Y                uSimMarineV22   -18.00000    
+6.36909         NAV_LAT              uSimMarineV22   42.35827     
+6.36909         NAV_LONG             uSimMarineV22   -71.08765    
+6.36909         NAV_HEADING          uSimMarineV22   140.00000    
+6.36909         NAV_SPEED            uSimMarineV22   0.00000      
+6.36909         NAV_DEPTH            uSimMarineV22   0.00000      
+6.36909         SIMULATION_MODE      uSimMarineV22   TRUE 
+6.36909         NAV_YAW              uSimMarineV22   -2.44346     
+6.36909         TRUE_X               uSimMarineV22   -17.00000    
+6.36909         TRUE_Y               uSimMarineV22   -18.00000    
+6.37097         APP_LOG              pMarinePID      iter=55,log=!@#!@#!@#PID REPORT: (54)(9.975/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+6.37100         DESIRED_THRUST       pMarinePID      0.00000      
+6.36782         HEARTBEAT            pMarineViewer   true 
+6.46278         APP_LOG              pHelmIvP        iter=22,log=* 
+6.46280         IVPHELM_CPU          pHelmIvP        0.21131      
+6.46280         IVPHELM_STATE        pHelmIvP        PARK 
+6.47116         APP_LOG              pMarinePID      iter=56,log=!@#!@#!@#PID REPORT: (55)(9.9752/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+6.47120         DESIRED_THRUST       pMarinePID      0.00000      
+6.55871         CONTACTS_RECAP       pContactMgrV20   
+6.55872         CONTACT_RANGES       pContactMgrV20   
+6.56946         NAV_X                uSimMarineV22   -17.00000    
+6.56946         NAV_Y                uSimMarineV22   -18.00000    
+6.56946         NAV_LAT              uSimMarineV22   42.35827     
+6.56946         NAV_LONG             uSimMarineV22   -71.08765    
+6.56946         NAV_HEADING          uSimMarineV22   140.00000    
+6.56946         NAV_SPEED            uSimMarineV22   0.00000      
+6.56946         NAV_DEPTH            uSimMarineV22   0.00000      
+6.56946         SIMULATION_MODE      uSimMarineV22   TRUE 
+6.56946         NAV_YAW              uSimMarineV22   -2.44346     
+6.56946         TRUE_X               uSimMarineV22   -17.00000    
+6.56946         TRUE_Y               uSimMarineV22   -18.00000    
+6.57131         APP_LOG              pMarinePID      iter=57,log=!@#!@#!@#PID REPORT: (56)(9.97528/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+6.57134         DESIRED_THRUST       pMarinePID      0.00000      
+6.57014         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+6.61336         PSHARE_OUTPUT_SUMMARY pShare          APPCAST->APPCAST:localhost:9200, FT_REPORT->FT_REPORT:localhost:9200, LEG_SPDS_REP->LEG_SPDS_REP:localhost:9200, NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200, NODE_MESSAGE_LOCAL->NODE_MESSAGE:localhost:9200, NODE_PSHARE_VARS->NODE_PSHARE_VARS:localhost:9200, NODE_REPORT_LOCAL->NODE_REPORT:localhost:9200, REALMCAST->REALMCAST:localhost:9200, REALMCAST_CHANNELS->REALMCAST_CHANNELS:localhost:9200, VIEW_CIRCLE->VIEW_CIRCLE:localhost:9200, VIEW_POINT->VIEW_POINT:localhost:9200, VIEW_POLYGON->VIEW_POLYGON:localhost:9200, VIEW_SEGLIST->VIEW_SEGLIST:localhost:9200, WATCHCAST->WATCHCAST:localhost:9200 
+6.61336         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+6.61727         HEARTBEAT            pMarineViewer   true 
+6.61728         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+6.67146         APP_LOG              pMarinePID      iter=58,log=!@#!@#!@#PID REPORT: (57)(9.97546/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+6.67149         DESIRED_THRUST       pMarinePID      0.00000      
+6.71296         APP_LOG              pHelmIvP        iter=23,log=* 
+6.71298         IVPHELM_CPU          pHelmIvP        0.21131      
+6.71298         IVPHELM_STATE        pHelmIvP        PARK 
+6.75443         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=9,YAW=-0.8726646,TIME=1687883631.75,LENGTH=4 
+6.75444         PNR_POST_GAP         pNodeReporter   0.50027      
+6.76162         REALMCAST_CHANNELS   pRealm          node=abe#channels=MOOSDB_abe,pContactMgrV20,pHelmIvP,pHostInfo,pLogger,pMarinePID,pNodeReporter,pRealm,pShare,uFldMessageHandler,uFldNodeBroker,uProcessWatch,uSimMarineV22, 
+6.76982         NAV_X                uSimMarineV22   -17.00000    
+6.76982         NAV_Y                uSimMarineV22   -18.00000    
+6.76982         NAV_LAT              uSimMarineV22   42.35827     
+6.76982         NAV_LONG             uSimMarineV22   -71.08765    
+6.76982         NAV_HEADING          uSimMarineV22   140.00000    
+6.76982         NAV_SPEED            uSimMarineV22   0.00000      
+6.76982         NAV_DEPTH            uSimMarineV22   0.00000      
+6.76982         SIMULATION_MODE      uSimMarineV22   TRUE 
+6.76982         NAV_YAW              uSimMarineV22   -2.44346     
+6.76982         TRUE_X               uSimMarineV22   -17.00000    
+6.76982         TRUE_Y               uSimMarineV22   -18.00000    
+6.77160         APP_LOG              pMarinePID      iter=59,log=!@#!@#!@#PID REPORT: (58)(9.97563/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+6.77163         DESIRED_THRUST       pMarinePID      0.00000      
+6.87174         APP_LOG              pMarinePID      iter=60,log=!@#!@#!@#PID REPORT: (59)(9.97581/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+6.87175         DESIRED_THRUST       pMarinePID      0.00000      
+6.86828         HEARTBEAT            pMarineViewer   true 
+6.96314         APP_LOG              pHelmIvP        iter=24,log=* 
+6.96314         IVPHELM_CPU          pHelmIvP        0.23934      
+6.96314         IVPHELM_STATE        pHelmIvP        PARK 
+6.97011         NAV_X                uSimMarineV22   -17.00000    
+6.97011         NAV_Y                uSimMarineV22   -18.00000    
+6.97011         NAV_LAT              uSimMarineV22   42.35827     
+6.97011         NAV_LONG             uSimMarineV22   -71.08765    
+6.97011         NAV_HEADING          uSimMarineV22   140.00000    
+6.97011         NAV_SPEED            uSimMarineV22   0.00000      
+6.97011         NAV_DEPTH            uSimMarineV22   0.00000      
+6.97011         SIMULATION_MODE      uSimMarineV22   TRUE 
+6.97011         NAV_YAW              uSimMarineV22   -2.44346     
+6.97011         TRUE_X               uSimMarineV22   -17.00000    
+6.97011         TRUE_Y               uSimMarineV22   -18.00000    
+6.97187         APP_LOG              pMarinePID      iter=61,log=!@#!@#!@#PID REPORT: (60)(9.97599/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+6.97188         DESIRED_THRUST       pMarinePID      0.00000      
+6.96870         NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=5 
+7.05889         CONTACT_RANGES       pContactMgrV20   
+7.07205         APP_LOG              pMarinePID      iter=62,log=!@#!@#!@#PID REPORT: (61)(9.97618/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+7.07208         DESIRED_THRUST       pMarinePID      0.00000      
+7.11771         HEARTBEAT            pMarineViewer   true 
+7.17041         NAV_X                uSimMarineV22   -17.00000    
+7.17041         NAV_Y                uSimMarineV22   -18.00000    
+7.17041         NAV_LAT              uSimMarineV22   42.35827     
+7.17041         NAV_LONG             uSimMarineV22   -71.08765    
+7.17041         NAV_HEADING          uSimMarineV22   140.00000    
+7.17041         NAV_SPEED            uSimMarineV22   0.00000      
+7.17041         NAV_DEPTH            uSimMarineV22   0.00000      
+7.17041         SIMULATION_MODE      uSimMarineV22   TRUE 
+7.17041         NAV_YAW              uSimMarineV22   -2.44346     
+7.17041         TRUE_X               uSimMarineV22   -17.00000    
+7.17041         TRUE_Y               uSimMarineV22   -18.00000    
+7.17220         APP_LOG              pMarinePID      iter=63,log=!@#!@#!@#PID REPORT: (62)(9.97625/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+7.17222         DESIRED_THRUST       pMarinePID      0.00000      
+7.17055         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+7.21326         APP_LOG              pHelmIvP        iter=25,log=* 
+7.21326         IVPHELM_CPU          pHelmIvP        0.23934      
+7.21326         IVPHELM_STATE        pHelmIvP        PARK 
+7.25481         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=10,YAW=-0.8726646,TIME=1687883632.25,LENGTH=4 
+7.25481         PNR_POST_GAP         pNodeReporter   0.50038      
+7.26122         NODE_PSHARE_VARS     uFldNodeBroker  FT_REPORT,LEG_SPDS_REP,NODE_MESSAGE,NODE_REPORT,APPCAST,VIEW_CIRCLE,VIEW_SEGLIST,VIEW_POINT,VIEW_POLYGON,REALMCAST,WATCHCAST,REALMCAST_CHANNELS,NODE_PSHARE_VARS 
+7.26123         APP_LOG              uFldNodeBroker  iter=6,log= 
+7.27234         APP_LOG              pMarinePID      iter=64,log=!@#!@#!@#PID REPORT: (63)(9.9764/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+7.27237         DESIRED_THRUST       pMarinePID      0.00000      
+7.37098         NAV_X                uSimMarineV22   -17.00000    
+7.37098         NAV_Y                uSimMarineV22   -18.00000    
+7.37098         NAV_LAT              uSimMarineV22   42.35827     
+7.37098         NAV_LONG             uSimMarineV22   -71.08765    
+7.37098         NAV_HEADING          uSimMarineV22   140.00000    
+7.37098         NAV_SPEED            uSimMarineV22   0.00000      
+7.37098         NAV_DEPTH            uSimMarineV22   0.00000      
+7.37098         SIMULATION_MODE      uSimMarineV22   TRUE 
+7.37098         NAV_YAW              uSimMarineV22   -2.44346     
+7.37098         TRUE_X               uSimMarineV22   -17.00000    
+7.37098         TRUE_Y               uSimMarineV22   -18.00000    
+7.37249         APP_LOG              pMarinePID      iter=65,log=!@#!@#!@#PID REPORT: (64)(9.97654/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+7.37252         DESIRED_THRUST       pMarinePID      0.00000      
+7.36855         HEARTBEAT            pMarineViewer   true 
+7.46353         APP_LOG              pHelmIvP        iter=26,log=* 
+7.46354         IVPHELM_CPU          pHelmIvP        0.13594      
+7.46355         IVPHELM_STATE        pHelmIvP        PARK 
+7.47270         APP_LOG              pMarinePID      iter=66,log=!@#!@#!@#PID REPORT: (65)(9.97667/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+7.47273         DESIRED_THRUST       pMarinePID      0.00000      
+7.55909         CONTACTS_RECAP       pContactMgrV20   
+7.55909         CONTACT_RANGES       pContactMgrV20   
+7.57152         NAV_X                uSimMarineV22   -17.00000    
+7.57152         NAV_Y                uSimMarineV22   -18.00000    
+7.57152         NAV_LAT              uSimMarineV22   42.35827     
+7.57152         NAV_LONG             uSimMarineV22   -71.08765    
+7.57152         NAV_HEADING          uSimMarineV22   140.00000    
+7.57152         NAV_SPEED            uSimMarineV22   0.00000      
+7.57152         NAV_DEPTH            uSimMarineV22   0.00000      
+7.57152         SIMULATION_MODE      uSimMarineV22   TRUE 
+7.57152         NAV_YAW              uSimMarineV22   -2.44346     
+7.57152         TRUE_X               uSimMarineV22   -17.00000    
+7.57152         TRUE_Y               uSimMarineV22   -18.00000    
+7.57286         APP_LOG              pMarinePID      iter=67,log=!@#!@#!@#PID REPORT: (66)(9.97671/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+7.57289         DESIRED_THRUST       pMarinePID      0.00000      
+7.61355         PSHARE_OUTPUT_SUMMARY pShare          APPCAST->APPCAST:localhost:9200, FT_REPORT->FT_REPORT:localhost:9200, LEG_SPDS_REP->LEG_SPDS_REP:localhost:9200, NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200, NODE_MESSAGE_LOCAL->NODE_MESSAGE:localhost:9200, NODE_PSHARE_VARS->NODE_PSHARE_VARS:localhost:9200, NODE_REPORT_LOCAL->NODE_REPORT:localhost:9200, REALMCAST->REALMCAST:localhost:9200, REALMCAST_CHANNELS->REALMCAST_CHANNELS:localhost:9200, VIEW_CIRCLE->VIEW_CIRCLE:localhost:9200, VIEW_POINT->VIEW_POINT:localhost:9200, VIEW_POLYGON->VIEW_POLYGON:localhost:9200, VIEW_SEGLIST->VIEW_SEGLIST:localhost:9200, WATCHCAST->WATCHCAST:localhost:9200 
+7.61356         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+7.61857         HEARTBEAT            pMarineViewer   true 
+7.67299         APP_LOG              pMarinePID      iter=68,log=!@#!@#!@#PID REPORT: (67)(9.97681/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+7.67300         DESIRED_THRUST       pMarinePID      0.00000      
+7.71367         APP_LOG              pHelmIvP        iter=27,log=* 
+7.71369         IVPHELM_CPU          pHelmIvP        0.13594      
+7.71369         IVPHELM_STATE        pHelmIvP        PARK 
+7.71397         DB_TIME              MOOSDB_abe      1687883632.71013 
+7.71398         DB_UPTIME            MOOSDB_abe      8.01556      
+7.71400         DB_CLIENTS           MOOSDB_abe      uSimMarineV22,uFldMessageHandler,pRealm,uFldNodeBroker,pHostInfo,pContactMgrV20,pHelmIvP,pMarinePID,pNodeReporter,pLogger,pShare,uProcessWatch, 
+7.75503         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=11,YAW=-0.8726646,TIME=1687883632.75,LENGTH=4 
+7.75503         PNR_POST_GAP         pNodeReporter   0.50022      
+7.77185         NAV_X                uSimMarineV22   -17.00000    
+7.77185         NAV_Y                uSimMarineV22   -18.00000    
+7.77185         NAV_LAT              uSimMarineV22   42.35827     
+7.77185         NAV_LONG             uSimMarineV22   -71.08765    
+7.77185         NAV_HEADING          uSimMarineV22   140.00000    
+7.77185         NAV_SPEED            uSimMarineV22   0.00000      
+7.77185         NAV_DEPTH            uSimMarineV22   0.00000      
+7.77185         SIMULATION_MODE      uSimMarineV22   TRUE 
+7.77185         NAV_YAW              uSimMarineV22   -2.44346     
+7.77185         TRUE_X               uSimMarineV22   -17.00000    
+7.77185         TRUE_Y               uSimMarineV22   -18.00000    
+7.77310         APP_LOG              pMarinePID      iter=69,log=!@#!@#!@#PID REPORT: (68)(9.97698/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+7.77312         DESIRED_THRUST       pMarinePID      0.00000      
+7.77126         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+7.87322         APP_LOG              pMarinePID      iter=70,log=!@#!@#!@#PID REPORT: (69)(9.97715/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+7.87324         DESIRED_THRUST       pMarinePID      0.00000      
+7.86862         HEARTBEAT            pMarineViewer   true 
+7.96395         APP_LOG              pHelmIvP        iter=28,log=* 
+7.96396         IVPHELM_CPU          pHelmIvP        0.24274      
+7.96397         IVPHELM_STATE        pHelmIvP        PARK 
+7.97236         NAV_X                uSimMarineV22   -17.00000    
+7.97236         NAV_Y                uSimMarineV22   -18.00000    
+7.97236         NAV_LAT              uSimMarineV22   42.35827     
+7.97236         NAV_LONG             uSimMarineV22   -71.08765    
+7.97236         NAV_HEADING          uSimMarineV22   140.00000    
+7.97236         NAV_SPEED            uSimMarineV22   0.00000      
+7.97236         NAV_DEPTH            uSimMarineV22   0.00000      
+7.97236         SIMULATION_MODE      uSimMarineV22   TRUE 
+7.97236         NAV_YAW              uSimMarineV22   -2.44346     
+7.97236         TRUE_X               uSimMarineV22   -17.00000    
+7.97236         TRUE_Y               uSimMarineV22   -18.00000    
+7.97335         APP_LOG              pMarinePID      iter=71,log=!@#!@#!@#PID REPORT: (70)(9.9773/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+7.97338         DESIRED_THRUST       pMarinePID      0.00000      
+7.96896         NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=6 
+8.05925         CONTACT_RANGES       pContactMgrV20   
+8.07349         APP_LOG              pMarinePID      iter=72,log=!@#!@#!@#PID REPORT: (71)(9.97743/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+8.07352         DESIRED_THRUST       pMarinePID      0.00000      
+8.11889         HEARTBEAT            pMarineViewer   true 
+8.17291         NAV_X                uSimMarineV22   -17.00000    
+8.17291         NAV_Y                uSimMarineV22   -18.00000    
+8.17291         NAV_LAT              uSimMarineV22   42.35827     
+8.17291         NAV_LONG             uSimMarineV22   -71.08765    
+8.17291         NAV_HEADING          uSimMarineV22   140.00000    
+8.17291         NAV_SPEED            uSimMarineV22   0.00000      
+8.17291         NAV_DEPTH            uSimMarineV22   0.00000      
+8.17291         SIMULATION_MODE      uSimMarineV22   TRUE 
+8.17291         NAV_YAW              uSimMarineV22   -2.44346     
+8.17291         TRUE_X               uSimMarineV22   -17.00000    
+8.17291         TRUE_Y               uSimMarineV22   -18.00000    
+8.17365         APP_LOG              pMarinePID      iter=73,log=!@#!@#!@#PID REPORT: (72)(9.97755/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+8.17367         DESIRED_THRUST       pMarinePID      0.00000      
+8.21411         APP_LOG              pHelmIvP        iter=29,log=* 
+8.21412         IVPHELM_CPU          pHelmIvP        0.24274      
+8.21412         IVPHELM_STATE        pHelmIvP        PARK 
+8.25533         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=12,YAW=-0.8726646,TIME=1687883633.25,LENGTH=4 
+8.25533         PNR_POST_GAP         pNodeReporter   0.50031      
+8.26139         NODE_PSHARE_VARS     uFldNodeBroker  FT_REPORT,LEG_SPDS_REP,NODE_MESSAGE,NODE_REPORT,APPCAST,VIEW_CIRCLE,VIEW_SEGLIST,VIEW_POINT,VIEW_POLYGON,REALMCAST,WATCHCAST,REALMCAST_CHANNELS,NODE_PSHARE_VARS 
+8.26143         APP_LOG              uFldNodeBroker  iter=7,log= 
+8.27376         APP_LOG              pMarinePID      iter=74,log=!@#!@#!@#PID REPORT: (73)(9.97765/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+8.27379         DESIRED_THRUST       pMarinePID      0.00000      
+8.37329         NAV_X                uSimMarineV22   -17.00000    
+8.37329         NAV_Y                uSimMarineV22   -18.00000    
+8.37329         NAV_LAT              uSimMarineV22   42.35827     
+8.37329         NAV_LONG             uSimMarineV22   -71.08765    
+8.37329         NAV_HEADING          uSimMarineV22   140.00000    
+8.37329         NAV_SPEED            uSimMarineV22   0.00000      
+8.37329         NAV_DEPTH            uSimMarineV22   0.00000      
+8.37329         SIMULATION_MODE      uSimMarineV22   TRUE 
+8.37329         NAV_YAW              uSimMarineV22   -2.44346     
+8.37329         TRUE_X               uSimMarineV22   -17.00000    
+8.37329         TRUE_Y               uSimMarineV22   -18.00000    
+8.37389         APP_LOG              pMarinePID      iter=75,log=!@#!@#!@#PID REPORT: (74)(9.97779/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+8.37390         DESIRED_THRUST       pMarinePID      0.00000      
+8.36880         HEARTBEAT            pMarineViewer   true 
+8.37186         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+8.46439         APP_LOG              pHelmIvP        iter=30,log=* 
+8.46441         IVPHELM_CPU          pHelmIvP        0.16495      
+8.46441         IVPHELM_STATE        pHelmIvP        PARK 
+8.47401         APP_LOG              pMarinePID      iter=76,log=!@#!@#!@#PID REPORT: (75)(9.97793/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+8.47404         DESIRED_THRUST       pMarinePID      0.00000      
+8.55943         CONTACTS_RECAP       pContactMgrV20   
+8.55944         CONTACT_RANGES       pContactMgrV20   
+8.57373         NAV_X                uSimMarineV22   -17.00000    
+8.57373         NAV_Y                uSimMarineV22   -18.00000    
+8.57373         NAV_LAT              uSimMarineV22   42.35827     
+8.57373         NAV_LONG             uSimMarineV22   -71.08765    
+8.57373         NAV_HEADING          uSimMarineV22   140.00000    
+8.57373         NAV_SPEED            uSimMarineV22   0.00000      
+8.57373         NAV_DEPTH            uSimMarineV22   0.00000      
+8.57373         SIMULATION_MODE      uSimMarineV22   TRUE 
+8.57373         NAV_YAW              uSimMarineV22   -2.44346     
+8.57373         TRUE_X               uSimMarineV22   -17.00000    
+8.57373         TRUE_Y               uSimMarineV22   -18.00000    
+8.57413         APP_LOG              pMarinePID      iter=77,log=!@#!@#!@#PID REPORT: (76)(9.97805/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+8.57417         DESIRED_THRUST       pMarinePID      0.00000      
+8.61871         HEARTBEAT            pMarineViewer   true 
+8.61872         APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+8.63857         PSHARE_OUTPUT_SUMMARY pShare          APPCAST->APPCAST:localhost:9200, FT_REPORT->FT_REPORT:localhost:9200, LEG_SPDS_REP->LEG_SPDS_REP:localhost:9200, NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200, NODE_MESSAGE_LOCAL->NODE_MESSAGE:localhost:9200, NODE_PSHARE_VARS->NODE_PSHARE_VARS:localhost:9200, NODE_REPORT_LOCAL->NODE_REPORT:localhost:9200, REALMCAST->REALMCAST:localhost:9200, REALMCAST_CHANNELS->REALMCAST_CHANNELS:localhost:9200, VIEW_CIRCLE->VIEW_CIRCLE:localhost:9200, VIEW_POINT->VIEW_POINT:localhost:9200, VIEW_POLYGON->VIEW_POLYGON:localhost:9200, VIEW_SEGLIST->VIEW_SEGLIST:localhost:9200, WATCHCAST->WATCHCAST:localhost:9200 
+8.63857         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+8.67429         APP_LOG              pMarinePID      iter=78,log=!@#!@#!@#PID REPORT: (77)(9.97817/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+8.67431         DESIRED_THRUST       pMarinePID      0.00000      
+8.71451         APP_LOG              pHelmIvP        iter=31,log=* 
+8.71451         IVPHELM_CPU          pHelmIvP        0.16495      
+8.71451         IVPHELM_STATE        pHelmIvP        PARK 
+8.75564         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=13,YAW=-0.8726646,TIME=1687883633.75,LENGTH=4 
+8.75565         PNR_POST_GAP         pNodeReporter   0.50029      
+8.77425         NAV_X                uSimMarineV22   -17.00000    
+8.77425         NAV_Y                uSimMarineV22   -18.00000    
+8.77425         NAV_LAT              uSimMarineV22   42.35827     
+8.77425         NAV_LONG             uSimMarineV22   -71.08765    
+8.77425         NAV_HEADING          uSimMarineV22   140.00000    
+8.77425         NAV_SPEED            uSimMarineV22   0.00000      
+8.77425         NAV_DEPTH            uSimMarineV22   0.00000      
+8.77425         SIMULATION_MODE      uSimMarineV22   TRUE 
+8.77425         NAV_YAW              uSimMarineV22   -2.44346     
+8.77425         TRUE_X               uSimMarineV22   -17.00000    
+8.77425         TRUE_Y               uSimMarineV22   -18.00000    
+8.77439         APP_LOG              pMarinePID      iter=79,log=!@#!@#!@#PID REPORT: (78)(9.97826/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+8.77442         DESIRED_THRUST       pMarinePID      0.00000      
+8.87459         APP_LOG              pMarinePID      iter=80,log=!@#!@#!@#PID REPORT: (79)(9.9784/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+8.87463         DESIRED_THRUST       pMarinePID      0.00000      
+8.86923         HEARTBEAT            pMarineViewer   true 
+8.96467         APP_LOG              pHelmIvP        iter=32,log=* 
+8.96469         IVPHELM_CPU          pHelmIvP        0.19355      
+8.96469         IVPHELM_STATE        pHelmIvP        PARK 
+8.97474         NAV_X                uSimMarineV22   -17.00000    
+8.97474         NAV_Y                uSimMarineV22   -18.00000    
+8.97474         NAV_LAT              uSimMarineV22   42.35827     
+8.97474         NAV_LONG             uSimMarineV22   -71.08765    
+8.97474         NAV_HEADING          uSimMarineV22   140.00000    
+8.97474         NAV_SPEED            uSimMarineV22   0.00000      
+8.97474         NAV_DEPTH            uSimMarineV22   0.00000      
+8.97474         SIMULATION_MODE      uSimMarineV22   TRUE 
+8.97474         NAV_YAW              uSimMarineV22   -2.44346     
+8.97474         TRUE_X               uSimMarineV22   -17.00000    
+8.97474         TRUE_Y               uSimMarineV22   -18.00000    
+8.97478         APP_LOG              pMarinePID      iter=81,log=!@#!@#!@#PID REPORT: (80)(9.97842/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+8.97479         DESIRED_THRUST       pMarinePID      0.00000      
+8.96908         NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=7 
+8.97245         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+9.05974         CONTACT_RANGES       pContactMgrV20   
+9.07502         APP_LOG              pMarinePID      iter=82,log=!@#!@#!@#PID REPORT: (81)(9.97847/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+9.07506         DESIRED_THRUST       pMarinePID      0.00000      
+9.11985         HEARTBEAT            pMarineViewer   true 
+9.17528         APP_LOG              pMarinePID      iter=83,log=!@#!@#!@#PID REPORT: (82)(9.97842/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+9.17531         NAV_X                uSimMarineV22   -17.00000    
+9.17531         NAV_Y                uSimMarineV22   -18.00000    
+9.17531         NAV_LAT              uSimMarineV22   42.35827     
+9.17531         NAV_LONG             uSimMarineV22   -71.08765    
+9.17531         NAV_HEADING          uSimMarineV22   140.00000    
+9.17531         NAV_SPEED            uSimMarineV22   0.00000      
+9.17531         NAV_DEPTH            uSimMarineV22   0.00000      
+9.17531         SIMULATION_MODE      uSimMarineV22   TRUE 
+9.17531         NAV_YAW              uSimMarineV22   -2.44346     
+9.17531         TRUE_X               uSimMarineV22   -17.00000    
+9.17531         TRUE_Y               uSimMarineV22   -18.00000    
+9.17532         DESIRED_THRUST       pMarinePID      0.00000      
+9.21505         APP_LOG              pHelmIvP        iter=33,log=* 
+9.21506         IVPHELM_CPU          pHelmIvP        0.19355      
+9.21506         IVPHELM_STATE        pHelmIvP        PARK 
+9.25612         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=14,YAW=-0.8726646,TIME=1687883634.25,LENGTH=4 
+9.25612         PNR_POST_GAP         pNodeReporter   0.50047      
+9.26163         NODE_PSHARE_VARS     uFldNodeBroker  FT_REPORT,LEG_SPDS_REP,NODE_MESSAGE,NODE_REPORT,APPCAST,VIEW_CIRCLE,VIEW_SEGLIST,VIEW_POINT,VIEW_POLYGON,REALMCAST,WATCHCAST,REALMCAST_CHANNELS,NODE_PSHARE_VARS 
+9.26164         APP_LOG              uFldNodeBroker  iter=8,log= 
+9.27558         APP_LOG              pMarinePID      iter=84,log=!@#!@#!@#PID REPORT: (83)(9.97836/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+9.27562         DESIRED_THRUST       pMarinePID      0.00000      
+9.37573         APP_LOG              pMarinePID      iter=85,log=!@#!@#!@#PID REPORT: (84)(9.97827/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+9.37576         DESIRED_THRUST       pMarinePID      0.00000      
+9.37584         NAV_X                uSimMarineV22   -17.00000    
+9.37584         NAV_Y                uSimMarineV22   -18.00000    
+9.37584         NAV_LAT              uSimMarineV22   42.35827     
+9.37584         NAV_LONG             uSimMarineV22   -71.08765    
+9.37584         NAV_HEADING          uSimMarineV22   140.00000    
+9.37584         NAV_SPEED            uSimMarineV22   0.00000      
+9.37584         NAV_DEPTH            uSimMarineV22   0.00000      
+9.37584         SIMULATION_MODE      uSimMarineV22   TRUE 
+9.37584         NAV_YAW              uSimMarineV22   -2.44346     
+9.37584         TRUE_X               uSimMarineV22   -17.00000    
+9.37584         TRUE_Y               uSimMarineV22   -18.00000    
+9.36989         HEARTBEAT            pMarineViewer   true 
+9.46529         APP_LOG              pHelmIvP        iter=34,log=* 
+9.46531         IVPHELM_CPU          pHelmIvP        0.22771      
+9.46531         IVPHELM_STATE        pHelmIvP        PARK 
+9.47595         APP_LOG              pMarinePID      iter=86,log=!@#!@#!@#PID REPORT: (85)(9.97835/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+9.47599         DESIRED_THRUST       pMarinePID      0.00000      
+9.56002         CONTACTS_RECAP       pContactMgrV20   
+9.56002         CONTACT_RANGES       pContactMgrV20   
+9.57621         APP_LOG              pMarinePID      iter=87,log=!@#!@#!@#PID REPORT: (86)(9.97835/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+9.57625         DESIRED_THRUST       pMarinePID      0.00000      
+9.57635         NAV_X                uSimMarineV22   -17.00000    
+9.57635         NAV_Y                uSimMarineV22   -18.00000    
+9.57635         NAV_LAT              uSimMarineV22   42.35827     
+9.57635         NAV_LONG             uSimMarineV22   -71.08765    
+9.57635         NAV_HEADING          uSimMarineV22   140.00000    
+9.57635         NAV_SPEED            uSimMarineV22   0.00000      
+9.57635         NAV_DEPTH            uSimMarineV22   0.00000      
+9.57635         SIMULATION_MODE      uSimMarineV22   TRUE 
+9.57635         NAV_YAW              uSimMarineV22   -2.44346     
+9.57635         TRUE_X               uSimMarineV22   -17.00000    
+9.57635         TRUE_Y               uSimMarineV22   -18.00000    
+9.57305         APPCAST_REQ          uMAC_7434       node=all,app=all,duration=3.0,key=uMAC_7434:app,thresh=run_warning 
+9.62001         HEARTBEAT            pMarineViewer   true 
+9.63942         PSHARE_OUTPUT_SUMMARY pShare          APPCAST->APPCAST:localhost:9200, FT_REPORT->FT_REPORT:localhost:9200, LEG_SPDS_REP->LEG_SPDS_REP:localhost:9200, NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200, NODE_MESSAGE_LOCAL->NODE_MESSAGE:localhost:9200, NODE_PSHARE_VARS->NODE_PSHARE_VARS:localhost:9200, NODE_REPORT_LOCAL->NODE_REPORT:localhost:9200, REALMCAST->REALMCAST:localhost:9200, REALMCAST_CHANNELS->REALMCAST_CHANNELS:localhost:9200, VIEW_CIRCLE->VIEW_CIRCLE:localhost:9200, VIEW_POINT->VIEW_POINT:localhost:9200, VIEW_POLYGON->VIEW_POLYGON:localhost:9200, VIEW_SEGLIST->VIEW_SEGLIST:localhost:9200, WATCHCAST->WATCHCAST:localhost:9200 
+9.63943         PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+9.67652         APP_LOG              pMarinePID      iter=88,log=!@#!@#!@#PID REPORT: (87)(9.9783/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+9.67656         DESIRED_THRUST       pMarinePID      0.00000      
+9.71559         APP_LOG              pHelmIvP        iter=35,log=* 
+9.71561         IVPHELM_CPU          pHelmIvP        0.22771      
+9.71561         IVPHELM_STATE        pHelmIvP        PARK 
+9.71593         DB_TIME              MOOSDB_abe      1687883634.71209 
+9.71593         DB_UPTIME            MOOSDB_abe      10.01752     
+9.71595         DB_CLIENTS           MOOSDB_abe      uSimMarineV22,uFldMessageHandler,pRealm,uFldNodeBroker,pHostInfo,pContactMgrV20,pHelmIvP,pMarinePID,pNodeReporter,pLogger,pShare,uProcessWatch, 
+9.75651         NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=15,YAW=-0.8726646,TIME=1687883634.75,LENGTH=4 
+9.75652         PNR_POST_GAP         pNodeReporter   0.50038      
+9.77679         APP_LOG              pMarinePID      iter=89,log=!@#!@#!@#PID REPORT: (88)(9.97819/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+9.77684         DESIRED_THRUST       pMarinePID      0.00000      
+9.77694         NAV_X                uSimMarineV22   -17.00000    
+9.77694         NAV_Y                uSimMarineV22   -18.00000    
+9.77694         NAV_LAT              uSimMarineV22   42.35827     
+9.77694         NAV_LONG             uSimMarineV22   -71.08765    
+9.77694         NAV_HEADING          uSimMarineV22   140.00000    
+9.77694         NAV_SPEED            uSimMarineV22   0.00000      
+9.77694         NAV_DEPTH            uSimMarineV22   0.00000      
+9.77694         SIMULATION_MODE      uSimMarineV22   TRUE 
+9.77694         NAV_YAW              uSimMarineV22   -2.44346     
+9.77694         TRUE_X               uSimMarineV22   -17.00000    
+9.77694         TRUE_Y               uSimMarineV22   -18.00000    
+9.87697         APP_LOG              pMarinePID      iter=90,log=!@#!@#!@#PID REPORT: (89)(9.97813/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+9.87700         DESIRED_THRUST       pMarinePID      0.00000      
+9.87064         HEARTBEAT            pMarineViewer   true 
+9.96585         APP_LOG              pHelmIvP        iter=36,log=* 
+9.96587         IVPHELM_CPU          pHelmIvP        0.23751      
+9.96587         IVPHELM_STATE        pHelmIvP        PARK 
+9.97719         APP_LOG              pMarinePID      iter=91,log=!@#!@#!@#PID REPORT: (90)(9.97818/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+9.97724         DESIRED_THRUST       pMarinePID      0.00000      
+9.97741         NAV_X                uSimMarineV22   -17.00000    
+9.97741         NAV_Y                uSimMarineV22   -18.00000    
+9.97741         NAV_LAT              uSimMarineV22   42.35827     
+9.97741         NAV_LONG             uSimMarineV22   -71.08765    
+9.97741         NAV_HEADING          uSimMarineV22   140.00000    
+9.97741         NAV_SPEED            uSimMarineV22   0.00000      
+9.97741         NAV_DEPTH            uSimMarineV22   0.00000      
+9.97741         SIMULATION_MODE      uSimMarineV22   TRUE 
+9.97741         NAV_YAW              uSimMarineV22   -2.44346     
+9.97741         TRUE_X               uSimMarineV22   -17.00000    
+9.97741         TRUE_Y               uSimMarineV22   -18.00000    
+9.96926         NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=8 
+10.06042        CONTACT_RANGES       pContactMgrV20   
+10.07735        APP_LOG              pMarinePID      iter=92,log=!@#!@#!@#PID REPORT: (91)(9.97817/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+10.07739        DESIRED_THRUST       pMarinePID      0.00000      
+10.08297        LOGGER_DIRECTORY     pLogger         ./LOG_ABE_27_6_2023_____12_33_45 
+10.12036        HEARTBEAT            pMarineViewer   true 
+10.17751        APP_LOG              pMarinePID      iter=93,log=!@#!@#!@#PID REPORT: (92)(9.97824/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+10.17755        DESIRED_THRUST       pMarinePID      0.00000      
+10.17778        NAV_X                uSimMarineV22   -17.00000    
+10.17778        NAV_Y                uSimMarineV22   -18.00000    
+10.17778        NAV_LAT              uSimMarineV22   42.35827     
+10.17778        NAV_LONG             uSimMarineV22   -71.08765    
+10.17778        NAV_HEADING          uSimMarineV22   140.00000    
+10.17778        NAV_SPEED            uSimMarineV22   0.00000      
+10.17778        NAV_DEPTH            uSimMarineV22   0.00000      
+10.17778        SIMULATION_MODE      uSimMarineV22   TRUE 
+10.17778        NAV_YAW              uSimMarineV22   -2.44346     
+10.17778        TRUE_X               uSimMarineV22   -17.00000    
+10.17778        TRUE_Y               uSimMarineV22   -18.00000    
+10.21615        APP_LOG              pHelmIvP        iter=37,log=* 
+10.21618        IVPHELM_CPU          pHelmIvP        0.23751      
+10.21618        IVPHELM_STATE        pHelmIvP        PARK 
+10.25694        NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=16,YAW=-0.8726646,TIME=1687883635.25,LENGTH=4 
+10.25694        PNR_POST_GAP         pNodeReporter   0.50042      
+10.26184        NODE_PSHARE_VARS     uFldNodeBroker  FT_REPORT,LEG_SPDS_REP,NODE_MESSAGE,NODE_REPORT,APPCAST,VIEW_CIRCLE,VIEW_SEGLIST,VIEW_POINT,VIEW_POLYGON,REALMCAST,WATCHCAST,REALMCAST_CHANNELS,NODE_PSHARE_VARS 
+10.26190        APP_LOG              uFldNodeBroker  iter=9,log= 
+10.27800        APP_LOG              pMarinePID      iter=94,log=!@#!@#!@#PID REPORT: (93)(9.9783/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+10.27804        DESIRED_THRUST       pMarinePID      0.00000      
+10.37820        NAV_X                uSimMarineV22   -17.00000    
+10.37820        NAV_Y                uSimMarineV22   -18.00000    
+10.37820        NAV_LAT              uSimMarineV22   42.35827     
+10.37820        NAV_LONG             uSimMarineV22   -71.08765    
+10.37820        NAV_HEADING          uSimMarineV22   140.00000    
+10.37820        NAV_SPEED            uSimMarineV22   0.00000      
+10.37820        NAV_DEPTH            uSimMarineV22   0.00000      
+10.37820        SIMULATION_MODE      uSimMarineV22   TRUE 
+10.37820        NAV_YAW              uSimMarineV22   -2.44346     
+10.37820        TRUE_X               uSimMarineV22   -17.00000    
+10.37820        TRUE_Y               uSimMarineV22   -18.00000    
+10.37824        APP_LOG              pMarinePID      iter=95,log=!@#!@#!@#PID REPORT: (94)(9.97801/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+10.37828        DESIRED_THRUST       pMarinePID      0.00000      
+10.37064        HEARTBEAT            pMarineViewer   true 
+10.46638        APP_LOG              pHelmIvP        iter=38,log=* 
+10.46639        IVPHELM_CPU          pHelmIvP        0.21411      
+10.46640        IVPHELM_STATE        pHelmIvP        PARK 
+10.47840        APP_LOG              pMarinePID      iter=96,log=!@#!@#!@#PID REPORT: (95)(9.97799/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+10.47844        DESIRED_THRUST       pMarinePID      0.00000      
+10.56057        CONTACTS_RECAP       pContactMgrV20   
+10.56058        CONTACT_RANGES       pContactMgrV20   
+10.57859        NAV_X                uSimMarineV22   -17.00000    
+10.57859        NAV_Y                uSimMarineV22   -18.00000    
+10.57859        NAV_LAT              uSimMarineV22   42.35827     
+10.57859        NAV_LONG             uSimMarineV22   -71.08765    
+10.57859        NAV_HEADING          uSimMarineV22   140.00000    
+10.57859        NAV_SPEED            uSimMarineV22   0.00000      
+10.57859        NAV_DEPTH            uSimMarineV22   0.00000      
+10.57859        SIMULATION_MODE      uSimMarineV22   TRUE 
+10.57859        NAV_YAW              uSimMarineV22   -2.44346     
+10.57859        TRUE_X               uSimMarineV22   -17.00000    
+10.57859        TRUE_Y               uSimMarineV22   -18.00000    
+10.57861        APP_LOG              pMarinePID      iter=97,log=!@#!@#!@#PID REPORT: (96)(9.97805/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+10.57863        DESIRED_THRUST       pMarinePID      0.00000      
+10.62043        HEARTBEAT            pMarineViewer   true 
+10.62044        APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+10.66435        PSHARE_OUTPUT_SUMMARY pShare          APPCAST->APPCAST:localhost:9200, FT_REPORT->FT_REPORT:localhost:9200, LEG_SPDS_REP->LEG_SPDS_REP:localhost:9200, NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200, NODE_MESSAGE_LOCAL->NODE_MESSAGE:localhost:9200, NODE_PSHARE_VARS->NODE_PSHARE_VARS:localhost:9200, NODE_REPORT_LOCAL->NODE_REPORT:localhost:9200, REALMCAST->REALMCAST:localhost:9200, REALMCAST_CHANNELS->REALMCAST_CHANNELS:localhost:9200, VIEW_CIRCLE->VIEW_CIRCLE:localhost:9200, VIEW_POINT->VIEW_POINT:localhost:9200, VIEW_POLYGON->VIEW_POLYGON:localhost:9200, VIEW_SEGLIST->VIEW_SEGLIST:localhost:9200, WATCHCAST->WATCHCAST:localhost:9200 
+10.66437        PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+10.67883        APP_LOG              pMarinePID      iter=98,log=!@#!@#!@#PID REPORT: (97)(9.97807/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+10.67887        DESIRED_THRUST       pMarinePID      0.00000      
+10.71649        APP_LOG              pHelmIvP        iter=39,log=* 
+10.71649        IVPHELM_CPU          pHelmIvP        0.21411      
+10.71650        IVPHELM_STATE        pHelmIvP        PARK 
+10.75720        NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=17,YAW=-0.8726646,TIME=1687883635.75,LENGTH=4 
+10.75721        PNR_POST_GAP         pNodeReporter   0.50028      
+10.77893        NAV_X                uSimMarineV22   -17.00000    
+10.77893        NAV_Y                uSimMarineV22   -18.00000    
+10.77893        NAV_LAT              uSimMarineV22   42.35827     
+10.77893        NAV_LONG             uSimMarineV22   -71.08765    
+10.77893        NAV_HEADING          uSimMarineV22   140.00000    
+10.77893        NAV_SPEED            uSimMarineV22   0.00000      
+10.77893        NAV_DEPTH            uSimMarineV22   0.00000      
+10.77893        SIMULATION_MODE      uSimMarineV22   TRUE 
+10.77893        NAV_YAW              uSimMarineV22   -2.44346     
+10.77893        TRUE_X               uSimMarineV22   -17.00000    
+10.77893        TRUE_Y               uSimMarineV22   -18.00000    
+10.77906        APP_LOG              pMarinePID      iter=99,log=!@#!@#!@#PID REPORT: (98)(9.97807/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+10.77910        DESIRED_THRUST       pMarinePID      0.00000      
+10.87051        HEARTBEAT            pMarineViewer   true 
+10.87922        APP_LOG              pMarinePID      iter=100,log=!@#!@#!@#PID REPORT: (99)(9.97806/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+10.87923        DESIRED_THRUST       pMarinePID      0.00000      
+10.96666        APP_LOG              pHelmIvP        iter=40,log=* 
+10.96667        IVPHELM_CPU          pHelmIvP        0.18673      
+10.96667        IVPHELM_STATE        pHelmIvP        PARK 
+10.96936        NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=9 
+10.97929        NAV_X                uSimMarineV22   -17.00000    
+10.97929        NAV_Y                uSimMarineV22   -18.00000    
+10.97929        NAV_LAT              uSimMarineV22   42.35827     
+10.97929        NAV_LONG             uSimMarineV22   -71.08765    
+10.97929        NAV_HEADING          uSimMarineV22   140.00000    
+10.97929        NAV_SPEED            uSimMarineV22   0.00000      
+10.97929        NAV_DEPTH            uSimMarineV22   0.00000      
+10.97929        SIMULATION_MODE      uSimMarineV22   TRUE 
+10.97929        NAV_YAW              uSimMarineV22   -2.44346     
+10.97929        TRUE_X               uSimMarineV22   -17.00000    
+10.97929        TRUE_Y               uSimMarineV22   -18.00000    
+10.97946        APP_LOG              pMarinePID      iter=101,log=!@#!@#!@#PID REPORT: (100)(9.97813/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+10.97948        DESIRED_THRUST       pMarinePID      0.00000      
+11.06073        CONTACT_RANGES       pContactMgrV20   
+11.07968        APP_LOG              pMarinePID      iter=102,log=!@#!@#!@#PID REPORT: (101)(9.97811/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+11.07972        DESIRED_THRUST       pMarinePID      0.00000      
+11.12081        HEARTBEAT            pMarineViewer   true 
+11.15707        PHI_HOST_IP          pHostInfo       localhost 
+11.15707        PHI_HOST_IP_ALL      pHostInfo       localhost 
+11.15707        PHI_HOST_IP_VERBOSE  pHostInfo       USER_HARD_CONFIGURED=localhost 
+11.15707        PHI_HOST_PORT_DB     pHostInfo       9001 
+11.15708        PHI_HOST_INFO        pHostInfo       community=abe,hostip=localhost,port_db=9001,port_udp=9201,pshare_iroutes=localhost:9201,hostip_alts=,timewarp=1 
+11.17977        NAV_X                uSimMarineV22   -17.00000    
+11.17977        NAV_Y                uSimMarineV22   -18.00000    
+11.17977        NAV_LAT              uSimMarineV22   42.35827     
+11.17977        NAV_LONG             uSimMarineV22   -71.08765    
+11.17977        NAV_HEADING          uSimMarineV22   140.00000    
+11.17977        NAV_SPEED            uSimMarineV22   0.00000      
+11.17977        NAV_DEPTH            uSimMarineV22   0.00000      
+11.17977        SIMULATION_MODE      uSimMarineV22   TRUE 
+11.17977        NAV_YAW              uSimMarineV22   -2.44346     
+11.17977        TRUE_X               uSimMarineV22   -17.00000    
+11.17977        TRUE_Y               uSimMarineV22   -18.00000    
+11.17997        APP_LOG              pMarinePID      iter=103,log=!@#!@#!@#PID REPORT: (102)(9.9781/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+11.17998        DESIRED_THRUST       pMarinePID      0.00000      
+11.21695        APP_LOG              pHelmIvP        iter=41,log=* 
+11.21696        IVPHELM_CPU          pHelmIvP        0.18673      
+11.21696        IVPHELM_STATE        pHelmIvP        PARK 
+11.25762        NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=18,YAW=-0.8726646,TIME=1687883636.25,LENGTH=4 
+11.25762        PNR_POST_GAP         pNodeReporter   0.50042      
+11.26210        NODE_PSHARE_VARS     uFldNodeBroker  FT_REPORT,LEG_SPDS_REP,NODE_MESSAGE,NODE_REPORT,APPCAST,VIEW_CIRCLE,VIEW_SEGLIST,VIEW_POINT,VIEW_POLYGON,REALMCAST,WATCHCAST,REALMCAST_CHANNELS,NODE_PSHARE_VARS 
+11.26213        APP_LOG              uFldNodeBroker  iter=10,log= 
+11.28018        APP_LOG              pMarinePID      iter=104,log=!@#!@#!@#PID REPORT: (103)(9.97804/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+11.28021        DESIRED_THRUST       pMarinePID      0.00000      
+11.38038        NAV_X                uSimMarineV22   -17.00000    
+11.38038        NAV_Y                uSimMarineV22   -18.00000    
+11.38038        NAV_LAT              uSimMarineV22   42.35827     
+11.38038        NAV_LONG             uSimMarineV22   -71.08765    
+11.38038        NAV_HEADING          uSimMarineV22   140.00000    
+11.38038        NAV_SPEED            uSimMarineV22   0.00000      
+11.38038        NAV_DEPTH            uSimMarineV22   0.00000      
+11.38038        SIMULATION_MODE      uSimMarineV22   TRUE 
+11.38038        NAV_YAW              uSimMarineV22   -2.44346     
+11.38038        TRUE_X               uSimMarineV22   -17.00000    
+11.38038        TRUE_Y               uSimMarineV22   -18.00000    
+11.38040        APP_LOG              pMarinePID      iter=105,log=!@#!@#!@#PID REPORT: (104)(9.97804/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+11.38044        DESIRED_THRUST       pMarinePID      0.00000      
+11.37164        HEARTBEAT            pMarineViewer   true 
+11.46717        APP_LOG              pHelmIvP        iter=42,log=* 
+11.46718        IVPHELM_CPU          pHelmIvP        0.16117      
+11.46719        IVPHELM_STATE        pHelmIvP        PARK 
+11.48070        APP_LOG              pMarinePID      iter=106,log=!@#!@#!@#PID REPORT: (105)(9.97803/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+11.48075        DESIRED_THRUST       pMarinePID      0.00000      
+11.56106        CONTACTS_RECAP       pContactMgrV20   
+11.56106        CONTACT_RANGES       pContactMgrV20   
+11.58100        APP_LOG              pMarinePID      iter=107,log=!@#!@#!@#PID REPORT: (106)(9.97796/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+11.58100        NAV_X                uSimMarineV22   -17.00000    
+11.58100        NAV_Y                uSimMarineV22   -18.00000    
+11.58100        NAV_LAT              uSimMarineV22   42.35827     
+11.58100        NAV_LONG             uSimMarineV22   -71.08765    
+11.58100        NAV_HEADING          uSimMarineV22   140.00000    
+11.58100        NAV_SPEED            uSimMarineV22   0.00000      
+11.58100        NAV_DEPTH            uSimMarineV22   0.00000      
+11.58100        SIMULATION_MODE      uSimMarineV22   TRUE 
+11.58100        NAV_YAW              uSimMarineV22   -2.44346     
+11.58100        TRUE_X               uSimMarineV22   -17.00000    
+11.58100        TRUE_Y               uSimMarineV22   -18.00000    
+11.58106        DESIRED_THRUST       pMarinePID      0.00000      
+11.62196        HEARTBEAT            pMarineViewer   true 
+11.66516        PSHARE_OUTPUT_SUMMARY pShare          APPCAST->APPCAST:localhost:9200, FT_REPORT->FT_REPORT:localhost:9200, LEG_SPDS_REP->LEG_SPDS_REP:localhost:9200, NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200, NODE_MESSAGE_LOCAL->NODE_MESSAGE:localhost:9200, NODE_PSHARE_VARS->NODE_PSHARE_VARS:localhost:9200, NODE_REPORT_LOCAL->NODE_REPORT:localhost:9200, REALMCAST->REALMCAST:localhost:9200, REALMCAST_CHANNELS->REALMCAST_CHANNELS:localhost:9200, VIEW_CIRCLE->VIEW_CIRCLE:localhost:9200, VIEW_POINT->VIEW_POINT:localhost:9200, VIEW_POLYGON->VIEW_POLYGON:localhost:9200, VIEW_SEGLIST->VIEW_SEGLIST:localhost:9200, WATCHCAST->WATCHCAST:localhost:9200 
+11.66517        PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+11.68129        APP_LOG              pMarinePID      iter=108,log=!@#!@#!@#PID REPORT: (107)(9.97787/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+11.68133        DESIRED_THRUST       pMarinePID      0.00000      
+11.71732        APP_LOG              pHelmIvP        iter=43,log=* 
+11.71733        IVPHELM_CPU          pHelmIvP        0.16117      
+11.71734        IVPHELM_STATE        pHelmIvP        PARK 
+11.71770        DB_TIME              MOOSDB_abe      1687883636.71386 
+11.71770        DB_UPTIME            MOOSDB_abe      12.01928     
+11.71773        DB_CLIENTS           MOOSDB_abe      uSimMarineV22,uFldMessageHandler,pRealm,uFldNodeBroker,pHostInfo,pContactMgrV20,pHelmIvP,pMarinePID,pNodeReporter,pLogger,pShare,uProcessWatch, 
+11.75800        NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=19,YAW=-0.8726646,TIME=1687883636.75,LENGTH=4 
+11.75801        PNR_POST_GAP         pNodeReporter   0.50037      
+11.77009        REALMCAST_CHANNELS   pRealm          node=abe#channels=MOOSDB_abe,pContactMgrV20,pHelmIvP,pHostInfo,pLogger,pMarinePID,pNodeReporter,pRealm,pShare,uFldMessageHandler,uFldNodeBroker,uProcessWatch,uSimMarineV22, 
+11.78145        APP_LOG              pMarinePID      iter=109,log=!@#!@#!@#PID REPORT: (108)(9.97783/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+11.78149        DESIRED_THRUST       pMarinePID      0.00000      
+11.78157        NAV_X                uSimMarineV22   -17.00000    
+11.78157        NAV_Y                uSimMarineV22   -18.00000    
+11.78157        NAV_LAT              uSimMarineV22   42.35827     
+11.78157        NAV_LONG             uSimMarineV22   -71.08765    
+11.78157        NAV_HEADING          uSimMarineV22   140.00000    
+11.78157        NAV_SPEED            uSimMarineV22   0.00000      
+11.78157        NAV_DEPTH            uSimMarineV22   0.00000      
+11.78157        SIMULATION_MODE      uSimMarineV22   TRUE 
+11.78157        NAV_YAW              uSimMarineV22   -2.44346     
+11.78157        TRUE_X               uSimMarineV22   -17.00000    
+11.78157        TRUE_Y               uSimMarineV22   -18.00000    
+11.88164        APP_LOG              pMarinePID      iter=110,log=!@#!@#!@#PID REPORT: (109)(9.97788/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+11.88169        DESIRED_THRUST       pMarinePID      0.00000      
+11.87200        HEARTBEAT            pMarineViewer   true 
+11.96761        APP_LOG              pHelmIvP        iter=44,log=* 
+11.96764        IVPHELM_CPU          pHelmIvP        0.21516      
+11.96764        IVPHELM_STATE        pHelmIvP        PARK 
+11.96954        NODE_BROKER_ACK      uFldShoreBroker community=shoreside,hostip=localhost,port_db=9000,port_udp=9200,pshare_iroutes=localhost:9200,timewarp=1,status=ok,key=0,id=10 
+11.98188        APP_LOG              pMarinePID      iter=111,log=!@#!@#!@#PID REPORT: (110)(9.97791/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+11.98193        DESIRED_THRUST       pMarinePID      0.00000      
+11.98205        NAV_X                uSimMarineV22   -17.00000    
+11.98205        NAV_Y                uSimMarineV22   -18.00000    
+11.98205        NAV_LAT              uSimMarineV22   42.35827     
+11.98205        NAV_LONG             uSimMarineV22   -71.08765    
+11.98205        NAV_HEADING          uSimMarineV22   140.00000    
+11.98205        NAV_SPEED            uSimMarineV22   0.00000      
+11.98205        NAV_DEPTH            uSimMarineV22   0.00000      
+11.98205        SIMULATION_MODE      uSimMarineV22   TRUE 
+11.98205        NAV_YAW              uSimMarineV22   -2.44346     
+11.98205        TRUE_X               uSimMarineV22   -17.00000    
+11.98205        TRUE_Y               uSimMarineV22   -18.00000    
+12.06131        CONTACT_RANGES       pContactMgrV20   
+12.08215        APP_LOG              pMarinePID      iter=112,log=!@#!@#!@#PID REPORT: (111)(9.97789/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+12.08220        DESIRED_THRUST       pMarinePID      0.00000      
+12.12237        HEARTBEAT            pMarineViewer   true 
+12.18232        APP_LOG              pMarinePID      iter=113,log=!@#!@#!@#PID REPORT: (112)(9.97785/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+12.18236        DESIRED_THRUST       pMarinePID      0.00000      
+12.18256        NAV_X                uSimMarineV22   -17.00000    
+12.18256        NAV_Y                uSimMarineV22   -18.00000    
+12.18256        NAV_LAT              uSimMarineV22   42.35827     
+12.18256        NAV_LONG             uSimMarineV22   -71.08765    
+12.18256        NAV_HEADING          uSimMarineV22   140.00000    
+12.18256        NAV_SPEED            uSimMarineV22   0.00000      
+12.18256        NAV_DEPTH            uSimMarineV22   0.00000      
+12.18256        SIMULATION_MODE      uSimMarineV22   TRUE 
+12.18256        NAV_YAW              uSimMarineV22   -2.44346     
+12.18256        TRUE_X               uSimMarineV22   -17.00000    
+12.18256        TRUE_Y               uSimMarineV22   -18.00000    
+12.21783        APP_LOG              pHelmIvP        iter=45,log=* 
+12.21787        IVPHELM_CPU          pHelmIvP        0.21516      
+12.21788        IVPHELM_STATE        pHelmIvP        PARK 
+12.25830        NODE_REPORT_LOCAL    pNodeReporter   NAME=abe,X=-17,Y=-18,SPD=0,HDG=140,DEP=0,LAT=42.35827013,LON=-71.08764904,TYPE=kayak,MODE=PARK,ALLSTOP=ManualOverride,INDEX=20,YAW=-0.8726646,TIME=1687883637.25,LENGTH=4 
+12.25831        PNR_POST_GAP         pNodeReporter   0.50030      
+12.26232        NODE_PSHARE_VARS     uFldNodeBroker  FT_REPORT,LEG_SPDS_REP,NODE_MESSAGE,NODE_REPORT,APPCAST,VIEW_CIRCLE,VIEW_SEGLIST,VIEW_POINT,VIEW_POLYGON,REALMCAST,WATCHCAST,REALMCAST_CHANNELS,NODE_PSHARE_VARS 
+12.26238        APP_LOG              uFldNodeBroker  iter=11,log= 
+12.28261        APP_LOG              pMarinePID      iter=114,log=!@#!@#!@#PID REPORT: (113)(9.9779/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+12.28267        DESIRED_THRUST       pMarinePID      0.00000      
+12.37226        HEARTBEAT            pMarineViewer   true 
+12.38285        APP_LOG              pMarinePID      iter=115,log=!@#!@#!@#PID REPORT: (114)(9.97783/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+12.38290        DESIRED_THRUST       pMarinePID      0.00000      
+12.38313        NAV_X                uSimMarineV22   -17.00000    
+12.38313        NAV_Y                uSimMarineV22   -18.00000    
+12.38313        NAV_LAT              uSimMarineV22   42.35827     
+12.38313        NAV_LONG             uSimMarineV22   -71.08765    
+12.38313        NAV_HEADING          uSimMarineV22   140.00000    
+12.38313        NAV_SPEED            uSimMarineV22   0.00000      
+12.38313        NAV_DEPTH            uSimMarineV22   0.00000      
+12.38313        SIMULATION_MODE      uSimMarineV22   TRUE 
+12.38313        NAV_YAW              uSimMarineV22   -2.44346     
+12.38313        TRUE_X               uSimMarineV22   -17.00000    
+12.38313        TRUE_Y               uSimMarineV22   -18.00000    
+12.46811        APP_LOG              pHelmIvP        iter=46,log=* 
+12.46812        IVPHELM_CPU          pHelmIvP        0.24915      
+12.46812        IVPHELM_STATE        pHelmIvP        PARK 
+12.48303        APP_LOG              pMarinePID      iter=116,log=!@#!@#!@#PID REPORT: (115)(9.97782/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+12.48307        DESIRED_THRUST       pMarinePID      0.00000      
+12.56168        CONTACTS_RECAP       pContactMgrV20   
+12.56168        CONTACT_RANGES       pContactMgrV20   
+12.58332        APP_LOG              pMarinePID      iter=117,log=!@#!@#!@#PID REPORT: (116)(9.97786/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+12.58336        DESIRED_THRUST       pMarinePID      0.00000      
+12.58358        NAV_X                uSimMarineV22   -17.00000    
+12.58358        NAV_Y                uSimMarineV22   -18.00000    
+12.58358        NAV_LAT              uSimMarineV22   42.35827     
+12.58358        NAV_LONG             uSimMarineV22   -71.08765    
+12.58358        NAV_HEADING          uSimMarineV22   140.00000    
+12.58358        NAV_SPEED            uSimMarineV22   0.00000      
+12.58358        NAV_DEPTH            uSimMarineV22   0.00000      
+12.58358        SIMULATION_MODE      uSimMarineV22   TRUE 
+12.58358        NAV_YAW              uSimMarineV22   -2.44346     
+12.58358        TRUE_X               uSimMarineV22   -17.00000    
+12.58358        TRUE_Y               uSimMarineV22   -18.00000    
+12.62247        HEARTBEAT            pMarineViewer   true 
+12.62251        APPCAST_REQ          pMarineViewer   node=all,app=all,duration=3.0,key=pMarineViewer:shoresidegen,thresh=run_warning 
+12.66566        PSHARE_OUTPUT_SUMMARY pShare          APPCAST->APPCAST:localhost:9200, FT_REPORT->FT_REPORT:localhost:9200, LEG_SPDS_REP->LEG_SPDS_REP:localhost:9200, NODE_BROKER_PING_0->NODE_BROKER_PING:localhost:9200, NODE_MESSAGE_LOCAL->NODE_MESSAGE:localhost:9200, NODE_PSHARE_VARS->NODE_PSHARE_VARS:localhost:9200, NODE_REPORT_LOCAL->NODE_REPORT:localhost:9200, REALMCAST->REALMCAST:localhost:9200, REALMCAST_CHANNELS->REALMCAST_CHANNELS:localhost:9200, VIEW_CIRCLE->VIEW_CIRCLE:localhost:9200, VIEW_POINT->VIEW_POINT:localhost:9200, VIEW_POLYGON->VIEW_POLYGON:localhost:9200, VIEW_SEGLIST->VIEW_SEGLIST:localhost:9200, WATCHCAST->WATCHCAST:localhost:9200 
+12.66567        PSHARE_INPUT_SUMMARY pShare          localhost:9201 
+12.68359        APP_LOG              pMarinePID      iter=118,log=!@#!@#!@#PID REPORT: (117)(9.9778/sec)!@#Paused Due To Tardy HELM Input: THRUST=0!@# 
+12.68363        DESIRED_THRUST       pMarinePID      0.00000      
