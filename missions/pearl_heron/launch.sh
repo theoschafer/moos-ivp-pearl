@@ -26,8 +26,8 @@ RANDSTART="true"
 AMT=1
 
 VNAMES=""
-VLAUNCH_ARGS=" --auto --region=$REGION --vname=$VNAME1 --index=1 "
-SLAUNCH_ARGS=" --auto --region=$REGION"
+VLAUNCH_ARGS=" --auto --region=$REGION --sim --vname=$VNAME1 --index=1 "
+SLAUNCH_ARGS=" --auto --region=$REGION --sim"
 
 #---------------------------------------------------------------
 #  Part 3: Check for and handle command-line arguments

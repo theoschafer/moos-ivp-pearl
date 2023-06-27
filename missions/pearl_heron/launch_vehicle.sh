@@ -31,7 +31,7 @@ SHORE_IP="localhost"
 SHORE_PSHARE="9200"
 VNAME="abe"
 INDEX="1"
-XMODE="M300"
+XMODE="SIM"
 
 REGION="pavlab"
 COLOR="coral"

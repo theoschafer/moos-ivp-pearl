@@ -40,7 +40,7 @@ ProcessConfig = uSimMarineV22
   AppTick   = 10
   CommsTick = 10
 
-  start_pos = x=-17,y=-18,heading=140
+  start_pos = 0,-10,180
   prefix    = NAV
 
 	turn_rate = 80
