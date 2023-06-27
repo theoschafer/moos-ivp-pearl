@@ -69,7 +69,7 @@ Behavior=BHV_Waypoint
 #elseifdef VNAME oak
   point = 42.69, 9.28
 #else
-  point = $(START_POS)
+  point = 0,0
 #endif
 }
 
