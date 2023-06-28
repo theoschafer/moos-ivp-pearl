@@ -199,7 +199,7 @@ class pongMOOS(pymoos.comms):
 
         for name in self.tracker.vessels:
 
-            if name == "gilda" : #only generate prediction points for gilda, not for other vessels
+            if name == "abe" : #only generate prediction points for gilda, not for other vessels
 
                 z_from_AIS = self.tracker.get_vessel_data(name) ## Data in x,y,speed, theta format
                 time_stamps = self.tracker.get_time_stamps(name)
@@ -528,7 +528,7 @@ def main():
     
     ##self.notify('MAIN_CALLED', 1, -1)
 
-    ponger1 = pongMOOS('localhost', 9001)
+    ponger1 = pongMOOS('localhost', 9002)
     
 
     while True:

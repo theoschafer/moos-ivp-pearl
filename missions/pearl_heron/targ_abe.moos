@@ -195,8 +195,8 @@ ProcessConfig = pNodeReporter
 {
   //AppTick     = 0.033
   //CommsTick   = 0.033
-  AppTick     = 2
-  CommsTick   = 2
+  AppTick     = 0.1
+  CommsTick   = 0.1
   vessel_type = kayak
 
   

@@ -1,11 +1,22 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./XLOG_SHORESIDE_28_6_2023_____18_04_40/XLOG_SHORESIDE_28_6_2023_____18_04_40._moos
+%% FILE OPENED ON  Wed Dec 31 19:00:00 1969
+%% LOGSTART           1687989879.334158
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 //*******************************************************
 // ShoreSide Configuration File
 
 ServerHost = localhost
-ServerPort = $(MOOS_PORT)
+ServerPort = 9000
 Community  = shoreside
 
-#include plug_origin_warp.moos
+MOOSTimeWarp = 1
+
+
+// MIT Sailing Pavilion (PavLab)
+LatOrigin = 42.358436
+LongOrigin = -71.087448
+
 
 //--------------------------------------------------------
 Processconfig = ANTLER
@@ -26,9 +37,49 @@ Processconfig = ANTLER
   
 }
 
-#include plug_pShare.moos
-#include plug_pHostInfo.moos
-#include plug_uProcessWatch.moos
+//---------------------------------------------------------
+// pShare Config Block
+
+ProcessConfig = pShare
+{
+  AppTick    = 2
+  CommsTick  = 2
+
+  input = route =  localhost:9200
+}
+
+//--------------------------------------------------
+// pHostInfo config block
+
+ProcessConfig = pHostInfo
+{
+  AppTick 	= 1
+  CommsTick = 1
+
+  default_hostip_force = localhost
+}
+
+
+//--------------------------------------------------------
+// uProcessWatch Config Block
+	
+ProcessConfig = uProcessWatch
+{
+  AppTick   = 2
+  CommsTick = 2
+
+  allow_retractions = true
+
+  watch_all = true // default is true
+
+  nowatch = uMAC*
+  nowatch = uXMS*
+  nowatch = uPokeDB*
+  nowatch = uQueryDB*
+
+  summary_wait  = 12
+}
+
 
 //--------------------------------------------------
 // uFldNodeComms Config Block
@@ -183,21 +234,18 @@ ProcessConfig = pMarineViewer
 	button_14 = OPR_RESET # OPREGION_RESET_ALL=true
 
 	
-#ifdef XMODE SIM
-	button_15 = WND+ # DRIFT_VECTOR_ADD=150,0.2
-	button_16 = WND- # DRIFT_VECTOR_ADD=15,0.2
-	button_17 = WND_RST # DRIFT_VECTOR=0,0
-#endif
 
-  cmd = label=DEPLOY, var=DEPLOY,  sval=true, receivers=all:$(VNAMES)
-  cmd = label=DEPLOY, var=MOOS_MANUAL_OVERRIDE, sval=false,  receivers=all:$(VNAMES)
-  cmd = label=DEPLOY, var=AVOID,  sval=true, receivers=all:$(VNAMES)
-  cmd = label=DEPLOY, var=RETURN,  sval=false, receivers=all:$(VNAMES)
-  cmd = label=DEPLOY, var=STATION_KEEP, sval=false, receivers=all:$(VNAMES)
-  cmd = label=DEPLOY, var=LEG_RUNNING, sval=true, receivers=all:$(VNAMES)
+  cmd = label=DEPLOY, var=DEPLOY,  sval=true, receivers=all:
+  cmd = label=DEPLOY, var=MOOS_MANUAL_OVERRIDE, sval=false,  receivers=all:
+  cmd = label=DEPLOY, var=AVOID,  sval=true, receivers=all:
+  cmd = label=DEPLOY, var=RETURN,  sval=false, receivers=all:
+  cmd = label=DEPLOY, var=STATION_KEEP, sval=false, receivers=all:
+  cmd = label=DEPLOY, var=LEG_RUNNING, sval=true, receivers=all:
 
-  cmd = label=RETURN, var=RETURN, sval=true, receivers=all:$(VNAMES)
-  cmd = label=RETURN, var=STATION_KEEP, sval=false, receivers=all:$(VNAMES)
+  cmd = label=RETURN, var=RETURN, sval=true, receivers=all:
+  cmd = label=RETURN, var=STATION_KEEP, sval=false, receivers=all:
 
-  cmd = label=STATION, var=STATION_KEEP,  sval=true,  receivers=all:$(VNAMES), color=pink
+  cmd = label=STATION, var=STATION_KEEP,  sval=true,  receivers=all:, color=pink
 	}
+
+
