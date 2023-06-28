@@ -1,0 +1,39 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./LOG_PEARL_28_6_2023_____17_48_10/LOG_PEARL_28_6_2023_____17_48_10.ylog
+%% FILE OPENED ON  Wed Dec 31 19:00:00 1969
+%% LOGSTART           1687988889.498955
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+0.857476   MOOS_DEBUG           pMarinePID           ** NEW CONTROLLER GAINS ARE ** 
+0.857487   MOOS_DEBUG           pMarinePID           YAW_PID_KP             = 1.200 
+0.8574889  MOOS_DEBUG           pMarinePID           YAW_PID_KD             = 0.000 
+0.857492   MOOS_DEBUG           pMarinePID           YAW_PID_KI             = 0.300 
+0.8574939  MOOS_DEBUG           pMarinePID           YAW_PID_INTEGRAL_LIMIT = 0.070 
+0.857497   MOOS_DEBUG           pMarinePID           MAXRUDDER              = 100.000 
+0.8594389  MOOS_DEBUG           pMarinePID           SPEED_PID_KP           = 1.000 
+0.859447   MOOS_DEBUG           pMarinePID           SPEED_PID_KD           = 0.000 
+0.8594501  MOOS_DEBUG           pMarinePID           SPEED_PID_KI           = 0.000 
+0.8594539  MOOS_DEBUG           pMarinePID           SPEED_PID_INTEGRAL_LIMIT = 0.070 
+0.859458   MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+0.96017    MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+1.204619   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+1.204619   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+2.054814   MOOS_DEBUG           pPearlPID            ** NEW CONTROLLER GAINS ARE ** 
+2.054819   MOOS_DEBUG           pPearlPID            YAW_PID_KP             = 0.400 
+2.05482    MOOS_DEBUG           pPearlPID            YAW_PID_KD             = 4.000 
+2.054821   MOOS_DEBUG           pPearlPID            YAW_PID_KI             = 0.040 
+2.054823   MOOS_DEBUG           pPearlPID            YAW_PID_INTEGRAL_LIMIT = 0.070 
+2.054825   MOOS_DEBUG           pPearlPID            MAXRUDDER              = 100.000 
+2.054898   MOOS_DEBUG           pPearlPID            SPEED_PID_KP           = 1.000 
+2.054899   MOOS_DEBUG           pPearlPID            SPEED_PID_KD           = 0.000 
+2.054901   MOOS_DEBUG           pPearlPID            SPEED_PID_KI           = 0.000 
+2.054902   MOOS_DEBUG           pPearlPID            SPEED_PID_INTEGRAL_LIMIT = 0.070 
+2.054907   MOOS_DEBUG           pPearlPID            MAXTHRUST              = 100.000 
+2.054907   MOOS_DEBUG           pPearlPID            MAXTHRUST              = 100.000 
+3.264097   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+4.158791   MOOS_DEBUG           pPearlPID            Paused Due To Tardy HELM Input: THRUST=0 
+4.158791   MOOS_DEBUG           pPearlPID            Paused Due To Tardy HELM Input: THRUST=0 
+5.860845   MOOS_DEBUG           pPearlPID            pPearlPID Control Is On 
+5.867267   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+5.958784   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
+5.958784   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
+5.958784   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 

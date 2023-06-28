@@ -32,7 +32,7 @@ set MODE = TRAVELLING {
   RETURN = false
 }   
 
-#ifdef VNAME henry || VNAME brian 
+#ifdef VNAME pearl || VNAME brian 
 initialize MODE = TRAVELLING
 #else
 initialize MODE = LOITERING
@@ -77,16 +77,17 @@ Behavior = BHV_AvdColregsV19
 
              contact = to-be-set
     on_no_contact_ok = true
-    #ifdef VNAME henry
+    #ifdef VNAME pearl
          extrapolate = false
          ignore_name = brian
          ignore_name = julie
+         
       #else
          
           extrapolate = true
          //ignore_name = brian
          //ignore_name = julie
-         ignore_name = henry
+         ignore_name = pearl
          ignore_name = gilda
          #endif
          
@@ -125,7 +126,7 @@ Behavior = BHV_Waypoint
      radius = 3.0
   nm_radius = 15.0
   
-  #ifdef VNAME henry || VNAME brian 
+  #ifdef VNAME pearl || VNAME brian 
      points = 0,0
      
     #else
@@ -149,8 +150,8 @@ Behavior = BHV_Waypoint
      radius = 3.0
   nm_radius = 15.0
   
-  #ifdef VNAME henry || VNAME brian 
-     points = -70,-60 : 80,-60
+  #ifdef VNAME pearl || VNAME brian 
+     points = -15,-60 : 80,-60
      
     #else
     points =  -40,-70 : 70,20

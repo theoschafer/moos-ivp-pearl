@@ -1,0 +1,12 @@
+6.95817         IVPHELM_LIFE_EVENT   pHelmIvP        time=6.01, iter=1, bname=loiter, btype=BHV_Loiter, event=spawn, seed=helm_startup, posting_index=0 
+6.95818         IVPHELM_LIFE_EVENT   pHelmIvP        time=6.01, iter=1, bname=waypt_return, btype=BHV_Waypoint, event=spawn, seed=helm_startup, posting_index=1 
+6.95819         IVPHELM_LIFE_EVENT   pHelmIvP        time=6.01, iter=1, bname=travel, btype=BHV_Waypoint, event=spawn, seed=helm_startup, posting_index=2 
+6.95820         IVPHELM_LIFE_EVENT   pHelmIvP        time=6.01, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+6.95820         IVPHELM_LIFE_EVENT   pHelmIvP        time=6.01, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+6.95820         IVPHELM_LIFE_EVENT   pHelmIvP        time=6.01, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+66.80608        IVPHELM_LIFE_EVENT   pHelmIvP        time=65.85, iter=240, bname=avdcol_abe, btype=BHV_AvdColregsV19, event=spawn, seed=name=abe # contact=abe, posting_index=0 
+66.80608        IVPHELM_LIFE_EVENT   pHelmIvP        time=65.85, iter=240, bname=avdcol_abe, btype=BHV_AvdColregsV19, event=spawn, seed=name=abe # contact=abe, posting_index=0 
+227.44302       IVPHELM_LIFE_EVENT   pHelmIvP        time=226.49, iter=881, bname=travel, btype=BHV_Waypoint, event=death, seed=, posting_index=0 
+227.44302       IVPHELM_LIFE_EVENT   pHelmIvP        time=226.49, iter=881, bname=travel, btype=BHV_Waypoint, event=death, seed=, posting_index=0 
+227.44302       IVPHELM_LIFE_EVENT   pHelmIvP        time=226.49, iter=881, bname=travel, btype=BHV_Waypoint, event=death, seed=, posting_index=0 
+227.44302       IVPHELM_LIFE_EVENT   pHelmIvP        time=226.49, iter=881, bname=travel, btype=BHV_Waypoint, event=death, seed=, posting_index=0 

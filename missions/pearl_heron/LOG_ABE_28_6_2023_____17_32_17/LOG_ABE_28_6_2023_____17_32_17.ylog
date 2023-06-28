@@ -1,0 +1,25 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./LOG_ABE_28_6_2023_____17_32_17/LOG_ABE_28_6_2023_____17_32_17.ylog
+%% FILE OPENED ON  Wed Dec 31 19:00:00 1969
+%% LOGSTART           1687987937.219925
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+0.904711   MOOS_DEBUG           pMarinePID           ** NEW CONTROLLER GAINS ARE ** 
+0.9047151  MOOS_DEBUG           pMarinePID           YAW_PID_KP             = 1.200 
+0.904716   MOOS_DEBUG           pMarinePID           YAW_PID_KD             = 0.000 
+0.904717   MOOS_DEBUG           pMarinePID           YAW_PID_KI             = 0.300 
+0.9047182  MOOS_DEBUG           pMarinePID           YAW_PID_INTEGRAL_LIMIT = 0.070 
+0.9047191  MOOS_DEBUG           pMarinePID           MAXRUDDER              = 100.000 
+0.9051201  MOOS_DEBUG           pMarinePID           SPEED_PID_KP           = 1.000 
+0.905123   MOOS_DEBUG           pMarinePID           SPEED_PID_KD           = 0.000 
+0.905123   MOOS_DEBUG           pMarinePID           SPEED_PID_KI           = 0.000 
+0.9051242  MOOS_DEBUG           pMarinePID           SPEED_PID_INTEGRAL_LIMIT = 0.070 
+0.9051251  MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+1.005385   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+1.252308   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+1.252308   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+1.252308   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+3.308127   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+3.308127   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+6.507771   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
+6.512142   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+6.512142   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 

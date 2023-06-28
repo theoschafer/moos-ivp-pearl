@@ -41,7 +41,7 @@ ProcessConfig = uSimMarineV22
   AppTick   = 10
   CommsTick = 10
 
-  start_pos = 0,-10,180
+  start_pos = -15,-40,0
   prefix    = NAV
 
 	turn_rate = 80
@@ -113,7 +113,7 @@ ProcessConfig = pHelmIvP
   behaviors   = targ_abe.bhv
   verbose     = false
   domain      = course:0:359:360
-  domain      = speed:0:2.0:21
+  domain      = speed:0:1:21
 
 	hold_on_app = pContactMgrV20
 	goals_mandatory = true

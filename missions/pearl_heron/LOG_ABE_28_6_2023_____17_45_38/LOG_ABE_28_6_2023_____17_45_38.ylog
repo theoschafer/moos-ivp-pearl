@@ -1,0 +1,25 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./LOG_ABE_28_6_2023_____17_45_38/LOG_ABE_28_6_2023_____17_45_38.ylog
+%% FILE OPENED ON  Wed Dec 31 19:00:00 1969
+%% LOGSTART           1687988738.247743
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+0.8592701  MOOS_DEBUG           pMarinePID           ** NEW CONTROLLER GAINS ARE ** 
+0.859277   MOOS_DEBUG           pMarinePID           YAW_PID_KP             = 1.200 
+0.8592782  MOOS_DEBUG           pMarinePID           YAW_PID_KD             = 0.000 
+0.8592792  MOOS_DEBUG           pMarinePID           YAW_PID_KI             = 0.300 
+0.8592801  MOOS_DEBUG           pMarinePID           YAW_PID_INTEGRAL_LIMIT = 0.070 
+0.859282   MOOS_DEBUG           pMarinePID           MAXRUDDER              = 100.000 
+0.859946   MOOS_DEBUG           pMarinePID           SPEED_PID_KP           = 1.000 
+0.8599491  MOOS_DEBUG           pMarinePID           SPEED_PID_KD           = 0.000 
+0.8599501  MOOS_DEBUG           pMarinePID           SPEED_PID_KI           = 0.000 
+0.8599522  MOOS_DEBUG           pMarinePID           SPEED_PID_INTEGRAL_LIMIT = 0.070 
+0.8599532  MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+0.9603271  MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+1.208745   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+1.208745   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+1.208745   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+3.26335    MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+3.26335    MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+5.565989   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+5.713067   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
+5.713067   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
