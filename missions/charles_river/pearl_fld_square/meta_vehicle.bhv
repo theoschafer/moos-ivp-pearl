@@ -36,8 +36,8 @@ Behavior = BHV_StationKeep
   endflag   = RETURN=true
   UPDATES   = WPT_UPDATE
   
-	lead           = 8
-	lead_damper    = 1
+	//lead           = 8
+	//lead_damper    = 1
 	speed          = $(SPEED)   //meters per second
 	capture_line   = true
 	capture_radius = 5
@@ -68,8 +68,8 @@ Behavior = BHV_Waypoint //mapRRT trajectory
   endflag   = RETURN=true
   UPDATES   = WPT_UPDATE
   
-	lead           = 8
-	lead_damper    = 1
+	//lead           = 8
+	//lead_damper    = 1
 	speed          = $(SPEED)   //meters per second
 	capture_line   = true
 	capture_radius = 5
@@ -79,7 +79,7 @@ Behavior = BHV_Waypoint //mapRRT trajectory
 	
 
 	repeat         = 1
-	//order          = reverse
+	order          = reverse
 
 	visual_hints = nextpt_color=yellow
 	visual_hints = nextpt_vertex_size=8
