@@ -3,6 +3,7 @@ import pymoos
 import math
 import numpy as np
 import matplotlib.pyplot as plt
+import csv
 
 from filterpy.kalman import KalmanFilter 
 from filterpy.kalman import IMMEstimator 
@@ -472,6 +473,26 @@ class pongMOOS(pymoos.comms):
                         
                     #xp.append(X_s[-1][0])
                     #yp.append(X_s[-1][1])
+
+                    #log error in estimate
+                    # Compute xse, yse, and se
+                    xse = [math.sqrt((xi - xsi)**2) for xi, xsi in zip(x, xs)]
+                    yse = [math.sqrt((yi - ysi)**2) for yi, ysi in zip(y, ys)]
+                    se = [math.sqrt(xsei**2 + ysei**2) for xsei, ysei in zip(xse, yse)]
+
+                    # Prepare the data to write
+                    data = list(zip(x, xs, xse, y, ys, yse, se))
+
+                    # Write the data
+                    with open('estimate_error.csv', 'w', newline='') as file:
+                        writer = csv.writer(file)
+
+                        # Write the header
+                        writer.writerow(["x", "xs", "xse", "y", "ys", "yse", "se"])
+
+                        # Write the computed data
+                        for row in data:
+                            writer.writerow(row)
                     
                     nb_prediction_steps = 15
                     for i in range (1, nb_prediction_steps):

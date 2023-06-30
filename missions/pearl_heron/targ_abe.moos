@@ -2,7 +2,7 @@ ServerHost = localhost
 ServerPort = 9001
 Community  = abe
 
-MOOSTimeWarp = 1
+MOOSTimeWarp = 5
 
 
 // MIT Sailing Pavilion (PavLab)
