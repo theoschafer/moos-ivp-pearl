@@ -56,6 +56,8 @@ ProcessConfig = uFldShoreBroker
   AppTick       = 1
   CommsTick     = 1
 
+  auto_bridge_appcast = true
+
   qbridge  = DEPLOY, RETURN, STATION_KEEP, NODE_REPORT, NODE_MESSAGE
   qbridge  = MOOS_MANUAL_OVERRIDE, APPCAST_REQ, AVOID
   qbridge  = SAY_MOOS, LEG_RUNNING, ZIGGING, LEG_UPDATE

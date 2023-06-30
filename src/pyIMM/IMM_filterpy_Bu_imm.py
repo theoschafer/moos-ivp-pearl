@@ -35,22 +35,22 @@ class VesselTracker:
             self.vessels[name] = []
 
         # # Append new data to the vessel's list, while keeping the format from x,y,speed, theta 
-        # self.vessels[name].append(np.array([
-        #         [x], 
-        #         [y],
-        #         [speed], 
-        #         [theta] 
-        #         ]))
-        # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
-        sigma_pos = 0.1
-        sigma_speed = 0.02
-        sigma_theta = 0 #degrees
         self.vessels[name].append(np.array([
-                [x+np.random.normal(0, sigma_pos)], 
-                [y+np.random.normal(0, sigma_pos)],
-                [speed+np.random.normal(0, sigma_speed)], 
-                [theta+np.random.normal(0, sigma_theta)] 
+                [x], 
+                [y],
+                [speed], 
+                [theta] 
                 ]))
+        # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
+        # sigma_pos = 0.1
+        # sigma_speed = 0.02
+        # sigma_theta = 0 #degrees
+        # self.vessels[name].append(np.array([
+        #         [x+np.random.normal(0, sigma_pos)], 
+        #         [y+np.random.normal(0, sigma_pos)],
+        #         [speed+np.random.normal(0, sigma_speed)], 
+        #         [theta+np.random.normal(0, sigma_theta)] 
+        #         ]))
 
     def add_time_stamps(self, name, time):
         if name not in self.time_stamps:
@@ -70,23 +70,23 @@ class VesselTracker:
             self.vessels_for_filterpy[name] = []
 
         # Append new data to the vessel's list, while changing the format from x,y,speed, theta -> x, y, dx, dy (expected by the kf_ct filter from filterpy). /!\ Will prbly have to convert deg-rad
-        # self.vessels_for_filterpy[name].append(np.array([
-        #         [x], 
-        #         [y],
-        #         [speed*math.sin(theta*3.141592/180)],  #x is sin because of the referential in MOOS (north reference and clockwise positive angle)
-        #         [speed*math.cos(theta*3.141592/180)] 
-        #         ]))
+        self.vessels_for_filterpy[name].append(np.array([
+                [x], 
+                [y],
+                [speed*math.sin(theta*3.141592/180)],  #x is sin because of the referential in MOOS (north reference and clockwise positive angle)
+                [speed*math.cos(theta*3.141592/180)] 
+                ]))
         
         # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
-        sigma_pos = 0.1
-        sigma_speed = 0.02
-        sigma_theta = 0 #degrees
-        self.vessels_for_filterpy[name].append(np.array([
-                [x+np.random.normal(0, sigma_pos)], 
-                [y+np.random.normal(0, sigma_pos)],
-                [(speed+np.random.normal(0, sigma_speed))*math.sin((theta+np.random.normal(0, sigma_theta))*3.141592/180)],  #x is sin because of the referential in MOOS (north reference and clockwise positive angle)
-                [(speed+np.random.normal(0, sigma_speed))*math.cos((theta+np.random.normal(0, sigma_theta))*3.141592/180)] 
-                ]))
+        # sigma_pos = 0.1
+        # sigma_speed = 0.02
+        # sigma_theta = 0 #degrees
+        # self.vessels_for_filterpy[name].append(np.array([
+        #         [x+np.random.normal(0, sigma_pos)], 
+        #         [y+np.random.normal(0, sigma_pos)],
+        #         [(speed+np.random.normal(0, sigma_speed))*math.sin((theta+np.random.normal(0, sigma_theta))*3.141592/180)],  #x is sin because of the referential in MOOS (north reference and clockwise positive angle)
+        #         [(speed+np.random.normal(0, sigma_speed))*math.cos((theta+np.random.normal(0, sigma_theta))*3.141592/180)] 
+        #         ]))
         
 
 
@@ -109,7 +109,7 @@ class pongMOOS(pymoos.comms):
 
     tracker = VesselTracker()
     
-    h= 30 #for the IMM
+    h= 5 #for the IMM
     
     def __init__(self, moos_community, moos_port):
         """Initiates MOOSComms, sets the callbacks and runs the loop"""
@@ -199,7 +199,7 @@ class pongMOOS(pymoos.comms):
 
         for name in self.tracker.vessels:
 
-            if name == "abe" : #only generate prediction points for gilda, not for other vessels
+            if name == "abe" : #only generate prediction points for abe, not for other vessels
 
                 z_from_AIS = self.tracker.get_vessel_data(name) ## Data in x,y,speed, theta format
                 time_stamps = self.tracker.get_time_stamps(name)
@@ -265,7 +265,7 @@ class pongMOOS(pymoos.comms):
 
                 
 
-                    h= 30 ## maybe modify this with the black out period of the AIS and pNodeReport
+                    h= 5 ## maybe modify this with the black out period of the AIS and pNodeReport
                     size = len(z_from_AIS)
                     nb_values_averaged = 3
                     average_dtheta = 0
@@ -316,7 +316,7 @@ class pongMOOS(pymoos.comms):
                 ## If enough data and not corrupted heading data, do the IMM filter:
 
                     
-                    h= 30 
+                    h= 5 
                     z_noise = self.tracker.get_vessel_data_for_filterpy(name)
 
                     print("z_noise: ") 
@@ -473,7 +473,7 @@ class pongMOOS(pymoos.comms):
                     #xp.append(X_s[-1][0])
                     #yp.append(X_s[-1][1])
                     
-                    nb_prediction_steps = 5
+                    nb_prediction_steps = 15
                     for i in range (1, nb_prediction_steps):
                         imm.predict(u[-1].reshape((2, 1)))
                         X_s.append(imm.x.copy())
@@ -508,7 +508,7 @@ class pongMOOS(pymoos.comms):
                     ## View the kf_ct predicted trajectory
                     seglist_string = 'pts={'
                     
-                    for i in range(0, nb_prediction_steps-1):
+                    for i in range(5, nb_prediction_steps-1):
                         seglist_string += str(xp[i][0]) + ',' + str(yp[i][0]) + ':' #here we select the last list of predictions and we print all the points
                         self.notify("NODE_REPORT", f"X={xp[i][0]},Y={yp[i][0]},SPD={math.sqrt(vxp[i][0]**2+vyp[i][0]**2)},HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592},NAME=prediction{name}_{i},TIME={time.time()}",-1)
                         print("HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592}")

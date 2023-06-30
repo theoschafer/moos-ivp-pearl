@@ -41,10 +41,10 @@ ProcessConfig = uSimMarineV22
   AppTick   = 10
   CommsTick = 10
 
-  start_pos = -15,-40,0
+  start_pos = 15,-40,0
   prefix    = NAV
 
-	turn_rate = 80
+	turn_rate = 80 
 	
 	//max_deceleration = 0.2
 	
@@ -193,10 +193,10 @@ ProcessConfig = pLogger
 	
 ProcessConfig = pNodeReporter
 {
-  //AppTick     = 0.033
-  //CommsTick   = 0.033
-  AppTick     = 0.1
-  CommsTick   = 0.1
+  AppTick     = 0.033
+  CommsTick   = 0.033
+  //AppTick     = 0.1
+  //CommsTick   = 0.1
   vessel_type = kayak
 
   

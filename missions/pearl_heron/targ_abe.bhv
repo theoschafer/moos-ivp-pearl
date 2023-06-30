@@ -48,12 +48,12 @@ Behavior = BHV_Loiter
   ipf_type = zaic_spd
 	
    post_suffix = A
-         speed = 1.0
-     clockwise = true
+         speed = 0.5
+     clockwise = false
         radius = 8.0
      //nm_radius = 15.0
      nm_radius = 15.0
-       polygon = radial:: x=0, y= -40 , radius=15, pts=10, snap=1, label=abe_LOITER
+       polygon = radial:: x=0, y= -40 , radius=12, pts=10, snap=1, label=abe_LOITER
   visual_hints = nextpt_color=white, nextpt_lcolor=khaki
   visual_hints = edge_color=orange, vertex_color=white
   visual_hints = edge_size=1, vertex_size=2
@@ -130,7 +130,7 @@ Behavior = BHV_Waypoint
   endflag   = STATION_KEEP = true
   endflag   = AVOID = false
 
-      speed = 1.
+      speed = 0.5
      radius = 3.0
   nm_radius = 15.0
   
