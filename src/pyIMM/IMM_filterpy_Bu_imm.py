@@ -43,7 +43,7 @@ class VesselTracker:
         #         [theta] 
         #         ]))
         # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
-        sigma_pos = 0.1
+        sigma_pos = 0.5
         sigma_speed = 0.02
         sigma_theta = 0 #degrees
         self.vessels[name].append(np.array([
@@ -79,7 +79,7 @@ class VesselTracker:
         #         ]))
         
         # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
-        sigma_pos = 0.1
+        sigma_pos = 0.5
         sigma_speed = 0.02
         sigma_theta = 0 #degrees
         self.vessels_for_filterpy[name].append(np.array([
@@ -453,8 +453,8 @@ class pongMOOS(pymoos.comms):
                         print("imm.x[0]:")
                         print(imm.x[0]) """
                         prob_history.append(imm.mu.copy())
-                        xs.append(imm.x[0].copy())
-                        ys.append(imm.x[1].copy())
+                        xs.append(imm.x[0].copy()[-1])
+                        ys.append(imm.x[1].copy()[-1])
                         
                         """ print("xs:")
                         print(xs)
@@ -468,8 +468,8 @@ class pongMOOS(pymoos.comms):
                         X_s.append(imm.x.copy())  # X_s stores all the estimates x,y,vx,vy, the last set of values of this list is used for further prediction. eventually it contains all the estimated positions and the 10 predicted position
                         """ print("X_s")
                         print(X_s) """
-                        x.append(z[0])      # x and y store all the measurements x and y
-                        y.append(z[1])
+                        x.append(z[0][0])      # x and y store all the measurements x and y
+                        y.append(z[1][0])
                         
                     #xp.append(X_s[-1][0])
                     #yp.append(X_s[-1][1])
