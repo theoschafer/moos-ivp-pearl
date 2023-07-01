@@ -60,7 +60,7 @@ class VesselTracker:
         # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
         sigma_pos = 0.5
         sigma_speed = 0.2
-        sigma_theta = 2 #degrees
+        sigma_theta = 6 #degrees
         self.vessels[name].append(np.array([
                 [x+np.random.normal(0, sigma_pos)], 
                 [y+np.random.normal(0, sigma_pos)],
@@ -96,7 +96,7 @@ class VesselTracker:
         # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
         sigma_pos = 0.5
         sigma_speed = 0.2
-        sigma_theta = 2 #degrees
+        sigma_theta = 6 #degrees
         self.vessels_for_filterpy[name].append(np.array([
                 [x+np.random.normal(0, sigma_pos)], 
                 [y+np.random.normal(0, sigma_pos)],
@@ -205,7 +205,7 @@ class pongMOOS(pymoos.comms):
 
         if data["NAME"] == "julie":
             stg = f"X={data['X']},Y={data['Y']},SPD={data['SPD']},HDG={data['HDG']},NAME={data['NAME']},TIME={time.time()}"
-            print(stg)
+            #print(stg)
             self.notify("NODE_REPORT", stg ,-1)
         
 
@@ -238,7 +238,7 @@ class pongMOOS(pymoos.comms):
 
                 print("vessel name: " + name)
                 print("z_from_AIS:  ")
-                print(z_from_AIS)
+                print(len(z_from_AIS))
 
                 ##create the u vector
 
@@ -340,8 +340,8 @@ class pongMOOS(pymoos.comms):
                     z_noise = self.tracker.get_vessel_data_for_filterpy(name)
                     z_no_noise = self.tracker.get_vessel_data_no_noise(name)
 
-                    print("z_noise: ") 
-                    print(z_noise)  
+                    #print("z_noise: ") 
+                    #print(z_noise)  
 
                     ############################## Constant turn (ie constant acceleration) model ###########################################################
                     kf_ct = KalmanFilter(dim_x=4, dim_z=4, dim_u=2)
@@ -486,8 +486,7 @@ class pongMOOS(pymoos.comms):
                         #print("ys:")
                         #print(ys)
                         X_s.append(imm.x.copy())  # X_s stores all the estimates x,y,vx,vy, the last set of values of this list is used for further prediction. eventually it contains all the estimated positions and the 10 predicted position
-                        """ print("X_s")
-                        print(X_s) """
+                        
                         x.append(z_no_noise[n][0][0])      # x and y store all the measurements x and y
                         y.append(z_no_noise[n][1][0])
                         
@@ -541,10 +540,10 @@ class pongMOOS(pymoos.comms):
                     # plt.legend()
                     # #plt.show()
 
-                    print("vxp")
-                    print(vxp)
-                    print("vyp")
-                    print(vyp)
+                    # print("vxp")
+                    # print(vxp)
+                    # print("vyp")
+                    # print(vyp)
 
                     ## View the kf_ct predicted trajectory
                     seglist_string = 'pts={'
@@ -552,14 +551,14 @@ class pongMOOS(pymoos.comms):
                     for i in range(5, nb_prediction_steps-1):
                         seglist_string += str(xp[i][0]) + ',' + str(yp[i][0]) + ':' #here we select the last list of predictions and we print all the points
                         self.notify("NODE_REPORT", f"X={xp[i][0]},Y={yp[i][0]},SPD={math.sqrt(vxp[i][0]**2+vyp[i][0]**2)},HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592},NAME=prediction{name}_{i},TIME={time.time()}",-1)
-                        print("HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592}")
-                        print(math.atan2(vxp[i][0], vyp[i][0])*180/3.141592)
+                        #print("HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592}")
+                        #print(math.atan2(vxp[i][0], vyp[i][0])*180/3.141592)
                     seglist_string = seglist_string[:-1] # removes last ':'
                     seglist_string+= "}, label=" + "pred kf"+ name
 
                     self.notify('VIEW_SEGLIST', seglist_string, -1) 
 
-                    print(seglist_string)
+                    #print(seglist_string)
 
                     #plt.show()    
 
