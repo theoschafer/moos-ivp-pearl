@@ -25,9 +25,24 @@ class VesselTracker:
     def __init__(self):
         # Initialize an empty dictionary for storing vessel data
         self.vessels = {} #will store x, y, speed, theta
+        self.vessels_no_noise = {} #will store x, y, speed, theta
         self.vessels_for_filterpy = {}  #will store x, y, vx, vy because that what the filterpy uses (more specifically I got the covariance matrices for this format from papers)
         self.time_stamps = {}
         ##self.notify('INIT_TRACKER', 1, -1)
+
+    def add_vessel_data_no_noise(self, name, x, y, speed, theta):
+        # Check if vessel name already exists in the dictionary
+        if name not in self.vessels_no_noise:
+            # If not, create a new entry with an empty list
+            self.vessels_no_noise[name] = []
+
+        # # Append new data to the vessel's list, while keeping the format from x,y,speed, theta 
+        self.vessels_no_noise[name].append(np.array([
+                [x], 
+                [y],
+                [speed], 
+                [theta] 
+                ]))
 
     def add_vessel_data(self, name, x, y, speed, theta):
         # Check if vessel name already exists in the dictionary
@@ -44,8 +59,8 @@ class VesselTracker:
         #         ]))
         # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
         sigma_pos = 0.5
-        sigma_speed = 0.02
-        sigma_theta = 0 #degrees
+        sigma_speed = 0.2
+        sigma_theta = 2 #degrees
         self.vessels[name].append(np.array([
                 [x+np.random.normal(0, sigma_pos)], 
                 [y+np.random.normal(0, sigma_pos)],
@@ -80,8 +95,8 @@ class VesselTracker:
         
         # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
         sigma_pos = 0.5
-        sigma_speed = 0.02
-        sigma_theta = 0 #degrees
+        sigma_speed = 0.2
+        sigma_theta = 2 #degrees
         self.vessels_for_filterpy[name].append(np.array([
                 [x+np.random.normal(0, sigma_pos)], 
                 [y+np.random.normal(0, sigma_pos)],
@@ -102,7 +117,10 @@ class VesselTracker:
         # If the vessel is not found, return an empty list
         return self.vessels.get(name, [])
     
-    
+    def get_vessel_data_no_noise(self, name):
+        # Return the list of past states for the given vessel
+        # If the vessel is not found, return an empty list
+        return self.vessels_no_noise.get(name, [])
 
 
 class pongMOOS(pymoos.comms):
@@ -181,6 +199,7 @@ class pongMOOS(pymoos.comms):
 
         # Return the dictionary.
         self.tracker.add_vessel_data(data["NAME"], data["X"], data["Y"], data["SPD"],data["HDG"])
+        self.tracker.add_vessel_data_no_noise(data["NAME"], data["X"], data["Y"], data["SPD"],data["HDG"])
         self.tracker.add_vessel_data_for_filterpy(data["NAME"], data["X"], data["Y"], data["SPD"],data["HDG"])
         self.tracker.add_time_stamps(data["NAME"], data["TIME"])
 
@@ -319,6 +338,7 @@ class pongMOOS(pymoos.comms):
                     
                     h= 5 
                     z_noise = self.tracker.get_vessel_data_for_filterpy(name)
+                    z_no_noise = self.tracker.get_vessel_data_no_noise(name)
 
                     print("z_noise: ") 
                     print(z_noise)  
@@ -468,8 +488,8 @@ class pongMOOS(pymoos.comms):
                         X_s.append(imm.x.copy())  # X_s stores all the estimates x,y,vx,vy, the last set of values of this list is used for further prediction. eventually it contains all the estimated positions and the 10 predicted position
                         """ print("X_s")
                         print(X_s) """
-                        x.append(z[0][0])      # x and y store all the measurements x and y
-                        y.append(z[1][0])
+                        x.append(z_no_noise[n][0][0])      # x and y store all the measurements x and y
+                        y.append(z_no_noise[n][1][0])
                         
                     #xp.append(X_s[-1][0])
                     #yp.append(X_s[-1][1])
