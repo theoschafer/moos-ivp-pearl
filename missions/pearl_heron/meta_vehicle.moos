@@ -159,10 +159,10 @@ ProcessConfig = pNodeReporter
 
   vessel_type = kayak
   #else 
-  AppTick     = 0.033
-  CommsTick   = 0.033
-  //AppTick     = 0.1
-  //CommsTick   = 0.1
+ // AppTick     = 0.033
+ // CommsTick   = 0.033
+  AppTick     = 0.1
+  CommsTick   = 0.1
   vessel_type = kayak
   #endif
 

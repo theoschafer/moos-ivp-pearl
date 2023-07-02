@@ -453,6 +453,7 @@ class pongMOOS(pymoos.comms):
                     imm = IMMEstimator(filters, mu, trans)
 
                     prob_history = []
+                    proba_model1 = []
 
                     xs, ys,  X_s = [], [], []
                     x, y = [], []
@@ -476,13 +477,13 @@ class pongMOOS(pymoos.comms):
                         xs.append(imm.x[0].copy()[-1])
                         ys.append(imm.x[1].copy()[-1])
                         
-                        """ print("xs:")
-                        print(xs)
+                        # print("prob_history:")
+                        # print(prob_history)
 
-                        print("imm.x[0]:")
-                        print(imm.x[0]) """
+                        # print("prob_history[0]:")
+                        # print(prob_history[0])
 
-
+                        
                         #print("ys:")
                         #print(ys)
                         X_s.append(imm.x.copy())  # X_s stores all the estimates x,y,vx,vy, the last set of values of this list is used for further prediction. eventually it contains all the estimated positions and the 10 predicted position
@@ -498,6 +499,7 @@ class pongMOOS(pymoos.comms):
                     xse = [math.sqrt((xi - xsi)**2) for xi, xsi in zip(x, xs)]
                     yse = [math.sqrt((yi - ysi)**2) for yi, ysi in zip(y, ys)]
                     se = [math.sqrt(xsei**2 + ysei**2) for xsei, ysei in zip(xse, yse)]
+                    
 
                     # Prepare the data to write
                     data = list(zip(x, xs, xse, y, ys, yse, se))
@@ -538,7 +540,7 @@ class pongMOOS(pymoos.comms):
                     # plt.ylabel('Probability')
                     # plt.ylim([0, 1])
                     # plt.legend()
-                    # #plt.show()
+                    # plt.show()
 
                     # print("vxp")
                     # print(vxp)

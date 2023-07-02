@@ -52,12 +52,12 @@ Behavior = BHV_Loiter
   ipf_type = zaic_spd
 	
    post_suffix = A
-         speed = 0.5
+         speed = 2
      clockwise = false
         radius = 8.0
      //nm_radius = 15.0
      nm_radius = 15.0
-       polygon = radial:: x=0, y= -40 , radius=50, pts=40, snap=1, label=$(VNAME)_LOITER
+       polygon = radial:: x=0, y= -40 , radius=20, pts=16, snap=1, label=$(VNAME)_LOITER
   visual_hints = nextpt_color=white, nextpt_lcolor=khaki
   visual_hints = edge_color=orange, vertex_color=white
   visual_hints = edge_size=1, vertex_size=2
