@@ -1,0 +1,14 @@
+8.91147         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.76, iter=1, bname=loiter, btype=BHV_Loiter, event=spawn, seed=helm_startup, posting_index=0 
+8.91147         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.76, iter=1, bname=waypt_return, btype=BHV_Waypoint, event=spawn, seed=helm_startup, posting_index=1 
+8.91148         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.76, iter=1, bname=travel, btype=BHV_Waypoint, event=spawn, seed=helm_startup, posting_index=2 
+8.91149         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.76, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+8.91149         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.76, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+8.91149         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.76, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+8.91149         IVPHELM_LIFE_EVENT   pHelmIvP        time=7.76, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+80.03579        IVPHELM_LIFE_EVENT   pHelmIvP        time=78.88, iter=285, bname=avdcol_gilda, btype=BHV_AvdColregsV19, event=spawn, seed=name=gilda # contact=gilda, posting_index=0 
+80.03579        IVPHELM_LIFE_EVENT   pHelmIvP        time=78.88, iter=285, bname=avdcol_gilda, btype=BHV_AvdColregsV19, event=spawn, seed=name=gilda # contact=gilda, posting_index=0 
+93.57928        IVPHELM_LIFE_EVENT   pHelmIvP        time=92.42, iter=339, bname=avdcol_predictiongilda_2, btype=BHV_AvdColregsV19, event=spawn, seed=name=predictiongilda_2 # contact=predictiongilda_2, posting_index=0 
+93.57930        IVPHELM_LIFE_EVENT   pHelmIvP        time=92.42, iter=339, bname=avdcol_predictiongilda_3, btype=BHV_AvdColregsV19, event=spawn, seed=name=predictiongilda_3 # contact=predictiongilda_3, posting_index=1 
+93.57930        IVPHELM_LIFE_EVENT   pHelmIvP        time=92.42, iter=339, bname=avdcol_predictiongilda_4, btype=BHV_AvdColregsV19, event=spawn, seed=name=predictiongilda_4 # contact=predictiongilda_4, posting_index=2 
+93.57931        IVPHELM_LIFE_EVENT   pHelmIvP        time=92.42, iter=339, bname=avdcol_predictiongilda_5, btype=BHV_AvdColregsV19, event=spawn, seed=name=predictiongilda_5 # contact=predictiongilda_5, posting_index=3 
+93.57931        IVPHELM_LIFE_EVENT   pHelmIvP        time=92.42, iter=339, bname=avdcol_predictiongilda_5, btype=BHV_AvdColregsV19, event=spawn, seed=name=predictiongilda_5 # contact=predictiongilda_5, posting_index=3 

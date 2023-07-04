@@ -1,0 +1,26 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./LOG_HENRY_4_7_2023_____10_47_25/LOG_HENRY_4_7_2023_____10_47_25.ylog
+%% FILE OPENED ON  Wed Dec 31 19:00:00 1969
+%% LOGSTART           1688482044.943741
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1.055647   MOOS_DEBUG           pMarinePID           ** NEW CONTROLLER GAINS ARE ** 
+1.055651   MOOS_DEBUG           pMarinePID           YAW_PID_KP             = 1.200 
+1.055652   MOOS_DEBUG           pMarinePID           YAW_PID_KD             = 0.100 
+1.055653   MOOS_DEBUG           pMarinePID           YAW_PID_KI             = 0.300 
+1.055654   MOOS_DEBUG           pMarinePID           YAW_PID_INTEGRAL_LIMIT = 0.070 
+1.055656   MOOS_DEBUG           pMarinePID           MAXRUDDER              = 100.000 
+1.056007   MOOS_DEBUG           pMarinePID           SPEED_PID_KP           = 1.000 
+1.056009   MOOS_DEBUG           pMarinePID           SPEED_PID_KD           = 0.000 
+1.05601    MOOS_DEBUG           pMarinePID           SPEED_PID_KI           = 0.000 
+1.056011   MOOS_DEBUG           pMarinePID           SPEED_PID_INTEGRAL_LIMIT = 0.070 
+1.056012   MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+1.056012   MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+1.156185   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+1.401479   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+1.401479   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+3.4031     MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
+3.458638   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+3.458638   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+3.458638   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+3.458638   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+3.458638   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 

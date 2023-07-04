@@ -1,0 +1,6 @@
+4.25592         ALERT_VERBOSE        pContactMgrV20  new_contact=julie 
+4.25592         ALERT_VERBOSE        pContactMgrV20  new_contact=julie 
+31.78033        ALERT_VERBOSE        pContactMgrV20  new_contact=gilda 
+31.78033        ALERT_VERBOSE        pContactMgrV20  new_contact=gilda 
+77.34421        ALERT_VERBOSE        pContactMgrV20  contact=gilda,alert_id=avdcol_,off-->alerted,alert_range=80,alert_range_cpa=85,range_actual=84.7,range_cpa=8.3 
+77.34421        ALERT_VERBOSE        pContactMgrV20  contact=gilda,alert_id=avdcol_,off-->alerted,alert_range=80,alert_range_cpa=85,range_actual=84.7,range_cpa=8.3 

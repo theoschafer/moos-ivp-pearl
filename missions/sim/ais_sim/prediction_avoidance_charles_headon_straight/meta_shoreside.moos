@@ -14,7 +14,7 @@ Processconfig = ANTLER
 
   Run = MOOSDB          @ NewConsole = false
   Run = pRealm          @ NewConsole = false
-  Run = uTimerScript    @ NewConsole = false
+  //Run = uTimerScript    @ NewConsole = false
   Run = pMarineViewer   @ NewConsole = false
   Run = pLogger         @ NewConsole = false
   Run = uXMS            @ NewConsole = false
@@ -87,8 +87,11 @@ ProcessConfig = uFldShoreBroker
   qbridge  = RETURN_UPDATES, BCM_DISPLAY_RADII
   qbridge  = CONTACT_INFO, NODE_GROUP_UPDATE
 
+  //bridge   = src=NODE_REPORT_gilda, alias=NODE_REPORT_TRUE
   bridge   = src=NODE_REPORT_$V, alias=NODE_REPORT_TRUE
-  //bridge   = src=NODE_REPORT_$V, alias=NODE_REPORT
+  bridge   = src=NODE_REPORT_$V, alias=NODE_REPORT
+  //bridge = src=NODE_REPORT_GILDA, alias=NODE_REPORT_TRUE | src=NODE_REPORT_GILDA, alias=NODE_REPORT
+  //bridge = src=NODE_REPORT_GILDA, alias=NODE_REPORT
   //qbridge = NODE_REPORT
 
   bridge   = src=UP_LOITER_$N, alias=UP_LOITER

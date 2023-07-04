@@ -35,8 +35,8 @@ set MODE = TRAVELLING {
 #ifdef VNAME pearl || VNAME brian 
 initialize MODE = TRAVELLING
 #else
-initialize MODE = TRAVELLING
-initialize   LOITER  = false
+initialize MODE = LOITERING
+initialize   LOITER  = true
 #endif
 
 //----------------------------------------------
@@ -52,12 +52,12 @@ Behavior = BHV_Loiter
   ipf_type = zaic_spd
 	
    post_suffix = A
-         speed = 2
+         speed = 0.5
      clockwise = false
         radius = 8.0
      //nm_radius = 15.0
      nm_radius = 15.0
-       polygon = radial:: x=0, y= -40 , radius=20, pts=16, snap=1, label=$(VNAME)_LOITER
+       polygon = radial:: x=0, y= -40 , radius=12, pts=8, snap=1, label=$(VNAME)_LOITER
   visual_hints = nextpt_color=white, nextpt_lcolor=khaki
   visual_hints = edge_color=orange, vertex_color=white
   visual_hints = edge_size=1, vertex_size=2

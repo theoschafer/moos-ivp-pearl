@@ -89,7 +89,9 @@ ProcessConfig = uFldShoreBroker
 
   //bridge   = src=NODE_REPORT_gilda, alias=NODE_REPORT_TRUE
   bridge   = src=NODE_REPORT_$V, alias=NODE_REPORT_TRUE
-  bridge = src=NODE_REPORT_GILDA, alias=NODE_REPORT_TRUE | src=NODE_REPORT_JULIE, alias=NODE_REPORT
+  bridge   = src=NODE_REPORT_$V, alias=NODE_REPORT
+  //bridge = src=NODE_REPORT_GILDA, alias=NODE_REPORT_TRUE | src=NODE_REPORT_GILDA, alias=NODE_REPORT
+  //bridge = src=NODE_REPORT_GILDA, alias=NODE_REPORT
   //qbridge = NODE_REPORT
 
   bridge   = src=UP_LOITER_$N, alias=UP_LOITER

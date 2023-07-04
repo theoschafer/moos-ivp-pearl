@@ -1,0 +1,225 @@
+3.30203         CONTACTS_RECAP       pContactMgrV20   
+4.30308         CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.00,age=0.85 # vname=julie,range=126.59,age=0.85 
+4.30308         CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.00,age=0.85 # vname=julie,range=126.59,age=0.85 
+5.30500         CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.21,age=0.85 # vname=julie,range=126.38,age=0.85 
+5.30500         CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.21,age=0.85 # vname=julie,range=126.38,age=0.85 
+6.30512         CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.80,age=0.85 # vname=julie,range=125.43,age=0.85 
+6.30512         CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.80,age=0.85 # vname=julie,range=125.43,age=0.85 
+7.30693         CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.80,age=0.85 # vname=julie,range=124.53,age=0.85 
+8.30684         CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.80,age=0.86 # vname=julie,range=123.66,age=0.86 
+9.30765         CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.80,age=0.86 # vname=julie,range=122.80,age=0.86 
+10.30860        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.40,age=0.36 # vname=julie,range=122.04,age=0.35 
+11.31042        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.40,age=0.36 # vname=julie,range=121.24,age=0.35 
+12.31046        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.40,age=0.36 # vname=julie,range=120.47,age=0.35 
+13.31190        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.41,age=0.35 # vname=julie,range=119.73,age=0.35 
+14.31259        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.40,age=0.35 # vname=julie,range=119.02,age=0.35 
+15.31325        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.40,age=0.35 # vname=julie,range=118.32,age=0.35 
+16.31401        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.40,age=0.35 # vname=julie,range=117.65,age=0.35 
+17.31422        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.41,age=0.35 # vname=julie,range=117.01,age=0.35 
+18.31591        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.40,age=0.35 # vname=julie,range=116.40,age=0.35 
+19.31658        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.39,age=0.35 # vname=julie,range=115.81,age=0.35 
+20.31728        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.40,age=0.35 # vname=julie,range=115.26,age=0.35 
+21.31790        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.40,age=0.36 # vname=julie,range=114.72,age=0.36 
+22.31861        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.40,age=0.36 # vname=julie,range=114.21,age=0.36 
+23.31913        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.39,age=0.36 # vname=julie,range=113.72,age=0.36 
+24.31977        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.40,age=0.36 # vname=julie,range=113.27,age=0.36 
+25.32039        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.80,age=0.86 # vname=julie,range=112.61,age=0.86 
+26.32111        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.80,age=0.86 # vname=julie,range=112.19,age=0.86 
+27.32182        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.80,age=0.86 # vname=julie,range=111.78,age=0.85 
+28.32256        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.80,age=0.85 # vname=julie,range=111.40,age=0.85 
+29.32328        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.80,age=0.85 # vname=julie,range=111.03,age=0.85 
+30.32414        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.80,age=0.85 # vname=julie,range=110.68,age=0.85 
+31.32479        CONTACTS_RECAP       pContactMgrV20  vname=henry,range=0.80,age=0.85 # vname=julie,range=110.34,age=0.85 
+32.32597        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=109.85,age=1.07 # vname=henry,range=1.00,age=0.85 # vname=julie,range=110.02,age=0.85 
+33.32706        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=108.89,age=2.07 # vname=henry,range=1.01,age=0.85 # vname=julie,range=109.71,age=0.85 
+33.32706        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=108.89,age=2.07 # vname=henry,range=1.01,age=0.85 # vname=julie,range=109.71,age=0.85 
+34.32894        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=107.94,age=3.08 # vname=henry,range=1.00,age=0.86 # vname=julie,range=109.41,age=0.86 
+35.33081        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=106.98,age=4.08 # vname=henry,range=1.00,age=0.86 # vname=julie,range=109.13,age=0.86 
+36.33257        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=106.03,age=5.08 # vname=henry,range=1.00,age=0.86 # vname=julie,range=108.84,age=0.86 
+37.33444        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=105.08,age=6.08 # vname=henry,range=1.00,age=0.86 # vname=julie,range=108.58,age=0.86 
+38.33619        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=104.12,age=7.08 # vname=henry,range=1.01,age=0.86 # vname=julie,range=108.30,age=0.86 
+39.33803        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=103.17,age=8.08 # vname=henry,range=1.00,age=0.86 # vname=julie,range=108.03,age=0.86 
+40.33989        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=102.22,age=9.09 # vname=henry,range=1.00,age=0.87 # vname=julie,range=107.75,age=0.87 
+41.34053        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=101.27,age=10.09 # vname=henry,range=1.00,age=0.87 # vname=julie,range=107.44,age=0.87 
+42.34324        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=100.33,age=11.09 # vname=henry,range=1.01,age=0.87 # vname=julie,range=107.03,age=0.87 
+43.34520        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=99.38,age=12.09 # vname=henry,range=1.00,age=0.87 # vname=julie,range=106.64,age=0.87 
+44.34702        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=98.43,age=13.09 # vname=henry,range=1.00,age=0.86 # vname=julie,range=106.27,age=0.86 
+45.34878        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=97.49,age=14.10 # vname=henry,range=1.00,age=0.87 # vname=julie,range=105.88,age=0.87 
+46.35049        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=96.55,age=15.10 # vname=henry,range=1.00,age=0.87 # vname=julie,range=105.50,age=0.87 
+47.35209        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=95.60,age=16.10 # vname=henry,range=1.01,age=0.87 # vname=julie,range=105.14,age=0.87 
+48.35385        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=94.66,age=17.10 # vname=henry,range=1.00,age=0.87 # vname=julie,range=104.76,age=0.87 
+49.35563        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=93.72,age=18.10 # vname=henry,range=1.00,age=0.87 # vname=julie,range=104.38,age=0.87 
+50.35733        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=92.79,age=19.10 # vname=henry,range=1.00,age=0.87 # vname=julie,range=104.00,age=0.87 
+51.35905        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=91.85,age=20.11 # vname=henry,range=1.01,age=0.88 # vname=julie,range=103.62,age=0.88 
+52.36073        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=90.91,age=21.11 # vname=henry,range=1.00,age=0.88 # vname=julie,range=103.23,age=0.88 
+53.36270        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=89.98,age=22.11 # vname=henry,range=1.00,age=0.88 # vname=julie,range=102.83,age=0.88 
+54.36443        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=89.05,age=23.11 # vname=henry,range=0.40,age=0.38 # vname=julie,range=102.64,age=0.38 
+55.36607        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=88.11,age=24.11 # vname=henry,range=0.40,age=0.38 # vname=julie,range=102.22,age=0.38 
+56.36780        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=87.19,age=25.11 # vname=henry,range=0.40,age=0.37 # vname=julie,range=101.79,age=0.37 
+57.36955        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=86.26,age=26.12 # vname=henry,range=0.40,age=0.38 # vname=julie,range=101.33,age=0.38 
+58.37143        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=85.33,age=27.12 # vname=henry,range=0.40,age=0.38 # vname=julie,range=100.87,age=0.38 
+59.37300        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=84.41,age=28.12 # vname=henry,range=0.40,age=0.38 # vname=julie,range=100.39,age=0.38 
+60.37471        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=83.48,age=29.12 # vname=henry,range=0.40,age=0.38 # vname=julie,range=99.85,age=0.38 
+61.37566        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=82.56,age=30.12 # vname=henry,range=0.40,age=0.38 # vname=julie,range=99.29,age=0.38 
+62.37757        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=98.63,age=0.81 # vname=henry,range=0.40,age=0.38 # vname=julie,range=98.74,age=0.38 
+63.37875        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=97.70,age=1.82 # vname=henry,range=0.40,age=0.39 # vname=julie,range=98.17,age=0.39 
+64.38073        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=96.76,age=2.82 # vname=henry,range=1.00,age=0.89 # vname=julie,range=97.45,age=0.89 
+65.38234        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=95.83,age=3.82 # vname=henry,range=1.00,age=0.89 # vname=julie,range=96.87,age=0.89 
+66.38394        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=94.90,age=4.82 # vname=henry,range=1.01,age=0.89 # vname=julie,range=96.27,age=0.89 
+67.38589        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=93.97,age=5.82 # vname=henry,range=1.01,age=0.89 # vname=julie,range=95.66,age=0.89 
+68.38757        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=93.04,age=6.82 # vname=henry,range=1.00,age=0.89 # vname=julie,range=95.05,age=0.89 
+69.38934        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=92.12,age=7.83 # vname=henry,range=1.00,age=0.90 # vname=julie,range=94.41,age=0.90 
+70.39094        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=91.19,age=8.83 # vname=henry,range=1.00,age=0.90 # vname=julie,range=93.76,age=0.89 
+71.39253        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=90.27,age=9.83 # vname=henry,range=1.01,age=0.89 # vname=julie,range=93.04,age=0.89 
+72.39439        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=89.35,age=10.83 # vname=henry,range=1.00,age=0.89 # vname=julie,range=92.37,age=0.89 
+73.39626        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=88.43,age=11.83 # vname=henry,range=0.40,age=0.39 # vname=julie,range=91.80,age=0.39 
+74.39819        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=87.51,age=12.84 # vname=henry,range=0.40,age=0.40 # vname=julie,range=91.08,age=0.40 
+75.40002        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=86.59,age=13.84 # vname=henry,range=0.41,age=0.40 # vname=julie,range=90.34,age=0.40 
+76.40187        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=85.68,age=14.84 # vname=henry,range=0.40,age=0.40 # vname=julie,range=89.58,age=0.40 
+77.40374        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=84.77,age=15.84 # vname=henry,range=0.40,age=0.40 # vname=julie,range=88.79,age=0.40 
+77.40374        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=84.77,age=15.84 # vname=henry,range=0.40,age=0.40 # vname=julie,range=88.79,age=0.40 
+78.40547        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=83.86,age=16.84 # vname=henry,range=0.40,age=0.40 # vname=julie,range=87.98,age=0.40 
+79.40740        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=82.95,age=17.84 # vname=henry,range=0.41,age=0.40 # vname=julie,range=87.16,age=0.40 
+80.40881        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=82.04,age=18.85 # vname=henry,range=0.40,age=0.41 # vname=julie,range=86.31,age=0.41 
+81.41048        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=81.14,age=19.85 # vname=henry,range=0.40,age=0.41 # vname=julie,range=85.45,age=0.41 
+82.41220        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=80.24,age=20.85 # vname=henry,range=0.40,age=0.41 # vname=julie,range=84.56,age=0.41 
+83.41375        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=79.34,age=21.85 # vname=henry,range=0.40,age=0.41 # vname=julie,range=83.66,age=0.41 
+84.41533        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=78.44,age=22.85 # vname=henry,range=0.42,age=0.40 # vname=julie,range=82.72,age=0.40 
+85.41674        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=77.55,age=23.85 # vname=henry,range=0.45,age=0.40 # vname=julie,range=81.78,age=0.40 
+86.41858        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=76.66,age=24.86 # vname=henry,range=0.48,age=0.41 # vname=julie,range=80.81,age=0.41 
+87.42037        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=75.77,age=25.86 # vname=henry,range=0.54,age=0.41 # vname=julie,range=79.82,age=0.41 
+88.42207        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=74.89,age=26.86 # vname=henry,range=0.59,age=0.41 # vname=julie,range=78.82,age=0.41 
+89.42370        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=74.00,age=27.86 # vname=henry,range=0.63,age=0.41 # vname=julie,range=77.79,age=0.41 
+90.42529        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=73.12,age=28.86 # vname=henry,range=0.87,age=0.41 # vname=julie,range=76.73,age=0.41 
+91.42734        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=72.25,age=29.86 # vname=henry,range=0.92,age=0.41 # vname=julie,range=75.66,age=0.41 
+92.42937        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=74.59,age=0.57 # vname=henry,range=0.96,age=0.42 # vname=julie,range=74.57,age=0.42 
+93.43132        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=73.63,age=1.57 # vname=henry,range=1.01,age=0.42 # vname=julie,range=73.46,age=0.42 
+94.43335        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=72.67,age=2.57 # vname=henry,range=1.07,age=0.42 # vname=julie,range=72.33,age=0.42 
+95.43535        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=71.72,age=3.57 # vname=henry,range=1.12,age=0.42 # vname=julie,range=71.18,age=0.42 
+96.43701        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=70.76,age=4.57 # vname=henry,range=1.17,age=0.42 # vname=julie,range=70.01,age=0.42 
+97.43777        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=69.81,age=5.58 # vname=henry,range=1.23,age=0.42 # vname=julie,range=68.82,age=0.43 
+98.44046        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=68.85,age=6.58 # vname=henry,range=1.31,age=0.42 # vname=julie,range=67.62,age=0.42 
+99.44211        CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=67.90,age=7.58 # vname=henry,range=1.40,age=0.42 # vname=julie,range=66.38,age=0.42 
+100.44371       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=66.95,age=8.58 # vname=henry,range=1.48,age=0.42 # vname=julie,range=65.14,age=0.42 
+101.44529       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=66.00,age=9.58 # vname=henry,range=1.59,age=0.42 # vname=julie,range=63.89,age=0.42 
+102.44734       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=65.06,age=10.58 # vname=henry,range=1.68,age=0.42 # vname=julie,range=62.62,age=0.42 
+103.44900       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=64.11,age=11.59 # vname=henry,range=1.76,age=0.43 # vname=julie,range=61.33,age=0.43 
+104.45076       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=63.17,age=12.59 # vname=henry,range=1.92,age=0.43 # vname=julie,range=60.01,age=0.43 
+105.45225       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=62.22,age=13.59 # vname=henry,range=2.09,age=0.43 # vname=julie,range=58.69,age=0.43 
+106.45391       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=61.28,age=14.59 # vname=henry,range=2.29,age=0.43 # vname=julie,range=57.34,age=0.43 
+107.45566       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=60.35,age=15.59 # vname=henry,range=2.49,age=0.43 # vname=julie,range=55.97,age=0.43 
+108.45737       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=59.41,age=16.59 # vname=henry,range=2.69,age=0.43 # vname=julie,range=54.59,age=0.43 
+109.45914       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=58.48,age=17.60 # vname=henry,range=2.89,age=0.44 # vname=julie,range=53.18,age=0.44 
+110.46040       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=57.73,age=18.60 # vname=henry,range=2.90,age=0.44 # vname=julie,range=51.96,age=0.44 
+111.46199       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=56.80,age=19.60 # vname=henry,range=3.11,age=0.44 # vname=julie,range=50.52,age=0.44 
+112.46403       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=55.87,age=20.60 # vname=henry,range=3.38,age=0.43 # vname=julie,range=49.06,age=0.43 
+113.46520       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=54.95,age=21.60 # vname=henry,range=3.66,age=0.43 # vname=julie,range=47.60,age=0.43 
+114.46725       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=54.03,age=22.60 # vname=henry,range=3.95,age=0.43 # vname=julie,range=46.11,age=0.43 
+115.46840       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=53.11,age=23.61 # vname=henry,range=4.23,age=0.44 # vname=julie,range=44.63,age=0.44 
+116.47048       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=52.19,age=24.61 # vname=henry,range=4.55,age=0.44 # vname=julie,range=43.12,age=0.44 
+117.47128       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=51.28,age=25.61 # vname=henry,range=4.87,age=0.44 # vname=julie,range=41.62,age=0.44 
+118.47295       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=50.37,age=26.61 # vname=henry,range=5.19,age=0.44 # vname=julie,range=40.11,age=0.44 
+119.47447       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=49.47,age=27.61 # vname=henry,range=5.51,age=0.44 # vname=julie,range=38.61,age=0.44 
+120.47599       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=48.57,age=28.61 # vname=henry,range=5.84,age=0.44 # vname=julie,range=37.10,age=0.44 
+121.47761       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=47.67,age=29.61 # vname=henry,range=6.17,age=0.44 # vname=julie,range=35.57,age=0.44 
+122.47936       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=33.95,age=0.32 # vname=henry,range=6.55,age=0.45 # vname=julie,range=34.00,age=0.45 
+123.48021       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=32.96,age=1.32 # vname=henry,range=6.91,age=0.45 # vname=julie,range=32.45,age=0.45 
+124.48112       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=31.97,age=2.32 # vname=henry,range=6.97,age=0.45 # vname=julie,range=30.86,age=0.45 
+125.48275       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=30.98,age=3.32 # vname=henry,range=7.02,age=0.44 # vname=julie,range=29.28,age=0.44 
+126.48521       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=29.99,age=4.32 # vname=henry,range=7.07,age=0.44 # vname=julie,range=27.67,age=0.44 
+127.48582       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=29.00,age=5.32 # vname=henry,range=7.11,age=0.44 # vname=julie,range=26.06,age=0.44 
+128.48778       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=28.02,age=6.33 # vname=henry,range=7.16,age=0.45 # vname=julie,range=24.43,age=0.45 
+129.48803       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=27.03,age=7.33 # vname=henry,range=7.21,age=0.45 # vname=julie,range=22.80,age=0.45 
+130.49087       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=26.05,age=8.33 # vname=henry,range=7.26,age=0.45 # vname=julie,range=21.17,age=0.45 
+131.49230       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=25.07,age=9.33 # vname=henry,range=7.31,age=0.45 # vname=julie,range=19.52,age=0.45 
+132.49394       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=24.09,age=10.33 # vname=henry,range=7.37,age=0.45 # vname=julie,range=17.88,age=0.45 
+133.49452       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=23.17,age=11.33 # vname=henry,range=7.36,age=0.45 # vname=julie,range=16.29,age=0.45 
+134.49577       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=22.49,age=12.33 # vname=henry,range=7.11,age=0.45 # vname=julie,range=14.95,age=0.45 
+135.49695       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=22.07,age=13.34 # vname=henry,range=6.60,age=0.46 # vname=julie,range=13.85,age=0.46 
+136.49816       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=21.87,age=14.34 # vname=henry,range=5.87,age=0.46 # vname=julie,range=13.00,age=0.46 
+137.49945       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=21.74,age=15.34 # vname=henry,range=5.08,age=0.46 # vname=julie,range=12.22,age=0.46 
+138.50149       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=21.37,age=16.34 # vname=henry,range=4.54,age=0.46 # vname=julie,range=11.36,age=0.46 
+139.50243       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=21.14,age=17.34 # vname=henry,range=3.87,age=0.45 # vname=julie,range=10.50,age=0.46 
+140.50223       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=21.00,age=18.34 # vname=henry,range=3.13,age=0.45 # vname=julie,range=9.75,age=0.46 
+141.50346       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=20.86,age=19.34 # vname=henry,range=2.43,age=0.45 # vname=julie,range=9.01,age=0.45 
+142.50600       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=20.72,age=20.34 # vname=henry,range=1.84,age=0.45 # vname=julie,range=8.28,age=0.45 
+143.50621       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=20.59,age=21.34 # vname=henry,range=1.47,age=0.45 # vname=julie,range=7.56,age=0.45 
+144.50747       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=20.45,age=22.35 # vname=henry,range=1.51,age=0.46 # vname=julie,range=6.85,age=0.46 
+145.50889       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=20.31,age=23.35 # vname=henry,range=1.93,age=0.46 # vname=julie,range=6.18,age=0.46 
+146.51013       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=20.14,age=24.35 # vname=henry,range=2.53,age=0.46 # vname=julie,range=5.54,age=0.46 
+147.51137       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=19.89,age=25.35 # vname=henry,range=3.13,age=0.46 # vname=julie,range=4.90,age=0.46 
+148.51282       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=19.53,age=26.35 # vname=henry,range=3.67,age=0.46 # vname=julie,range=4.29,age=0.46 
+149.51539       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=19.02,age=27.35 # vname=henry,range=4.08,age=0.46 # vname=julie,range=3.80,age=0.46 
+150.51679       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=18.28,age=28.35 # vname=henry,range=4.29,age=0.46 # vname=julie,range=3.60,age=0.46 
+151.51780       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=17.34,age=29.36 # vname=henry,range=4.33,age=0.47 # vname=julie,range=3.97,age=0.47 
+152.51862       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=16.39,age=30.36 # vname=henry,range=4.35,age=0.47 # vname=julie,range=4.88,age=0.47 
+153.52152       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=5.79,age=1.05 # vname=henry,range=4.38,age=0.46 # vname=julie,range=6.08,age=0.47 
+154.52228       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=6.49,age=2.05 # vname=henry,range=4.41,age=0.46 # vname=julie,range=7.41,age=0.47 
+155.52473       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=7.26,age=3.05 # vname=henry,range=4.43,age=0.46 # vname=julie,range=8.78,age=0.46 
+156.52617       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=8.08,age=4.05 # vname=henry,range=4.35,age=0.46 # vname=julie,range=10.19,age=0.46 
+157.52778       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=8.93,age=5.05 # vname=henry,range=4.25,age=0.46 # vname=julie,range=11.64,age=0.46 
+158.52922       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=9.80,age=6.06 # vname=henry,range=4.17,age=0.47 # vname=julie,range=13.10,age=0.47 
+159.53076       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=10.69,age=7.06 # vname=henry,range=4.09,age=0.47 # vname=julie,range=14.58,age=0.47 
+160.53230       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=11.59,age=8.06 # vname=henry,range=4.00,age=0.47 # vname=julie,range=16.06,age=0.47 
+161.53351       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=12.50,age=9.06 # vname=henry,range=3.92,age=0.47 # vname=julie,range=17.54,age=0.47 
+162.53526       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=13.43,age=10.06 # vname=henry,range=3.84,age=0.47 # vname=julie,range=19.02,age=0.47 
+163.53705       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=14.36,age=11.06 # vname=henry,range=3.75,age=0.47 # vname=julie,range=20.50,age=0.47 
+164.53868       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=15.30,age=12.07 # vname=henry,range=3.67,age=0.48 # vname=julie,range=21.98,age=0.48 
+165.54034       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=16.24,age=13.07 # vname=henry,range=3.58,age=0.48 # vname=julie,range=23.44,age=0.48 
+166.54189       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=17.19,age=14.07 # vname=henry,range=3.50,age=0.48 # vname=julie,range=24.90,age=0.48 
+167.54376       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=18.14,age=15.07 # vname=henry,range=3.42,age=0.47 # vname=julie,range=26.36,age=0.48 
+168.54540       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=19.10,age=16.07 # vname=henry,range=3.35,age=0.47 # vname=julie,range=27.81,age=0.48 
+169.54724       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=20.06,age=17.07 # vname=henry,range=3.27,age=0.47 # vname=julie,range=29.24,age=0.47 
+170.54916       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=21.02,age=18.08 # vname=henry,range=3.22,age=0.48 # vname=julie,range=30.67,age=0.48 
+171.55088       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=21.99,age=19.08 # vname=henry,range=3.17,age=0.48 # vname=julie,range=32.07,age=0.48 
+172.55255       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=22.97,age=20.08 # vname=henry,range=3.11,age=0.48 # vname=julie,range=33.46,age=0.48 
+173.55418       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=23.94,age=21.08 # vname=henry,range=3.05,age=0.48 # vname=julie,range=34.81,age=0.48 
+174.55604       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=24.92,age=22.08 # vname=henry,range=2.98,age=0.48 # vname=julie,range=36.15,age=0.48 
+175.55774       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=25.90,age=23.08 # vname=henry,range=2.92,age=0.48 # vname=julie,range=37.47,age=0.48 
+176.55915       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=26.88,age=24.09 # vname=henry,range=2.85,age=0.49 # vname=julie,range=38.79,age=0.49 
+177.56104       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=27.86,age=25.09 # vname=henry,range=2.79,age=0.49 # vname=julie,range=40.11,age=0.49 
+178.56254       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=28.85,age=26.09 # vname=henry,range=2.72,age=0.49 # vname=julie,range=41.41,age=0.49 
+179.56310       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=29.84,age=27.09 # vname=henry,range=2.65,age=0.49 # vname=julie,range=42.71,age=0.49 
+180.56409       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=30.84,age=28.09 # vname=henry,range=2.58,age=0.49 # vname=julie,range=43.98,age=0.49 
+181.56500       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=31.84,age=29.09 # vname=henry,range=2.52,age=0.49 # vname=julie,range=45.26,age=0.49 
+182.56604       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=32.84,age=30.09 # vname=henry,range=2.46,age=0.49 # vname=julie,range=46.51,age=0.49 
+183.56769       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=47.68,age=0.79 # vname=henry,range=2.40,age=0.48 # vname=julie,range=47.74,age=0.48 
+184.56899       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=48.61,age=1.80 # vname=henry,range=2.34,age=0.49 # vname=julie,range=48.96,age=0.49 
+185.56917       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=49.55,age=2.80 # vname=henry,range=2.29,age=0.49 # vname=julie,range=50.16,age=0.49 
+186.57068       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=50.49,age=3.80 # vname=henry,range=2.25,age=0.49 # vname=julie,range=51.33,age=0.49 
+187.57232       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=51.43,age=4.80 # vname=henry,range=2.20,age=0.49 # vname=julie,range=52.50,age=0.49 
+188.57401       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=52.37,age=5.80 # vname=henry,range=2.16,age=0.49 # vname=julie,range=53.63,age=0.49 
+189.57573       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=53.31,age=6.80 # vname=henry,range=2.12,age=0.49 # vname=julie,range=54.74,age=0.49 
+190.57638       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=54.25,age=7.80 # vname=henry,range=2.09,age=0.49 # vname=julie,range=55.83,age=0.49 
+191.57894       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=55.19,age=8.81 # vname=henry,range=2.05,age=0.50 # vname=julie,range=56.89,age=0.50 
+192.58078       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=56.13,age=9.81 # vname=henry,range=2.03,age=0.50 # vname=julie,range=57.93,age=0.50 
+193.58255       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=57.07,age=10.81 # vname=henry,range=2.00,age=0.50 # vname=julie,range=58.95,age=0.50 
+194.58427       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=58.02,age=11.81 # vname=henry,range=1.97,age=0.50 # vname=julie,range=59.95,age=0.50 
+195.58478       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=58.97,age=12.81 # vname=henry,range=1.95,age=0.50 # vname=julie,range=60.93,age=0.50 
+196.58604       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=59.92,age=13.81 # vname=henry,range=1.92,age=0.50 # vname=julie,range=61.88,age=0.50 
+197.58734       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=60.87,age=14.82 # vname=henry,range=1.89,age=0.51 # vname=julie,range=62.83,age=0.51 
+198.58996       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=61.82,age=15.82 # vname=henry,range=1.88,age=0.51 # vname=julie,range=63.74,age=0.51 
+199.59153       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=62.77,age=16.82 # vname=henry,range=1.85,age=0.50 # vname=julie,range=64.64,age=0.50 
+200.59305       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=63.73,age=17.82 # vname=henry,range=1.84,age=0.50 # vname=julie,range=65.52,age=0.50 
+201.59447       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=64.69,age=18.82 # vname=henry,range=1.82,age=0.50 # vname=julie,range=66.37,age=0.50 
+202.59607       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=65.65,age=19.82 # vname=henry,range=1.81,age=0.50 # vname=julie,range=67.21,age=0.50 
+203.59756       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=66.60,age=20.82 # vname=henry,range=1.81,age=0.50 # vname=julie,range=68.01,age=0.50 
+204.59923       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=67.55,age=21.83 # vname=henry,range=1.81,age=0.51 # vname=julie,range=68.79,age=0.51 
+205.60080       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=68.51,age=22.83 # vname=henry,range=1.81,age=0.51 # vname=julie,range=69.55,age=0.51 
+206.60245       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=69.46,age=23.83 # vname=henry,range=1.63,age=0.51 # vname=julie,range=70.29,age=0.51 
+207.60409       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=70.42,age=24.83 # vname=henry,range=1.63,age=0.51 # vname=julie,range=71.01,age=0.51 
+208.60593       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=71.38,age=25.83 # vname=henry,range=1.62,age=0.51 # vname=julie,range=71.71,age=0.51 
+209.60780       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=72.33,age=26.83 # vname=henry,range=1.61,age=0.51 # vname=julie,range=72.41,age=0.51 
+210.60971       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=73.30,age=27.84 # vname=henry,range=1.61,age=0.52 # vname=julie,range=73.08,age=0.52 
+211.61113       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=74.26,age=28.84 # vname=henry,range=1.60,age=0.52 # vname=julie,range=73.73,age=0.52 
+212.61328       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=75.22,age=29.84 # vname=henry,range=1.59,age=0.52 # vname=julie,range=74.35,age=0.52 
+213.61416       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=75.02,age=0.54 # vname=henry,range=1.57,age=0.52 # vname=julie,range=74.97,age=0.52 
+214.61530       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=75.90,age=1.54 # vname=henry,range=1.56,age=0.51 # vname=julie,range=75.55,age=0.51 
+215.61665       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=76.79,age=2.54 # vname=henry,range=1.55,age=0.51 # vname=julie,range=76.12,age=0.51 
+216.61809       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=77.68,age=3.55 # vname=henry,range=1.54,age=0.52 # vname=julie,range=76.66,age=0.52 
+217.61839       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=78.57,age=4.55 # vname=henry,range=1.54,age=0.52 # vname=julie,range=77.19,age=0.52 
+218.62001       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=79.46,age=5.55 # vname=henry,range=1.53,age=0.52 # vname=julie,range=77.69,age=0.52 
+219.62138       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=80.36,age=6.55 # vname=henry,range=1.51,age=0.52 # vname=julie,range=78.18,age=0.52 
+220.62306       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=81.26,age=7.55 # vname=henry,range=1.49,age=0.52 # vname=julie,range=78.64,age=0.52 
+221.62445       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=82.16,age=8.55 # vname=henry,range=1.48,age=0.52 # vname=julie,range=79.09,age=0.52 
+222.62722       CONTACTS_RECAP       pContactMgrV20  vname=gilda,range=83.07,age=9.55 # vname=henry,range=1.46,age=0.52 # vname=julie,range=79.52,age=0.52 

@@ -32,7 +32,12 @@ set MODE = TRAVELLING {
   RETURN = false
 }   
 
+#ifdef VNAME henry || VNAME brian 
 initialize MODE = TRAVELLING
+#else
+initialize MODE = TRAVELLING
+initialize   LOITER  = false
+#endif
 
 //----------------------------------------------
 Behavior = BHV_Loiter
@@ -48,14 +53,15 @@ Behavior = BHV_Loiter
 	
    post_suffix = A
          speed = 1.0
-     clockwise = false
+     clockwise = true
         radius = 8.0
      //nm_radius = 15.0
      nm_radius = 15.0
-       polygon = radial:: $(LOITER_POS), radius=40, pts=16, snap=1, label=$(VNAME)_LOITER
+       polygon = radial:: x=0, y= -40 , radius=15, pts=10, snap=1, label=$(VNAME)_LOITER
   visual_hints = nextpt_color=white, nextpt_lcolor=khaki
   visual_hints = edge_color=orange, vertex_color=white
   visual_hints = edge_size=1, vertex_size=2
+  
 }
 
 //----------------------------------------------
@@ -71,11 +77,23 @@ Behavior = BHV_AvdColregsV19
 
              contact = to-be-set
     on_no_contact_ok = true
+    #ifdef VNAME henry
          extrapolate = false
+         ignore_name = brian
+         ignore_name = julie
+      #elseifdef VNAME brian
+         
+          extrapolate = true
+         ignore_name = julie
+         ignore_name = henry
+         //ignore_name = gilda
+         //match_name = julie
+         //match_name = gilda 
+         #endif
+         
                decay = 30,60
 
-	       //match_group = alpha
-        //  match_type = mokai
+	
 
 	exit_on_filter_group = true
 	
@@ -108,7 +126,7 @@ Behavior = BHV_Waypoint
      radius = 3.0
   nm_radius = 15.0
   
-  #ifdef VNAME henry
+  #ifdef VNAME henry || VNAME brian 
      points = 0,0
      
     #else
@@ -132,13 +150,13 @@ Behavior = BHV_Waypoint
      radius = 3.0
   nm_radius = 15.0
   
-  #ifdef VNAME henry
-     points = 40,-40 : -40,-40
+  #ifdef VNAME henry || VNAME brian 
+     points = -80,-60 : 120,-40
      
     #else
-    points =  -40,-40 : 80,-40
+    points =  120,-40 :-80,-60
     #endif
-     repeat = 10
+     //repeat = 10
        lead = 8
       
 }

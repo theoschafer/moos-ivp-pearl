@@ -14,11 +14,13 @@ Processconfig = ANTLER
   MSBetweenLaunches = 50
   
   
-    #ifdef VNAME henry
+    
     
   Run = MOOSDB         @ NewConsole = false
   Run = uProcessWatch  @ NewConsole = false
   Run = pShare         @ NewConsole = false
+  Run = pOdometry	@ NewConsole = false
+  Run = pTargetCPA         @ NewConsole = false
   Run = uSimMarineV22  @ NewConsole = false
   Run = pLogger        @ NewConsole = false
   Run = pNodeReporter  @ NewConsole = false
@@ -29,30 +31,32 @@ Processconfig = ANTLER
   Run = uLoadWatch     @ NewConsole = false
   Run = uMemWatch      @ NewConsole = false
   Run = iSay           @ NewConsole = false
-  Run = pContactMgrV20 @ NewConsole = false
+  #ifdef VNAME henry
+  //Run = IMM_filterpy_Bu_imm.py @ NewConsole = false
+  #endif
+  #ifdef VNAME henry || VNAME brian 
+  Run = pContactMgrV20 @ NewConsole = false 
+  #else
+  #endif
   Run = pRealm         @ NewConsole = false
   Run = uXMS           @ NewConsole = false    
 
-#else
-  Run = MOOSDB         @ NewConsole = false
-  Run = uProcessWatch  @ NewConsole = false
-  Run = pShare         @ NewConsole = false
-  Run = uSimMarineV22  @ NewConsole = false
-  Run = pLogger        @ NewConsole = false
-  Run = pNodeReporter  @ NewConsole = false
-  Run = pMarinePID     @ NewConsole = false
-  Run = pHelmIvP       @ NewConsole = false
-  Run = pHostInfo      @ NewConsole = false
-  Run = uFldNodeBroker @ NewConsole = false
-  Run = uLoadWatch     @ NewConsole = false
-  Run = uMemWatch      @ NewConsole = false
-  Run = iSay           @ NewConsole = false
-  //Run = pContactMgrV20 @ NewConsole = false
-  Run = pRealm         @ NewConsole = false
-  Run = uXMS           @ NewConsole = false
-#endif
+
    
 
+}
+
+
+ProcessConfig = pOdometry
+{
+  AppTick    = 2
+  CommsTick  = 2	
+}
+
+ProcessConfig = pTargetCPA
+{
+  AppTick    = 2
+  CommsTick  = 2	
 }
 
 //---------------------------------------------------------
@@ -103,12 +107,13 @@ ProcessConfig = pHelmIvP
 ProcessConfig = pNodeReporter
 {
 
-#ifdef VNAME henry
+#ifdef VNAME henry || VNAME julie || VNAME brian
   AppTick     = 2
   CommsTick   = 2
+
 #else
-  AppTick     = 0.33
-  CommsTick   = 0.33
+  AppTick     = 0.033
+  CommsTick   = 0.033
 #endif
   
 

@@ -81,13 +81,14 @@ Behavior = BHV_AvdColregsV19
          extrapolate = false
          ignore_name = brian
          ignore_name = julie
-      #else
+      #elseifdef VNAME brian
          
           extrapolate = true
-         //ignore_name = brian
-         //ignore_name = julie
+         ignore_name = julie
          ignore_name = henry
-         ignore_name = gilda
+         //ignore_name = gilda
+         //match_name = julie
+         //match_name = gilda 
          #endif
          
                decay = 30,60

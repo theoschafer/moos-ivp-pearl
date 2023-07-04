@@ -1,0 +1,44 @@
+11.21012        VIEW_POINT           pHelmIvP:1:loiter x=0,y=0,active=false,label=brian_waypoint 
+11.21012        VIEW_POLYGON         pHelmIvP:1:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+11.21018        VIEW_SEGLIST         pHelmIvP:1:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+11.21019        VIEW_POINT           pHelmIvP:1:travel x=-70,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+11.21019        VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=brian's track-point 
+11.21012        VIEW_POLYGON         pHelmIvP:1:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+11.21018        VIEW_SEGLIST         pHelmIvP:1:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+11.21019        VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=brian's track-point 
+11.21012        VIEW_POLYGON         pHelmIvP:1:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+11.21018        VIEW_SEGLIST         pHelmIvP:1:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+11.21019        VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=brian's track-point 
+59.79066        VIEW_POINT           pHelmIvP:195:loiter x=0,y=0,active=false,label=brian_waypoint 
+59.79067        VIEW_POLYGON         pHelmIvP:195:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+59.79078        VIEW_SEGLIST         pHelmIvP:195:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+59.79079        VIEW_POINT           pHelmIvP:195:travel x=-70,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+59.79080        VIEW_POINT           pHelmIvP:195:travel x=0,y=0,active=false,label=brian's track-point 
+78.58343        VIEW_POINT           pHelmIvP:270:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+81.08837        VIEW_SEGLIST         pHelmIvP:280:avdcol_gilda active=false 
+59.79067        VIEW_POLYGON         pHelmIvP:195:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+78.58343        VIEW_POINT           pHelmIvP:270:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+81.08837        VIEW_SEGLIST         pHelmIvP:280:avdcol_gilda active=false 
+89.85537        VIEW_POINT           pHelmIvP:315:loiter x=0,y=0,active=false,label=brian_waypoint 
+89.85537        VIEW_POLYGON         pHelmIvP:315:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+89.85545        VIEW_SEGLIST         pHelmIvP:315:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+89.85545        VIEW_POINT           pHelmIvP:315:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+89.85546        VIEW_POINT           pHelmIvP:315:travel x=0,y=0,active=false,label=brian's track-point 
+120.17731       VIEW_POINT           pHelmIvP:436:loiter x=0,y=0,active=false,label=brian_waypoint 
+120.17732       VIEW_POLYGON         pHelmIvP:436:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+120.17741       VIEW_SEGLIST         pHelmIvP:436:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+120.17742       VIEW_POINT           pHelmIvP:436:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+120.17743       VIEW_POINT           pHelmIvP:436:travel x=0,y=0,active=false,label=brian's track-point 
+120.17732       VIEW_POLYGON         pHelmIvP:436:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+120.17741       VIEW_SEGLIST         pHelmIvP:436:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+120.17743       VIEW_POINT           pHelmIvP:436:travel x=0,y=0,active=false,label=brian's track-point 
+150.73208       VIEW_POINT           pHelmIvP:558:loiter x=0,y=0,active=false,label=brian_waypoint 
+150.73209       VIEW_POLYGON         pHelmIvP:558:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+150.73217       VIEW_SEGLIST         pHelmIvP:558:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+150.73218       VIEW_POINT           pHelmIvP:558:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+150.73219       VIEW_POINT           pHelmIvP:558:travel x=0,y=0,active=false,label=brian's track-point 
+180.77750       VIEW_POINT           pHelmIvP:678:loiter x=0,y=0,active=false,label=brian_waypoint 
+180.77750       VIEW_POLYGON         pHelmIvP:678:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+180.77753       VIEW_SEGLIST         pHelmIvP:678:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+180.77753       VIEW_POINT           pHelmIvP:678:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+180.77754       VIEW_POINT           pHelmIvP:678:travel x=0,y=0,active=false,label=brian's track-point 

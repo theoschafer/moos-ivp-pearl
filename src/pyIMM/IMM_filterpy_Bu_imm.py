@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+
+# for pearl_heron giveway headon circle, works well with sigma pos = 0.5, v=0.01, theta=0
+# h=5, nb_pred_step = 11, # for i in range(5, nb_prediction_steps-1):
+# need to define the values of h, nb_pred_steps, noise, for
+# -KF prediction error estimation
+# -avoidance in situ pearl_heron
+# -avoidance in simulation with julie gilda henry brian
+# CV: R=I*1000 , Q= I*1
+# CT: R=I*1 , Q= I*1000
+
 import pymoos 
 import math
 import numpy as np
@@ -59,8 +69,8 @@ class VesselTracker:
         #         ]))
         # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
         sigma_pos = 0.5
-        sigma_speed = 0.2
-        sigma_theta = 6 #degrees
+        sigma_speed = 0.01
+        sigma_theta = 0 #degrees
         self.vessels[name].append(np.array([
                 [x+np.random.normal(0, sigma_pos)], 
                 [y+np.random.normal(0, sigma_pos)],
@@ -95,8 +105,8 @@ class VesselTracker:
         
         # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
         sigma_pos = 0.5
-        sigma_speed = 0.2
-        sigma_theta = 6 #degrees
+        sigma_speed = 0.01
+        sigma_theta = 0 #degrees
         self.vessels_for_filterpy[name].append(np.array([
                 [x+np.random.normal(0, sigma_pos)], 
                 [y+np.random.normal(0, sigma_pos)],
@@ -128,7 +138,7 @@ class pongMOOS(pymoos.comms):
 
     tracker = VesselTracker()
     
-    h= 5 #for the IMM
+    h= 10 #for the IMM
     
     def __init__(self, moos_community, moos_port):
         """Initiates MOOSComms, sets the callbacks and runs the loop"""
@@ -219,7 +229,7 @@ class pongMOOS(pymoos.comms):
 
         for name in self.tracker.vessels:
 
-            if name == "abe" : #only generate prediction points for abe, not for other vessels
+            if name == "gilda" : #only generate prediction points for abe, not for other vessels
 
                 z_from_AIS = self.tracker.get_vessel_data(name) ## Data in x,y,speed, theta format
                 time_stamps = self.tracker.get_time_stamps(name)
@@ -285,7 +295,7 @@ class pongMOOS(pymoos.comms):
 
                 
 
-                    h= 5 ## maybe modify this with the black out period of the AIS and pNodeReport
+                    h= 10 ## maybe modify this with the black out period of the AIS and pNodeReport
                     size = len(z_from_AIS)
                     nb_values_averaged = 3
                     average_dtheta = 0
@@ -336,7 +346,7 @@ class pongMOOS(pymoos.comms):
                 ## If enough data and not corrupted heading data, do the IMM filter:
 
                     
-                    h= 5 
+                    h= 10 
                     z_noise = self.tracker.get_vessel_data_for_filterpy(name)
                     z_no_noise = self.tracker.get_vessel_data_no_noise(name)
 
@@ -515,7 +525,7 @@ class pongMOOS(pymoos.comms):
                         for row in data:
                             writer.writerow(row)
                     
-                    nb_prediction_steps = 15
+                    nb_prediction_steps = 7
                     for i in range (1, nb_prediction_steps):
                         imm.predict(u[-1].reshape((2, 1)))
                         X_s.append(imm.x.copy())
@@ -550,7 +560,7 @@ class pongMOOS(pymoos.comms):
                     ## View the kf_ct predicted trajectory
                     seglist_string = 'pts={'
                     
-                    for i in range(5, nb_prediction_steps-1):
+                    for i in range(2, nb_prediction_steps-1):
                         seglist_string += str(xp[i][0]) + ',' + str(yp[i][0]) + ':' #here we select the last list of predictions and we print all the points
                         self.notify("NODE_REPORT", f"X={xp[i][0]},Y={yp[i][0]},SPD={math.sqrt(vxp[i][0]**2+vyp[i][0]**2)},HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592},NAME=prediction{name}_{i},TIME={time.time()}",-1)
                         #print("HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592}")
@@ -570,7 +580,7 @@ def main():
     
     ##self.notify('MAIN_CALLED', 1, -1)
 
-    ponger1 = pongMOOS('localhost', 9002)
+    ponger1 = pongMOOS('localhost', 9001)
     
 
     while True:

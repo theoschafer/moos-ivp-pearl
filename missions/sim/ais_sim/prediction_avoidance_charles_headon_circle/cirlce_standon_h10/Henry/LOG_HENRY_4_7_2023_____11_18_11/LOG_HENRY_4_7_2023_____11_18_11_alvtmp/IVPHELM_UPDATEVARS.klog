@@ -1,0 +1,7 @@
+8.91165         IVPHELM_UPDATEVARS   pHelmIvP        loiter=UP_LOITER,waypt_return=RETURN_UPDATES 
+8.91165         IVPHELM_UPDATEVARS   pHelmIvP        loiter=UP_LOITER,waypt_return=RETURN_UPDATES 
+8.91165         IVPHELM_UPDATEVARS   pHelmIvP        loiter=UP_LOITER,waypt_return=RETURN_UPDATES 
+80.03590        IVPHELM_UPDATEVARS   pHelmIvP        avdcol_gilda=CONTACT_INFO,loiter=UP_LOITER,waypt_return=RETURN_UPDATES 
+80.03590        IVPHELM_UPDATEVARS   pHelmIvP        avdcol_gilda=CONTACT_INFO,loiter=UP_LOITER,waypt_return=RETURN_UPDATES 
+93.57947        IVPHELM_UPDATEVARS   pHelmIvP        avdcol_gilda=CONTACT_INFO,avdcol_predictiongilda_2=CONTACT_INFO,avdcol_predictiongilda_3=CONTACT_INFO,avdcol_predictiongilda_4=CONTACT_INFO,avdcol_predictiongilda_5=CONTACT_INFO,loiter=UP_LOITER,waypt_return=RETURN_UPDATES 
+93.57947        IVPHELM_UPDATEVARS   pHelmIvP        avdcol_gilda=CONTACT_INFO,avdcol_predictiongilda_2=CONTACT_INFO,avdcol_predictiongilda_3=CONTACT_INFO,avdcol_predictiongilda_4=CONTACT_INFO,avdcol_predictiongilda_5=CONTACT_INFO,loiter=UP_LOITER,waypt_return=RETURN_UPDATES 

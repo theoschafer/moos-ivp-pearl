@@ -1,0 +1,26 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./LOG_BRIAN_4_7_2023_____10_47_25/LOG_BRIAN_4_7_2023_____10_47_25.ylog
+%% FILE OPENED ON  Wed Dec 31 19:00:00 1969
+%% LOGSTART           1688482044.942566
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1.053271   MOOS_DEBUG           pMarinePID           ** NEW CONTROLLER GAINS ARE ** 
+1.053275   MOOS_DEBUG           pMarinePID           YAW_PID_KP             = 1.200 
+1.053277   MOOS_DEBUG           pMarinePID           YAW_PID_KD             = 0.100 
+1.053278   MOOS_DEBUG           pMarinePID           YAW_PID_KI             = 0.300 
+1.05328    MOOS_DEBUG           pMarinePID           YAW_PID_INTEGRAL_LIMIT = 0.070 
+1.053282   MOOS_DEBUG           pMarinePID           MAXRUDDER              = 100.000 
+1.053678   MOOS_DEBUG           pMarinePID           SPEED_PID_KP           = 1.000 
+1.053681   MOOS_DEBUG           pMarinePID           SPEED_PID_KD           = 0.000 
+1.053682   MOOS_DEBUG           pMarinePID           SPEED_PID_KI           = 0.000 
+1.053684   MOOS_DEBUG           pMarinePID           SPEED_PID_INTEGRAL_LIMIT = 0.070 
+1.053686   MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+1.153928   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+1.153928   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+1.404667   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+1.404667   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+3.406026   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
+3.457094   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+3.457094   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+3.457094   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+3.457094   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+3.457094   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 

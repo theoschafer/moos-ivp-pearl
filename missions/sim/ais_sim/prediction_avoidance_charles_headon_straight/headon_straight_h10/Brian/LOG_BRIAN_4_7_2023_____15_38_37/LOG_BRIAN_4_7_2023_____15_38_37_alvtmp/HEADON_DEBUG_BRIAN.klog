@@ -1,0 +1,5 @@
+93.09803        HEADON_DEBUG_BRIAN   pHelmIvP:359:avdcol_gilda contact=GILDA,entered head-on mode 
+127.42052       HEADON_DEBUG_BRIAN   pHelmIvP:496:avdcol_gilda contact=GILDA,release due to opening range 
+127.67166       HEADON_DEBUG_BRIAN   pHelmIvP:497:avdcol_gilda contact=GILDA,not entered due to rel bearing 
+150.47049       HEADON_DEBUG_BRIAN   pHelmIvP:588:avdcol_gilda contact=GILDA,not entered due to rel bearing 
+180.77367       HEADON_DEBUG_BRIAN   pHelmIvP:709:avdcol_gilda contact=GILDA,not entered due to rel bearing 

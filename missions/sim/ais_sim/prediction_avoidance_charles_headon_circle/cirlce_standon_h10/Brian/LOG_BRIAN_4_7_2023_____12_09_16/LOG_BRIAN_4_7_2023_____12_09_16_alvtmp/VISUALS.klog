@@ -1,0 +1,47 @@
+9.91221         VIEW_POINT           pHelmIvP:1:loiter x=0,y=0,active=false,label=brian_waypoint 
+9.91222         VIEW_POLYGON         pHelmIvP:1:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+9.91228         VIEW_SEGLIST         pHelmIvP:1:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+9.91228         VIEW_POINT           pHelmIvP:1:travel x=-70,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+9.91228         VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=brian's track-point 
+9.91222         VIEW_POLYGON         pHelmIvP:1:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+9.91228         VIEW_SEGLIST         pHelmIvP:1:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+9.91228         VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=brian's track-point 
+9.91222         VIEW_POLYGON         pHelmIvP:1:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+9.91228         VIEW_SEGLIST         pHelmIvP:1:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+9.91228         VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=brian's track-point 
+9.91222         VIEW_POLYGON         pHelmIvP:1:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+9.91228         VIEW_SEGLIST         pHelmIvP:1:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+9.91228         VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=brian's track-point 
+59.73517        VIEW_POINT           pHelmIvP:200:loiter x=0,y=0,active=false,label=brian_waypoint 
+59.73518        VIEW_POLYGON         pHelmIvP:200:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+59.73531        VIEW_SEGLIST         pHelmIvP:200:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+59.73532        VIEW_POINT           pHelmIvP:200:travel x=-70,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+59.73532        VIEW_POINT           pHelmIvP:200:travel x=0,y=0,active=false,label=brian's track-point 
+77.26514        VIEW_POINT           pHelmIvP:270:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+59.73518        VIEW_POLYGON         pHelmIvP:200:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+77.26514        VIEW_POINT           pHelmIvP:270:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+80.52170        VIEW_SEGLIST         pHelmIvP:283:avdcol_gilda active=false 
+80.52170        VIEW_SEGLIST         pHelmIvP:283:avdcol_gilda active=false 
+59.73518        VIEW_POLYGON         pHelmIvP:200:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+77.26514        VIEW_POINT           pHelmIvP:270:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+80.52170        VIEW_SEGLIST         pHelmIvP:283:avdcol_gilda active=false 
+89.78967        VIEW_POINT           pHelmIvP:320:loiter x=0,y=0,active=false,label=brian_waypoint 
+89.78968        VIEW_POLYGON         pHelmIvP:320:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+89.78980        VIEW_SEGLIST         pHelmIvP:320:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+89.78980        VIEW_POINT           pHelmIvP:320:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+89.78981        VIEW_POINT           pHelmIvP:320:travel x=0,y=0,active=false,label=brian's track-point 
+120.08989       VIEW_POINT           pHelmIvP:441:loiter x=0,y=0,active=false,label=brian_waypoint 
+120.08990       VIEW_POLYGON         pHelmIvP:441:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+120.08998       VIEW_SEGLIST         pHelmIvP:441:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+120.08998       VIEW_POINT           pHelmIvP:441:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+120.08999       VIEW_POINT           pHelmIvP:441:travel x=0,y=0,active=false,label=brian's track-point 
+150.39644       VIEW_POINT           pHelmIvP:562:loiter x=0,y=0,active=false,label=brian_waypoint 
+150.39644       VIEW_POLYGON         pHelmIvP:562:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+150.39652       VIEW_SEGLIST         pHelmIvP:562:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+150.39652       VIEW_POINT           pHelmIvP:562:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+150.39653       VIEW_POINT           pHelmIvP:562:travel x=0,y=0,active=false,label=brian's track-point 
+180.70129       VIEW_POINT           pHelmIvP:683:loiter x=0,y=0,active=false,label=brian_waypoint 
+180.70130       VIEW_POLYGON         pHelmIvP:683:loiter pts={5,-26:12,-31:15,-40:12,-49:5,-54:-5,-54:-12,-49:-15,-40:-12,-31:-5,-26},active=false,label=brian_loiter 
+180.70138       VIEW_SEGLIST         pHelmIvP:683:travel pts={-70,-60:80,-60},label=brian_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+180.70138       VIEW_POINT           pHelmIvP:683:travel x=80,y=-60,active=true,label=brian's next waypoint,label_color=aqua,vertex_size=5 
+180.70139       VIEW_POINT           pHelmIvP:683:travel x=0,y=0,active=false,label=brian's track-point 
