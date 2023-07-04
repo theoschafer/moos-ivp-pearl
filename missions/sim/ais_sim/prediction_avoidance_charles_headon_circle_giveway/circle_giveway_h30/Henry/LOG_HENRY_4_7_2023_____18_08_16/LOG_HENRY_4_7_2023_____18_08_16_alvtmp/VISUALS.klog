@@ -1,0 +1,1324 @@
+4.20262         VIEW_POINT           pHelmIvP:1:loiter x=0,y=0,active=false,label=henry_waypoint 
+4.20263         VIEW_POLYGON         pHelmIvP:1:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+4.20268         VIEW_SEGLIST         pHelmIvP:1:travel pts={80,-58:-80,-58},label=henry_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+4.20269         VIEW_POINT           pHelmIvP:1:travel x=80,y=-58,active=true,label=henry's next waypoint,label_color=aqua,vertex_size=5 
+4.20269         VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=henry's track-point 
+4.20263         VIEW_POLYGON         pHelmIvP:1:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+4.20268         VIEW_SEGLIST         pHelmIvP:1:travel pts={80,-58:-80,-58},label=henry_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+4.20269         VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=henry's track-point 
+4.20263         VIEW_POLYGON         pHelmIvP:1:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+4.20268         VIEW_SEGLIST         pHelmIvP:1:travel pts={80,-58:-80,-58},label=henry_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+4.20269         VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=henry's track-point 
+4.20263         VIEW_POLYGON         pHelmIvP:1:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+4.20268         VIEW_SEGLIST         pHelmIvP:1:travel pts={80,-58:-80,-58},label=henry_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+4.20269         VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=henry's track-point 
+4.20263         VIEW_POLYGON         pHelmIvP:1:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+4.20268         VIEW_SEGLIST         pHelmIvP:1:travel pts={80,-58:-80,-58},label=henry_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+4.20269         VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=henry's track-point 
+4.20263         VIEW_POLYGON         pHelmIvP:1:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+4.20268         VIEW_SEGLIST         pHelmIvP:1:travel pts={80,-58:-80,-58},label=henry_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+4.20269         VIEW_POINT           pHelmIvP:1:travel x=0,y=0,active=false,label=henry's track-point 
+32.33672        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+33.33819        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+34.33979        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+35.34126        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+36.34275        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+37.34375        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+38.34536        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+39.34697        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+40.34763        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+41.34914        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+41.51748        VIEW_POINT           pHelmIvP:150:travel x=-80,y=-58,active=true,label=henry's next waypoint,label_color=aqua,vertex_size=5 
+42.35118        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+43.35274        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+44.35416        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+45.35552        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+46.35663        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+46.52752        VIEW_SEGLIST         pHelmIvP:170:avdcol_gilda pts={77.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+4.20263         VIEW_POLYGON         pHelmIvP:1:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+41.51748        VIEW_POINT           pHelmIvP:150:travel x=-80,y=-58,active=true,label=henry's next waypoint,label_color=aqua,vertex_size=5 
+46.77619        VIEW_SEGLIST         pHelmIvP:171:avdcol_gilda pts={77.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+46.77619        VIEW_SEGLIST         pHelmIvP:171:avdcol_gilda pts={77.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+47.02671        VIEW_SEGLIST         pHelmIvP:172:avdcol_gilda pts={77.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+47.27737        VIEW_SEGLIST         pHelmIvP:173:avdcol_gilda pts={77.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+47.35811        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+47.52829        VIEW_SEGLIST         pHelmIvP:174:avdcol_gilda pts={76.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+47.77854        VIEW_SEGLIST         pHelmIvP:175:avdcol_gilda pts={76.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+48.02919        VIEW_SEGLIST         pHelmIvP:176:avdcol_gilda pts={76.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+48.27989        VIEW_SEGLIST         pHelmIvP:177:avdcol_gilda pts={76.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+48.35964        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+48.53057        VIEW_SEGLIST         pHelmIvP:178:avdcol_gilda pts={75.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+48.78101        VIEW_SEGLIST         pHelmIvP:179:avdcol_gilda pts={75.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+49.03150        VIEW_SEGLIST         pHelmIvP:180:avdcol_gilda pts={75.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+49.28188        VIEW_SEGLIST         pHelmIvP:181:avdcol_gilda pts={75.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+49.36105        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+49.53229        VIEW_SEGLIST         pHelmIvP:182:avdcol_gilda pts={74.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+49.78248        VIEW_SEGLIST         pHelmIvP:183:avdcol_gilda pts={74.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+50.03274        VIEW_SEGLIST         pHelmIvP:184:avdcol_gilda pts={74.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+50.28307        VIEW_SEGLIST         pHelmIvP:185:avdcol_gilda pts={74.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+50.36260        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+50.53342        VIEW_SEGLIST         pHelmIvP:186:avdcol_gilda pts={73.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+50.78376        VIEW_SEGLIST         pHelmIvP:187:avdcol_gilda pts={73.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+51.03413        VIEW_SEGLIST         pHelmIvP:188:avdcol_gilda pts={73.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+51.28444        VIEW_SEGLIST         pHelmIvP:189:avdcol_gilda pts={73.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+51.36370        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+51.53486        VIEW_SEGLIST         pHelmIvP:190:avdcol_gilda pts={72.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+51.78527        VIEW_SEGLIST         pHelmIvP:191:avdcol_gilda pts={72.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+52.03554        VIEW_SEGLIST         pHelmIvP:192:avdcol_gilda pts={72.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+52.28610        VIEW_SEGLIST         pHelmIvP:193:avdcol_gilda pts={72.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+52.36513        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+52.53663        VIEW_SEGLIST         pHelmIvP:194:avdcol_gilda pts={71.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+52.78679        VIEW_SEGLIST         pHelmIvP:195:avdcol_gilda pts={71.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+53.03710        VIEW_SEGLIST         pHelmIvP:196:avdcol_gilda pts={71.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+53.28744        VIEW_SEGLIST         pHelmIvP:197:avdcol_gilda pts={71.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+53.36634        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+53.53808        VIEW_SEGLIST         pHelmIvP:198:avdcol_gilda pts={70.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+53.78850        VIEW_SEGLIST         pHelmIvP:199:avdcol_gilda pts={70.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+54.03878        VIEW_SEGLIST         pHelmIvP:200:avdcol_gilda pts={70.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+54.28926        VIEW_SEGLIST         pHelmIvP:201:avdcol_gilda pts={70.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+54.36758        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+54.53972        VIEW_SEGLIST         pHelmIvP:202:avdcol_gilda pts={69.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+54.79006        VIEW_SEGLIST         pHelmIvP:203:avdcol_gilda pts={69.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+55.04072        VIEW_SEGLIST         pHelmIvP:204:avdcol_gilda pts={69.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+55.29097        VIEW_SEGLIST         pHelmIvP:205:avdcol_gilda pts={69.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+55.36904        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+55.54160        VIEW_SEGLIST         pHelmIvP:206:avdcol_gilda pts={68.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+55.79147        VIEW_SEGLIST         pHelmIvP:207:avdcol_gilda pts={68.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+56.04303        VIEW_SEGLIST         pHelmIvP:208:avdcol_gilda pts={68.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+56.29342        VIEW_SEGLIST         pHelmIvP:209:avdcol_gilda pts={68.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+56.37058        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+56.54389        VIEW_SEGLIST         pHelmIvP:210:avdcol_gilda pts={67.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+56.79445        VIEW_SEGLIST         pHelmIvP:211:avdcol_gilda pts={67.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+57.04275        VIEW_SEGLIST         pHelmIvP:212:avdcol_gilda pts={67.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+57.29488        VIEW_SEGLIST         pHelmIvP:213:avdcol_gilda pts={67.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+57.37169        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+57.54564        VIEW_SEGLIST         pHelmIvP:214:avdcol_gilda pts={66.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+57.79636        VIEW_SEGLIST         pHelmIvP:215:avdcol_gilda pts={66.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+58.04704        VIEW_SEGLIST         pHelmIvP:216:avdcol_gilda pts={66.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+58.29868        VIEW_SEGLIST         pHelmIvP:217:avdcol_gilda pts={66.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+58.37298        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+58.54851        VIEW_SEGLIST         pHelmIvP:218:avdcol_gilda pts={65.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+58.79931        VIEW_SEGLIST         pHelmIvP:219:avdcol_gilda pts={65.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+59.04993        VIEW_SEGLIST         pHelmIvP:220:avdcol_gilda pts={65.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+59.29849        VIEW_SEGLIST         pHelmIvP:221:avdcol_gilda pts={65.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+59.37447        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+59.55083        VIEW_POINT           pHelmIvP:222:loiter x=0,y=0,active=false,label=henry_waypoint 
+59.55084        VIEW_POLYGON         pHelmIvP:222:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+59.55092        VIEW_SEGLIST         pHelmIvP:222:travel pts={80,-58:-80,-58},label=henry_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+59.55093        VIEW_POINT           pHelmIvP:222:travel x=-80,y=-58,active=true,label=henry's next waypoint,label_color=aqua,vertex_size=5 
+59.55093        VIEW_POINT           pHelmIvP:222:travel x=0,y=0,active=false,label=henry's track-point 
+59.55102        VIEW_SEGLIST         pHelmIvP:222:avdcol_gilda pts={64.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+59.80068        VIEW_SEGLIST         pHelmIvP:223:avdcol_gilda pts={64.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+60.05006        VIEW_SEGLIST         pHelmIvP:224:avdcol_gilda pts={64.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+60.30259        VIEW_SEGLIST         pHelmIvP:225:avdcol_gilda pts={64.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+60.37558        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+60.55335        VIEW_SEGLIST         pHelmIvP:226:avdcol_gilda pts={63.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+60.80350        VIEW_SEGLIST         pHelmIvP:227:avdcol_gilda pts={63.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+61.05413        VIEW_SEGLIST         pHelmIvP:228:avdcol_gilda pts={63.4,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+61.30244        VIEW_SEGLIST         pHelmIvP:229:avdcol_gilda pts={63.2,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+61.37682        VIEW_SEGLIST         pyIMM_Bu        pts={5.895554177077374,-22.27263685373715:-11.45859844908639,-4.563570487396589:-28.812751075250155,13.145495878943972:-46.166903701413915,30.854562245284534}, label=pred initialgilda 
+61.55481        VIEW_SEGLIST         pHelmIvP:230:avdcol_gilda pts={62.8,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+61.80596        VIEW_SEGLIST         pHelmIvP:231:avdcol_gilda pts={62.6,-58:6.8,-22.8},label=henryavdcol_gilda,msg=cpa 
+62.05503        VIEW_SEGLIST         pHelmIvP:232:avdcol_gilda pts={62.6,-58:6.8,-22.8},active=false,label=henryavdcol_gilda,msg=cpa 
+62.37830        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+59.55084        VIEW_POLYGON         pHelmIvP:222:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+59.55093        VIEW_POINT           pHelmIvP:222:travel x=0,y=0,active=false,label=henry's track-point 
+62.37830        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+63.37949        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+64.38100        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+65.38251        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+66.38359        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+66.82000        VIEW_SEGLIST         pHelmIvP:251:avdcol_gilda pts={57.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+67.07148        VIEW_SEGLIST         pHelmIvP:252:avdcol_gilda pts={57.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+67.32147        VIEW_SEGLIST         pHelmIvP:253:avdcol_gilda pts={57.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+67.38509        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+67.57289        VIEW_SEGLIST         pHelmIvP:254:avdcol_gilda pts={56.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+67.82333        VIEW_SEGLIST         pHelmIvP:255:avdcol_gilda pts={56.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+68.07396        VIEW_SEGLIST         pHelmIvP:256:avdcol_gilda pts={56.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+68.32421        VIEW_SEGLIST         pHelmIvP:257:avdcol_gilda pts={56.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+68.38663        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+68.57454        VIEW_SEGLIST         pHelmIvP:258:avdcol_gilda pts={55.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+68.82466        VIEW_SEGLIST         pHelmIvP:259:avdcol_gilda pts={55.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+69.07599        VIEW_SEGLIST         pHelmIvP:260:avdcol_gilda pts={55.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+69.32636        VIEW_SEGLIST         pHelmIvP:261:avdcol_gilda pts={55.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+69.38761        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+69.57702        VIEW_SEGLIST         pHelmIvP:262:avdcol_gilda pts={54.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+69.82729        VIEW_SEGLIST         pHelmIvP:263:avdcol_gilda pts={54.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+70.07754        VIEW_SEGLIST         pHelmIvP:264:avdcol_gilda pts={54.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+70.32793        VIEW_SEGLIST         pHelmIvP:265:avdcol_gilda pts={54.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+70.38919        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+70.57824        VIEW_SEGLIST         pHelmIvP:266:avdcol_gilda pts={53.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+70.82796        VIEW_SEGLIST         pHelmIvP:267:avdcol_gilda pts={53.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+71.07929        VIEW_SEGLIST         pHelmIvP:268:avdcol_gilda pts={53.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+71.32968        VIEW_SEGLIST         pHelmIvP:269:avdcol_gilda pts={53.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+71.39071        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+71.58035        VIEW_SEGLIST         pHelmIvP:270:avdcol_gilda pts={52.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+71.83084        VIEW_SEGLIST         pHelmIvP:271:avdcol_gilda pts={52.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+72.08122        VIEW_SEGLIST         pHelmIvP:272:avdcol_gilda pts={52.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+72.33193        VIEW_SEGLIST         pHelmIvP:273:avdcol_gilda pts={52.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+72.39175        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+72.58241        VIEW_SEGLIST         pHelmIvP:274:avdcol_gilda pts={51.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+72.83260        VIEW_SEGLIST         pHelmIvP:275:avdcol_gilda pts={51.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+73.08272        VIEW_SEGLIST         pHelmIvP:276:avdcol_gilda pts={51.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+73.33382        VIEW_SEGLIST         pHelmIvP:277:avdcol_gilda pts={51.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+73.39346        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+73.58524        VIEW_SEGLIST         pHelmIvP:278:avdcol_gilda pts={50.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+73.83544        VIEW_SEGLIST         pHelmIvP:279:avdcol_gilda pts={50.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+74.08590        VIEW_SEGLIST         pHelmIvP:280:avdcol_gilda pts={50.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+74.33618        VIEW_SEGLIST         pHelmIvP:281:avdcol_gilda pts={50.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+74.39503        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+74.58733        VIEW_SEGLIST         pHelmIvP:282:avdcol_gilda pts={49.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+74.83647        VIEW_SEGLIST         pHelmIvP:283:avdcol_gilda pts={49.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+75.08680        VIEW_SEGLIST         pHelmIvP:284:avdcol_gilda pts={49.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+75.33714        VIEW_SEGLIST         pHelmIvP:285:avdcol_gilda pts={49.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+75.39559        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+75.58774        VIEW_SEGLIST         pHelmIvP:286:avdcol_gilda pts={48.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+75.83706        VIEW_SEGLIST         pHelmIvP:287:avdcol_gilda pts={48.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+76.08852        VIEW_SEGLIST         pHelmIvP:288:avdcol_gilda pts={48.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+76.33916        VIEW_SEGLIST         pHelmIvP:289:avdcol_gilda pts={48.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+76.39711        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+76.59007        VIEW_SEGLIST         pHelmIvP:290:avdcol_gilda pts={47.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+76.84030        VIEW_SEGLIST         pHelmIvP:291:avdcol_gilda pts={47.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+77.09083        VIEW_SEGLIST         pHelmIvP:292:avdcol_gilda pts={47.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+77.34110        VIEW_SEGLIST         pHelmIvP:293:avdcol_gilda pts={47.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+77.39860        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+77.59168        VIEW_SEGLIST         pHelmIvP:294:avdcol_gilda pts={46.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+77.84196        VIEW_SEGLIST         pHelmIvP:295:avdcol_gilda pts={46.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+78.09273        VIEW_SEGLIST         pHelmIvP:296:avdcol_gilda pts={46.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+78.34322        VIEW_SEGLIST         pHelmIvP:297:avdcol_gilda pts={46.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+78.39957        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+78.59359        VIEW_SEGLIST         pHelmIvP:298:avdcol_gilda pts={45.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+78.84389        VIEW_SEGLIST         pHelmIvP:299:avdcol_gilda pts={45.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+79.09406        VIEW_SEGLIST         pHelmIvP:300:avdcol_gilda pts={45.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+79.34439        VIEW_SEGLIST         pHelmIvP:301:avdcol_gilda pts={45.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+79.40112        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+79.59502        VIEW_SEGLIST         pHelmIvP:302:avdcol_gilda pts={44.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+79.84530        VIEW_SEGLIST         pHelmIvP:303:avdcol_gilda pts={44.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+80.09599        VIEW_SEGLIST         pHelmIvP:304:avdcol_gilda pts={44.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+80.34647        VIEW_SEGLIST         pHelmIvP:305:avdcol_gilda pts={44.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+80.40262        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+80.59671        VIEW_SEGLIST         pHelmIvP:306:avdcol_gilda pts={43.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+80.84622        VIEW_SEGLIST         pHelmIvP:307:avdcol_gilda pts={43.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+81.09781        VIEW_SEGLIST         pHelmIvP:308:avdcol_gilda pts={43.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+81.34829        VIEW_SEGLIST         pHelmIvP:309:avdcol_gilda pts={43.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+81.40364        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+81.59876        VIEW_SEGLIST         pHelmIvP:310:avdcol_gilda pts={42.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+81.84928        VIEW_SEGLIST         pHelmIvP:311:avdcol_gilda pts={42.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+82.09994        VIEW_SEGLIST         pHelmIvP:312:avdcol_gilda pts={42.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+82.35024        VIEW_SEGLIST         pHelmIvP:313:avdcol_gilda pts={42.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+82.40447        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+82.60074        VIEW_SEGLIST         pHelmIvP:314:avdcol_gilda pts={41.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+82.85133        VIEW_SEGLIST         pHelmIvP:315:avdcol_gilda pts={41.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+83.10163        VIEW_SEGLIST         pHelmIvP:316:avdcol_gilda pts={41.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+83.35186        VIEW_SEGLIST         pHelmIvP:317:avdcol_gilda pts={41.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+83.40595        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+83.60251        VIEW_SEGLIST         pHelmIvP:318:avdcol_gilda pts={40.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+83.85301        VIEW_SEGLIST         pHelmIvP:319:avdcol_gilda pts={40.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+84.10374        VIEW_SEGLIST         pHelmIvP:320:avdcol_gilda pts={40.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+84.35422        VIEW_SEGLIST         pHelmIvP:321:avdcol_gilda pts={40.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+84.40748        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+84.60473        VIEW_SEGLIST         pHelmIvP:322:avdcol_gilda pts={39.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+84.85538        VIEW_SEGLIST         pHelmIvP:323:avdcol_gilda pts={39.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+85.10593        VIEW_SEGLIST         pHelmIvP:324:avdcol_gilda pts={39.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+85.35609        VIEW_SEGLIST         pHelmIvP:325:avdcol_gilda pts={39.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+85.40841        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+85.60676        VIEW_SEGLIST         pHelmIvP:326:avdcol_gilda pts={38.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+85.85631        VIEW_SEGLIST         pHelmIvP:327:avdcol_gilda pts={38.6,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+86.10801        VIEW_SEGLIST         pHelmIvP:328:avdcol_gilda pts={38.4,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+86.35855        VIEW_SEGLIST         pHelmIvP:329:avdcol_gilda pts={38.2,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+86.41014        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+86.60901        VIEW_SEGLIST         pHelmIvP:330:avdcol_gilda pts={37.8,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+86.85954        VIEW_SEGLIST         pHelmIvP:331:avdcol_gilda pts={37.5,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+87.11005        VIEW_SEGLIST         pHelmIvP:332:avdcol_gilda pts={37.3,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+87.36045        VIEW_SEGLIST         pHelmIvP:333:avdcol_gilda pts={37.1,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+87.41185        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+87.61263        VIEW_SEGLIST         pHelmIvP:334:avdcol_gilda pts={36.7,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+87.86120        VIEW_SEGLIST         pHelmIvP:335:avdcol_gilda pts={36.5,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+88.11184        VIEW_SEGLIST         pHelmIvP:336:avdcol_gilda pts={36.3,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+88.36159        VIEW_SEGLIST         pHelmIvP:337:avdcol_gilda pts={36.1,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+88.41343        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+88.61308        VIEW_SEGLIST         pHelmIvP:338:avdcol_gilda pts={35.7,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+88.86481        VIEW_SEGLIST         pHelmIvP:339:avdcol_gilda pts={35.5,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+89.11439        VIEW_SEGLIST         pHelmIvP:340:avdcol_gilda pts={35.3,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+89.36480        VIEW_SEGLIST         pHelmIvP:341:avdcol_gilda pts={35.1,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+89.41529        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+89.61567        VIEW_SEGLIST         pHelmIvP:342:avdcol_gilda pts={34.7,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+89.86604        VIEW_POINT           pHelmIvP:343:loiter x=0,y=0,active=false,label=henry_waypoint 
+89.86605        VIEW_POLYGON         pHelmIvP:343:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+89.86614        VIEW_SEGLIST         pHelmIvP:343:travel pts={80,-58:-80,-58},label=henry_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+89.86614        VIEW_POINT           pHelmIvP:343:travel x=-80,y=-58,active=true,label=henry's next waypoint,label_color=aqua,vertex_size=5 
+89.86615        VIEW_POINT           pHelmIvP:343:travel x=0,y=0,active=false,label=henry's track-point 
+89.86621        VIEW_SEGLIST         pHelmIvP:343:avdcol_gilda pts={34.5,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+90.11631        VIEW_SEGLIST         pHelmIvP:344:avdcol_gilda pts={34.3,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+90.36652        VIEW_SEGLIST         pHelmIvP:345:avdcol_gilda pts={34.1,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+90.41703        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+90.61759        VIEW_SEGLIST         pHelmIvP:346:avdcol_gilda pts={33.7,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+90.86743        VIEW_SEGLIST         pHelmIvP:347:avdcol_gilda pts={33.5,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+91.11870        VIEW_SEGLIST         pHelmIvP:348:avdcol_gilda pts={33.3,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+91.36923        VIEW_SEGLIST         pHelmIvP:349:avdcol_gilda pts={33.1,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+91.41866        VIEW_SEGLIST         pyIMM_Bu        pts={-10.560046963289405,-16.173570625262283:-28.14086680565289,-19.603692186978055:-45.72168664801637,-23.033813748693827:-63.302506490379855,-26.4639353104096}, label=pred initialgilda 
+91.61974        VIEW_SEGLIST         pHelmIvP:350:avdcol_gilda pts={32.7,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+91.87031        VIEW_SEGLIST         pHelmIvP:351:avdcol_gilda pts={32.5,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+92.12153        VIEW_SEGLIST         pHelmIvP:352:avdcol_gilda pts={32.3,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+92.37238        VIEW_SEGLIST         pHelmIvP:353:avdcol_gilda pts={32.1,-58:-10.4,-15.9},label=henryavdcol_gilda,msg=overtaking:port 
+92.42343        VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+92.62346        VIEW_SEGLIST         pHelmIvP:354:avdcol_gilda pts={31.7,-58:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+92.87415        VIEW_SEGLIST         pHelmIvP:355:avdcol_gilda pts={31.5,-58:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+93.12922        VIEW_SEGLIST         pHelmIvP:356:avdcol_gilda pts={31.4,-58:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+93.12950        VIEW_SEGLIST         pHelmIvP:356:avdcol_predictiongilda_1 pts={31.4,-58:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+93.37285        VIEW_SEGLIST         pHelmIvP:357:avdcol_gilda pts={31.2,-58:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+93.37294        VIEW_SEGLIST         pHelmIvP:357:avdcol_predictiongilda_1 pts={31.2,-58:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+93.42780        VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+93.62991        VIEW_SEGLIST         pHelmIvP:358:avdcol_gilda pts={30.8,-58:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+93.63009        VIEW_SEGLIST         pHelmIvP:358:avdcol_predictiongilda_1 pts={30.8,-58:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+89.86605        VIEW_POLYGON         pHelmIvP:343:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+89.86615        VIEW_POINT           pHelmIvP:343:travel x=0,y=0,active=false,label=henry's track-point 
+93.63009        VIEW_SEGLIST         pHelmIvP:358:avdcol_predictiongilda_1 pts={30.8,-58:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+93.87994        VIEW_SEGLIST         pHelmIvP:359:avdcol_gilda pts={30.7,-58:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+93.88019        VIEW_SEGLIST         pHelmIvP:359:avdcol_predictiongilda_1 pts={30.7,-58:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+94.13481        VIEW_SEGLIST         pHelmIvP:360:avdcol_gilda pts={30.5,-58:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+94.13520        VIEW_SEGLIST         pHelmIvP:360:avdcol_predictiongilda_1 pts={30.5,-58:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+94.38150        VIEW_SEGLIST         pHelmIvP:361:avdcol_gilda pts={30.3,-58:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+94.38175        VIEW_SEGLIST         pHelmIvP:361:avdcol_predictiongilda_1 pts={30.3,-58:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+94.43266        VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+94.63149        VIEW_SEGLIST         pHelmIvP:362:avdcol_gilda pts={30,-58:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+94.63165        VIEW_SEGLIST         pHelmIvP:362:avdcol_predictiongilda_1 pts={30,-58:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+94.88259        VIEW_SEGLIST         pHelmIvP:363:avdcol_gilda pts={29.8,-58:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+94.88286        VIEW_SEGLIST         pHelmIvP:363:avdcol_predictiongilda_1 pts={29.8,-58:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+95.13271        VIEW_SEGLIST         pHelmIvP:364:avdcol_gilda pts={29.6,-58:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+95.13287        VIEW_SEGLIST         pHelmIvP:364:avdcol_predictiongilda_1 pts={29.6,-58:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+95.38351        VIEW_SEGLIST         pHelmIvP:365:avdcol_gilda pts={29.5,-57.9:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+95.38369        VIEW_SEGLIST         pHelmIvP:365:avdcol_predictiongilda_1 pts={29.5,-57.9:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+95.43727        VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+95.63391        VIEW_SEGLIST         pHelmIvP:366:avdcol_gilda pts={29.1,-57.9:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+95.63414        VIEW_SEGLIST         pHelmIvP:366:avdcol_predictiongilda_1 pts={29.1,-57.9:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+95.88368        VIEW_SEGLIST         pHelmIvP:367:avdcol_gilda pts={28.9,-57.9:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+95.88381        VIEW_SEGLIST         pHelmIvP:367:avdcol_predictiongilda_1 pts={28.9,-57.9:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+96.13478        VIEW_SEGLIST         pHelmIvP:368:avdcol_gilda pts={28.8,-57.9:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+96.13495        VIEW_SEGLIST         pHelmIvP:368:avdcol_predictiongilda_1 pts={28.8,-57.9:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+96.38540        VIEW_SEGLIST         pHelmIvP:369:avdcol_gilda pts={28.6,-57.9:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+96.38564        VIEW_SEGLIST         pHelmIvP:369:avdcol_predictiongilda_1 pts={28.6,-57.9:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+96.44199        VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+96.63917        VIEW_SEGLIST         pHelmIvP:370:avdcol_gilda pts={28.3,-57.9:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+96.63937        VIEW_SEGLIST         pHelmIvP:370:avdcol_predictiongilda_1 pts={28.3,-57.9:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+96.88684        VIEW_SEGLIST         pHelmIvP:371:avdcol_gilda pts={28.1,-57.9:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+96.88708        VIEW_SEGLIST         pHelmIvP:371:avdcol_predictiongilda_1 pts={28.1,-57.9:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+97.13777        VIEW_SEGLIST         pHelmIvP:372:avdcol_gilda pts={27.9,-57.8:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+97.13801        VIEW_SEGLIST         pHelmIvP:372:avdcol_predictiongilda_1 pts={27.9,-57.8:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+97.38816        VIEW_SEGLIST         pHelmIvP:373:avdcol_gilda pts={27.7,-57.8:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+97.38839        VIEW_SEGLIST         pHelmIvP:373:avdcol_predictiongilda_1 pts={27.7,-57.8:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+97.44751        VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+97.63923        VIEW_SEGLIST         pHelmIvP:374:avdcol_gilda pts={27.4,-57.8:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+97.63949        VIEW_SEGLIST         pHelmIvP:374:avdcol_predictiongilda_1 pts={27.4,-57.8:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+97.89124        VIEW_SEGLIST         pHelmIvP:375:avdcol_gilda pts={27.2,-57.8:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+97.89164        VIEW_SEGLIST         pHelmIvP:375:avdcol_predictiongilda_1 pts={27.2,-57.8:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+98.14035        VIEW_SEGLIST         pHelmIvP:376:avdcol_gilda pts={27,-57.8:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+98.14058        VIEW_SEGLIST         pHelmIvP:376:avdcol_predictiongilda_1 pts={27,-57.8:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+98.38868        VIEW_SEGLIST         pHelmIvP:377:avdcol_gilda pts={26.9,-57.8:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+98.38900        VIEW_SEGLIST         pHelmIvP:377:avdcol_predictiongilda_1 pts={26.9,-57.8:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+98.45208        VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+98.64172        VIEW_SEGLIST         pHelmIvP:378:avdcol_gilda pts={26.5,-57.7:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+98.64202        VIEW_SEGLIST         pHelmIvP:378:avdcol_predictiongilda_1 pts={26.5,-57.7:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+98.89241        VIEW_SEGLIST         pHelmIvP:379:avdcol_gilda pts={26.4,-57.7:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+98.89266        VIEW_SEGLIST         pHelmIvP:379:avdcol_predictiongilda_1 pts={26.4,-57.7:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+99.14047        VIEW_SEGLIST         pHelmIvP:380:avdcol_gilda pts={26.2,-57.7:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+99.14055        VIEW_SEGLIST         pHelmIvP:380:avdcol_predictiongilda_1 pts={26.2,-57.7:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+99.39383        VIEW_SEGLIST         pHelmIvP:381:avdcol_gilda pts={26,-57.7:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+99.39408        VIEW_SEGLIST         pHelmIvP:381:avdcol_predictiongilda_1 pts={26,-57.7:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+99.45619        VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+99.64514        VIEW_SEGLIST         pHelmIvP:382:avdcol_gilda pts={25.7,-57.6:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+99.64534        VIEW_SEGLIST         pHelmIvP:382:avdcol_predictiongilda_1 pts={25.7,-57.6:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+99.89503        VIEW_SEGLIST         pHelmIvP:383:avdcol_gilda pts={25.5,-57.6:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+99.89525        VIEW_SEGLIST         pHelmIvP:383:avdcol_predictiongilda_1 pts={25.5,-57.6:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+100.14552       VIEW_SEGLIST         pHelmIvP:384:avdcol_gilda pts={25.3,-57.6:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+100.14570       VIEW_SEGLIST         pHelmIvP:384:avdcol_predictiongilda_1 pts={25.3,-57.6:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+100.38900       VIEW_SEGLIST         pHelmIvP:385:avdcol_gilda pts={25.1,-57.5:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+100.38905       VIEW_SEGLIST         pHelmIvP:385:avdcol_predictiongilda_1 pts={25.1,-57.5:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+100.46036       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+100.64734       VIEW_SEGLIST         pHelmIvP:386:avdcol_gilda pts={24.8,-57.5:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+100.64752       VIEW_SEGLIST         pHelmIvP:386:avdcol_predictiongilda_1 pts={24.8,-57.5:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+100.89688       VIEW_SEGLIST         pHelmIvP:387:avdcol_gilda pts={24.6,-57.5:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+100.89702       VIEW_SEGLIST         pHelmIvP:387:avdcol_predictiongilda_1 pts={24.6,-57.5:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+101.14882       VIEW_SEGLIST         pHelmIvP:388:avdcol_gilda pts={24.5,-57.4:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+101.14899       VIEW_SEGLIST         pHelmIvP:388:avdcol_predictiongilda_1 pts={24.5,-57.4:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+101.39885       VIEW_SEGLIST         pHelmIvP:389:avdcol_gilda pts={24.3,-57.4:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+101.39910       VIEW_SEGLIST         pHelmIvP:389:avdcol_predictiongilda_1 pts={24.3,-57.4:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+101.46499       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+101.64402       VIEW_SEGLIST         pHelmIvP:390:avdcol_gilda pts={23.9,-57.4:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+101.64408       VIEW_SEGLIST         pHelmIvP:390:avdcol_predictiongilda_1 pts={23.9,-57.4:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+101.89943       VIEW_SEGLIST         pHelmIvP:391:avdcol_gilda pts={23.8,-57.3:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+101.89968       VIEW_SEGLIST         pHelmIvP:391:avdcol_predictiongilda_1 pts={23.8,-57.3:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+102.14959       VIEW_SEGLIST         pHelmIvP:392:avdcol_gilda pts={23.6,-57.3:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+102.14980       VIEW_SEGLIST         pHelmIvP:392:avdcol_predictiongilda_1 pts={23.6,-57.3:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+102.40174       VIEW_SEGLIST         pHelmIvP:393:avdcol_gilda pts={23.4,-57.3:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+102.40198       VIEW_SEGLIST         pHelmIvP:393:avdcol_predictiongilda_1 pts={23.4,-57.3:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+102.46950       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+102.65066       VIEW_SEGLIST         pHelmIvP:394:avdcol_gilda pts={23.1,-57.2:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+102.65091       VIEW_SEGLIST         pHelmIvP:394:avdcol_predictiongilda_1 pts={23.1,-57.2:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+102.90103       VIEW_SEGLIST         pHelmIvP:395:avdcol_gilda pts={22.9,-57.2:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+102.90127       VIEW_SEGLIST         pHelmIvP:395:avdcol_predictiongilda_1 pts={22.9,-57.2:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+103.15114       VIEW_SEGLIST         pHelmIvP:396:avdcol_gilda pts={22.8,-57.2:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+103.15130       VIEW_SEGLIST         pHelmIvP:396:avdcol_predictiongilda_1 pts={22.8,-57.2:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+103.40036       VIEW_SEGLIST         pHelmIvP:397:avdcol_gilda pts={22.6,-57.2:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+103.40049       VIEW_SEGLIST         pHelmIvP:397:avdcol_predictiongilda_1 pts={22.6,-57.2:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+103.47193       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+103.65355       VIEW_SEGLIST         pHelmIvP:398:avdcol_gilda pts={22.4,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+103.65373       VIEW_SEGLIST         pHelmIvP:398:avdcol_predictiongilda_1 pts={22.4,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+103.90462       VIEW_SEGLIST         pHelmIvP:399:avdcol_gilda pts={22.2,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+103.90479       VIEW_SEGLIST         pHelmIvP:399:avdcol_predictiongilda_1 pts={22.2,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+104.14802       VIEW_SEGLIST         pHelmIvP:400:avdcol_gilda pts={22.1,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+104.14806       VIEW_SEGLIST         pHelmIvP:400:avdcol_predictiongilda_1 pts={22.1,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+104.40633       VIEW_SEGLIST         pHelmIvP:401:avdcol_gilda pts={22,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+104.40649       VIEW_SEGLIST         pHelmIvP:401:avdcol_predictiongilda_1 pts={22,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+104.47701       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+104.65761       VIEW_SEGLIST         pHelmIvP:402:avdcol_gilda pts={21.7,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+104.65773       VIEW_SEGLIST         pHelmIvP:402:avdcol_predictiongilda_1 pts={21.7,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+104.90650       VIEW_SEGLIST         pHelmIvP:403:avdcol_gilda pts={21.6,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+104.90662       VIEW_SEGLIST         pHelmIvP:403:avdcol_predictiongilda_1 pts={21.6,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+105.15834       VIEW_SEGLIST         pHelmIvP:404:avdcol_gilda pts={21.5,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+105.15856       VIEW_SEGLIST         pHelmIvP:404:avdcol_predictiongilda_1 pts={21.5,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+105.40861       VIEW_SEGLIST         pHelmIvP:405:avdcol_gilda pts={21.3,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+105.40878       VIEW_SEGLIST         pHelmIvP:405:avdcol_predictiongilda_1 pts={21.3,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+105.48195       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+105.65934       VIEW_SEGLIST         pHelmIvP:406:avdcol_gilda pts={21,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+105.65956       VIEW_SEGLIST         pHelmIvP:406:avdcol_predictiongilda_1 pts={21,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+105.90801       VIEW_SEGLIST         pHelmIvP:407:avdcol_gilda pts={20.9,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+105.90817       VIEW_SEGLIST         pHelmIvP:407:avdcol_predictiongilda_1 pts={20.9,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+106.15339       VIEW_SEGLIST         pHelmIvP:408:avdcol_gilda pts={20.8,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+106.15343       VIEW_SEGLIST         pHelmIvP:408:avdcol_predictiongilda_1 pts={20.8,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+106.40448       VIEW_SEGLIST         pHelmIvP:409:avdcol_gilda pts={20.6,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+106.40454       VIEW_SEGLIST         pHelmIvP:409:avdcol_predictiongilda_1 pts={20.6,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+106.48443       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+106.65502       VIEW_SEGLIST         pHelmIvP:410:avdcol_gilda pts={20.3,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+106.65507       VIEW_SEGLIST         pHelmIvP:410:avdcol_predictiongilda_1 pts={20.3,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+106.91192       VIEW_SEGLIST         pHelmIvP:411:avdcol_gilda pts={20.2,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+106.91217       VIEW_SEGLIST         pHelmIvP:411:avdcol_predictiongilda_1 pts={20.2,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+107.15564       VIEW_SEGLIST         pHelmIvP:412:avdcol_gilda pts={20.1,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+107.15571       VIEW_SEGLIST         pHelmIvP:412:avdcol_predictiongilda_1 pts={20.1,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+107.41276       VIEW_SEGLIST         pHelmIvP:413:avdcol_gilda pts={19.9,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+107.41299       VIEW_SEGLIST         pHelmIvP:413:avdcol_predictiongilda_1 pts={19.9,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+107.48922       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+107.66372       VIEW_SEGLIST         pHelmIvP:414:avdcol_gilda pts={19.6,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+107.66393       VIEW_SEGLIST         pHelmIvP:414:avdcol_predictiongilda_1 pts={19.6,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+107.90739       VIEW_SEGLIST         pHelmIvP:415:avdcol_gilda pts={19.5,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+107.90746       VIEW_SEGLIST         pHelmIvP:415:avdcol_predictiongilda_1 pts={19.5,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+108.16510       VIEW_SEGLIST         pHelmIvP:416:avdcol_gilda pts={19.3,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+108.16530       VIEW_SEGLIST         pHelmIvP:416:avdcol_predictiongilda_1 pts={19.3,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+108.41494       VIEW_SEGLIST         pHelmIvP:417:avdcol_gilda pts={19.2,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+108.41510       VIEW_SEGLIST         pHelmIvP:417:avdcol_predictiongilda_1 pts={19.2,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+108.49468       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+108.66678       VIEW_SEGLIST         pHelmIvP:418:avdcol_gilda pts={18.8,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+108.66696       VIEW_SEGLIST         pHelmIvP:418:avdcol_predictiongilda_1 pts={18.8,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+108.91743       VIEW_SEGLIST         pHelmIvP:419:avdcol_gilda pts={18.7,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+108.91760       VIEW_SEGLIST         pHelmIvP:419:avdcol_predictiongilda_1 pts={18.7,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+109.16525       VIEW_SEGLIST         pHelmIvP:420:avdcol_gilda pts={18.5,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+109.16535       VIEW_SEGLIST         pHelmIvP:420:avdcol_predictiongilda_1 pts={18.5,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+89.86605        VIEW_POLYGON         pHelmIvP:343:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+89.86615        VIEW_POINT           pHelmIvP:343:travel x=0,y=0,active=false,label=henry's track-point 
+109.41802       VIEW_SEGLIST         pHelmIvP:421:avdcol_gilda pts={18.4,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+109.41819       VIEW_SEGLIST         pHelmIvP:421:avdcol_predictiongilda_1 pts={18.4,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+109.41819       VIEW_SEGLIST         pHelmIvP:421:avdcol_predictiongilda_1 pts={18.4,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+109.49872       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+109.66945       VIEW_SEGLIST         pHelmIvP:422:avdcol_gilda pts={18.1,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+109.66964       VIEW_SEGLIST         pHelmIvP:422:avdcol_predictiongilda_1 pts={18.1,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+109.91915       VIEW_SEGLIST         pHelmIvP:423:avdcol_gilda pts={17.9,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+109.91931       VIEW_SEGLIST         pHelmIvP:423:avdcol_predictiongilda_1 pts={17.9,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+110.17105       VIEW_SEGLIST         pHelmIvP:424:avdcol_gilda pts={17.8,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+110.17122       VIEW_SEGLIST         pHelmIvP:424:avdcol_predictiongilda_1 pts={17.8,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+110.42152       VIEW_SEGLIST         pHelmIvP:425:avdcol_gilda pts={17.6,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+110.42168       VIEW_SEGLIST         pHelmIvP:425:avdcol_predictiongilda_1 pts={17.6,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+110.50312       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+110.67179       VIEW_SEGLIST         pHelmIvP:426:avdcol_gilda pts={17.3,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+110.67196       VIEW_SEGLIST         pHelmIvP:426:avdcol_predictiongilda_1 pts={17.3,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+110.92059       VIEW_SEGLIST         pHelmIvP:427:avdcol_gilda pts={17.2,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+110.92075       VIEW_SEGLIST         pHelmIvP:427:avdcol_predictiongilda_1 pts={17.2,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+111.17261       VIEW_SEGLIST         pHelmIvP:428:avdcol_gilda pts={17.1,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+111.17282       VIEW_SEGLIST         pHelmIvP:428:avdcol_predictiongilda_1 pts={17.1,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+111.42292       VIEW_SEGLIST         pHelmIvP:429:avdcol_gilda pts={16.9,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+111.42315       VIEW_SEGLIST         pHelmIvP:429:avdcol_predictiongilda_1 pts={16.9,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+111.50790       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+111.67299       VIEW_SEGLIST         pHelmIvP:430:avdcol_gilda pts={16.7,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+111.67316       VIEW_SEGLIST         pHelmIvP:430:avdcol_predictiongilda_1 pts={16.7,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+111.92387       VIEW_SEGLIST         pHelmIvP:431:avdcol_gilda pts={16.6,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+111.92424       VIEW_SEGLIST         pHelmIvP:431:avdcol_predictiongilda_1 pts={16.6,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+112.17427       VIEW_SEGLIST         pHelmIvP:432:avdcol_gilda pts={16.4,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+112.17443       VIEW_SEGLIST         pHelmIvP:432:avdcol_predictiongilda_1 pts={16.4,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+112.42539       VIEW_SEGLIST         pHelmIvP:433:avdcol_gilda pts={16.3,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+112.42555       VIEW_SEGLIST         pHelmIvP:433:avdcol_predictiongilda_1 pts={16.3,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+112.51303       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+112.67591       VIEW_SEGLIST         pHelmIvP:434:avdcol_gilda pts={16.1,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+112.67612       VIEW_SEGLIST         pHelmIvP:434:avdcol_predictiongilda_1 pts={16.1,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+112.92593       VIEW_SEGLIST         pHelmIvP:435:avdcol_gilda pts={15.9,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+112.92609       VIEW_SEGLIST         pHelmIvP:435:avdcol_predictiongilda_1 pts={15.9,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+113.17716       VIEW_SEGLIST         pHelmIvP:436:avdcol_gilda pts={15.8,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+113.17734       VIEW_SEGLIST         pHelmIvP:436:avdcol_predictiongilda_1 pts={15.8,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+113.42735       VIEW_SEGLIST         pHelmIvP:437:avdcol_gilda pts={15.7,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+113.42757       VIEW_SEGLIST         pHelmIvP:437:avdcol_predictiongilda_1 pts={15.7,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+113.51745       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+113.67828       VIEW_SEGLIST         pHelmIvP:438:avdcol_gilda pts={15.4,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+113.67853       VIEW_SEGLIST         pHelmIvP:438:avdcol_predictiongilda_1 pts={15.4,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+113.92879       VIEW_SEGLIST         pHelmIvP:439:avdcol_gilda pts={15.3,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+113.92902       VIEW_SEGLIST         pHelmIvP:439:avdcol_predictiongilda_1 pts={15.3,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+114.17883       VIEW_SEGLIST         pHelmIvP:440:avdcol_gilda pts={15.1,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+114.17900       VIEW_SEGLIST         pHelmIvP:440:avdcol_predictiongilda_1 pts={15.1,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+114.43020       VIEW_SEGLIST         pHelmIvP:441:avdcol_gilda pts={15,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+114.43044       VIEW_SEGLIST         pHelmIvP:441:avdcol_predictiongilda_1 pts={15,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+114.52179       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+114.67949       VIEW_SEGLIST         pHelmIvP:442:avdcol_gilda pts={14.7,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+114.67963       VIEW_SEGLIST         pHelmIvP:442:avdcol_predictiongilda_1 pts={14.7,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+114.93217       VIEW_SEGLIST         pHelmIvP:443:avdcol_gilda pts={14.6,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+114.93241       VIEW_SEGLIST         pHelmIvP:443:avdcol_predictiongilda_1 pts={14.6,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+115.18243       VIEW_SEGLIST         pHelmIvP:444:avdcol_gilda pts={14.5,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+115.18265       VIEW_SEGLIST         pHelmIvP:444:avdcol_predictiongilda_1 pts={14.5,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+115.43299       VIEW_SEGLIST         pHelmIvP:445:avdcol_gilda pts={14.3,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+115.43317       VIEW_SEGLIST         pHelmIvP:445:avdcol_predictiongilda_1 pts={14.3,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+115.52656       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+115.68388       VIEW_SEGLIST         pHelmIvP:446:avdcol_gilda pts={14.1,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+115.68403       VIEW_SEGLIST         pHelmIvP:446:avdcol_predictiongilda_1 pts={14.1,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+115.92741       VIEW_SEGLIST         pHelmIvP:447:avdcol_gilda pts={13.9,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+115.92748       VIEW_SEGLIST         pHelmIvP:447:avdcol_predictiongilda_1 pts={13.9,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+116.18451       VIEW_SEGLIST         pHelmIvP:448:avdcol_gilda pts={13.8,-57.1:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+116.18467       VIEW_SEGLIST         pHelmIvP:448:avdcol_predictiongilda_1 pts={13.8,-57.1:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+116.43515       VIEW_SEGLIST         pHelmIvP:449:avdcol_gilda pts={13.7,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+116.43531       VIEW_SEGLIST         pHelmIvP:449:avdcol_predictiongilda_1 pts={13.7,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+116.53067       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+116.68563       VIEW_SEGLIST         pHelmIvP:450:avdcol_gilda pts={13.4,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+116.68581       VIEW_SEGLIST         pHelmIvP:450:avdcol_predictiongilda_1 pts={13.4,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+116.93650       VIEW_SEGLIST         pHelmIvP:451:avdcol_gilda pts={13.3,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+116.93667       VIEW_SEGLIST         pHelmIvP:451:avdcol_predictiongilda_1 pts={13.3,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+117.18686       VIEW_SEGLIST         pHelmIvP:452:avdcol_gilda pts={13.1,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+117.18703       VIEW_SEGLIST         pHelmIvP:452:avdcol_predictiongilda_1 pts={13.1,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+117.43758       VIEW_SEGLIST         pHelmIvP:453:avdcol_gilda pts={13,-57:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+117.43774       VIEW_SEGLIST         pHelmIvP:453:avdcol_predictiongilda_1 pts={13,-57:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+117.53526       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+117.68854       VIEW_SEGLIST         pHelmIvP:454:avdcol_gilda pts={12.7,-56.9:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+117.68874       VIEW_SEGLIST         pHelmIvP:454:avdcol_predictiongilda_1 pts={12.7,-56.9:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+117.93968       VIEW_SEGLIST         pHelmIvP:455:avdcol_gilda pts={12.6,-56.9:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+117.93985       VIEW_SEGLIST         pHelmIvP:455:avdcol_predictiongilda_1 pts={12.6,-56.9:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+118.18906       VIEW_SEGLIST         pHelmIvP:456:avdcol_gilda pts={12.4,-56.9:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+118.18921       VIEW_SEGLIST         pHelmIvP:456:avdcol_predictiongilda_1 pts={12.4,-56.9:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+118.44166       VIEW_SEGLIST         pHelmIvP:457:avdcol_gilda pts={12.3,-56.9:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+118.44188       VIEW_SEGLIST         pHelmIvP:457:avdcol_predictiongilda_1 pts={12.3,-56.9:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+118.54042       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+118.69028       VIEW_SEGLIST         pHelmIvP:458:avdcol_gilda pts={12,-56.8:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+118.69047       VIEW_SEGLIST         pHelmIvP:458:avdcol_predictiongilda_1 pts={12,-56.8:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+118.94110       VIEW_SEGLIST         pHelmIvP:459:avdcol_gilda pts={11.9,-56.8:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+118.94139       VIEW_SEGLIST         pHelmIvP:459:avdcol_predictiongilda_1 pts={11.9,-56.8:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+119.19130       VIEW_SEGLIST         pHelmIvP:460:avdcol_gilda pts={11.7,-56.8:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+119.19145       VIEW_SEGLIST         pHelmIvP:460:avdcol_predictiongilda_1 pts={11.7,-56.8:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+119.44269       VIEW_SEGLIST         pHelmIvP:461:avdcol_gilda pts={11.6,-56.7:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+119.44298       VIEW_SEGLIST         pHelmIvP:461:avdcol_predictiongilda_1 pts={11.6,-56.7:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+119.54617       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+119.68709       VIEW_SEGLIST         pHelmIvP:462:avdcol_gilda pts={11.3,-56.7:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+119.68718       VIEW_SEGLIST         pHelmIvP:462:avdcol_predictiongilda_1 pts={11.3,-56.7:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+119.94431       VIEW_SEGLIST         pHelmIvP:463:avdcol_gilda pts={11.2,-56.7:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+119.94451       VIEW_SEGLIST         pHelmIvP:463:avdcol_predictiongilda_1 pts={11.2,-56.7:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+120.19469       VIEW_POINT           pHelmIvP:464:loiter x=0,y=0,active=false,label=henry_waypoint 
+120.19470       VIEW_POLYGON         pHelmIvP:464:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+120.19480       VIEW_SEGLIST         pHelmIvP:464:travel pts={80,-58:-80,-58},label=henry_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+120.19481       VIEW_POINT           pHelmIvP:464:travel x=-80,y=-58,active=true,label=henry's next waypoint,label_color=aqua,vertex_size=5 
+120.19482       VIEW_POINT           pHelmIvP:464:travel x=0,y=0,active=false,label=henry's track-point 
+120.19490       VIEW_SEGLIST         pHelmIvP:464:avdcol_gilda pts={11,-56.6:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+120.19520       VIEW_SEGLIST         pHelmIvP:464:avdcol_predictiongilda_1 pts={11,-56.6:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+120.44619       VIEW_SEGLIST         pHelmIvP:465:avdcol_gilda pts={10.9,-56.6:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+120.44645       VIEW_SEGLIST         pHelmIvP:465:avdcol_predictiongilda_1 pts={10.9,-56.6:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+120.55122       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+120.69607       VIEW_SEGLIST         pHelmIvP:466:avdcol_gilda pts={10.6,-56.5:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+120.69627       VIEW_SEGLIST         pHelmIvP:466:avdcol_predictiongilda_1 pts={10.6,-56.5:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+120.94536       VIEW_SEGLIST         pHelmIvP:467:avdcol_gilda pts={10.5,-56.5:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+120.94556       VIEW_SEGLIST         pHelmIvP:467:avdcol_predictiongilda_1 pts={10.5,-56.5:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+121.19702       VIEW_SEGLIST         pHelmIvP:468:avdcol_gilda pts={10.4,-56.5:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+121.19726       VIEW_SEGLIST         pHelmIvP:468:avdcol_predictiongilda_1 pts={10.4,-56.5:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+121.44918       VIEW_SEGLIST         pHelmIvP:469:avdcol_gilda pts={10.2,-56.4:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+121.44934       VIEW_SEGLIST         pHelmIvP:469:avdcol_predictiongilda_1 pts={10.2,-56.4:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+121.55398       VIEW_SEGLIST         pyIMM_Bu        pts={-20.828201884984743,-53.154365217978594}, label=pred kfgilda 
+121.69838       VIEW_SEGLIST         pHelmIvP:470:avdcol_gilda pts={9.9,-56.4:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+121.69860       VIEW_SEGLIST         pHelmIvP:470:avdcol_predictiongilda_1 pts={9.9,-56.4:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+121.94992       VIEW_SEGLIST         pHelmIvP:471:avdcol_gilda pts={9.8,-56.3:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+121.95010       VIEW_SEGLIST         pHelmIvP:471:avdcol_predictiongilda_1 pts={9.8,-56.3:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+122.19958       VIEW_SEGLIST         pHelmIvP:472:avdcol_gilda pts={9.7,-56.3:-22.8,-27.6},label=henryavdcol_gilda,msg=overtaking:port 
+122.19981       VIEW_SEGLIST         pHelmIvP:472:avdcol_predictiongilda_1 pts={9.7,-56.3:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+122.45051       VIEW_SEGLIST         pHelmIvP:473:avdcol_gilda pts={9.5,-56.2:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:port 
+122.45076       VIEW_SEGLIST         pHelmIvP:473:avdcol_predictiongilda_1 pts={9.5,-56.2:-20.8,-53.2},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+122.56077       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+122.69986       VIEW_SEGLIST         pHelmIvP:474:avdcol_gilda pts={9.2,-56.2:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:port 
+122.70009       VIEW_SEGLIST         pHelmIvP:474:avdcol_predictiongilda_1 pts={9.2,-56.2:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+122.95085       VIEW_SEGLIST         pHelmIvP:475:avdcol_gilda pts={9.1,-56.1:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:port 
+122.95108       VIEW_SEGLIST         pHelmIvP:475:avdcol_predictiongilda_1 pts={9.1,-56.1:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+123.20046       VIEW_SEGLIST         pHelmIvP:476:avdcol_gilda pts={9,-56.1:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:port 
+123.20063       VIEW_SEGLIST         pHelmIvP:476:avdcol_predictiongilda_1 pts={9,-56.1:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+123.45134       VIEW_SEGLIST         pHelmIvP:477:avdcol_gilda pts={8.9,-56.1:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:port 
+123.45157       VIEW_SEGLIST         pHelmIvP:477:avdcol_predictiongilda_1 pts={8.9,-56.1:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+123.56663       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+123.70125       VIEW_SEGLIST         pHelmIvP:478:avdcol_gilda pts={8.7,-56:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:port 
+123.70142       VIEW_SEGLIST         pHelmIvP:478:avdcol_predictiongilda_1 pts={8.7,-56:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+123.95287       VIEW_SEGLIST         pHelmIvP:479:avdcol_gilda pts={8.6,-55.9:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:port 
+123.95320       VIEW_SEGLIST         pHelmIvP:479:avdcol_predictiongilda_1 pts={8.6,-55.9:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+124.20348       VIEW_SEGLIST         pHelmIvP:480:avdcol_gilda pts={8.4,-55.9:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:port 
+124.20372       VIEW_SEGLIST         pHelmIvP:480:avdcol_predictiongilda_1 pts={8.4,-55.9:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+124.45412       VIEW_SEGLIST         pHelmIvP:481:avdcol_gilda pts={8.3,-55.9:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:port 
+124.45434       VIEW_SEGLIST         pHelmIvP:481:avdcol_predictiongilda_1 pts={8.3,-55.9:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+124.57200       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+124.69779       VIEW_SEGLIST         pHelmIvP:482:avdcol_gilda pts={8.1,-55.8:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:port 
+124.69786       VIEW_SEGLIST         pHelmIvP:482:avdcol_predictiongilda_1 pts={8.1,-55.8:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+124.95509       VIEW_SEGLIST         pHelmIvP:483:avdcol_gilda pts={8,-55.7:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:port 
+124.95535       VIEW_SEGLIST         pHelmIvP:483:avdcol_predictiongilda_1 pts={8,-55.7:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+125.20550       VIEW_SEGLIST         pHelmIvP:484:avdcol_gilda pts={7.9,-55.7:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+125.20578       VIEW_SEGLIST         pHelmIvP:484:avdcol_predictiongilda_1 pts={7.9,-55.7:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+125.45580       VIEW_SEGLIST         pHelmIvP:485:avdcol_gilda pts={7.8,-55.6:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+125.45596       VIEW_SEGLIST         pHelmIvP:485:avdcol_predictiongilda_1 pts={7.8,-55.6:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+125.57807       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+125.69943       VIEW_SEGLIST         pHelmIvP:486:avdcol_gilda pts={7.6,-55.5:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+125.69951       VIEW_SEGLIST         pHelmIvP:486:avdcol_predictiongilda_1 pts={7.6,-55.5:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+125.95620       VIEW_SEGLIST         pHelmIvP:487:avdcol_gilda pts={7.5,-55.5:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+125.95645       VIEW_SEGLIST         pHelmIvP:487:avdcol_predictiongilda_1 pts={7.5,-55.5:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+126.20754       VIEW_SEGLIST         pHelmIvP:488:avdcol_gilda pts={7.4,-55.5:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+126.20776       VIEW_SEGLIST         pHelmIvP:488:avdcol_predictiongilda_1 pts={7.4,-55.5:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+126.45795       VIEW_SEGLIST         pHelmIvP:489:avdcol_gilda pts={7.3,-55.4:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+126.45813       VIEW_SEGLIST         pHelmIvP:489:avdcol_predictiongilda_1 pts={7.3,-55.4:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+126.58410       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+126.70811       VIEW_SEGLIST         pHelmIvP:490:avdcol_gilda pts={7.2,-55.4:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+126.70836       VIEW_SEGLIST         pHelmIvP:490:avdcol_predictiongilda_1 pts={7.2,-55.4:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+127.45882       VIEW_SEGLIST         pHelmIvP:493:avdcol_gilda pts={7.1,-55.3:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+127.45899       VIEW_SEGLIST         pHelmIvP:493:avdcol_predictiongilda_1 pts={7.1,-55.3:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+127.59052       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+128.20994       VIEW_SEGLIST         pHelmIvP:496:avdcol_gilda pts={7,-55.3:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+128.21020       VIEW_SEGLIST         pHelmIvP:496:avdcol_predictiongilda_1 pts={7,-55.3:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+128.59659       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+128.71131       VIEW_SEGLIST         pHelmIvP:498:avdcol_gilda pts={7,-55.2:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+128.71153       VIEW_SEGLIST         pHelmIvP:498:avdcol_predictiongilda_1 pts={7,-55.2:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+128.96192       VIEW_SEGLIST         pHelmIvP:499:avdcol_gilda pts={6.9,-55.2:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+128.96219       VIEW_SEGLIST         pHelmIvP:499:avdcol_predictiongilda_1 pts={6.9,-55.2:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+129.60259       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+129.71068       VIEW_SEGLIST         pHelmIvP:502:avdcol_gilda pts={6.8,-55.2:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+129.71085       VIEW_SEGLIST         pHelmIvP:502:avdcol_predictiongilda_1 pts={6.8,-55.2:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+130.21442       VIEW_SEGLIST         pHelmIvP:504:avdcol_gilda pts={6.8,-55.1:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+130.21459       VIEW_SEGLIST         pHelmIvP:504:avdcol_predictiongilda_1 pts={6.8,-55.1:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+130.46416       VIEW_SEGLIST         pHelmIvP:505:avdcol_gilda pts={6.7,-55.1:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+130.46432       VIEW_SEGLIST         pHelmIvP:505:avdcol_predictiongilda_1 pts={6.7,-55.1:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+130.60817       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+131.21580       VIEW_SEGLIST         pHelmIvP:508:avdcol_gilda pts={6.6,-55.1:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+131.21599       VIEW_SEGLIST         pHelmIvP:508:avdcol_predictiongilda_1 pts={6.6,-55.1:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+131.61430       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+131.71685       VIEW_SEGLIST         pHelmIvP:510:avdcol_gilda pts={6.6,-55:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+131.71705       VIEW_SEGLIST         pHelmIvP:510:avdcol_predictiongilda_1 pts={6.6,-55:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+131.96657       VIEW_SEGLIST         pHelmIvP:511:avdcol_gilda pts={6.5,-55:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+131.96681       VIEW_SEGLIST         pHelmIvP:511:avdcol_predictiongilda_1 pts={6.5,-55:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+132.62037       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+132.71926       VIEW_SEGLIST         pHelmIvP:514:avdcol_gilda pts={6.4,-54.9:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+132.71950       VIEW_SEGLIST         pHelmIvP:514:avdcol_predictiongilda_1 pts={6.4,-54.9:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+133.62631       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+133.72208       VIEW_SEGLIST         pHelmIvP:518:avdcol_gilda pts={6.3,-54.9:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+133.72227       VIEW_SEGLIST         pHelmIvP:518:avdcol_predictiongilda_1 pts={6.3,-54.9:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+133.97197       VIEW_SEGLIST         pHelmIvP:519:avdcol_gilda pts={6.3,-54.8:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+133.97222       VIEW_SEGLIST         pHelmIvP:519:avdcol_predictiongilda_1 pts={6.3,-54.8:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+134.47379       VIEW_SEGLIST         pHelmIvP:521:avdcol_gilda pts={6.2,-54.8:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+134.47396       VIEW_SEGLIST         pHelmIvP:521:avdcol_predictiongilda_1 pts={6.2,-54.8:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+134.63178       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+135.22523       VIEW_SEGLIST         pHelmIvP:524:avdcol_gilda pts={6.1,-54.7:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+135.22544       VIEW_SEGLIST         pHelmIvP:524:avdcol_predictiongilda_1 pts={6.1,-54.7:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+135.63791       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+135.97798       VIEW_SEGLIST         pHelmIvP:527:avdcol_gilda pts={6,-54.6:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+135.97817       VIEW_SEGLIST         pHelmIvP:527:avdcol_predictiongilda_1 pts={6,-54.6:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+136.22904       VIEW_SEGLIST         pHelmIvP:528:avdcol_gilda pts={5.9,-54.6:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+136.22931       VIEW_SEGLIST         pHelmIvP:528:avdcol_predictiongilda_1 pts={5.9,-54.6:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+136.47858       VIEW_SEGLIST         pHelmIvP:529:avdcol_gilda pts={5.8,-54.5:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+136.47875       VIEW_SEGLIST         pHelmIvP:529:avdcol_predictiongilda_1 pts={5.8,-54.5:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+136.64503       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+136.72908       VIEW_SEGLIST         pHelmIvP:530:avdcol_gilda pts={5.7,-54.4:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+136.72924       VIEW_SEGLIST         pHelmIvP:530:avdcol_predictiongilda_1 pts={5.7,-54.4:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+136.97983       VIEW_SEGLIST         pHelmIvP:531:avdcol_gilda pts={5.6,-54.4:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+136.98001       VIEW_SEGLIST         pHelmIvP:531:avdcol_predictiongilda_1 pts={5.6,-54.4:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+137.48135       VIEW_SEGLIST         pHelmIvP:533:avdcol_gilda pts={5.6,-54.3:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+137.48158       VIEW_SEGLIST         pHelmIvP:533:avdcol_predictiongilda_1 pts={5.6,-54.3:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+137.65070       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+137.73355       VIEW_SEGLIST         pHelmIvP:534:avdcol_gilda pts={5.5,-54.3:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+137.73405       VIEW_SEGLIST         pHelmIvP:534:avdcol_predictiongilda_1 pts={5.5,-54.3:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+138.23437       VIEW_SEGLIST         pHelmIvP:536:avdcol_gilda pts={5.4,-54.3:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+138.23462       VIEW_SEGLIST         pHelmIvP:536:avdcol_predictiongilda_1 pts={5.4,-54.3:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+138.65608       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+138.73513       VIEW_SEGLIST         pHelmIvP:538:avdcol_gilda pts={5.4,-54.2:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+138.73537       VIEW_SEGLIST         pHelmIvP:538:avdcol_predictiongilda_1 pts={5.4,-54.2:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+138.98633       VIEW_SEGLIST         pHelmIvP:539:avdcol_gilda pts={5.3,-54.2:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+138.98655       VIEW_SEGLIST         pHelmIvP:539:avdcol_predictiongilda_1 pts={5.3,-54.2:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+139.66287       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+139.73123       VIEW_SEGLIST         pHelmIvP:542:avdcol_gilda pts={5.2,-54.1:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+139.73131       VIEW_SEGLIST         pHelmIvP:542:avdcol_predictiongilda_1 pts={5.2,-54.1:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+140.66837       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+140.74260       VIEW_SEGLIST         pHelmIvP:546:avdcol_gilda pts={5.1,-54.1:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+140.74286       VIEW_SEGLIST         pHelmIvP:546:avdcol_predictiongilda_1 pts={5.1,-54.1:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+141.24194       VIEW_SEGLIST         pHelmIvP:548:avdcol_gilda pts={5.1,-54:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+141.24226       VIEW_SEGLIST         pHelmIvP:548:avdcol_predictiongilda_1 pts={5.1,-54:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+141.49206       VIEW_SEGLIST         pHelmIvP:549:avdcol_gilda pts={5,-54:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+141.49230       VIEW_SEGLIST         pHelmIvP:549:avdcol_predictiongilda_1 pts={5,-54:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+141.67485       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+142.24354       VIEW_SEGLIST         pHelmIvP:552:avdcol_gilda pts={4.9,-54:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+142.24359       VIEW_SEGLIST         pHelmIvP:552:avdcol_predictiongilda_1 pts={4.9,-54:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+142.68033       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+142.74031       VIEW_SEGLIST         pHelmIvP:554:avdcol_gilda pts={4.8,-53.9:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+142.74040       VIEW_SEGLIST         pHelmIvP:554:avdcol_predictiongilda_1 pts={4.8,-53.9:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+143.68661       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+143.74383       VIEW_SEGLIST         pHelmIvP:558:avdcol_gilda pts={4.7,-53.9:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+143.74388       VIEW_SEGLIST         pHelmIvP:558:avdcol_predictiongilda_1 pts={4.7,-53.9:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+144.24900       VIEW_SEGLIST         pHelmIvP:560:avdcol_gilda pts={4.7,-53.8:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+144.24911       VIEW_SEGLIST         pHelmIvP:560:avdcol_predictiongilda_1 pts={4.7,-53.8:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+144.49499       VIEW_SEGLIST         pHelmIvP:561:avdcol_gilda pts={4.6,-53.8:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+144.49506       VIEW_SEGLIST         pHelmIvP:561:avdcol_predictiongilda_1 pts={4.6,-53.8:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+144.68887       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+144.99579       VIEW_SEGLIST         pHelmIvP:563:avdcol_gilda pts={4.5,-53.8:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+144.99587       VIEW_SEGLIST         pHelmIvP:563:avdcol_predictiongilda_1 pts={4.5,-53.8:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+145.69515       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+145.75401       VIEW_SEGLIST         pHelmIvP:566:avdcol_gilda pts={4.4,-53.7:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+145.75420       VIEW_SEGLIST         pHelmIvP:566:avdcol_predictiongilda_1 pts={4.4,-53.7:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+146.70025       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+146.75076       VIEW_SEGLIST         pHelmIvP:570:avdcol_gilda pts={4.3,-53.7:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+146.75083       VIEW_SEGLIST         pHelmIvP:570:avdcol_predictiongilda_1 pts={4.3,-53.7:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+147.25083       VIEW_SEGLIST         pHelmIvP:572:avdcol_gilda pts={4.2,-53.7:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+147.25089       VIEW_SEGLIST         pHelmIvP:572:avdcol_predictiongilda_1 pts={4.2,-53.7:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+147.70764       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+147.75989       VIEW_SEGLIST         pHelmIvP:574:avdcol_gilda pts={4.2,-53.6:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+147.76005       VIEW_SEGLIST         pHelmIvP:574:avdcol_predictiongilda_1 pts={4.2,-53.6:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+148.00992       VIEW_SEGLIST         pHelmIvP:575:avdcol_gilda pts={4.1,-53.6:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+148.01017       VIEW_SEGLIST         pHelmIvP:575:avdcol_predictiongilda_1 pts={4.1,-53.6:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+148.71448       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+148.76147       VIEW_SEGLIST         pHelmIvP:578:avdcol_gilda pts={4,-53.6:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+148.76174       VIEW_SEGLIST         pHelmIvP:578:avdcol_predictiongilda_1 pts={4,-53.6:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+149.51393       VIEW_SEGLIST         pHelmIvP:581:avdcol_gilda pts={3.9,-53.5:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+149.51415       VIEW_SEGLIST         pHelmIvP:581:avdcol_predictiongilda_1 pts={3.9,-53.5:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+149.71744       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+150.01466       VIEW_SEGLIST         pHelmIvP:583:avdcol_gilda pts={3.8,-53.5:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+150.01491       VIEW_SEGLIST         pHelmIvP:583:avdcol_predictiongilda_1 pts={3.8,-53.5:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+150.50859       VIEW_POINT           pHelmIvP:585:loiter x=0,y=0,active=false,label=henry_waypoint 
+150.50859       VIEW_POLYGON         pHelmIvP:585:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+150.50862       VIEW_SEGLIST         pHelmIvP:585:travel pts={80,-58:-80,-58},label=henry_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+150.50862       VIEW_POINT           pHelmIvP:585:travel x=-80,y=-58,active=true,label=henry's next waypoint,label_color=aqua,vertex_size=5 
+150.50862       VIEW_POINT           pHelmIvP:585:travel x=0,y=0,active=false,label=henry's track-point 
+150.50864       VIEW_SEGLIST         pHelmIvP:585:avdcol_gilda pts={3.8,-53.5:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+150.50873       VIEW_SEGLIST         pHelmIvP:585:avdcol_predictiongilda_1 pts={3.8,-53.5:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+150.72231       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+150.75913       VIEW_SEGLIST         pHelmIvP:586:avdcol_gilda pts={3.7,-53.5:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+150.75920       VIEW_SEGLIST         pHelmIvP:586:avdcol_predictiongilda_1 pts={3.7,-53.5:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+151.50943       VIEW_SEGLIST         pHelmIvP:589:avdcol_gilda pts={3.6,-53.5:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+151.50951       VIEW_SEGLIST         pHelmIvP:589:avdcol_predictiongilda_1 pts={3.6,-53.5:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+151.72798       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+151.76022       VIEW_SEGLIST         pHelmIvP:590:avdcol_gilda pts={3.6,-53.4:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+151.76028       VIEW_SEGLIST         pHelmIvP:590:avdcol_predictiongilda_1 pts={3.6,-53.4:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+152.26763       VIEW_SEGLIST         pHelmIvP:592:avdcol_gilda pts={3.5,-53.4:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+152.26787       VIEW_SEGLIST         pHelmIvP:592:avdcol_predictiongilda_1 pts={3.5,-53.4:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+152.73426       VIEW_SEGLIST         pyIMM_Bu        pts={4.068887731243051,-61.389724286450466}, label=pred kfgilda 
+152.76164       VIEW_SEGLIST         pHelmIvP:594:avdcol_gilda pts={3.4,-53.4:-19,-47.5},label=henryavdcol_gilda,msg=overtaking:starboard 
+152.76169       VIEW_SEGLIST         pHelmIvP:594:avdcol_predictiongilda_1 pts={3.4,-53.4:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+153.01775       VIEW_SEGLIST         pHelmIvP:595:avdcol_gilda pts={3.4,-53.4:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+153.26235       VIEW_SEGLIST         pHelmIvP:596:avdcol_gilda pts={3.3,-53.4:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+153.26243       VIEW_SEGLIST         pHelmIvP:596:avdcol_predictiongilda_1 pts={3.3,-53.4:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+153.51342       VIEW_SEGLIST         pHelmIvP:597:avdcol_gilda pts={3.2,-53.3:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+153.51348       VIEW_SEGLIST         pHelmIvP:597:avdcol_predictiongilda_1 pts={3.2,-53.3:4.1,-61.4},label=henryavdcol_predictiongilda_1,msg=giveway:stern 
+153.74147       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+153.76342       VIEW_SEGLIST         pHelmIvP:598:avdcol_gilda pts={3,-53.3:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+153.76349       VIEW_SEGLIST         pHelmIvP:598:avdcol_predictiongilda_1 pts={3,-53.3:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+154.01382       VIEW_SEGLIST         pHelmIvP:599:avdcol_gilda pts={2.9,-53.2:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+154.01387       VIEW_SEGLIST         pHelmIvP:599:avdcol_predictiongilda_1 pts={2.9,-53.2:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+154.26411       VIEW_SEGLIST         pHelmIvP:600:avdcol_gilda pts={2.8,-53.2:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+154.26419       VIEW_SEGLIST         pHelmIvP:600:avdcol_predictiongilda_1 pts={2.8,-53.2:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+154.51456       VIEW_SEGLIST         pHelmIvP:601:avdcol_gilda pts={2.6,-53.1:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+154.51462       VIEW_SEGLIST         pHelmIvP:601:avdcol_predictiongilda_1 pts={2.6,-53.1:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+154.74731       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+154.76524       VIEW_SEGLIST         pHelmIvP:602:avdcol_gilda pts={2.3,-53:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+154.76533       VIEW_SEGLIST         pHelmIvP:602:avdcol_predictiongilda_1 pts={2.3,-53:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+155.01582       VIEW_SEGLIST         pHelmIvP:603:avdcol_gilda pts={2.2,-53:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+155.01588       VIEW_SEGLIST         pHelmIvP:603:avdcol_predictiongilda_1 pts={2.2,-53:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+155.27125       VIEW_SEGLIST         pHelmIvP:604:avdcol_gilda pts={2.1,-53:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+155.27144       VIEW_SEGLIST         pHelmIvP:604:avdcol_predictiongilda_1 pts={2.1,-53:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+155.51700       VIEW_SEGLIST         pHelmIvP:605:avdcol_gilda pts={2,-52.9:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+155.51705       VIEW_SEGLIST         pHelmIvP:605:avdcol_predictiongilda_1 pts={2,-52.9:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+155.75667       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+155.77249       VIEW_SEGLIST         pHelmIvP:606:avdcol_gilda pts={1.9,-52.8:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+155.77266       VIEW_SEGLIST         pHelmIvP:606:avdcol_predictiongilda_1 pts={1.9,-52.8:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+156.02307       VIEW_SEGLIST         pHelmIvP:607:avdcol_gilda pts={1.8,-52.8:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+156.02332       VIEW_SEGLIST         pHelmIvP:607:avdcol_predictiongilda_1 pts={1.8,-52.8:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+156.27378       VIEW_SEGLIST         pHelmIvP:608:avdcol_gilda pts={1.7,-52.8:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+156.27401       VIEW_SEGLIST         pHelmIvP:608:avdcol_predictiongilda_1 pts={1.7,-52.8:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+156.75988       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+156.77058       VIEW_SEGLIST         pHelmIvP:610:avdcol_gilda pts={1.6,-52.7:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+156.77066       VIEW_SEGLIST         pHelmIvP:610:avdcol_predictiongilda_1 pts={1.6,-52.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+157.52788       VIEW_SEGLIST         pHelmIvP:613:avdcol_gilda pts={1.5,-52.7:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+157.52830       VIEW_SEGLIST         pHelmIvP:613:avdcol_predictiongilda_1 pts={1.5,-52.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+157.76872       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+158.03010       VIEW_SEGLIST         pHelmIvP:615:avdcol_gilda pts={1.4,-52.6:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+158.03036       VIEW_SEGLIST         pHelmIvP:615:avdcol_predictiongilda_1 pts={1.4,-52.6:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+158.77720       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+158.78416       VIEW_SEGLIST         pHelmIvP:618:avdcol_gilda pts={1.3,-52.6:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+158.78445       VIEW_SEGLIST         pHelmIvP:618:avdcol_predictiongilda_1 pts={1.3,-52.6:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+159.52925       VIEW_SEGLIST         pHelmIvP:621:avdcol_gilda pts={1.3,-52.5:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+159.52942       VIEW_SEGLIST         pHelmIvP:621:avdcol_predictiongilda_1 pts={1.3,-52.5:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+159.78020       VIEW_SEGLIST         pHelmIvP:622:avdcol_gilda pts={1.2,-52.5:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+159.78036       VIEW_SEGLIST         pHelmIvP:622:avdcol_predictiongilda_1 pts={1.2,-52.5:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+159.78156       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+160.53525       VIEW_SEGLIST         pHelmIvP:625:avdcol_gilda pts={1.1,-52.5:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+160.53556       VIEW_SEGLIST         pHelmIvP:625:avdcol_predictiongilda_1 pts={1.1,-52.5:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+160.78679       VIEW_SEGLIST         pHelmIvP:626:avdcol_gilda pts={1.1,-52.4:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+160.78706       VIEW_SEGLIST         pHelmIvP:626:avdcol_predictiongilda_1 pts={1.1,-52.4:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+160.78916       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+161.28700       VIEW_SEGLIST         pHelmIvP:628:avdcol_gilda pts={1,-52.4:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+161.28721       VIEW_SEGLIST         pHelmIvP:628:avdcol_predictiongilda_1 pts={1,-52.4:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+161.78569       VIEW_SEGLIST         pHelmIvP:630:avdcol_gilda pts={0.9,-52.4:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+161.78582       VIEW_SEGLIST         pHelmIvP:630:avdcol_predictiongilda_1 pts={0.9,-52.4:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+161.79700       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+162.03964       VIEW_SEGLIST         pHelmIvP:631:avdcol_gilda pts={0.9,-52.3:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+162.03988       VIEW_SEGLIST         pHelmIvP:631:avdcol_predictiongilda_1 pts={0.9,-52.3:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+162.79193       VIEW_SEGLIST         pHelmIvP:634:avdcol_gilda pts={0.8,-52.3:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+162.79216       VIEW_SEGLIST         pHelmIvP:634:avdcol_predictiongilda_1 pts={0.8,-52.3:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+162.80356       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+163.29291       VIEW_SEGLIST         pHelmIvP:636:avdcol_gilda pts={0.8,-52.2:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+163.29311       VIEW_SEGLIST         pHelmIvP:636:avdcol_predictiongilda_1 pts={0.8,-52.2:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+163.54507       VIEW_SEGLIST         pHelmIvP:637:avdcol_gilda pts={0.7,-52.2:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+163.54533       VIEW_SEGLIST         pHelmIvP:637:avdcol_predictiongilda_1 pts={0.7,-52.2:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+163.81155       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+164.29278       VIEW_SEGLIST         pHelmIvP:640:avdcol_gilda pts={0.6,-52.2:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+164.29287       VIEW_SEGLIST         pHelmIvP:640:avdcol_predictiongilda_1 pts={0.6,-52.2:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+164.54637       VIEW_SEGLIST         pHelmIvP:641:avdcol_gilda pts={0.6,-52.1:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+164.54665       VIEW_SEGLIST         pHelmIvP:641:avdcol_predictiongilda_1 pts={0.6,-52.1:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+164.81984       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+165.04834       VIEW_SEGLIST         pHelmIvP:643:avdcol_gilda pts={0.5,-52.1:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+165.04853       VIEW_SEGLIST         pHelmIvP:643:avdcol_predictiongilda_1 pts={0.5,-52.1:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+165.79468       VIEW_SEGLIST         pHelmIvP:646:avdcol_gilda pts={0.4,-52:-0.4,-57.3},label=henryavdcol_gilda,msg=overtaking:starboard 
+165.79476       VIEW_SEGLIST         pHelmIvP:646:avdcol_predictiongilda_1 pts={0.4,-52:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+165.82325       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+166.80088       VIEW_SEGLIST         pHelmIvP:650:avdcol_gilda pts={0.3,-51.9:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+166.80105       VIEW_SEGLIST         pHelmIvP:650:avdcol_predictiongilda_1 pts={0.3,-51.9:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+166.83029       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+167.05377       VIEW_SEGLIST         pHelmIvP:651:avdcol_gilda pts={0.2,-51.9:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+167.05399       VIEW_SEGLIST         pHelmIvP:651:avdcol_predictiongilda_1 pts={0.2,-51.9:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+167.30400       VIEW_SEGLIST         pHelmIvP:652:avdcol_gilda pts={0.2,-51.8:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+167.30418       VIEW_SEGLIST         pHelmIvP:652:avdcol_predictiongilda_1 pts={0.2,-51.8:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+167.55408       VIEW_SEGLIST         pHelmIvP:653:avdcol_gilda pts={0.1,-51.7:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+167.55426       VIEW_SEGLIST         pHelmIvP:653:avdcol_predictiongilda_1 pts={0.1,-51.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+167.80619       VIEW_SEGLIST         pHelmIvP:654:avdcol_gilda pts={0,-51.7:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+167.80637       VIEW_SEGLIST         pHelmIvP:654:avdcol_predictiongilda_1 pts={0,-51.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+167.83837       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+168.05645       VIEW_SEGLIST         pHelmIvP:655:avdcol_gilda pts={-0.1,-51.6:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+168.05664       VIEW_SEGLIST         pHelmIvP:655:avdcol_predictiongilda_1 pts={-0.1,-51.6:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+168.30322       VIEW_SEGLIST         pHelmIvP:656:avdcol_gilda pts={-0.2,-51.6:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+168.30328       VIEW_SEGLIST         pHelmIvP:656:avdcol_predictiongilda_1 pts={-0.2,-51.6:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+168.55746       VIEW_SEGLIST         pHelmIvP:657:avdcol_gilda pts={-0.3,-51.5:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+168.55763       VIEW_SEGLIST         pHelmIvP:657:avdcol_predictiongilda_1 pts={-0.3,-51.5:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+168.80769       VIEW_SEGLIST         pHelmIvP:658:avdcol_gilda pts={-0.4,-51.4:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+168.80785       VIEW_SEGLIST         pHelmIvP:658:avdcol_predictiongilda_1 pts={-0.4,-51.4:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+168.84671       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+169.05823       VIEW_SEGLIST         pHelmIvP:659:avdcol_gilda pts={-0.5,-51.3:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+169.05844       VIEW_SEGLIST         pHelmIvP:659:avdcol_predictiongilda_1 pts={-0.5,-51.3:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+169.30815       VIEW_SEGLIST         pHelmIvP:660:avdcol_gilda pts={-0.6,-51.3:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+169.30835       VIEW_SEGLIST         pHelmIvP:660:avdcol_predictiongilda_1 pts={-0.6,-51.3:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+169.55926       VIEW_SEGLIST         pHelmIvP:661:avdcol_gilda pts={-0.7,-51.3:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+169.55945       VIEW_SEGLIST         pHelmIvP:661:avdcol_predictiongilda_1 pts={-0.7,-51.3:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+169.80689       VIEW_SEGLIST         pHelmIvP:662:avdcol_gilda pts={-0.8,-51.2:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+169.80702       VIEW_SEGLIST         pHelmIvP:662:avdcol_predictiongilda_1 pts={-0.8,-51.2:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+169.85458       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+170.05991       VIEW_SEGLIST         pHelmIvP:663:avdcol_gilda pts={-0.9,-51.1:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+170.06005       VIEW_SEGLIST         pHelmIvP:663:avdcol_predictiongilda_1 pts={-0.9,-51.1:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+170.30995       VIEW_SEGLIST         pHelmIvP:664:avdcol_gilda pts={-1,-51.1:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+170.31016       VIEW_SEGLIST         pHelmIvP:664:avdcol_predictiongilda_1 pts={-1,-51.1:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+170.56074       VIEW_SEGLIST         pHelmIvP:665:avdcol_gilda pts={-1,-51:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+170.56089       VIEW_SEGLIST         pHelmIvP:665:avdcol_predictiongilda_1 pts={-1,-51:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+170.81080       VIEW_SEGLIST         pHelmIvP:666:avdcol_gilda pts={-1.2,-50.9:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+170.81102       VIEW_SEGLIST         pHelmIvP:666:avdcol_predictiongilda_1 pts={-1.2,-50.9:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+170.86178       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+171.06170       VIEW_SEGLIST         pHelmIvP:667:avdcol_gilda pts={-1.3,-50.9:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+171.06189       VIEW_SEGLIST         pHelmIvP:667:avdcol_predictiongilda_1 pts={-1.3,-50.9:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+171.56299       VIEW_SEGLIST         pHelmIvP:669:avdcol_gilda pts={-1.4,-50.8:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+171.56320       VIEW_SEGLIST         pHelmIvP:669:avdcol_predictiongilda_1 pts={-1.4,-50.8:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+171.81210       VIEW_SEGLIST         pHelmIvP:670:avdcol_gilda pts={-1.5,-50.8:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+171.81226       VIEW_SEGLIST         pHelmIvP:670:avdcol_predictiongilda_1 pts={-1.5,-50.8:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+171.86944       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+172.06262       VIEW_SEGLIST         pHelmIvP:671:avdcol_gilda pts={-1.6,-50.7:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+172.06281       VIEW_SEGLIST         pHelmIvP:671:avdcol_predictiongilda_1 pts={-1.6,-50.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+172.31259       VIEW_SEGLIST         pHelmIvP:672:avdcol_gilda pts={-1.7,-50.7:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+172.31275       VIEW_SEGLIST         pHelmIvP:672:avdcol_predictiongilda_1 pts={-1.7,-50.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+172.81426       VIEW_SEGLIST         pHelmIvP:674:avdcol_gilda pts={-1.9,-50.6:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+172.81441       VIEW_SEGLIST         pHelmIvP:674:avdcol_predictiongilda_1 pts={-1.9,-50.6:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+172.87727       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+173.31469       VIEW_SEGLIST         pHelmIvP:676:avdcol_gilda pts={-2,-50.5:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+173.31485       VIEW_SEGLIST         pHelmIvP:676:avdcol_predictiongilda_1 pts={-2,-50.5:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+173.56544       VIEW_SEGLIST         pHelmIvP:677:avdcol_gilda pts={-2.1,-50.5:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+173.56567       VIEW_SEGLIST         pHelmIvP:677:avdcol_predictiongilda_1 pts={-2.1,-50.5:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+173.81626       VIEW_SEGLIST         pHelmIvP:678:avdcol_gilda pts={-2.2,-50.5:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+173.81643       VIEW_SEGLIST         pHelmIvP:678:avdcol_predictiongilda_1 pts={-2.2,-50.5:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+173.88476       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+174.06672       VIEW_SEGLIST         pHelmIvP:679:avdcol_gilda pts={-2.3,-50.4:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+174.06690       VIEW_SEGLIST         pHelmIvP:679:avdcol_predictiongilda_1 pts={-2.3,-50.4:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+174.56827       VIEW_SEGLIST         pHelmIvP:681:avdcol_gilda pts={-2.4,-50.4:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+174.56843       VIEW_SEGLIST         pHelmIvP:681:avdcol_predictiongilda_1 pts={-2.4,-50.4:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+174.81659       VIEW_SEGLIST         pHelmIvP:682:avdcol_gilda pts={-2.5,-50.3:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+174.81673       VIEW_SEGLIST         pHelmIvP:682:avdcol_predictiongilda_1 pts={-2.5,-50.3:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+174.89205       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+175.06894       VIEW_SEGLIST         pHelmIvP:683:avdcol_gilda pts={-2.6,-50.3:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+175.06909       VIEW_SEGLIST         pHelmIvP:683:avdcol_predictiongilda_1 pts={-2.6,-50.3:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+175.31889       VIEW_SEGLIST         pHelmIvP:684:avdcol_gilda pts={-2.7,-50.3:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+175.31901       VIEW_SEGLIST         pHelmIvP:684:avdcol_predictiongilda_1 pts={-2.7,-50.3:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+175.82056       VIEW_SEGLIST         pHelmIvP:686:avdcol_gilda pts={-2.9,-50.2:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+175.82076       VIEW_SEGLIST         pHelmIvP:686:avdcol_predictiongilda_1 pts={-2.9,-50.2:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+175.89889       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+176.32106       VIEW_SEGLIST         pHelmIvP:688:avdcol_gilda pts={-3,-50.2:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+176.32119       VIEW_SEGLIST         pHelmIvP:688:avdcol_predictiongilda_1 pts={-3,-50.2:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+176.57274       VIEW_SEGLIST         pHelmIvP:689:avdcol_gilda pts={-3.1,-50.1:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+176.57288       VIEW_SEGLIST         pHelmIvP:689:avdcol_predictiongilda_1 pts={-3.1,-50.1:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+176.82260       VIEW_SEGLIST         pHelmIvP:690:avdcol_gilda pts={-3.2,-50.1:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+176.82273       VIEW_SEGLIST         pHelmIvP:690:avdcol_predictiongilda_1 pts={-3.2,-50.1:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+176.90508       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+177.07418       VIEW_SEGLIST         pHelmIvP:691:avdcol_gilda pts={-3.3,-50.1:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+177.07435       VIEW_SEGLIST         pHelmIvP:691:avdcol_predictiongilda_1 pts={-3.3,-50.1:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+177.32425       VIEW_SEGLIST         pHelmIvP:692:avdcol_gilda pts={-3.4,-50.1:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+177.32441       VIEW_SEGLIST         pHelmIvP:692:avdcol_predictiongilda_1 pts={-3.4,-50.1:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+177.57502       VIEW_SEGLIST         pHelmIvP:693:avdcol_gilda pts={-3.4,-50:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+177.57523       VIEW_SEGLIST         pHelmIvP:693:avdcol_predictiongilda_1 pts={-3.4,-50:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+177.82526       VIEW_SEGLIST         pHelmIvP:694:avdcol_gilda pts={-3.6,-50:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+177.82543       VIEW_SEGLIST         pHelmIvP:694:avdcol_predictiongilda_1 pts={-3.6,-50:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+177.91354       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+178.07589       VIEW_SEGLIST         pHelmIvP:695:avdcol_gilda pts={-3.7,-50:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+178.07606       VIEW_SEGLIST         pHelmIvP:695:avdcol_predictiongilda_1 pts={-3.7,-50:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+178.57713       VIEW_SEGLIST         pHelmIvP:697:avdcol_gilda pts={-3.8,-49.9:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+178.57731       VIEW_SEGLIST         pHelmIvP:697:avdcol_predictiongilda_1 pts={-3.8,-49.9:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+178.82714       VIEW_SEGLIST         pHelmIvP:698:avdcol_gilda pts={-4,-49.9:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+178.82727       VIEW_SEGLIST         pHelmIvP:698:avdcol_predictiongilda_1 pts={-4,-49.9:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+178.92076       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+179.32650       VIEW_SEGLIST         pHelmIvP:700:avdcol_gilda pts={-4.1,-49.9:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+179.32656       VIEW_SEGLIST         pHelmIvP:700:avdcol_predictiongilda_1 pts={-4.1,-49.9:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+179.58020       VIEW_SEGLIST         pHelmIvP:701:avdcol_gilda pts={-4.2,-49.8:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+179.58038       VIEW_SEGLIST         pHelmIvP:701:avdcol_predictiongilda_1 pts={-4.2,-49.8:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+179.82982       VIEW_SEGLIST         pHelmIvP:702:avdcol_gilda pts={-4.4,-49.8:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+179.82994       VIEW_SEGLIST         pHelmIvP:702:avdcol_predictiongilda_1 pts={-4.4,-49.8:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+179.92718       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+180.08114       VIEW_SEGLIST         pHelmIvP:703:avdcol_gilda pts={-4.5,-49.8:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+180.08126       VIEW_SEGLIST         pHelmIvP:703:avdcol_predictiongilda_1 pts={-4.5,-49.8:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+180.58287       VIEW_SEGLIST         pHelmIvP:705:avdcol_gilda pts={-4.6,-49.8:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+180.58300       VIEW_SEGLIST         pHelmIvP:705:avdcol_predictiongilda_1 pts={-4.6,-49.8:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+180.83267       VIEW_POINT           pHelmIvP:706:loiter x=0,y=0,active=false,label=henry_waypoint 
+180.83268       VIEW_POLYGON         pHelmIvP:706:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+180.83277       VIEW_SEGLIST         pHelmIvP:706:travel pts={80,-58:-80,-58},label=henry_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+180.83278       VIEW_POINT           pHelmIvP:706:travel x=-80,y=-58,active=true,label=henry's next waypoint,label_color=aqua,vertex_size=5 
+180.83278       VIEW_POINT           pHelmIvP:706:travel x=0,y=0,active=false,label=henry's track-point 
+180.83283       VIEW_SEGLIST         pHelmIvP:706:avdcol_gilda pts={-4.8,-49.7:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+180.83308       VIEW_SEGLIST         pHelmIvP:706:avdcol_predictiongilda_1 pts={-4.8,-49.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+180.93401       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+181.08428       VIEW_SEGLIST         pHelmIvP:707:avdcol_gilda pts={-4.9,-49.7:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+181.08445       VIEW_SEGLIST         pHelmIvP:707:avdcol_predictiongilda_1 pts={-4.9,-49.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+181.33460       VIEW_SEGLIST         pHelmIvP:708:avdcol_gilda pts={-5,-49.7:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+181.33476       VIEW_SEGLIST         pHelmIvP:708:avdcol_predictiongilda_1 pts={-5,-49.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+181.58493       VIEW_SEGLIST         pHelmIvP:709:avdcol_gilda pts={-5.1,-49.7:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+181.58508       VIEW_SEGLIST         pHelmIvP:709:avdcol_predictiongilda_1 pts={-5.1,-49.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+181.83464       VIEW_SEGLIST         pHelmIvP:710:avdcol_gilda pts={-5.3,-49.7:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+181.83482       VIEW_SEGLIST         pHelmIvP:710:avdcol_predictiongilda_1 pts={-5.3,-49.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+181.94332       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+182.33632       VIEW_SEGLIST         pHelmIvP:712:avdcol_gilda pts={-5.4,-49.7:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+182.33645       VIEW_SEGLIST         pHelmIvP:712:avdcol_predictiongilda_1 pts={-5.4,-49.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+182.58619       VIEW_SEGLIST         pHelmIvP:713:avdcol_gilda pts={-5.5,-49.7:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+182.58642       VIEW_SEGLIST         pHelmIvP:713:avdcol_predictiongilda_1 pts={-5.5,-49.7:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+182.83585       VIEW_SEGLIST         pHelmIvP:714:avdcol_gilda pts={-5.7,-49.6:-0.4,-57.3},label=henryavdcol_gilda,msg=cpa 
+182.83600       VIEW_SEGLIST         pHelmIvP:714:avdcol_predictiongilda_1 pts={-5.7,-49.6:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+182.95070       VIEW_SEGLIST         pyIMM_Bu        pts={19.544406461353386,-49.35048703452106}, label=pred kfgilda 
+183.08651       VIEW_SEGLIST         pHelmIvP:715:avdcol_gilda pts={-5.8,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+183.08666       VIEW_SEGLIST         pHelmIvP:715:avdcol_predictiongilda_1 pts={-5.8,-49.6:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+183.33731       VIEW_SEGLIST         pHelmIvP:716:avdcol_gilda pts={-5.9,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+183.33744       VIEW_SEGLIST         pHelmIvP:716:avdcol_predictiongilda_1 pts={-5.9,-49.6:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+183.58801       VIEW_SEGLIST         pHelmIvP:717:avdcol_gilda pts={-6,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+183.58814       VIEW_SEGLIST         pHelmIvP:717:avdcol_predictiongilda_1 pts={-6,-49.6:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+183.83836       VIEW_SEGLIST         pHelmIvP:718:avdcol_gilda pts={-6.2,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+183.83845       VIEW_SEGLIST         pHelmIvP:718:avdcol_predictiongilda_1 pts={-6.2,-49.6:19.5,-49.4},label=henryavdcol_predictiongilda_1,msg=cpa 
+183.95984       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+184.08853       VIEW_SEGLIST         pHelmIvP:719:avdcol_gilda pts={-6.3,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+184.08865       VIEW_SEGLIST         pHelmIvP:719:avdcol_predictiongilda_1 pts={-6.3,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+184.33813       VIEW_SEGLIST         pHelmIvP:720:avdcol_gilda pts={-6.4,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+184.33822       VIEW_SEGLIST         pHelmIvP:720:avdcol_predictiongilda_1 pts={-6.4,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+184.58881       VIEW_SEGLIST         pHelmIvP:721:avdcol_gilda pts={-6.5,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+184.58893       VIEW_SEGLIST         pHelmIvP:721:avdcol_predictiongilda_1 pts={-6.5,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+184.83937       VIEW_SEGLIST         pHelmIvP:722:avdcol_gilda pts={-6.7,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+184.83946       VIEW_SEGLIST         pHelmIvP:722:avdcol_predictiongilda_1 pts={-6.7,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+184.96987       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+185.09007       VIEW_SEGLIST         pHelmIvP:723:avdcol_gilda pts={-6.8,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+185.09016       VIEW_SEGLIST         pHelmIvP:723:avdcol_predictiongilda_1 pts={-6.8,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+185.34099       VIEW_SEGLIST         pHelmIvP:724:avdcol_gilda pts={-6.9,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+185.34118       VIEW_SEGLIST         pHelmIvP:724:avdcol_predictiongilda_1 pts={-6.9,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+185.59206       VIEW_SEGLIST         pHelmIvP:725:avdcol_gilda pts={-7.1,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+185.59219       VIEW_SEGLIST         pHelmIvP:725:avdcol_predictiongilda_1 pts={-7.1,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+185.83938       VIEW_SEGLIST         pHelmIvP:726:avdcol_gilda pts={-7.3,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+185.83942       VIEW_SEGLIST         pHelmIvP:726:avdcol_predictiongilda_1 pts={-7.3,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+185.97381       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+186.09418       VIEW_SEGLIST         pHelmIvP:727:avdcol_gilda pts={-7.4,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+186.09433       VIEW_SEGLIST         pHelmIvP:727:avdcol_predictiongilda_1 pts={-7.4,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+186.34406       VIEW_SEGLIST         pHelmIvP:728:avdcol_gilda pts={-7.5,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+186.34415       VIEW_SEGLIST         pHelmIvP:728:avdcol_predictiongilda_1 pts={-7.5,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+186.59556       VIEW_SEGLIST         pHelmIvP:729:avdcol_gilda pts={-7.6,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+186.59570       VIEW_SEGLIST         pHelmIvP:729:avdcol_predictiongilda_1 pts={-7.6,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+186.84539       VIEW_SEGLIST         pHelmIvP:730:avdcol_gilda pts={-7.8,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+186.84550       VIEW_SEGLIST         pHelmIvP:730:avdcol_predictiongilda_1 pts={-7.8,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+186.98528       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+187.09651       VIEW_SEGLIST         pHelmIvP:731:avdcol_gilda pts={-7.9,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+187.09663       VIEW_SEGLIST         pHelmIvP:731:avdcol_predictiongilda_1 pts={-7.9,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+187.34655       VIEW_SEGLIST         pHelmIvP:732:avdcol_gilda pts={-8.1,-49.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+187.34668       VIEW_SEGLIST         pHelmIvP:732:avdcol_predictiongilda_1 pts={-8.1,-49.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+187.59804       VIEW_SEGLIST         pHelmIvP:733:avdcol_gilda pts={-8.2,-49.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+187.59816       VIEW_SEGLIST         pHelmIvP:733:avdcol_predictiongilda_1 pts={-8.2,-49.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+187.84827       VIEW_SEGLIST         pHelmIvP:734:avdcol_gilda pts={-8.4,-49.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+187.84837       VIEW_SEGLIST         pHelmIvP:734:avdcol_predictiongilda_1 pts={-8.4,-49.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+187.99619       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+188.09849       VIEW_SEGLIST         pHelmIvP:735:avdcol_gilda pts={-8.5,-49.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+188.09861       VIEW_SEGLIST         pHelmIvP:735:avdcol_predictiongilda_1 pts={-8.5,-49.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+188.34838       VIEW_SEGLIST         pHelmIvP:736:avdcol_gilda pts={-8.6,-49.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+188.34848       VIEW_SEGLIST         pHelmIvP:736:avdcol_predictiongilda_1 pts={-8.6,-49.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+188.60011       VIEW_SEGLIST         pHelmIvP:737:avdcol_gilda pts={-8.8,-49.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+188.60021       VIEW_SEGLIST         pHelmIvP:737:avdcol_predictiongilda_1 pts={-8.8,-49.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+188.85005       VIEW_SEGLIST         pHelmIvP:738:avdcol_gilda pts={-9,-49.8:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+188.85015       VIEW_SEGLIST         pHelmIvP:738:avdcol_predictiongilda_1 pts={-9,-49.8:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+189.00770       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+189.10122       VIEW_SEGLIST         pHelmIvP:739:avdcol_gilda pts={-9.1,-49.8:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+189.10134       VIEW_SEGLIST         pHelmIvP:739:avdcol_predictiongilda_1 pts={-9.1,-49.8:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+189.35110       VIEW_SEGLIST         pHelmIvP:740:avdcol_gilda pts={-9.2,-49.8:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+189.35120       VIEW_SEGLIST         pHelmIvP:740:avdcol_predictiongilda_1 pts={-9.2,-49.8:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+189.60267       VIEW_SEGLIST         pHelmIvP:741:avdcol_gilda pts={-9.4,-49.8:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+189.60279       VIEW_SEGLIST         pHelmIvP:741:avdcol_predictiongilda_1 pts={-9.4,-49.8:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+189.85254       VIEW_SEGLIST         pHelmIvP:742:avdcol_gilda pts={-9.6,-49.9:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+189.85263       VIEW_SEGLIST         pHelmIvP:742:avdcol_predictiongilda_1 pts={-9.6,-49.9:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+190.01766       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+190.10408       VIEW_SEGLIST         pHelmIvP:743:avdcol_gilda pts={-9.7,-49.9:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+190.10420       VIEW_SEGLIST         pHelmIvP:743:avdcol_predictiongilda_1 pts={-9.7,-49.9:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+190.35413       VIEW_SEGLIST         pHelmIvP:744:avdcol_gilda pts={-9.9,-49.9:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+190.35421       VIEW_SEGLIST         pHelmIvP:744:avdcol_predictiongilda_1 pts={-9.9,-49.9:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+190.60548       VIEW_SEGLIST         pHelmIvP:745:avdcol_gilda pts={-10,-49.9:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+190.60558       VIEW_SEGLIST         pHelmIvP:745:avdcol_predictiongilda_1 pts={-10,-49.9:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+190.85495       VIEW_SEGLIST         pHelmIvP:746:avdcol_gilda pts={-10.3,-50:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+190.85507       VIEW_SEGLIST         pHelmIvP:746:avdcol_predictiongilda_1 pts={-10.3,-50:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+191.02459       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+191.10605       VIEW_SEGLIST         pHelmIvP:747:avdcol_gilda pts={-10.4,-50:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+191.10617       VIEW_SEGLIST         pHelmIvP:747:avdcol_predictiongilda_1 pts={-10.4,-50:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+191.35692       VIEW_SEGLIST         pHelmIvP:748:avdcol_gilda pts={-10.5,-50:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+191.35705       VIEW_SEGLIST         pHelmIvP:748:avdcol_predictiongilda_1 pts={-10.5,-50:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+191.60845       VIEW_SEGLIST         pHelmIvP:749:avdcol_gilda pts={-10.6,-50.1:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+191.60858       VIEW_SEGLIST         pHelmIvP:749:avdcol_predictiongilda_1 pts={-10.6,-50.1:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+191.85834       VIEW_SEGLIST         pHelmIvP:750:avdcol_gilda pts={-10.9,-50.1:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+191.85841       VIEW_SEGLIST         pHelmIvP:750:avdcol_predictiongilda_1 pts={-10.9,-50.1:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+192.03319       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+192.10965       VIEW_SEGLIST         pHelmIvP:751:avdcol_gilda pts={-11,-50.2:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+192.10973       VIEW_SEGLIST         pHelmIvP:751:avdcol_predictiongilda_1 pts={-11,-50.2:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+192.35987       VIEW_SEGLIST         pHelmIvP:752:avdcol_gilda pts={-11.2,-50.2:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+192.35999       VIEW_SEGLIST         pHelmIvP:752:avdcol_predictiongilda_1 pts={-11.2,-50.2:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+192.61035       VIEW_SEGLIST         pHelmIvP:753:avdcol_gilda pts={-11.3,-50.2:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+192.61046       VIEW_SEGLIST         pHelmIvP:753:avdcol_predictiongilda_1 pts={-11.3,-50.2:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+192.86035       VIEW_SEGLIST         pHelmIvP:754:avdcol_gilda pts={-11.6,-50.3:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+192.86045       VIEW_SEGLIST         pHelmIvP:754:avdcol_predictiongilda_1 pts={-11.6,-50.3:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+193.04253       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+193.11218       VIEW_SEGLIST         pHelmIvP:755:avdcol_gilda pts={-11.7,-50.3:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+193.11228       VIEW_SEGLIST         pHelmIvP:755:avdcol_predictiongilda_1 pts={-11.7,-50.3:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+193.36328       VIEW_SEGLIST         pHelmIvP:756:avdcol_gilda pts={-11.9,-50.4:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+193.36337       VIEW_SEGLIST         pHelmIvP:756:avdcol_predictiongilda_1 pts={-11.9,-50.4:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+193.61391       VIEW_SEGLIST         pHelmIvP:757:avdcol_gilda pts={-12,-50.4:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+193.61401       VIEW_SEGLIST         pHelmIvP:757:avdcol_predictiongilda_1 pts={-12,-50.4:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+193.86403       VIEW_SEGLIST         pHelmIvP:758:avdcol_gilda pts={-12.3,-50.5:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+193.86412       VIEW_SEGLIST         pHelmIvP:758:avdcol_predictiongilda_1 pts={-12.3,-50.5:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+194.04973       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+194.11507       VIEW_SEGLIST         pHelmIvP:759:avdcol_gilda pts={-12.4,-50.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+194.11522       VIEW_SEGLIST         pHelmIvP:759:avdcol_predictiongilda_1 pts={-12.4,-50.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+194.36478       VIEW_SEGLIST         pHelmIvP:760:avdcol_gilda pts={-12.6,-50.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+194.36490       VIEW_SEGLIST         pHelmIvP:760:avdcol_predictiongilda_1 pts={-12.6,-50.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+194.61658       VIEW_SEGLIST         pHelmIvP:761:avdcol_gilda pts={-12.7,-50.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+194.61668       VIEW_SEGLIST         pHelmIvP:761:avdcol_predictiongilda_1 pts={-12.7,-50.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+194.86686       VIEW_SEGLIST         pHelmIvP:762:avdcol_gilda pts={-13,-50.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+194.86697       VIEW_SEGLIST         pHelmIvP:762:avdcol_predictiongilda_1 pts={-13,-50.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+195.06098       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+195.11748       VIEW_SEGLIST         pHelmIvP:763:avdcol_gilda pts={-13.1,-50.8:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+195.11759       VIEW_SEGLIST         pHelmIvP:763:avdcol_predictiongilda_1 pts={-13.1,-50.8:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+195.36765       VIEW_SEGLIST         pHelmIvP:764:avdcol_gilda pts={-13.3,-50.9:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+195.36775       VIEW_SEGLIST         pHelmIvP:764:avdcol_predictiongilda_1 pts={-13.3,-50.9:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+195.61811       VIEW_SEGLIST         pHelmIvP:765:avdcol_gilda pts={-13.4,-50.9:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+195.61820       VIEW_SEGLIST         pHelmIvP:765:avdcol_predictiongilda_1 pts={-13.4,-50.9:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+195.86548       VIEW_SEGLIST         pHelmIvP:766:avdcol_gilda pts={-13.7,-51:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+195.86552       VIEW_SEGLIST         pHelmIvP:766:avdcol_predictiongilda_1 pts={-13.7,-51:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+196.07028       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+196.11883       VIEW_SEGLIST         pHelmIvP:767:avdcol_gilda pts={-13.9,-51.1:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+196.11895       VIEW_SEGLIST         pHelmIvP:767:avdcol_predictiongilda_1 pts={-13.9,-51.1:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+196.36903       VIEW_SEGLIST         pHelmIvP:768:avdcol_gilda pts={-14,-51.1:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+196.36912       VIEW_SEGLIST         pHelmIvP:768:avdcol_predictiongilda_1 pts={-14,-51.1:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+196.62077       VIEW_SEGLIST         pHelmIvP:769:avdcol_gilda pts={-14.2,-51.2:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+196.62090       VIEW_SEGLIST         pHelmIvP:769:avdcol_predictiongilda_1 pts={-14.2,-51.2:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+196.87085       VIEW_SEGLIST         pHelmIvP:770:avdcol_gilda pts={-14.5,-51.3:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+196.87096       VIEW_SEGLIST         pHelmIvP:770:avdcol_predictiongilda_1 pts={-14.5,-51.3:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+197.07915       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+197.12185       VIEW_SEGLIST         pHelmIvP:771:avdcol_gilda pts={-14.6,-51.4:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+197.12197       VIEW_SEGLIST         pHelmIvP:771:avdcol_predictiongilda_1 pts={-14.6,-51.4:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+197.37187       VIEW_SEGLIST         pHelmIvP:772:avdcol_gilda pts={-14.8,-51.4:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+197.37196       VIEW_SEGLIST         pHelmIvP:772:avdcol_predictiongilda_1 pts={-14.8,-51.4:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+197.62331       VIEW_SEGLIST         pHelmIvP:773:avdcol_gilda pts={-15.1,-51.5:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+197.62341       VIEW_SEGLIST         pHelmIvP:773:avdcol_predictiongilda_1 pts={-15.1,-51.5:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+197.87327       VIEW_SEGLIST         pHelmIvP:774:avdcol_gilda pts={-15.2,-51.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+197.87336       VIEW_SEGLIST         pHelmIvP:774:avdcol_predictiongilda_1 pts={-15.2,-51.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+198.08825       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+198.12421       VIEW_SEGLIST         pHelmIvP:775:avdcol_gilda pts={-15.4,-51.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+198.12432       VIEW_SEGLIST         pHelmIvP:775:avdcol_predictiongilda_1 pts={-15.4,-51.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+198.37201       VIEW_SEGLIST         pHelmIvP:776:avdcol_gilda pts={-15.5,-51.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+198.37205       VIEW_SEGLIST         pHelmIvP:776:avdcol_predictiongilda_1 pts={-15.5,-51.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+198.62579       VIEW_SEGLIST         pHelmIvP:777:avdcol_gilda pts={-15.8,-51.9:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+198.62590       VIEW_SEGLIST         pHelmIvP:777:avdcol_predictiongilda_1 pts={-15.8,-51.9:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+198.87670       VIEW_SEGLIST         pHelmIvP:778:avdcol_gilda pts={-16,-52:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+198.87678       VIEW_SEGLIST         pHelmIvP:778:avdcol_predictiongilda_1 pts={-16,-52:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+199.09724       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+199.12787       VIEW_SEGLIST         pHelmIvP:779:avdcol_gilda pts={-16.2,-52:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+199.12800       VIEW_SEGLIST         pHelmIvP:779:avdcol_predictiongilda_1 pts={-16.2,-52:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+199.37792       VIEW_SEGLIST         pHelmIvP:780:avdcol_gilda pts={-16.3,-52.1:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+199.37803       VIEW_SEGLIST         pHelmIvP:780:avdcol_predictiongilda_1 pts={-16.3,-52.1:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+199.62903       VIEW_SEGLIST         pHelmIvP:781:avdcol_gilda pts={-16.6,-52.2:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+199.62915       VIEW_SEGLIST         pHelmIvP:781:avdcol_predictiongilda_1 pts={-16.6,-52.2:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+199.87934       VIEW_SEGLIST         pHelmIvP:782:avdcol_gilda pts={-16.8,-52.3:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+199.87946       VIEW_SEGLIST         pHelmIvP:782:avdcol_predictiongilda_1 pts={-16.8,-52.3:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+200.10591       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+200.12967       VIEW_SEGLIST         pHelmIvP:783:avdcol_gilda pts={-17,-52.4:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+200.12977       VIEW_SEGLIST         pHelmIvP:783:avdcol_predictiongilda_1 pts={-17,-52.4:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+200.37969       VIEW_SEGLIST         pHelmIvP:784:avdcol_gilda pts={-17.1,-52.5:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+200.37983       VIEW_SEGLIST         pHelmIvP:784:avdcol_predictiongilda_1 pts={-17.1,-52.5:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+200.63000       VIEW_SEGLIST         pHelmIvP:785:avdcol_gilda pts={-17.5,-52.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+200.63015       VIEW_SEGLIST         pHelmIvP:785:avdcol_predictiongilda_1 pts={-17.5,-52.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+200.87930       VIEW_SEGLIST         pHelmIvP:786:avdcol_gilda pts={-17.6,-52.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+200.87942       VIEW_SEGLIST         pHelmIvP:786:avdcol_predictiongilda_1 pts={-17.6,-52.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+201.11434       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+201.12642       VIEW_SEGLIST         pHelmIvP:787:avdcol_gilda pts={-17.8,-52.8:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+201.12645       VIEW_SEGLIST         pHelmIvP:787:avdcol_predictiongilda_1 pts={-17.8,-52.8:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+201.38064       VIEW_SEGLIST         pHelmIvP:788:avdcol_gilda pts={-18,-52.9:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+201.38073       VIEW_SEGLIST         pHelmIvP:788:avdcol_predictiongilda_1 pts={-18,-52.9:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+201.63189       VIEW_SEGLIST         pHelmIvP:789:avdcol_gilda pts={-18.3,-53:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+201.63200       VIEW_SEGLIST         pHelmIvP:789:avdcol_predictiongilda_1 pts={-18.3,-53:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+201.88152       VIEW_SEGLIST         pHelmIvP:790:avdcol_gilda pts={-18.5,-53.1:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+201.88162       VIEW_SEGLIST         pHelmIvP:790:avdcol_predictiongilda_1 pts={-18.5,-53.1:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+202.12284       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+202.12921       VIEW_SEGLIST         pHelmIvP:791:avdcol_gilda pts={-18.6,-53.2:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+202.12924       VIEW_SEGLIST         pHelmIvP:791:avdcol_predictiongilda_1 pts={-18.6,-53.2:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+202.38289       VIEW_SEGLIST         pHelmIvP:792:avdcol_gilda pts={-18.8,-53.3:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+202.38301       VIEW_SEGLIST         pHelmIvP:792:avdcol_predictiongilda_1 pts={-18.8,-53.3:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+202.63402       VIEW_SEGLIST         pHelmIvP:793:avdcol_gilda pts={-19,-53.4:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+202.63412       VIEW_SEGLIST         pHelmIvP:793:avdcol_predictiongilda_1 pts={-19,-53.4:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+202.88398       VIEW_SEGLIST         pHelmIvP:794:avdcol_gilda pts={-19.3,-53.5:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+202.88407       VIEW_SEGLIST         pHelmIvP:794:avdcol_predictiongilda_1 pts={-19.3,-53.5:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+203.13088       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+203.13583       VIEW_SEGLIST         pHelmIvP:795:avdcol_gilda pts={-19.5,-53.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+203.13596       VIEW_SEGLIST         pHelmIvP:795:avdcol_predictiongilda_1 pts={-19.5,-53.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+203.38355       VIEW_SEGLIST         pHelmIvP:796:avdcol_gilda pts={-19.7,-53.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+203.38362       VIEW_SEGLIST         pHelmIvP:796:avdcol_predictiongilda_1 pts={-19.7,-53.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+203.63801       VIEW_SEGLIST         pHelmIvP:797:avdcol_gilda pts={-19.8,-53.8:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+203.63813       VIEW_SEGLIST         pHelmIvP:797:avdcol_predictiongilda_1 pts={-19.8,-53.8:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+203.88687       VIEW_SEGLIST         pHelmIvP:798:avdcol_gilda pts={-20.2,-54:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+203.88699       VIEW_SEGLIST         pHelmIvP:798:avdcol_predictiongilda_1 pts={-20.2,-54:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+204.14016       VIEW_SEGLIST         pHelmIvP:799:avdcol_gilda pts={-20.4,-54.1:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+204.14031       VIEW_SEGLIST         pHelmIvP:799:avdcol_predictiongilda_1 pts={-20.4,-54.1:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+204.14234       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+204.38796       VIEW_SEGLIST         pHelmIvP:800:avdcol_gilda pts={-20.5,-54.2:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+204.38805       VIEW_SEGLIST         pHelmIvP:800:avdcol_predictiongilda_1 pts={-20.5,-54.2:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+204.63915       VIEW_SEGLIST         pHelmIvP:801:avdcol_gilda pts={-20.9,-54.3:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+204.63928       VIEW_SEGLIST         pHelmIvP:801:avdcol_predictiongilda_1 pts={-20.9,-54.3:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+204.88897       VIEW_SEGLIST         pHelmIvP:802:avdcol_gilda pts={-21.1,-54.4:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+204.88905       VIEW_SEGLIST         pHelmIvP:802:avdcol_predictiongilda_1 pts={-21.1,-54.4:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+205.13995       VIEW_SEGLIST         pHelmIvP:803:avdcol_gilda pts={-21.3,-54.5:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+205.14010       VIEW_SEGLIST         pHelmIvP:803:avdcol_predictiongilda_1 pts={-21.3,-54.5:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+205.15056       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+205.39087       VIEW_SEGLIST         pHelmIvP:804:avdcol_gilda pts={-21.4,-54.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+205.39096       VIEW_SEGLIST         pHelmIvP:804:avdcol_predictiongilda_1 pts={-21.4,-54.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+205.64213       VIEW_SEGLIST         pHelmIvP:805:avdcol_gilda pts={-21.8,-54.8:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+205.64225       VIEW_SEGLIST         pHelmIvP:805:avdcol_predictiongilda_1 pts={-21.8,-54.8:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+205.89169       VIEW_SEGLIST         pHelmIvP:806:avdcol_gilda pts={-21.9,-54.9:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+205.89179       VIEW_SEGLIST         pHelmIvP:806:avdcol_predictiongilda_1 pts={-21.9,-54.9:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+206.14244       VIEW_SEGLIST         pHelmIvP:807:avdcol_gilda pts={-22.1,-54.9:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+206.14254       VIEW_SEGLIST         pHelmIvP:807:avdcol_predictiongilda_1 pts={-22.1,-54.9:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+206.15883       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+206.39323       VIEW_SEGLIST         pHelmIvP:808:avdcol_gilda pts={-22.3,-55:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+206.39331       VIEW_SEGLIST         pHelmIvP:808:avdcol_predictiongilda_1 pts={-22.3,-55:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+206.64507       VIEW_SEGLIST         pHelmIvP:809:avdcol_gilda pts={-22.6,-55.2:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+206.64521       VIEW_SEGLIST         pHelmIvP:809:avdcol_predictiongilda_1 pts={-22.6,-55.2:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+206.89512       VIEW_SEGLIST         pHelmIvP:810:avdcol_gilda pts={-22.8,-55.3:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+206.89524       VIEW_SEGLIST         pHelmIvP:810:avdcol_predictiongilda_1 pts={-22.8,-55.3:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+207.14610       VIEW_SEGLIST         pHelmIvP:811:avdcol_gilda pts={-23,-55.4:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+207.14619       VIEW_SEGLIST         pHelmIvP:811:avdcol_predictiongilda_1 pts={-23,-55.4:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+207.16874       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+207.39685       VIEW_SEGLIST         pHelmIvP:812:avdcol_gilda pts={-23.1,-55.4:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+207.39697       VIEW_SEGLIST         pHelmIvP:812:avdcol_predictiongilda_1 pts={-23.1,-55.4:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+207.64782       VIEW_SEGLIST         pHelmIvP:813:avdcol_gilda pts={-23.5,-55.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+207.64792       VIEW_SEGLIST         pHelmIvP:813:avdcol_predictiongilda_1 pts={-23.5,-55.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+207.89872       VIEW_SEGLIST         pHelmIvP:814:avdcol_gilda pts={-23.6,-55.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+207.89884       VIEW_SEGLIST         pHelmIvP:814:avdcol_predictiongilda_1 pts={-23.6,-55.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+208.14942       VIEW_SEGLIST         pHelmIvP:815:avdcol_gilda pts={-23.8,-55.8:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+208.14950       VIEW_SEGLIST         pHelmIvP:815:avdcol_predictiongilda_1 pts={-23.8,-55.8:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+208.17779       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+208.40027       VIEW_SEGLIST         pHelmIvP:816:avdcol_gilda pts={-24,-55.8:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+208.40038       VIEW_SEGLIST         pHelmIvP:816:avdcol_predictiongilda_1 pts={-24,-55.8:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+208.65067       VIEW_SEGLIST         pHelmIvP:817:avdcol_gilda pts={-24.3,-56:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+208.65077       VIEW_SEGLIST         pHelmIvP:817:avdcol_predictiongilda_1 pts={-24.3,-56:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+208.90134       VIEW_SEGLIST         pHelmIvP:818:avdcol_gilda pts={-24.4,-56.1:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+208.90144       VIEW_SEGLIST         pHelmIvP:818:avdcol_predictiongilda_1 pts={-24.4,-56.1:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+209.15311       VIEW_SEGLIST         pHelmIvP:819:avdcol_gilda pts={-24.6,-56.1:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+209.15327       VIEW_SEGLIST         pHelmIvP:819:avdcol_predictiongilda_1 pts={-24.6,-56.1:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+209.18420       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+209.40302       VIEW_SEGLIST         pHelmIvP:820:avdcol_gilda pts={-24.8,-56.2:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+209.40314       VIEW_SEGLIST         pHelmIvP:820:avdcol_predictiongilda_1 pts={-24.8,-56.2:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+209.65366       VIEW_SEGLIST         pHelmIvP:821:avdcol_gilda pts={-25.1,-56.4:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+209.65377       VIEW_SEGLIST         pHelmIvP:821:avdcol_predictiongilda_1 pts={-25.1,-56.4:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+209.90446       VIEW_SEGLIST         pHelmIvP:822:avdcol_gilda pts={-25.3,-56.4:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+209.90458       VIEW_SEGLIST         pHelmIvP:822:avdcol_predictiongilda_1 pts={-25.3,-56.4:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+210.15210       VIEW_SEGLIST         pHelmIvP:823:avdcol_gilda pts={-25.4,-56.5:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+210.15215       VIEW_SEGLIST         pHelmIvP:823:avdcol_predictiongilda_1 pts={-25.4,-56.5:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+210.19291       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+210.40552       VIEW_SEGLIST         pHelmIvP:824:avdcol_gilda pts={-25.6,-56.6:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+210.40561       VIEW_SEGLIST         pHelmIvP:824:avdcol_predictiongilda_1 pts={-25.6,-56.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+210.65627       VIEW_SEGLIST         pHelmIvP:825:avdcol_gilda pts={-25.9,-56.7:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+210.65639       VIEW_SEGLIST         pHelmIvP:825:avdcol_predictiongilda_1 pts={-25.9,-56.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+210.90681       VIEW_SEGLIST         pHelmIvP:826:avdcol_gilda pts={-26.1,-56.8:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+210.90693       VIEW_SEGLIST         pHelmIvP:826:avdcol_predictiongilda_1 pts={-26.1,-56.8:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+211.15743       VIEW_POINT           pHelmIvP:827:loiter x=0,y=0,active=false,label=henry_waypoint 
+211.15744       VIEW_POLYGON         pHelmIvP:827:loiter pts={-6,-16:-16,-23:-20,-35:-16,-47:-6,-54:6,-54:16,-47:20,-35:16,-23:6,-16},active=false,label=henry_loiter 
+211.15752       VIEW_SEGLIST         pHelmIvP:827:travel pts={80,-58:-80,-58},label=henry_travel,label_color=white,edge_color=white,vertex_color=dodger_blue,vertex_size=3,edge_size=1 
+211.15753       VIEW_POINT           pHelmIvP:827:travel x=-80,y=-58,active=true,label=henry's next waypoint,label_color=aqua,vertex_size=5 
+211.15754       VIEW_POINT           pHelmIvP:827:travel x=0,y=0,active=false,label=henry's track-point 
+211.15760       VIEW_SEGLIST         pHelmIvP:827:avdcol_gilda pts={-26.2,-56.8:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+211.15776       VIEW_SEGLIST         pHelmIvP:827:avdcol_predictiongilda_1 pts={-26.2,-56.8:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+211.20161       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+211.40845       VIEW_SEGLIST         pHelmIvP:828:avdcol_gilda pts={-26.4,-56.9:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+211.40856       VIEW_SEGLIST         pHelmIvP:828:avdcol_predictiongilda_1 pts={-26.4,-56.9:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+211.66041       VIEW_SEGLIST         pHelmIvP:829:avdcol_gilda pts={-26.7,-57:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+211.66050       VIEW_SEGLIST         pHelmIvP:829:avdcol_predictiongilda_1 pts={-26.7,-57:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+211.91009       VIEW_SEGLIST         pHelmIvP:830:avdcol_gilda pts={-26.8,-57.1:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+211.91018       VIEW_SEGLIST         pHelmIvP:830:avdcol_predictiongilda_1 pts={-26.8,-57.1:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+212.16078       VIEW_SEGLIST         pHelmIvP:831:avdcol_gilda pts={-27,-57.2:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+212.16087       VIEW_SEGLIST         pHelmIvP:831:avdcol_predictiongilda_1 pts={-27,-57.2:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+212.21054       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+212.41106       VIEW_SEGLIST         pHelmIvP:832:avdcol_gilda pts={-27.2,-57.2:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+212.41117       VIEW_SEGLIST         pHelmIvP:832:avdcol_predictiongilda_1 pts={-27.2,-57.2:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+212.66160       VIEW_SEGLIST         pHelmIvP:833:avdcol_gilda pts={-27.5,-57.3:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+212.66177       VIEW_SEGLIST         pHelmIvP:833:avdcol_predictiongilda_1 pts={-27.5,-57.3:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+212.91207       VIEW_SEGLIST         pHelmIvP:834:avdcol_gilda pts={-27.6,-57.4:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+212.91218       VIEW_SEGLIST         pHelmIvP:834:avdcol_predictiongilda_1 pts={-27.6,-57.4:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+213.15920       VIEW_SEGLIST         pHelmIvP:835:avdcol_gilda pts={-27.8,-57.5:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+213.15923       VIEW_SEGLIST         pHelmIvP:835:avdcol_predictiongilda_1 pts={-27.8,-57.5:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+213.21933       VIEW_SEGLIST         pyIMM_Bu        pts={25.022793848932956,-23.64272217696508}, label=pred kfgilda 
+213.41260       VIEW_SEGLIST         pHelmIvP:836:avdcol_gilda pts={-27.9,-57.5:18,-48.4},label=henryavdcol_gilda,msg=cpa 
+213.41274       VIEW_SEGLIST         pHelmIvP:836:avdcol_predictiongilda_1 pts={-27.9,-57.5:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+213.66356       VIEW_SEGLIST         pHelmIvP:837:avdcol_gilda pts={-28.3,-57.6:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+213.66369       VIEW_SEGLIST         pHelmIvP:837:avdcol_predictiongilda_1 pts={-28.3,-57.6:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+213.91409       VIEW_SEGLIST         pHelmIvP:838:avdcol_gilda pts={-28.4,-57.7:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+213.91419       VIEW_SEGLIST         pHelmIvP:838:avdcol_predictiongilda_1 pts={-28.4,-57.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+214.16370       VIEW_SEGLIST         pHelmIvP:839:avdcol_gilda pts={-28.6,-57.7:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+214.16379       VIEW_SEGLIST         pHelmIvP:839:avdcol_predictiongilda_1 pts={-28.6,-57.7:25,-23.6},label=henryavdcol_predictiongilda_1,msg=cpa 
+214.23081       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+214.41500       VIEW_SEGLIST         pHelmIvP:840:avdcol_gilda pts={-28.7,-57.8:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+214.41511       VIEW_SEGLIST         pHelmIvP:840:avdcol_predictiongilda_1 pts={-28.7,-57.8:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+214.66613       VIEW_SEGLIST         pHelmIvP:841:avdcol_gilda pts={-29,-57.9:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+214.66624       VIEW_SEGLIST         pHelmIvP:841:avdcol_predictiongilda_1 pts={-29,-57.9:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+214.91646       VIEW_SEGLIST         pHelmIvP:842:avdcol_gilda pts={-29.2,-58:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+214.91656       VIEW_SEGLIST         pHelmIvP:842:avdcol_predictiongilda_1 pts={-29.2,-58:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+215.16708       VIEW_SEGLIST         pHelmIvP:843:avdcol_gilda pts={-29.4,-58:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+215.16721       VIEW_SEGLIST         pHelmIvP:843:avdcol_predictiongilda_1 pts={-29.4,-58:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+215.24004       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+215.41786       VIEW_SEGLIST         pHelmIvP:844:avdcol_gilda pts={-29.5,-58.1:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+215.41795       VIEW_SEGLIST         pHelmIvP:844:avdcol_predictiongilda_1 pts={-29.5,-58.1:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+215.66959       VIEW_SEGLIST         pHelmIvP:845:avdcol_gilda pts={-29.8,-58.2:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+215.66970       VIEW_SEGLIST         pHelmIvP:845:avdcol_predictiongilda_1 pts={-29.8,-58.2:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+215.91883       VIEW_SEGLIST         pHelmIvP:846:avdcol_gilda pts={-30,-58.2:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+215.91894       VIEW_SEGLIST         pHelmIvP:846:avdcol_predictiongilda_1 pts={-30,-58.2:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+216.16964       VIEW_SEGLIST         pHelmIvP:847:avdcol_gilda pts={-30.1,-58.2:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+216.16977       VIEW_SEGLIST         pHelmIvP:847:avdcol_predictiongilda_1 pts={-30.1,-58.2:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+216.25144       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+216.42066       VIEW_SEGLIST         pHelmIvP:848:avdcol_gilda pts={-30.3,-58.3:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+216.42075       VIEW_SEGLIST         pHelmIvP:848:avdcol_predictiongilda_1 pts={-30.3,-58.3:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+216.66950       VIEW_SEGLIST         pHelmIvP:849:avdcol_gilda pts={-30.6,-58.4:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+216.66956       VIEW_SEGLIST         pHelmIvP:849:avdcol_predictiongilda_1 pts={-30.6,-58.4:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+216.92241       VIEW_SEGLIST         pHelmIvP:850:avdcol_gilda pts={-30.8,-58.4:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+216.92253       VIEW_SEGLIST         pHelmIvP:850:avdcol_predictiongilda_1 pts={-30.8,-58.4:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+217.17352       VIEW_SEGLIST         pHelmIvP:851:avdcol_gilda pts={-30.9,-58.5:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+217.17357       VIEW_SEGLIST         pHelmIvP:851:avdcol_predictiongilda_1 pts={-30.9,-58.5:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+217.26291       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+217.42436       VIEW_SEGLIST         pHelmIvP:852:avdcol_gilda pts={-31.1,-58.5:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+217.42448       VIEW_SEGLIST         pHelmIvP:852:avdcol_predictiongilda_1 pts={-31.1,-58.5:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+217.67416       VIEW_SEGLIST         pHelmIvP:853:avdcol_gilda pts={-31.4,-58.6:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+217.67424       VIEW_SEGLIST         pHelmIvP:853:avdcol_predictiongilda_1 pts={-31.4,-58.6:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+217.92515       VIEW_SEGLIST         pHelmIvP:854:avdcol_gilda pts={-31.6,-58.6:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+217.92525       VIEW_SEGLIST         pHelmIvP:854:avdcol_predictiongilda_1 pts={-31.6,-58.6:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+218.17594       VIEW_SEGLIST         pHelmIvP:855:avdcol_gilda pts={-31.7,-58.7:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+218.17605       VIEW_SEGLIST         pHelmIvP:855:avdcol_predictiongilda_1 pts={-31.7,-58.7:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+218.27305       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+218.42684       VIEW_SEGLIST         pHelmIvP:856:avdcol_gilda pts={-31.9,-58.7:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+218.42728       VIEW_SEGLIST         pHelmIvP:856:avdcol_predictiongilda_1 pts={-31.9,-58.7:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+218.67789       VIEW_SEGLIST         pHelmIvP:857:avdcol_gilda pts={-32.2,-58.8:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+218.67805       VIEW_SEGLIST         pHelmIvP:857:avdcol_predictiongilda_1 pts={-32.2,-58.8:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+218.92825       VIEW_SEGLIST         pHelmIvP:858:avdcol_gilda pts={-32.3,-58.8:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+218.92838       VIEW_SEGLIST         pHelmIvP:858:avdcol_predictiongilda_1 pts={-32.3,-58.8:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+219.17448       VIEW_SEGLIST         pHelmIvP:859:avdcol_gilda pts={-32.5,-58.9:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+219.17451       VIEW_SEGLIST         pHelmIvP:859:avdcol_predictiongilda_1 pts={-32.5,-58.9:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+219.27676       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+219.42918       VIEW_SEGLIST         pHelmIvP:860:avdcol_gilda pts={-32.7,-58.9:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+219.42928       VIEW_SEGLIST         pHelmIvP:860:avdcol_predictiongilda_1 pts={-32.7,-58.9:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+219.67889       VIEW_SEGLIST         pHelmIvP:861:avdcol_gilda pts={-33,-59:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+219.67906       VIEW_SEGLIST         pHelmIvP:861:avdcol_predictiongilda_1 pts={-33,-59:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+219.93116       VIEW_SEGLIST         pHelmIvP:862:avdcol_gilda pts={-33.1,-59:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+219.93126       VIEW_SEGLIST         pHelmIvP:862:avdcol_predictiongilda_1 pts={-33.1,-59:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+220.18103       VIEW_SEGLIST         pHelmIvP:863:avdcol_gilda pts={-33.3,-59:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+220.18116       VIEW_SEGLIST         pHelmIvP:863:avdcol_predictiongilda_1 pts={-33.3,-59:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+220.28772       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+220.43121       VIEW_SEGLIST         pHelmIvP:864:avdcol_gilda pts={-33.5,-59.1:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+220.43131       VIEW_SEGLIST         pHelmIvP:864:avdcol_predictiongilda_1 pts={-33.5,-59.1:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+220.67839       VIEW_SEGLIST         pHelmIvP:865:avdcol_gilda pts={-33.8,-59.1:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+220.67842       VIEW_SEGLIST         pHelmIvP:865:avdcol_predictiongilda_1 pts={-33.8,-59.1:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+220.92930       VIEW_SEGLIST         pHelmIvP:866:avdcol_gilda pts={-33.9,-59.2:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+220.92932       VIEW_SEGLIST         pHelmIvP:866:avdcol_predictiongilda_1 pts={-33.9,-59.2:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+221.18027       VIEW_SEGLIST         pHelmIvP:867:avdcol_gilda pts={-34.1,-59.2:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+221.18032       VIEW_SEGLIST         pHelmIvP:867:avdcol_predictiongilda_1 pts={-34.1,-59.2:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+221.29171       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+221.43122       VIEW_SEGLIST         pHelmIvP:868:avdcol_gilda pts={-34.3,-59.2:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+221.43126       VIEW_SEGLIST         pHelmIvP:868:avdcol_predictiongilda_1 pts={-34.3,-59.2:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+221.68216       VIEW_SEGLIST         pHelmIvP:869:avdcol_gilda pts={-34.6,-59.3:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+221.68219       VIEW_SEGLIST         pHelmIvP:869:avdcol_predictiongilda_1 pts={-34.6,-59.3:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+221.93300       VIEW_SEGLIST         pHelmIvP:870:avdcol_gilda pts={-34.7,-59.3:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+221.93303       VIEW_SEGLIST         pHelmIvP:870:avdcol_predictiongilda_1 pts={-34.7,-59.3:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+222.18396       VIEW_SEGLIST         pHelmIvP:871:avdcol_gilda pts={-34.9,-59.3:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+222.18399       VIEW_SEGLIST         pHelmIvP:871:avdcol_predictiongilda_1 pts={-34.9,-59.3:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+222.29539       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+222.43861       VIEW_SEGLIST         pHelmIvP:872:avdcol_gilda pts={-35.1,-59.3:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+222.43874       VIEW_SEGLIST         pHelmIvP:872:avdcol_predictiongilda_1 pts={-35.1,-59.3:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+222.68587       VIEW_SEGLIST         pHelmIvP:873:avdcol_gilda pts={-35.4,-59.4:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+222.68590       VIEW_SEGLIST         pHelmIvP:873:avdcol_predictiongilda_1 pts={-35.4,-59.4:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+222.93689       VIEW_SEGLIST         pHelmIvP:874:avdcol_gilda pts={-35.6,-59.4:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+222.93692       VIEW_SEGLIST         pHelmIvP:874:avdcol_predictiongilda_1 pts={-35.6,-59.4:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+223.18789       VIEW_SEGLIST         pHelmIvP:875:avdcol_gilda pts={-35.7,-59.4:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+223.18792       VIEW_SEGLIST         pHelmIvP:875:avdcol_predictiongilda_1 pts={-35.7,-59.4:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+223.29941       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+223.44299       VIEW_SEGLIST         pHelmIvP:876:avdcol_gilda pts={-35.9,-59.5:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+223.44312       VIEW_SEGLIST         pHelmIvP:876:avdcol_predictiongilda_1 pts={-35.9,-59.5:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+223.68990       VIEW_SEGLIST         pHelmIvP:877:avdcol_gilda pts={-36.2,-59.5:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+223.68994       VIEW_SEGLIST         pHelmIvP:877:avdcol_predictiongilda_1 pts={-36.2,-59.5:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+223.93981       VIEW_SEGLIST         pHelmIvP:878:avdcol_gilda pts={-36.4,-59.5:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+223.93984       VIEW_SEGLIST         pHelmIvP:878:avdcol_predictiongilda_1 pts={-36.4,-59.5:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+224.19069       VIEW_SEGLIST         pHelmIvP:879:avdcol_gilda pts={-36.5,-59.5:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+224.19073       VIEW_SEGLIST         pHelmIvP:879:avdcol_predictiongilda_1 pts={-36.5,-59.5:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+224.30318       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+224.44172       VIEW_SEGLIST         pHelmIvP:880:avdcol_gilda pts={-36.7,-59.6:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+224.44176       VIEW_SEGLIST         pHelmIvP:880:avdcol_predictiongilda_1 pts={-36.7,-59.6:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+224.69152       VIEW_SEGLIST         pHelmIvP:881:avdcol_gilda pts={-37,-59.6:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+224.69155       VIEW_SEGLIST         pHelmIvP:881:avdcol_predictiongilda_1 pts={-37,-59.6:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+224.94240       VIEW_SEGLIST         pHelmIvP:882:avdcol_gilda pts={-37.2,-59.6:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+224.94243       VIEW_SEGLIST         pHelmIvP:882:avdcol_predictiongilda_1 pts={-37.2,-59.6:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+225.19337       VIEW_SEGLIST         pHelmIvP:883:avdcol_gilda pts={-37.4,-59.6:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+225.19340       VIEW_SEGLIST         pHelmIvP:883:avdcol_predictiongilda_1 pts={-37.4,-59.6:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+225.31189       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+225.44779       VIEW_SEGLIST         pHelmIvP:884:avdcol_gilda pts={-37.5,-59.6:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+225.44792       VIEW_SEGLIST         pHelmIvP:884:avdcol_predictiongilda_1 pts={-37.5,-59.6:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+225.69628       VIEW_SEGLIST         pHelmIvP:885:avdcol_gilda pts={-37.9,-59.7:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+225.69632       VIEW_SEGLIST         pHelmIvP:885:avdcol_predictiongilda_1 pts={-37.9,-59.7:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+225.94893       VIEW_SEGLIST         pHelmIvP:886:avdcol_gilda pts={-38,-59.7:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+225.94906       VIEW_SEGLIST         pHelmIvP:886:avdcol_predictiongilda_1 pts={-38,-59.7:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+226.19612       VIEW_SEGLIST         pHelmIvP:887:avdcol_gilda pts={-38.2,-59.7:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+226.19616       VIEW_SEGLIST         pHelmIvP:887:avdcol_predictiongilda_1 pts={-38.2,-59.7:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+226.31573       VIEW_SEGLIST         pyIMM_Bu        pts={7.298779822595865,-9.84244311330434}, label=pred kfgilda 
+226.44723       VIEW_SEGLIST         pHelmIvP:888:avdcol_gilda pts={-38.4,-59.7:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+226.44727       VIEW_SEGLIST         pHelmIvP:888:avdcol_predictiongilda_1 pts={-38.4,-59.7:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+226.69810       VIEW_SEGLIST         pHelmIvP:889:avdcol_gilda pts={-38.7,-59.7:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+226.69814       VIEW_SEGLIST         pHelmIvP:889:avdcol_predictiongilda_1 pts={-38.7,-59.7:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+226.95328       VIEW_SEGLIST         pHelmIvP:890:avdcol_gilda pts={-38.9,-59.7:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+226.95343       VIEW_SEGLIST         pHelmIvP:890:avdcol_predictiongilda_1 pts={-38.9,-59.7:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+227.20098       VIEW_SEGLIST         pHelmIvP:891:avdcol_gilda pts={-39,-59.7:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+227.20103       VIEW_SEGLIST         pHelmIvP:891:avdcol_predictiongilda_1 pts={-39,-59.7:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+227.45450       VIEW_SEGLIST         pHelmIvP:892:avdcol_gilda pts={-39.2,-59.7:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+227.45464       VIEW_SEGLIST         pHelmIvP:892:avdcol_predictiongilda_1 pts={-39.2,-59.7:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 
+227.70070       VIEW_SEGLIST         pHelmIvP:893:avdcol_gilda pts={-39.5,-59.8:21.5,-28.3},label=henryavdcol_gilda,msg=cpa 
+227.70072       VIEW_SEGLIST         pHelmIvP:893:avdcol_predictiongilda_1 pts={-39.5,-59.8:7.3,-9.8},label=henryavdcol_predictiongilda_1,msg=cpa 

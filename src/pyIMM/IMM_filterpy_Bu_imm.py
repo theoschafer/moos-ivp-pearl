@@ -138,7 +138,7 @@ class pongMOOS(pymoos.comms):
 
     tracker = VesselTracker()
     
-    h= 10 #for the IMM
+    h= 30 #for the IMM
     
     def __init__(self, moos_community, moos_port):
         """Initiates MOOSComms, sets the callbacks and runs the loop"""
@@ -295,7 +295,7 @@ class pongMOOS(pymoos.comms):
 
                 
 
-                    h= 10 ## maybe modify this with the black out period of the AIS and pNodeReport
+                    h= 30 ## maybe modify this with the black out period of the AIS and pNodeReport
                     size = len(z_from_AIS)
                     nb_values_averaged = 3
                     average_dtheta = 0
@@ -346,7 +346,7 @@ class pongMOOS(pymoos.comms):
                 ## If enough data and not corrupted heading data, do the IMM filter:
 
                     
-                    h= 10 
+                    h= 30 
                     z_noise = self.tracker.get_vessel_data_for_filterpy(name)
                     z_no_noise = self.tracker.get_vessel_data_no_noise(name)
 
@@ -525,7 +525,7 @@ class pongMOOS(pymoos.comms):
                         for row in data:
                             writer.writerow(row)
                     
-                    nb_prediction_steps = 7
+                    nb_prediction_steps = 3
                     for i in range (1, nb_prediction_steps):
                         imm.predict(u[-1].reshape((2, 1)))
                         X_s.append(imm.x.copy())
@@ -560,7 +560,7 @@ class pongMOOS(pymoos.comms):
                     ## View the kf_ct predicted trajectory
                     seglist_string = 'pts={'
                     
-                    for i in range(2, nb_prediction_steps-1):
+                    for i in range(1, nb_prediction_steps-1):
                         seglist_string += str(xp[i][0]) + ',' + str(yp[i][0]) + ':' #here we select the last list of predictions and we print all the points
                         self.notify("NODE_REPORT", f"X={xp[i][0]},Y={yp[i][0]},SPD={math.sqrt(vxp[i][0]**2+vyp[i][0]**2)},HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592},NAME=prediction{name}_{i},TIME={time.time()}",-1)
                         #print("HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592}")

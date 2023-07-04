@@ -1,0 +1,26 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./LOG_JULIE_4_7_2023_____17_56_47/LOG_JULIE_4_7_2023_____17_56_47.ylog
+%% FILE OPENED ON  Wed Dec 31 19:00:00 1969
+%% LOGSTART           1688507806.858783
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1.106063   MOOS_DEBUG           pMarinePID           ** NEW CONTROLLER GAINS ARE ** 
+1.106068   MOOS_DEBUG           pMarinePID           YAW_PID_KP             = 1.200 
+1.10607    MOOS_DEBUG           pMarinePID           YAW_PID_KD             = 0.100 
+1.106071   MOOS_DEBUG           pMarinePID           YAW_PID_KI             = 0.300 
+1.106073   MOOS_DEBUG           pMarinePID           YAW_PID_INTEGRAL_LIMIT = 0.070 
+1.106075   MOOS_DEBUG           pMarinePID           MAXRUDDER              = 100.000 
+1.106759   MOOS_DEBUG           pMarinePID           SPEED_PID_KP           = 1.000 
+1.106762   MOOS_DEBUG           pMarinePID           SPEED_PID_KD           = 0.000 
+1.106763   MOOS_DEBUG           pMarinePID           SPEED_PID_KI           = 0.000 
+1.106765   MOOS_DEBUG           pMarinePID           SPEED_PID_INTEGRAL_LIMIT = 0.070 
+1.106766   MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+1.106766   MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+1.207037   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+1.451076   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+1.451076   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+3.513632   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+3.513632   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+4.203352   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
+4.214476   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+4.214476   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+4.214476   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 

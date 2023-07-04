@@ -1,0 +1,10 @@
+19.67424        IVPHELM_LIFE_EVENT   pHelmIvP        time=18.52, iter=1, bname=loiter, btype=BHV_Loiter, event=spawn, seed=helm_startup, posting_index=0 
+19.67424        IVPHELM_LIFE_EVENT   pHelmIvP        time=18.52, iter=1, bname=waypt_return, btype=BHV_Waypoint, event=spawn, seed=helm_startup, posting_index=1 
+19.67424        IVPHELM_LIFE_EVENT   pHelmIvP        time=18.52, iter=1, bname=travel, btype=BHV_Waypoint, event=spawn, seed=helm_startup, posting_index=2 
+19.67424        IVPHELM_LIFE_EVENT   pHelmIvP        time=18.52, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+19.67424        IVPHELM_LIFE_EVENT   pHelmIvP        time=18.52, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+19.67424        IVPHELM_LIFE_EVENT   pHelmIvP        time=18.52, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+19.67424        IVPHELM_LIFE_EVENT   pHelmIvP        time=18.52, iter=1, bname=station-keep, btype=BHV_StationKeep, event=spawn, seed=helm_startup, posting_index=3 
+50.97422        IVPHELM_LIFE_EVENT   pHelmIvP        time=49.82, iter=126, bname=avdcol_gilda, btype=BHV_AvdColregsV19, event=spawn, seed=name=gilda # contact=gilda, posting_index=0 
+50.97422        IVPHELM_LIFE_EVENT   pHelmIvP        time=49.82, iter=126, bname=avdcol_gilda, btype=BHV_AvdColregsV19, event=spawn, seed=name=gilda # contact=gilda, posting_index=0 
+50.97422        IVPHELM_LIFE_EVENT   pHelmIvP        time=49.82, iter=126, bname=avdcol_gilda, btype=BHV_AvdColregsV19, event=spawn, seed=name=gilda # contact=gilda, posting_index=0 

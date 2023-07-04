@@ -1,0 +1,6 @@
+50.27224        IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_gilda,var=CONTACT_INFO,time=49.07,result=duplicate,val=name=gilda # contact=gilda 
+50.27224        IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_gilda,var=CONTACT_INFO,time=49.07,result=duplicate,val=name=gilda # contact=gilda 
+66.56063        IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_gilda,var=CONTACT_INFO,time=65.36,result=duplicate,val=name=gilda # contact=gilda 
+92.63874        IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_gilda,var=CONTACT_INFO,time=91.43,result=name_mismatch,val=name=predictiongilda_1 # contact=predictiongilda_1 
+92.63875        IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_1,var=CONTACT_INFO,time=91.43,result=success,val=name=predictiongilda_1 # contact=predictiongilda_1 
+92.63875        IVPHELM_UPDATE_RESULT pHelmIvP        bhv=avdcol_predictiongilda_1,var=CONTACT_INFO,time=91.43,result=success,val=name=predictiongilda_1 # contact=predictiongilda_1 

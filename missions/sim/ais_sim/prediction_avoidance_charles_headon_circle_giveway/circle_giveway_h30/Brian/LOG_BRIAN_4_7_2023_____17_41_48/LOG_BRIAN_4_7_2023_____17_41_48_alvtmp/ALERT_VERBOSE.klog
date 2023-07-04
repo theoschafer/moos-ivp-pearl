@@ -1,0 +1,7 @@
+4.26350         ALERT_VERBOSE        pContactMgrV20  new_contact=julie 
+4.26350         ALERT_VERBOSE        pContactMgrV20  new_contact=julie 
+4.26350         ALERT_VERBOSE        pContactMgrV20  new_contact=julie 
+31.78671        ALERT_VERBOSE        pContactMgrV20  new_contact=gilda 
+31.78671        ALERT_VERBOSE        pContactMgrV20  new_contact=gilda 
+45.80865        ALERT_VERBOSE        pContactMgrV20  contact=gilda,alert_id=avdcol_,off-->alerted,alert_range=80,alert_range_cpa=85,range_actual=79.9,range_cpa=90.6 
+45.80865        ALERT_VERBOSE        pContactMgrV20  contact=gilda,alert_id=avdcol_,off-->alerted,alert_range=80,alert_range_cpa=85,range_actual=79.9,range_cpa=90.6 

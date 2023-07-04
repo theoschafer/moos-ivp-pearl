@@ -1,0 +1,205 @@
+2.30151         CONTACTS_RECAP       pContactMgrV20   
+3.30172         CONTACTS_RECAP       pContactMgrV20   
+3.30172         CONTACTS_RECAP       pContactMgrV20   
+4.30366         CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.64,age=0.80 # vname=julie,range=105.90,age=0.80 
+4.30366         CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.64,age=0.80 # vname=julie,range=105.90,age=0.80 
+5.30399         CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.79,age=0.80 # vname=julie,range=105.03,age=0.80 
+5.30399         CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.79,age=0.80 # vname=julie,range=105.03,age=0.80 
+6.30517         CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.80 # vname=julie,range=104.19,age=0.47 
+6.30517         CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.80 # vname=julie,range=104.19,age=0.47 
+7.30612         CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.31 # vname=julie,range=103.46,age=0.00 
+8.30700         CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.31 # vname=julie,range=102.69,age=0.00 
+9.30782         CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.31 # vname=julie,range=101.95,age=0.00 
+10.30863        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.31 # vname=julie,range=101.25,age=0.00 
+11.30951        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.31 # vname=julie,range=100.58,age=0.00 
+12.31136        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.31 # vname=julie,range=99.94,age=0.00 
+13.31208        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.31 # vname=julie,range=99.33,age=0.00 
+14.31276        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.31 # vname=julie,range=98.74,age=0.00 
+15.31340        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.30 # vname=julie,range=98.19,age=0.00 
+16.31416        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.30 # vname=julie,range=97.49,age=0.50 
+17.31487        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.30 # vname=julie,range=97.19,age=0.00 
+18.31551        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.80 # vname=julie,range=96.52,age=0.50 
+19.31627        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.80 # vname=julie,range=96.07,age=0.48 
+20.31714        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=julie,range=95.66,age=0.48 
+21.31783        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=julie,range=95.27,age=0.48 
+22.31875        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=julie,range=94.91,age=0.48 
+23.31948        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.81,age=0.81 # vname=julie,range=94.57,age=0.48 
+24.32042        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=julie,range=94.26,age=0.48 
+25.32118        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=julie,range=93.96,age=0.48 
+26.32190        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=julie,range=93.69,age=0.48 
+27.32259        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=julie,range=93.44,age=0.48 
+28.32341        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=julie,range=93.22,age=0.48 
+29.32418        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=julie,range=93.00,age=0.48 
+30.32487        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.81,age=0.80 # vname=julie,range=92.80,age=0.48 
+31.32552        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.80 # vname=julie,range=92.63,age=0.48 
+32.32768        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=gilda,range=92.32,age=1.03 # vname=julie,range=92.47,age=0.47 
+33.32809        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=gilda,range=91.39,age=2.03 # vname=julie,range=92.31,age=0.47 
+34.33002        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=gilda,range=90.47,age=3.03 # vname=julie,range=92.18,age=0.48 
+35.33201        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.81,age=0.81 # vname=gilda,range=89.55,age=4.03 # vname=julie,range=92.05,age=0.48 
+36.33396        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.79,age=0.81 # vname=gilda,range=88.64,age=5.03 # vname=julie,range=91.94,age=0.48 
+37.33580        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.81 # vname=gilda,range=87.73,age=6.03 # vname=julie,range=91.84,age=0.48 
+38.33759        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.82 # vname=gilda,range=86.82,age=7.04 # vname=julie,range=91.75,age=0.48 
+39.33935        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.79,age=0.82 # vname=gilda,range=85.92,age=8.04 # vname=julie,range=91.66,age=0.48 
+40.34111        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.82 # vname=gilda,range=85.01,age=9.04 # vname=julie,range=91.49,age=0.48 
+41.34288        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.79,age=0.82 # vname=gilda,range=84.11,age=10.04 # vname=julie,range=91.14,age=0.48 
+42.34461        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.82 # vname=gilda,range=83.20,age=11.04 # vname=julie,range=90.74,age=0.48 
+43.34653        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.82 # vname=gilda,range=82.30,age=12.04 # vname=julie,range=90.38,age=0.48 
+44.34818        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.83 # vname=gilda,range=81.40,age=13.05 # vname=julie,range=90.01,age=0.51 
+45.35006        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.82 # vname=gilda,range=80.50,age=14.05 # vname=julie,range=89.65,age=0.51 
+46.35178        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.82 # vname=gilda,range=79.60,age=15.05 # vname=julie,range=89.31,age=0.51 
+46.35178        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.82 # vname=gilda,range=79.60,age=15.05 # vname=julie,range=89.31,age=0.51 
+47.35346        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.82 # vname=gilda,range=78.71,age=16.05 # vname=julie,range=88.97,age=0.50 
+48.35532        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.82 # vname=gilda,range=77.82,age=17.05 # vname=julie,range=88.64,age=0.50 
+49.35718        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.82 # vname=gilda,range=76.93,age=18.05 # vname=julie,range=88.30,age=0.50 
+50.35894        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.83 # vname=gilda,range=76.04,age=19.06 # vname=julie,range=87.97,age=0.50 
+51.36066        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.83 # vname=gilda,range=75.16,age=20.06 # vname=julie,range=87.65,age=0.50 
+52.36261        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.83 # vname=gilda,range=74.28,age=21.06 # vname=julie,range=87.31,age=0.50 
+53.36467        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.83 # vname=gilda,range=73.40,age=22.06 # vname=julie,range=86.98,age=0.49 
+54.36659        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.83 # vname=gilda,range=72.53,age=23.06 # vname=julie,range=86.63,age=0.50 
+55.36850        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.84 # vname=gilda,range=71.66,age=24.07 # vname=julie,range=86.30,age=0.50 
+56.36902        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.84 # vname=gilda,range=70.79,age=25.07 # vname=julie,range=85.94,age=0.50 
+57.37177        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.84 # vname=gilda,range=69.93,age=26.07 # vname=julie,range=85.58,age=0.50 
+58.37366        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.80,age=0.84 # vname=gilda,range=69.07,age=27.07 # vname=julie,range=85.21,age=0.50 
+59.37517        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.81,age=0.84 # vname=gilda,range=68.21,age=28.07 # vname=julie,range=84.82,age=0.51 
+60.37701        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.41,age=0.33 # vname=gilda,range=67.36,age=29.07 # vname=julie,range=84.61,age=0.02 
+61.37960        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.41,age=0.34 # vname=gilda,range=66.51,age=30.08 # vname=julie,range=84.19,age=0.02 
+62.38047        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.34 # vname=gilda,range=83.58,age=0.77 # vname=julie,range=83.75,age=0.01 
+62.38047        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.34 # vname=gilda,range=83.58,age=0.77 # vname=julie,range=83.75,age=0.01 
+63.38230        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.34 # vname=gilda,range=82.72,age=1.77 # vname=julie,range=83.30,age=0.01 
+64.38455        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.34 # vname=gilda,range=81.86,age=2.77 # vname=julie,range=82.80,age=0.02 
+65.38604        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.34 # vname=gilda,range=81.00,age=3.77 # vname=julie,range=82.26,age=0.02 
+66.38793        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.41,age=0.35 # vname=gilda,range=80.15,age=4.78 # vname=julie,range=81.72,age=0.02 
+67.38954        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.41,age=0.35 # vname=gilda,range=79.29,age=5.78 # vname=julie,range=81.17,age=0.01 
+68.39115        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.35 # vname=gilda,range=78.45,age=6.78 # vname=julie,range=80.61,age=0.01 
+69.39281        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.35 # vname=gilda,range=77.60,age=7.78 # vname=julie,range=80.03,age=0.01 
+70.39443        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.35 # vname=gilda,range=76.76,age=8.78 # vname=julie,range=79.44,age=0.01 
+71.39632        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.41,age=0.34 # vname=gilda,range=75.92,age=9.78 # vname=julie,range=78.85,age=0.01 
+72.39820        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.35 # vname=gilda,range=75.09,age=10.79 # vname=julie,range=78.24,age=0.01 
+73.39996        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.35 # vname=gilda,range=74.26,age=11.79 # vname=julie,range=77.60,age=0.01 
+74.40169        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.35 # vname=gilda,range=73.44,age=12.79 # vname=julie,range=76.96,age=0.01 
+75.40318        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.41,age=0.35 # vname=gilda,range=72.62,age=13.79 # vname=julie,range=76.29,age=0.01 
+76.40526        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.41,age=0.35 # vname=gilda,range=71.80,age=14.79 # vname=julie,range=75.62,age=0.01 
+77.40712        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.35 # vname=gilda,range=70.99,age=15.79 # vname=julie,range=74.91,age=0.01 
+78.40896        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.36 # vname=gilda,range=70.19,age=16.80 # vname=julie,range=74.19,age=0.01 
+79.41059        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.36 # vname=gilda,range=69.39,age=17.80 # vname=julie,range=73.45,age=0.01 
+80.41256        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.41,age=0.36 # vname=gilda,range=68.59,age=18.80 # vname=julie,range=72.70,age=0.01 
+81.41413        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.36 # vname=gilda,range=67.80,age=19.80 # vname=julie,range=71.91,age=0.01 
+82.41572        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.36 # vname=gilda,range=67.02,age=20.80 # vname=julie,range=71.12,age=0.03 
+83.41755        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.37 # vname=gilda,range=66.24,age=21.81 # vname=julie,range=70.30,age=0.03 
+84.41917        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.37 # vname=gilda,range=65.47,age=22.81 # vname=julie,range=69.46,age=0.03 
+85.42085        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.41,age=0.36 # vname=gilda,range=64.70,age=23.81 # vname=julie,range=68.59,age=0.03 
+86.42247        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.36 # vname=gilda,range=63.94,age=24.81 # vname=julie,range=67.71,age=0.03 
+87.42409        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.36 # vname=gilda,range=63.19,age=25.81 # vname=julie,range=66.80,age=0.03 
+88.42583        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.36 # vname=gilda,range=62.44,age=26.81 # vname=julie,range=65.87,age=0.03 
+89.42771        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.41,age=0.37 # vname=gilda,range=61.71,age=27.82 # vname=julie,range=64.92,age=0.03 
+90.42950        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.37 # vname=gilda,range=60.97,age=28.82 # vname=julie,range=63.95,age=0.02 
+91.43161        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.37 # vname=gilda,range=60.25,age=29.82 # vname=julie,range=62.96,age=0.02 
+92.43286        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.40,age=0.37 # vname=gilda,range=61.97,age=0.52 # vname=julie,range=61.94,age=0.02 
+93.43510        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.34,age=0.37 # vname=gilda,range=61.16,age=1.52 # vname=julie,range=60.97,age=0.02 # vname=predictiongilda_1,range=52.53,age=0.80 
+93.43510        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.34,age=0.37 # vname=gilda,range=61.16,age=1.52 # vname=julie,range=60.97,age=0.02 # vname=predictiongilda_1,range=52.53,age=0.80 
+94.43615        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.34,age=0.37 # vname=gilda,range=60.40,age=2.52 # vname=julie,range=60.02,age=0.02 # vname=predictiongilda_1,range=51.67,age=0.80 
+95.43693        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.36,age=0.37 # vname=gilda,range=59.63,age=3.52 # vname=julie,range=59.04,age=0.02 # vname=predictiongilda_1,range=50.80,age=0.79 
+96.43755        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.86,age=0.87 # vname=gilda,range=58.86,age=4.52 # vname=julie,range=58.17,age=0.52 # vname=predictiongilda_1,range=49.94,age=0.79 
+97.43813        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.85,age=0.88 # vname=gilda,range=58.08,age=5.53 # vname=julie,range=57.15,age=0.51 # vname=predictiongilda_1,range=49.08,age=0.79 
+98.43888        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.83,age=0.87 # vname=gilda,range=57.30,age=6.53 # vname=julie,range=56.09,age=0.51 # vname=predictiongilda_1,range=48.21,age=0.78 
+99.43974        CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.79,age=0.87 # vname=gilda,range=56.51,age=7.53 # vname=julie,range=55.01,age=0.51 # vname=predictiongilda_1,range=47.34,age=0.78 
+100.44105       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.58,age=0.87 # vname=gilda,range=55.88,age=8.53 # vname=julie,range=54.07,age=0.51 # vname=predictiongilda_1,range=46.65,age=0.78 
+101.44171       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.53,age=0.87 # vname=gilda,range=55.08,age=9.53 # vname=julie,range=52.94,age=0.51 # vname=predictiongilda_1,range=45.78,age=0.77 
+102.44255       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.50,age=0.87 # vname=gilda,range=54.28,age=10.53 # vname=julie,range=51.77,age=0.51 # vname=predictiongilda_1,range=44.91,age=0.77 
+103.44329       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.29,age=0.37 # vname=gilda,range=53.62,age=11.53 # vname=julie,range=50.53,age=0.01 # vname=predictiongilda_1,range=44.18,age=0.77 
+104.44393       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.55,age=0.37 # vname=gilda,range=53.03,age=12.53 # vname=julie,range=49.54,age=0.00 # vname=predictiongilda_1,range=43.52,age=0.76 
+105.44473       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.81,age=0.37 # vname=gilda,range=52.43,age=13.53 # vname=julie,range=48.52,age=0.03 # vname=predictiongilda_1,range=42.84,age=0.76 
+106.44454       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=1.06,age=0.37 # vname=gilda,range=51.83,age=14.53 # vname=julie,range=47.48,age=0.00 # vname=predictiongilda_1,range=42.14,age=0.76 
+106.44454       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=1.06,age=0.37 # vname=gilda,range=51.83,age=14.53 # vname=julie,range=47.48,age=0.00 # vname=predictiongilda_1,range=42.14,age=0.76 
+107.44654       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=0.76,age=0.87 # vname=gilda,range=51.24,age=15.53 # vname=julie,range=46.65,age=0.50 # vname=predictiongilda_1,range=41.42,age=0.75 
+108.44724       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=1.04,age=0.87 # vname=gilda,range=50.66,age=16.53 # vname=julie,range=45.59,age=0.50 # vname=predictiongilda_1,range=40.71,age=0.75 
+109.44828       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=1.89,age=0.38 # vname=gilda,range=50.09,age=17.54 # vname=julie,range=44.25,age=0.02 # vname=predictiongilda_1,range=40.01,age=0.75 
+110.44918       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=1.70,age=0.88 # vname=gilda,range=49.58,age=18.54 # vname=julie,range=43.48,age=0.50 # vname=predictiongilda_1,range=39.36,age=0.74 
+111.44985       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=2.04,age=0.88 # vname=gilda,range=49.05,age=19.54 # vname=julie,range=42.41,age=0.50 # vname=predictiongilda_1,range=38.69,age=0.74 
+112.45059       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=2.37,age=0.87 # vname=gilda,range=48.49,age=20.54 # vname=julie,range=41.32,age=0.50 # vname=predictiongilda_1,range=38.01,age=0.74 
+113.45111       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=2.68,age=0.87 # vname=gilda,range=47.93,age=21.54 # vname=julie,range=40.19,age=0.53 # vname=predictiongilda_1,range=37.33,age=0.73 
+114.45167       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=2.97,age=0.87 # vname=gilda,range=47.34,age=22.54 # vname=julie,range=39.04,age=0.53 # vname=predictiongilda_1,range=36.62,age=0.73 
+115.45241       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.25,age=0.87 # vname=gilda,range=46.74,age=23.54 # vname=julie,range=37.87,age=0.52 # vname=predictiongilda_1,range=35.92,age=0.72 
+116.45317       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.53,age=0.87 # vname=gilda,range=46.13,age=24.54 # vname=julie,range=36.68,age=0.52 # vname=predictiongilda_1,range=35.21,age=0.72 
+117.45384       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.77,age=0.87 # vname=gilda,range=45.50,age=25.54 # vname=julie,range=35.45,age=0.52 # vname=predictiongilda_1,range=34.49,age=0.72 
+118.45455       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.80,age=0.87 # vname=gilda,range=44.86,age=26.54 # vname=julie,range=34.20,age=0.51 # vname=predictiongilda_1,range=33.78,age=0.72 
+119.45531       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.58,age=0.87 # vname=gilda,range=44.21,age=27.54 # vname=julie,range=32.92,age=0.49 # vname=predictiongilda_1,range=33.05,age=0.71 
+120.45601       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.30,age=0.87 # vname=gilda,range=43.55,age=28.54 # vname=julie,range=31.63,age=0.48 # vname=predictiongilda_1,range=32.32,age=0.71 
+121.45700       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.01,age=0.87 # vname=gilda,range=42.87,age=29.54 # vname=julie,range=30.31,age=0.53 # vname=predictiongilda_1,range=31.60,age=0.70 
+122.45796       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=2.93,age=0.88 # vname=gilda,range=42.19,age=30.55 # vname=julie,range=28.98,age=0.52 # vname=predictiongilda_1,range=30.87,age=0.70 
+123.45741       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.06,age=0.88 # vname=gilda,range=27.94,age=1.25 # vname=julie,range=27.71,age=0.52 # vname=predictiongilda_1,range=6.90,age=0.69 
+124.46022       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.29,age=0.88 # vname=gilda,range=27.39,age=2.25 # vname=julie,range=26.56,age=0.51 # vname=predictiongilda_1,range=6.63,age=0.69 
+125.46081       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.65,age=0.37 # vname=gilda,range=27.08,age=3.25 # vname=julie,range=25.39,age=0.01 # vname=predictiongilda_1,range=6.51,age=0.69 
+126.46086       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.71,age=0.37 # vname=gilda,range=26.92,age=4.25 # vname=julie,range=24.62,age=0.01 # vname=predictiongilda_1,range=6.46,age=0.69 
+127.46180       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.72,age=0.37 # vname=gilda,range=26.78,age=5.25 # vname=julie,range=23.86,age=0.01 # vname=predictiongilda_1,range=6.41,age=0.68 
+128.46493       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.72,age=0.37 # vname=gilda,range=26.63,age=6.25 # vname=julie,range=23.09,age=0.01 # vname=predictiongilda_1,range=6.37,age=0.68 
+129.46416       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.73,age=0.37 # vname=gilda,range=26.48,age=7.25 # vname=julie,range=22.32,age=0.01 # vname=predictiongilda_1,range=6.34,age=0.67 
+130.46679       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.73,age=0.37 # vname=gilda,range=26.34,age=8.25 # vname=julie,range=21.55,age=0.01 # vname=predictiongilda_1,range=6.32,age=0.67 
+131.46752       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.75,age=0.37 # vname=gilda,range=26.20,age=9.25 # vname=julie,range=20.79,age=0.01 # vname=predictiongilda_1,range=6.30,age=0.66 
+132.46820       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.77,age=0.38 # vname=gilda,range=26.05,age=10.26 # vname=julie,range=20.04,age=0.01 # vname=predictiongilda_1,range=6.29,age=0.66 
+133.46905       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.79,age=0.38 # vname=gilda,range=25.91,age=11.26 # vname=julie,range=19.33,age=0.02 # vname=predictiongilda_1,range=6.28,age=0.65 
+134.47005       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.82,age=0.38 # vname=gilda,range=25.77,age=12.26 # vname=julie,range=18.61,age=0.02 # vname=predictiongilda_1,range=6.28,age=0.65 
+135.47109       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.86,age=0.38 # vname=gilda,range=25.63,age=13.26 # vname=julie,range=17.88,age=0.01 # vname=predictiongilda_1,range=6.29,age=0.64 
+136.47240       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.89,age=0.38 # vname=gilda,range=25.49,age=14.26 # vname=julie,range=17.15,age=0.02 # vname=predictiongilda_1,range=6.30,age=0.64 
+137.47336       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.94,age=0.38 # vname=gilda,range=25.35,age=15.26 # vname=julie,range=16.41,age=0.02 # vname=predictiongilda_1,range=6.32,age=0.63 
+138.47405       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=3.99,age=0.38 # vname=gilda,range=25.22,age=16.26 # vname=julie,range=15.67,age=0.02 # vname=predictiongilda_1,range=6.35,age=0.62 
+139.47465       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=4.05,age=0.37 # vname=gilda,range=25.08,age=17.26 # vname=julie,range=14.93,age=0.02 # vname=predictiongilda_1,range=6.38,age=0.62 
+140.47523       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=4.12,age=0.37 # vname=gilda,range=24.95,age=18.26 # vname=julie,range=14.18,age=0.02 # vname=predictiongilda_1,range=6.42,age=0.61 
+141.47592       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=4.20,age=0.37 # vname=gilda,range=24.82,age=19.26 # vname=julie,range=13.46,age=0.02 # vname=predictiongilda_1,range=6.46,age=0.61 
+142.47657       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=4.36,age=0.37 # vname=gilda,range=24.69,age=20.26 # vname=julie,range=12.72,age=0.02 # vname=predictiongilda_1,range=6.51,age=0.60 
+143.47727       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=4.71,age=0.37 # vname=gilda,range=24.56,age=21.26 # vname=julie,range=11.99,age=0.02 # vname=predictiongilda_1,range=6.57,age=0.59 
+144.47795       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=4.84,age=0.38 # vname=gilda,range=24.43,age=22.27 # vname=julie,range=11.28,age=0.02 # vname=predictiongilda_1,range=6.63,age=0.59 
+145.47862       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=5.24,age=0.38 # vname=gilda,range=24.31,age=23.27 # vname=julie,range=10.57,age=0.02 # vname=predictiongilda_1,range=6.69,age=0.58 
+146.47949       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=5.45,age=0.38 # vname=gilda,range=24.18,age=24.27 # vname=julie,range=9.88,age=0.02 # vname=predictiongilda_1,range=6.77,age=0.58 
+147.48028       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=5.64,age=0.38 # vname=gilda,range=24.06,age=25.27 # vname=julie,range=9.21,age=0.02 # vname=predictiongilda_1,range=6.84,age=0.57 
+148.48116       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=6.06,age=0.38 # vname=gilda,range=23.94,age=26.27 # vname=julie,range=8.56,age=0.02 # vname=predictiongilda_1,range=6.92,age=0.57 
+149.48208       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=6.58,age=0.38 # vname=gilda,range=23.83,age=27.27 # vname=julie,range=8.18,age=0.51 # vname=predictiongilda_1,range=7.01,age=0.56 
+150.48303       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=7.23,age=0.38 # vname=gilda,range=23.71,age=28.27 # vname=julie,range=7.60,age=0.50 # vname=predictiongilda_1,range=7.10,age=0.56 
+151.48431       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=7.70,age=0.88 # vname=gilda,range=23.60,age=29.27 # vname=julie,range=7.06,age=0.50 # vname=predictiongilda_1,range=7.20,age=0.55 
+152.48598       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=8.57,age=0.88 # vname=gilda,range=23.49,age=30.27 # vname=julie,range=6.61,age=0.52 # vname=predictiongilda_1,range=7.29,age=0.55 
+153.48722       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=9.44,age=0.87 # vname=gilda,range=6.28,age=0.96 # vname=julie,range=6.19,age=0.52 # vname=predictiongilda_1,range=7.40,age=0.54 
+154.48870       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=10.29,age=0.88 # vname=gilda,range=6.32,age=1.97 # vname=julie,range=5.82,age=0.51 # vname=predictiongilda_1,range=18.52,age=0.53 
+155.49008       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=11.47,age=0.38 # vname=gilda,range=6.37,age=2.97 # vname=julie,range=5.38,age=0.00 # vname=predictiongilda_1,range=18.58,age=0.53 
+156.49141       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=12.30,age=0.38 # vname=gilda,range=6.42,age=3.97 # vname=julie,range=5.18,age=0.00 # vname=predictiongilda_1,range=18.64,age=0.52 
+157.49283       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=13.13,age=0.38 # vname=gilda,range=6.48,age=4.97 # vname=julie,range=5.06,age=0.01 # vname=predictiongilda_1,range=18.70,age=0.52 
+158.49430       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=13.96,age=0.38 # vname=gilda,range=6.55,age=5.97 # vname=julie,range=5.03,age=0.01 # vname=predictiongilda_1,range=18.75,age=0.51 
+159.49449       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=14.77,age=0.38 # vname=gilda,range=6.62,age=6.97 # vname=julie,range=5.11,age=0.01 # vname=predictiongilda_1,range=18.81,age=0.50 
+160.49645       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=15.60,age=0.38 # vname=gilda,range=6.70,age=7.97 # vname=julie,range=5.27,age=0.01 # vname=predictiongilda_1,range=18.86,age=0.50 
+161.49706       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=16.42,age=0.38 # vname=gilda,range=6.78,age=8.97 # vname=julie,range=5.50,age=0.01 # vname=predictiongilda_1,range=18.91,age=0.49 
+162.49787       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=17.24,age=0.39 # vname=gilda,range=6.86,age=9.98 # vname=julie,range=5.82,age=0.01 # vname=predictiongilda_1,range=18.96,age=0.47 
+163.49882       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=18.06,age=0.39 # vname=gilda,range=6.95,age=10.98 # vname=julie,range=6.18,age=0.00 # vname=predictiongilda_1,range=19.01,age=0.47 
+164.49977       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=18.87,age=0.39 # vname=gilda,range=7.05,age=11.98 # vname=julie,range=6.59,age=0.00 # vname=predictiongilda_1,range=19.05,age=0.47 
+165.50074       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=19.70,age=0.39 # vname=gilda,range=7.15,age=12.98 # vname=julie,range=7.04,age=0.00 # vname=predictiongilda_1,range=19.10,age=0.46 
+166.50177       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=20.53,age=0.39 # vname=gilda,range=7.25,age=13.98 # vname=julie,range=7.52,age=0.01 # vname=predictiongilda_1,range=19.14,age=0.46 
+167.50284       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=21.35,age=0.38 # vname=gilda,range=7.35,age=14.98 # vname=julie,range=8.02,age=0.01 # vname=predictiongilda_1,range=19.18,age=0.45 
+168.50383       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=22.19,age=0.38 # vname=gilda,range=7.46,age=15.98 # vname=julie,range=8.52,age=0.01 # vname=predictiongilda_1,range=19.22,age=0.44 
+169.50505       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=23.04,age=0.38 # vname=gilda,range=7.58,age=16.98 # vname=julie,range=9.04,age=0.02 # vname=predictiongilda_1,range=19.26,age=0.43 
+170.50615       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=23.87,age=0.38 # vname=gilda,range=7.69,age=17.98 # vname=julie,range=9.55,age=0.02 # vname=predictiongilda_1,range=19.30,age=0.43 
+171.50702       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=24.73,age=0.38 # vname=gilda,range=7.81,age=18.98 # vname=julie,range=10.03,age=0.02 # vname=predictiongilda_1,range=19.33,age=0.42 
+172.50790       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=25.59,age=0.38 # vname=gilda,range=7.93,age=19.98 # vname=julie,range=10.49,age=0.02 # vname=predictiongilda_1,range=19.36,age=0.41 
+173.50906       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=26.46,age=0.39 # vname=gilda,range=8.06,age=20.99 # vname=julie,range=10.97,age=0.02 # vname=predictiongilda_1,range=19.39,age=0.41 
+174.51020       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=27.34,age=0.39 # vname=gilda,range=8.18,age=21.99 # vname=julie,range=11.44,age=0.02 # vname=predictiongilda_1,range=19.42,age=0.40 
+175.51102       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=28.23,age=0.39 # vname=gilda,range=8.31,age=22.99 # vname=julie,range=11.91,age=0.02 # vname=predictiongilda_1,range=19.45,age=0.40 
+176.51218       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=29.12,age=0.39 # vname=gilda,range=8.44,age=23.99 # vname=julie,range=12.38,age=0.02 # vname=predictiongilda_1,range=19.48,age=0.39 
+177.51344       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=30.02,age=0.39 # vname=gilda,range=8.57,age=24.99 # vname=julie,range=12.83,age=0.02 # vname=predictiongilda_1,range=19.50,age=0.38 
+178.51432       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=30.94,age=0.39 # vname=gilda,range=8.71,age=25.99 # vname=julie,range=13.29,age=0.02 # vname=predictiongilda_1,range=19.52,age=0.38 
+179.51528       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=31.87,age=0.39 # vname=gilda,range=8.84,age=26.99 # vname=julie,range=13.75,age=0.01 # vname=predictiongilda_1,range=19.55,age=0.37 
+180.51626       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=32.81,age=0.39 # vname=gilda,range=8.98,age=27.99 # vname=julie,range=14.20,age=0.01 # vname=predictiongilda_1,range=19.57,age=0.36 
+181.51769       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=33.75,age=0.39 # vname=gilda,range=9.12,age=28.99 # vname=julie,range=14.65,age=0.02 # vname=predictiongilda_1,range=19.58,age=0.36 
+182.51897       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=34.70,age=0.39 # vname=gilda,range=9.26,age=30.00 # vname=julie,range=15.08,age=0.02 # vname=predictiongilda_1,range=19.60,age=0.35 
+183.52063       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=35.71,age=0.39 # vname=gilda,range=15.34,age=0.70 # vname=julie,range=15.52,age=0.02 # vname=predictiongilda_1,range=32.90,age=0.35 
+184.52208       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=36.73,age=0.39 # vname=gilda,range=15.37,age=1.70 # vname=julie,range=15.96,age=0.02 # vname=predictiongilda_1,range=32.63,age=0.34 
+185.52353       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=37.68,age=0.39 # vname=gilda,range=15.39,age=2.70 # vname=julie,range=16.37,age=0.01 # vname=predictiongilda_1,range=32.51,age=0.33 
+186.52457       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=38.62,age=0.39 # vname=gilda,range=15.41,age=3.70 # vname=julie,range=16.79,age=0.01 # vname=predictiongilda_1,range=32.41,age=0.33 
+187.52565       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=39.56,age=0.39 # vname=gilda,range=15.44,age=4.70 # vname=julie,range=17.21,age=0.01 # vname=predictiongilda_1,range=32.31,age=0.32 
+188.52674       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=40.50,age=0.39 # vname=gilda,range=15.47,age=5.70 # vname=julie,range=17.62,age=0.01 # vname=predictiongilda_1,range=32.22,age=0.31 
+189.52752       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=41.43,age=0.39 # vname=gilda,range=15.51,age=6.70 # vname=julie,range=18.03,age=0.01 # vname=predictiongilda_1,range=32.12,age=0.30 
+190.52856       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=42.36,age=0.40 # vname=gilda,range=15.55,age=7.71 # vname=julie,range=18.43,age=0.01 # vname=predictiongilda_1,range=32.03,age=0.29 
+191.52971       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=43.29,age=0.40 # vname=gilda,range=15.59,age=8.71 # vname=julie,range=18.83,age=0.01 # vname=predictiongilda_1,range=31.95,age=0.29 
+192.53057       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=44.21,age=0.40 # vname=gilda,range=15.64,age=9.71 # vname=julie,range=19.17,age=0.01 # vname=predictiongilda_1,range=31.86,age=0.28 
+193.53135       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=45.13,age=0.40 # vname=gilda,range=15.69,age=10.71 # vname=julie,range=19.53,age=0.01 # vname=predictiongilda_1,range=31.78,age=0.28 
+194.53099       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=46.05,age=0.40 # vname=gilda,range=15.75,age=11.71 # vname=julie,range=19.87,age=0.02 # vname=predictiongilda_1,range=31.71,age=0.27 
+195.53426       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=46.96,age=0.40 # vname=gilda,range=15.82,age=12.71 # vname=julie,range=20.21,age=0.02 # vname=predictiongilda_1,range=31.62,age=0.27 
+196.53341       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=47.89,age=0.40 # vname=gilda,range=15.90,age=13.71 # vname=julie,range=20.55,age=0.02 # vname=predictiongilda_1,range=31.52,age=0.26 
+197.53666       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=48.81,age=0.40 # vname=gilda,range=15.97,age=14.71 # vname=julie,range=20.88,age=0.02 # vname=predictiongilda_1,range=31.44,age=0.26 
+198.53584       CONTACTS_RECAP       pContactMgrV20  vname=brian,range=49.72,age=0.39 # vname=gilda,range=16.06,age=15.71 # vname=julie,range=21.20,age=0.02 # vname=predictiongilda_1,range=31.35,age=0.25 
