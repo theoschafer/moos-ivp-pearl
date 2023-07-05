@@ -229,7 +229,7 @@ class pongMOOS(pymoos.comms):
 
         for name in self.tracker.vessels:
 
-            if name == "gilda" : #only generate prediction points for abe, not for other vessels
+            if name == "abe" : #only generate prediction points for abe, not for other vessels
 
                 z_from_AIS = self.tracker.get_vessel_data(name) ## Data in x,y,speed, theta format
                 time_stamps = self.tracker.get_time_stamps(name)
