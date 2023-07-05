@@ -580,7 +580,7 @@ def main():
     
     ##self.notify('MAIN_CALLED', 1, -1)
 
-    ponger1 = pongMOOS('localhost', 9001)
+    ponger1 = pongMOOS('192.168.1.89', 9002)
     
 
     while True:

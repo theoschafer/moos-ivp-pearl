@@ -35,14 +35,14 @@ MOOS_PORT0="9001"
 PSHARE_PORT0="9201"
 VNAME0="abe"
 INDEX0="1"
-XMODE0="SIM"
+XMODE0="M300"
 START_POS0="15,-40,0"
 SPEED0="1.0"
 RETURN_POS0="5,0"
 MAXSPD0="2"
 VLANE0=arlo
 
-IP_ADDR1="192.168.14.100"
+IP_ADDR1="192.168.1.89"
 MOOS_PORT1="9002"
 PSHARE_PORT1="9202"
 VNAME1="pearl"
@@ -164,10 +164,10 @@ done
 #  Part 3: If Heron hardware, set key info based on IP address
 #--------------------------------------------------------------
 if [ "${XMODE0}" = "M300" ]; then
-    COLOR=`get_heron_info.sh --color --hint=$COLOR`
-    IP_ADDR0=`get_heron_info.sh --ip`
-    FSEAT_IP=`get_heron_info.sh --fseat`
-    VNAME0=`get_heron_info.sh --name`
+    COLOR=`./get_heron_info.sh --color --hint=$COLOR`
+    IP_ADDR0=`./get_heron_info.sh --ip`
+    FSEAT_IP=`./get_heron_info.sh --fseat`
+    VNAME0=`./get_heron_info.sh --name`
     if [ $? != 0 ]; then
 	echo "$ME: Problem getting Heron Info. Exit Code 2"
 	exit 2
