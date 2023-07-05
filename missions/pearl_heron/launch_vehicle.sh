@@ -17,32 +17,32 @@ ME=`basename "$0"`
 GRN=$(tput setaf 2) # Green 
 NC=$(tput setaf 0)  # Reset
 
-TIME_WARP=5
+TIME_WARP=1
 JUST_MAKE="no"
 VERBOSE="no"
 AUTO_LAUNCHED="no"
 CMD_ARGS=""
 
-SHORE_IP="localhost"
+SHORE_IP="192.168.1.111"
 SHORE_PSHARE="9200"
 REGION="pavlab"
 
 COLOR="coral"
 MEDIATED="yes"
 
-IP_ADDR0="localhost"
+IP_ADDR0="192.168.14.100"
 MOOS_PORT0="9001"
 PSHARE_PORT0="9201"
 VNAME0="abe"
 INDEX0="1"
 XMODE0="SIM"
-START_POS0="15,-40,-90"
+START_POS0="15,-40,0"
 SPEED0="1.0"
 RETURN_POS0="5,0"
 MAXSPD0="2"
 VLANE0=arlo
 
-IP_ADDR1="localhost"
+IP_ADDR1="192.168.14.100"
 MOOS_PORT1="9002"
 PSHARE_PORT1="9202"
 VNAME1="pearl"

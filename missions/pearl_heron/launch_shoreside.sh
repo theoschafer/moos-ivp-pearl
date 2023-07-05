@@ -11,15 +11,15 @@ ME=`basename "$0"`
 GRN=$(tput setaf 2) # Green 
 NC=$(tput setaf 0)  # Reset
 
-TIME_WARP=5
+TIME_WARP=1
 JUST_MAKE="no"
 VERBOSE=""
 AUTO_LAUNCHED="no"
 CMD_ARGS=""
-XMODE="M300"
+XMODE="SIM"
 
 REGION="pavlab"
-IP_ADDR="localhost"
+IP_ADDR="192.168.1.111"
 MOOS_PORT="9000"
 PSHARE_PORT="9200"
 FORCE_IP=""
