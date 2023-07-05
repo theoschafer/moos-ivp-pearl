@@ -68,7 +68,7 @@ ProcessConfig = uFldShoreBroker
 	bridge   = src=DRIFT_VECTOR
 
   bridge   = src=NODE_REPORT_$V, alias=NODE_REPORT_TRUE
-  bridge = src=NODE_REPORT_ABE, alias=NODE_REPORT_TRUE | src=NODE_REPORT_JULIE, alias=NODE_REPORT
+  bridge = src=NODE_REPORT_$V, alias=NODE_REPORT
 	
   bridge   = src=HELM_MAP_CLEAR, alias=HELM_MAP_CLEAR
 }
