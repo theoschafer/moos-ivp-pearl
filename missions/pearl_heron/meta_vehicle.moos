@@ -5,6 +5,7 @@ Community  = $(VNAME)
 #include plug_origin_warp.moos
 
 #ifdef VNAME pearl
+#include plug_pEchoVar.moos
 #include plug_pPearlPID.moos
 //#include plug_iDualGPS.moos
 #include plug_iGPS.moos
@@ -31,6 +32,7 @@ ProcessConfig = ANTLER
   Run = uFldMessageHandler @ NewConsole = false
 
   #ifdef VNAME pearl
+  Run = pEchoVar          @ NewConsole = false
   Run = pOdometry	@ NewConsole = false
   Run = pTargetCPA         @ NewConsole = false
   //Run = uSimMarineV22  @ NewConsole = false  //to be kept only for gilda, and only for simulating. If not there, pearl doesn't show up and prediction doesnt work either
