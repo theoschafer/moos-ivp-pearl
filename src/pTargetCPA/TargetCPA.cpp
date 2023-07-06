@@ -112,7 +112,7 @@ bool TargetCPA::Iterate()
   AppCastingMOOSApp::Iterate();
   // Do your thing here!
   
-  if (m_TS_name == "julie")
+  if (m_TS_name == "abe")
   {
   m_cpa = sqrt(pow((m_current_x-m_target_temp_x),2)+pow((m_current_y-m_target_temp_y),2));
   Notify("TARGET_CPA", m_cpa);
@@ -182,7 +182,7 @@ bool TargetCPA::buildReport()
   m_msgs << "File:                                       " << endl;
   m_msgs << "============================================" << endl;
 
-  m_msgs << "CPA to Julie: " << m_cpa << endl;
+  m_msgs << "CPA to Abe: " << m_cpa << endl;
 
   return(true);
 }

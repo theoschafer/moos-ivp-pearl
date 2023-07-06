@@ -61,22 +61,22 @@ class VesselTracker:
             self.vessels[name] = []
 
         # # Append new data to the vessel's list, while keeping the format from x,y,speed, theta 
-        # self.vessels[name].append(np.array([
-        #         [x], 
-        #         [y],
-        #         [speed], 
-        #         [theta] 
-        #         ]))
-        # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
-        sigma_pos = 0.5
-        sigma_speed = 0.01
-        sigma_theta = 0 #degrees
         self.vessels[name].append(np.array([
-                [x+np.random.normal(0, sigma_pos)], 
-                [y+np.random.normal(0, sigma_pos)],
-                [speed+np.random.normal(0, sigma_speed)], 
-                [theta+np.random.normal(0, sigma_theta)] 
+                [x], 
+                [y],
+                [speed], 
+                [theta] 
                 ]))
+        # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
+        # sigma_pos = 0.5
+        # sigma_speed = 0.01
+        # sigma_theta = 0 #degrees
+        # self.vessels[name].append(np.array([
+        #         [x+np.random.normal(0, sigma_pos)], 
+        #         [y+np.random.normal(0, sigma_pos)],
+        #         [speed+np.random.normal(0, sigma_speed)], 
+        #         [theta+np.random.normal(0, sigma_theta)] 
+        #         ]))
 
     def add_time_stamps(self, name, time):
         if name not in self.time_stamps:
@@ -96,23 +96,23 @@ class VesselTracker:
             self.vessels_for_filterpy[name] = []
 
         # Append new data to the vessel's list, while changing the format from x,y,speed, theta -> x, y, dx, dy (expected by the kf_ct filter from filterpy). /!\ Will prbly have to convert deg-rad
-        # self.vessels_for_filterpy[name].append(np.array([
-        #         [x], 
-        #         [y],
-        #         [speed*math.sin(theta*3.141592/180)],  #x is sin because of the referential in MOOS (north reference and clockwise positive angle)
-        #         [speed*math.cos(theta*3.141592/180)] 
-        #         ]))
+        self.vessels_for_filterpy[name].append(np.array([
+                [x], 
+                [y],
+                [speed*math.sin(theta*3.141592/180)],  #x is sin because of the referential in MOOS (north reference and clockwise positive angle)
+                [speed*math.cos(theta*3.141592/180)] 
+                ]))
         
         # Append new data to the vessel's list, while keeping the format from x,y,speed, theta, and adds noise to the data
-        sigma_pos = 0.5
-        sigma_speed = 0.01
-        sigma_theta = 0 #degrees
-        self.vessels_for_filterpy[name].append(np.array([
-                [x+np.random.normal(0, sigma_pos)], 
-                [y+np.random.normal(0, sigma_pos)],
-                [(speed+np.random.normal(0, sigma_speed))*math.sin((theta+np.random.normal(0, sigma_theta))*3.141592/180)],  #x is sin because of the referential in MOOS (north reference and clockwise positive angle)
-                [(speed+np.random.normal(0, sigma_speed))*math.cos((theta+np.random.normal(0, sigma_theta))*3.141592/180)] 
-                ]))
+        # sigma_pos = 0.5
+        # sigma_speed = 0.01
+        # sigma_theta = 0 #degrees
+        # self.vessels_for_filterpy[name].append(np.array([
+        #         [x+np.random.normal(0, sigma_pos)], 
+        #         [y+np.random.normal(0, sigma_pos)],
+        #         [(speed+np.random.normal(0, sigma_speed))*math.sin((theta+np.random.normal(0, sigma_theta))*3.141592/180)],  #x is sin because of the referential in MOOS (north reference and clockwise positive angle)
+        #         [(speed+np.random.normal(0, sigma_speed))*math.cos((theta+np.random.normal(0, sigma_theta))*3.141592/180)] 
+        #         ]))
         
 
 

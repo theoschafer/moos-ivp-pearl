@@ -36,7 +36,7 @@ ProcessConfig = ANTLER
   Run = pOdometry	@ NewConsole = false
   Run = pTargetCPA         @ NewConsole = false
   //Run = uSimMarineV22  @ NewConsole = false  //to be kept only for gilda, and only for simulating. If not there, pearl doesn't show up and prediction doesnt work either
-  Run = IMM_filterpy_Bu_imm.py @ NewConsole = false
+  //Run = IMM_filterpy_Bu_imm.py @ NewConsole = false
   Run = iGPS         @ NewConsole = false
   Run = iPEARL      @ NewConsole = false
   Run = pPearlPID   @ NewConsole = false
@@ -163,10 +163,10 @@ ProcessConfig = pNodeReporter
 
   vessel_type = kayak
   #else 
-  //AppTick     = 0.033
-  //CommsTick   = 0.033
-  AppTick     = 0.5
-  CommsTick   = 0.5
+  AppTick     = 0.033
+  CommsTick   = 0.033
+  //AppTick     = 0.5
+  //CommsTick   = 0.5
   vessel_type = kayak
   #endif
 
