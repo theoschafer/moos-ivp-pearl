@@ -35,8 +35,8 @@ set MODE = TRAVELLING {
 #ifdef VNAME pearl || VNAME brian 
 initialize MODE = TRAVELLING
 #else
-initialize MODE = T
-initialize   LOITER  = true
+initialize MODE = TRAVELLING
+initialize   LOITER  = false
 #endif
 
 //----------------------------------------------
@@ -152,14 +152,14 @@ Behavior = BHV_Waypoint
   nm_radius = 15.0
   
   #ifdef VNAME pearl || VNAME brian 
-     points = -60,-56 : 120,-40 
+     points = -25,-20 : 100,40 
      
     #else
     //points =  -40,-70 : 70,20
-    points =  120,-40 :-80,-60
+    points =  100,40  :-25,-20
     #endif
      //repeat = 10
-       lead = 8
+       lead = 5
       
 }
 

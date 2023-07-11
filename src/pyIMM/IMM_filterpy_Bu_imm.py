@@ -539,7 +539,6 @@ class pongMOOS(pymoos.comms):
                     # p3 = plt.scatter(xp, yp, color='b', marker='.', s=75, alpha=0.5)
                     # plt.legend([p3, p2, p1], ['Pred', 'Kalman filter', 'Measurements'],
                     # scatterpoints=1)  
-
                     # plt.figure(figsize=(10, 6))
 
                     # for i, history in enumerate(zip(*prob_history)):
@@ -560,7 +559,7 @@ class pongMOOS(pymoos.comms):
                     ## View the kf_ct predicted trajectory
                     seglist_string = 'pts={'
                     
-                    for i in range(1, nb_prediction_steps-1):
+                    for i in range(2, nb_prediction_steps-1):
                         seglist_string += str(xp[i][0]) + ',' + str(yp[i][0]) + ':' #here we select the last list of predictions and we print all the points
                         self.notify("NODE_REPORT", f"X={xp[i][0]},Y={yp[i][0]},SPD={math.sqrt(vxp[i][0]**2+vyp[i][0]**2)},HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592},NAME=prediction{name}_{i},TIME={time.time()}",-1)
                         #print("HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592}")
