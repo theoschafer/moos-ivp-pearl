@@ -100,7 +100,7 @@ Behavior = BHV_AvdColregsV19
 	
 	post_per_contact_info = true
 	
-  use_refinery = true
+  use_refinery = false
 
         pwt_outer_dist = 80
         pwt_inner_dist = 50
@@ -150,8 +150,11 @@ Behavior = BHV_Waypoint
       speed = 0.6
      radius = 3.0
   nm_radius = 15.0
+  lead = 50
+  lead_to_start = true
   
   #ifdef VNAME pearl || VNAME brian 
+  
      points = -65,-39 : 100,40 
      
     #else
@@ -159,7 +162,7 @@ Behavior = BHV_Waypoint
     points =  100,40  :-25,-20
     #endif
      //repeat = 10
-       lead = 5
+       
       
 }
 
