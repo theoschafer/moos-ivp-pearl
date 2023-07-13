@@ -559,7 +559,7 @@ class pongMOOS(pymoos.comms):
                     ## View the kf_ct predicted trajectory
                     seglist_string = 'pts={'
                     
-                    for i in range(2, nb_prediction_steps-1):
+                    for i in range(1, nb_prediction_steps-1):
                         seglist_string += str(xp[i][0]) + ',' + str(yp[i][0]) + ':' #here we select the last list of predictions and we print all the points
                         self.notify("NODE_REPORT", f"X={xp[i][0]},Y={yp[i][0]},SPD={math.sqrt(vxp[i][0]**2+vyp[i][0]**2)},HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592},NAME=prediction{name}_{i},TIME={time.time()}",-1)
                         #print("HDG={math.atan2(vxp[i][0], vyp[i][0])*180/3.141592}")
@@ -569,7 +569,7 @@ class pongMOOS(pymoos.comms):
 
                     self.notify('VIEW_SEGLIST', seglist_string, -1) 
 
-                    #print(seglist_string)
+                    print(seglist_string)
 
                     #plt.show()    
 
@@ -579,7 +579,7 @@ def main():
     
     ##self.notify('MAIN_CALLED', 1, -1)
 
-    ponger1 = pongMOOS('192.168.1.94', 9002)
+    ponger1 = pongMOOS('localhost', 9002)
     
 
     while True:

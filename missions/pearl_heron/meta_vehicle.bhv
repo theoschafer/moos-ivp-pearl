@@ -35,8 +35,8 @@ set MODE = TRAVELLING {
 #ifdef VNAME pearl || VNAME brian 
 initialize MODE = TRAVELLING
 #else
-initialize MODE = TRAVELLING
-initialize   LOITER  = false
+initialize MODE = LOITERING
+initialize   LOITER  = true
 #endif
 
 //----------------------------------------------
@@ -57,7 +57,7 @@ Behavior = BHV_Loiter
         radius = 8.0
      //nm_radius = 15.0
      nm_radius = 15.0
-       polygon = radial:: x=0, y= -40 , radius=12, pts=8, snap=1, label=$(VNAME)_LOITER
+       polygon = radial:: x=30, y= -15 , radius=12, pts=8, snap=1, label=$(VNAME)_LOITER
   visual_hints = nextpt_color=white, nextpt_lcolor=khaki
   visual_hints = edge_color=orange, vertex_color=white
   visual_hints = edge_size=1, vertex_size=2
@@ -79,7 +79,7 @@ Behavior = BHV_AvdColregsV19
     on_no_contact_ok = true
     #ifdef VNAME pearl
          extrapolate = false
-         
+         //ignore_name = abe
          ignore_name = brian
          ignore_name = julie
          
@@ -152,7 +152,7 @@ Behavior = BHV_Waypoint
   nm_radius = 15.0
   
   #ifdef VNAME pearl || VNAME brian 
-     points = -25,-20 : 100,40 
+     points = -65,-39 : 100,40 
      
     #else
     //points =  -40,-70 : 70,20

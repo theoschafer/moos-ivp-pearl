@@ -17,7 +17,7 @@ ME=`basename "$0"`
 GRN=$(tput setaf 2) # Green 
 NC=$(tput setaf 0)  # Reset
 
-TIME_WARP=1
+TIME_WARP=5
 JUST_MAKE="no"
 VERBOSE="no"
 AUTO_LAUNCHED="no"
