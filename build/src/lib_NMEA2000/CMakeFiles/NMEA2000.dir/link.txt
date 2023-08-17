@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libNMEA2000.a CMakeFiles/NMEA2000.dir/N2kDeviceList.cpp.o CMakeFiles/NMEA2000.dir/N2kGroupFunction.cpp.o CMakeFiles/NMEA2000.dir/N2kGroupFunctionDefaultHandlers.cpp.o CMakeFiles/NMEA2000.dir/N2kMessages.cpp.o CMakeFiles/NMEA2000.dir/N2kMsg.cpp.o CMakeFiles/NMEA2000.dir/N2kStream.cpp.o CMakeFiles/NMEA2000.dir/NMEA2000.cpp.o CMakeFiles/NMEA2000.dir/NMEA2000_SocketCAN.cpp.o
+/usr/bin/ranlib ../../../lib/libNMEA2000.a

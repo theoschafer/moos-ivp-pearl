@@ -25,7 +25,7 @@ Behavior = BHV_StationKeep
 	visual_hints       = vertex_size=0, edge_color=blue
 }
 //-----------------------------------------
-//Behavior = BHV_Waypoint //original square for PID
+//Behavior = BHV_Waypoint //original for PID tuning
 {
   name      = waypt_square
   pwt       = 100
@@ -36,14 +36,14 @@ Behavior = BHV_StationKeep
   endflag   = RETURN=true
   UPDATES   = WPT_UPDATE
   
-	lead           = 8
-	lead_damper    = 1
+	//lead           = 8
+	//lead_damper    = 1
 	speed          = 0.5   //meters per second
 	capture_line   = true
 	capture_radius = 5
 	slip_radius    = 10
 
-	points      = -26,-24 // 0,-40 : 0,-70 : -30,-70 : -30,-40
+	points      = -70,-40 : -70,-70 : -30,-70 : -30,-40
 	
 
 	repeat         = 1
@@ -56,9 +56,40 @@ Behavior = BHV_StationKeep
 	visual_hints = vertex_size=5, edge_size=1
 }
 
+//-----------------------------------------
+Behavior = BHV_Waypoint //mapRRT trajectory
+{
+  name      = waypt_square
+  pwt       = 100
+  condition = DEPLOY=true
+  condition = RETURN=false
+  condition = STATION_KEEP=false
+  condition = MOOS_MANUAL_OVERRIDE=false
+  endflag   = RETURN=true
+  UPDATES   = WPT_UPDATE
+  
+	//lead           = 8
+	//lead_damper    = 1
+	speed          = 0.5   //meters per second
+	capture_line   = true
+	capture_radius = 5
+	slip_radius    = 10
+
+	points      = -77.8544,-18.3177 : -85.6389,-20.0595 : -94.7084,-25.9725 : -94.8791,-30.5142 : -94.184,-33.856 : -91.1517,-40.1208 : -87.5361,-45.6377 : -84.6989,-46.296 : -77.0544,-45.2743 : -60.1973,-37.3997 : -37.4952,-25.2342 : -19.0924,-15.8396 : 4.93207,-6.34103 : 20.6806,0.495709 : 40.7806,8.84517 : 58.1042,17.4342 : 58.0541,26.2802 : 56.9607,32.4213 : 54.6285,36.8538 : 53.086,37.4839 : 48.0952,37.726 : 39.3159,36.252 
+	
+
+	repeat         = 1
+	order          = reverse
+
+	visual_hints = nextpt_color=yellow
+	visual_hints = nextpt_vertex_size=8
+	visual_hints = nextpt_lcolor=gray70
+	visual_hints = vertex_color=dodger_blue, edge_color=white
+	visual_hints = vertex_size=5, edge_size=1
+}
 
 //-----------------------------------------
-Behavior = BHV_Waypoint
+//Behavior = BHV_Waypoint //for testing in hangar
 {
   name      = waypt_square
   pwt       = 100
@@ -76,7 +107,39 @@ Behavior = BHV_Waypoint
 	capture_radius = 5
 	slip_radius    = 10
 
-	points      = -26,-24 // 0,-40 : 0,-70 : -30,-70 : -30,-40
+	points      = 0,10 : 50, 35: 100 ,55
+	
+
+	repeat         = 1
+	order          = normal
+
+	visual_hints = nextpt_color=yellow
+	visual_hints = nextpt_vertex_size=8
+	visual_hints = nextpt_lcolor=gray70
+	visual_hints = vertex_color=dodger_blue, edge_color=white
+	visual_hints = vertex_size=5, edge_size=1
+}
+
+//-----------------------------------------
+//Behavior = BHV_Waypoint //mapRRT as in screenshots
+{
+  name      = waypt_square
+  pwt       = 100
+  condition = DEPLOY=true
+  condition = RETURN=false
+  condition = STATION_KEEP=false
+  condition = MOOS_MANUAL_OVERRIDE=false
+  endflag   = RETURN=true
+  UPDATES   = WPT_UPDATE
+  
+	lead           = 8
+	lead_damper    = 1
+	speed          = 0.5   //meters per second
+	capture_line   = true
+	capture_radius = 5
+	slip_radius    = 10
+
+	points      = -76.0578,-18.606 : -90.3107,-21.675 : -94.9271,-26.2357 : -94.8451,-30.8841 : -93.182,-39.3038 : -88.5053,-42.2085 : -68.7403,-35.3634 : -53.6002,-27.9969 : -29.4834,-17.3374 : -6.0578,-6.68165 : 18.1792,4.44207 : 28.3553,9.13142 : 37.9796,13.5644 : 55.6695,21.1869 : 57.1392,23.6159 : 58.0702,27.6562 : 57.1324,33.1507 : 54.1992,37.8049 : 48.847,37.717 : 38.5867,35.4721 
 	
 
 	repeat         = 1

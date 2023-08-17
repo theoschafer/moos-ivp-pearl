@@ -1,7 +1,7 @@
 //*******************************************************
 // Vehicle MOOS configuration file
 
-ServerHost = 192.168.20.137
+ServerHost = 192.168.128.43
 ServerPort = 9001
 
 // Community name IS the vehicle name
@@ -33,7 +33,7 @@ Processconfig = ANTLER
   Run = iGPS	        @ NewConsole = false
   Run = iPEARL            @ NewConsole = false
   Run = uSunTracking      @ NewConsole = false
-  Run = iRPISerial	      @ NewConsole = false
+  //Run = iRPISerial	      @ NewConsole = false
   
   Run = pShare            @ NewConsole = false
   Run = pHostInfo         @ NewConsole = false
@@ -116,9 +116,9 @@ ProcessConfig = pPearlPID
   HEADING_DEADBAND = 5    // +/- degrees
   
   // Yaw PID controller
-  YAW_PID_KP             = 0.4
+  YAW_PID_KP             = 0.3
   YAW_PID_KI             = 0.04
-  YAW_PID_KD             = 4
+  YAW_PID_KD             = 5
   YAW_PID_INTEGRAL_LIMIT = 0.07
   
   // Speed PID controller
@@ -148,10 +148,10 @@ ProcessConfig = uProcessWatch
   watch  = pNodeReporter
   watch  = pPearlPID
   watch  = pHelmIvP
-  watch  = iDualGPS
+  watch  = iGPS
   watch  = iPEARL
   watch  = uSunTracking
-  watch  = iRPISerial
+ // watch  = iRPISerial
 }
 
 
@@ -165,7 +165,7 @@ ProcessConfig = iGPS
   AppTick     = 10
   CommsTick   = 10
   
-  Port              = /dev/ttyS0
+  Port              = /dev/ttyUSB0
   BaudRate          = 9600
   PREFIX            = GPS
   
@@ -232,7 +232,7 @@ ProcessConfig = pShare
   AppTick    = 2
   CommsTick  = 2
 
-  input = route =  192.168.20.137:9301
+  input = route =  192.168.128.43:9301
 }
 
 
@@ -244,7 +244,7 @@ ProcessConfig = pHostInfo
   AppTick 	= 1
   CommsTick = 1
 
-  default_hostip_force = 192.168.20.137
+  default_hostip_force = 192.168.128.43
 }
 
 
@@ -256,7 +256,7 @@ ProcessConfig = uFldNodeBroker
   AppTick   = 1
   CommsTick = 1
 
-  try_shore_host = pshare_route=192.168.20.158:9300
+  try_shore_host = pshare_route=192.168.128.150:9300
   
   bridge  = src=MOOS_MANUAL_OVERRIDE, alias=MOOS_MANUAL_OVERRIDE
   

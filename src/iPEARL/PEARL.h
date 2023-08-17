@@ -15,7 +15,7 @@
 #include "SerialComms.h"
 
 #define MAX_THRUST    100.0
-#define MAX_RUDDER    50.0
+#define MAX_RUDDER    50.0   
 
 
 class PEARL : public AppCastingMOOSApp
